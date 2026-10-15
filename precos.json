@@ -1,0 +1,77 @@
+{
+  "atualizado": "2026-10-14",
+  "wheys": {
+    "integralmedica-100-pure": {
+      "oferta": { "valor": 118.70, "loja": "Central Suplementos", "data": "2026-10-14", "url": "https://www.centralsuplemento.com.br/suplementos/whey-protein/whey-100-pure-integral-medica-900g", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 118.70 }]
+    },
+    "max-100-whey": {
+      "oferta": { "valor": 139.00, "loja": "Hiper Pump", "data": "2026-10-14", "url": "https://www.hiperpumpsuplementos.com.br/100-whey-900g-max-titanium", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 139.00 }]
+    },
+    "growth-concentrado": {
+      "oferta": { "valor": 199.90, "loja": "Droga Raia", "data": "2026-10-14", "url": "https://www.drogaraia.com.br/whey-protein-growth-100-concentrado-chocolate-900g-1495321.html", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 199.90 }]
+    },
+    "growth-isolado": {
+      "oferta": { "valor": null, "loja": "Captain Supplements", "data": null, "url": "https://www.captainsupplements.com.br/iso-protein-90-proteina-isolada-1000g-growth-supplements", "afiliado": "" },
+      "historico": []
+    },
+    "on-gold-standard": {
+      "oferta": { "valor": 314.45, "loja": "Amazon", "data": "2026-10-14", "url": "https://www.amazon.com.br/Gold-Standard-100-Whey-Chocolate/dp/B002DYIZH6", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 314.45 }]
+    },
+    "essential-hi-whey": {
+      "oferta": { "valor": 282.15, "loja": "Amazon", "data": "2026-10-14", "url": "https://www.amazon.com.br/H-I-Whey-Protein-Essential-375G/dp/B07KX4PZ8G", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 282.15 }]
+    },
+    "black-skull-whey-zero": {
+      "oferta": { "valor": 169.90, "loja": "Loja do Suplemento", "data": "2026-10-14", "url": "https://m.lojadosuplemento.com.br/whey-zero-black-skull-5407-p6165504", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 169.90 }]
+    },
+    "probiotica-pure-whey": {
+      "oferta": { "valor": 164.26, "loja": "Nature Center", "data": "2026-10-14", "url": "https://www.naturecenter.com.br/p/100-pure-whey-900g-probiotica", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 164.26 }]
+    },
+    "dux-concentrado": {
+      "oferta": { "valor": 192.68, "loja": "Amazon", "data": "2026-10-14", "url": "https://www.amazon.com.br/Whey-Protein-Concentrado-Cookies-900g/dp/B07NGL3FDY", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 192.68 }]
+    },
+    "max-top-whey-3w": {
+      "oferta": { "valor": 265.34, "loja": "Max Titanium (oficial)", "data": "2026-10-14", "url": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 265.34 }]
+    },
+    "atlhetica-best-whey": {
+      "oferta": { "valor": 231.80, "loja": "Matéria Prima", "data": "2026-10-14", "url": "https://www.materiaprimasuplementos.com.br/13109-best-whey-atlhetica-p5710", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 231.80 }]
+    },
+    "vitafor-isofort": {
+      "oferta": { "valor": 249.99, "loja": "GSN Suplementos", "data": "2026-10-14", "url": "https://www.gsnsuplementos.com.br/produto/isofort-900g-vitafor/", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 249.99 }]
+    },
+    "darkness-dark-whey": {
+      "oferta": { "valor": 379.90, "loja": "Matéria Prima", "data": "2026-10-14", "url": "https://www.materiaprimasuplementos.com.br/13601-dark-whey-100-23kg-integralmedica-darkness-p6283", "afiliado": "" },
+      "historico": [{ "data": "2026-10-14", "valor": 379.90 }]
+    },
+    "adaptogen-tasty-iso": {
+      "oferta": { "valor": null, "loja": null, "data": null, "url": "", "afiliado": "" },
+      "historico": []
+    },
+    "new-millen-iso": {
+      "oferta": { "valor": null, "loja": null, "data": null, "url": "", "afiliado": "" },
+      "historico": []
+    },
+    "under-labz-crush": {
+      "oferta": { "valor": 169.90, "loja": "Amazon", "data": "2026-10-07", "url": "https://www.amazon.com.br/whey-protein-under-labz/s?k=whey+protein+under+labz", "afiliado": "" },
+      "historico": [{ "data": "2026-10-07", "valor": 169.90 }]
+    },
+    "under-labz-iso-hydro": {
+      "oferta": { "valor": 369.90, "loja": "Amazon", "data": "2026-10-07", "url": "https://www.amazon.com.br/whey-protein-isolado-under-labz/s?k=whey+protein+isolado+under+labz", "afiliado": "" },
+      "historico": [{ "data": "2026-10-07", "valor": 369.90 }]
+    },
+    "integralmedica-nutri-whey": {
+      "oferta": { "valor": null, "loja": "Centauro", "data": null, "url": "https://www.centauro.com.br/nutri-whey-protein-907g-m0vz7y-mktp.html", "afiliado": "" },
+      "historico": []
+    }
+  }
+}
