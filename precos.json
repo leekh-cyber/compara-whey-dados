@@ -265,16 +265,21 @@
     },
     "under-labz-iso-hydro": {
       "oferta": {
-        "valor": 369.9,
-        "loja": "Amazon",
-        "data": "2026-10-07",
-        "url": "https://www.amazon.com.br/whey-protein-isolado-under-labz/s?k=whey+protein+isolado+under+labz",
+        "valor": 265.99,
+        "loja": "Magazine Luiza",
+        "data": "2026-10-16",
+        "url": "https://m.magazineluiza.com.br/busca/whey+crush/",
         "afiliado": ""
       },
       "historico": [
         {
           "data": "2026-10-07",
           "valor": 369.9
+        },
+        {
+          "data": "2026-10-16",
+          "valor": 265.99,
+          "loja": "Magazine Luiza"
         }
       ]
     },
