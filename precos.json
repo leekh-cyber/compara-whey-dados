@@ -120,8 +120,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/proteina-integralmedica-whey-100-pure-em-po-sabor-chocolate-x-900g/p/MLB18218400",
-          "valor": 169.9,
-          "data": "2026-10-29",
+          "valor": 155.01,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -135,6 +135,10 @@
             {
               "data": "2026-10-29",
               "valor": 169.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 155.01
             }
           ]
         }
@@ -233,8 +237,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/100-whey-protein-concentrado-900g-max-titanium-sabor-chocolate/p/MLB18418075",
-          "valor": 174.0,
-          "data": "2026-10-29",
+          "valor": 157.32,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -248,6 +252,10 @@
             {
               "data": "2026-10-29",
               "valor": 174.0
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 157.32
             }
           ]
         },
@@ -400,8 +408,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-concentrado-80-whey-protein-1kg-growth-supplements-sabor-chocolate/p/MLB19049038",
-          "valor": 272.88,
-          "data": "2026-10-29",
+          "valor": 285.0,
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
@@ -415,6 +423,10 @@
             {
               "data": "2026-10-29",
               "valor": 272.88
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 285.0
             }
           ]
         }
@@ -422,10 +434,10 @@
     },
     "growth-isolado": {
       "oferta": {
-        "valor": 349.9,
-        "loja": "Mercado Livre",
+        "valor": 339.9,
+        "loja": "Growth (oficial)",
         "data": "2026-10-30",
-        "url": "https://www.mercadolivre.com.br/whey-protein-isolado-1kg-growth-supplements-chocolate/p/MLB26879184",
+        "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
         "afiliado": ""
       },
       "historico": [
@@ -441,8 +453,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 349.9,
-          "loja": "Mercado Livre"
+          "valor": 339.9,
+          "loja": "Growth (oficial)"
         }
       ],
       "lojas": [
@@ -470,13 +482,17 @@
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
-          "valor": 349.9,
-          "data": "2026-10-29",
+          "valor": 339.9,
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 349.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 339.9
             }
           ]
         }
@@ -484,10 +500,10 @@
     },
     "on-gold-standard": {
       "oferta": {
-        "valor": 379.9,
-        "loja": "Drogasil",
+        "valor": 320.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogasil.com.br/whey-gold-standard-100-vanilla-ice-cream-flavor-optimum-nutrition-907g-631420.html",
+        "url": "https://www.mercadolivre.com.br/suplemento-em-po-optimum-nutrition-proteina-gold-standard-100-whey-sabor-double-rich-chocolate-em-pote-de-907g/p/MLB6088697",
         "afiliado": ""
       },
       "historico": [
@@ -566,8 +582,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 379.9,
-          "loja": "Drogasil"
+          "valor": 320.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -669,7 +685,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/suplemento-em-po-optimum-nutrition-proteina-gold-standard-100-whey-sabor-double-rich-chocolate-em-pote-de-907g/p/MLB6088697",
           "valor": 320.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 907,
           "historico": [
             {
@@ -682,6 +698,10 @@
             },
             {
               "data": "2026-10-29",
+              "valor": 320.0
+            },
+            {
+              "data": "2026-10-30",
               "valor": 320.0
             }
           ]
@@ -929,11 +949,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/hi-whey-375g-essential-nutrition-sabor-sem-sabor/p/MLB19548978",
           "valor": 297.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 375,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 297.0
+            },
+            {
+              "data": "2026-10-30",
               "valor": 297.0
             }
           ]
@@ -958,10 +982,10 @@
     },
     "probiotica-pure-whey": {
       "oferta": {
-        "valor": 149.89,
-        "loja": "Droga Raia",
+        "valor": 141.83,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogaraia.com.br/100-pure-whey-900g-baunilha-900-g-875704.html",
+        "url": "https://www.mercadolivre.com.br/suplemento-em-po-probiotica-100-pure-whey-sabor-chocolate-pote-de-900g/p/MLB6254051",
         "afiliado": ""
       },
       "historico": [
@@ -1036,8 +1060,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 149.89,
-          "loja": "Droga Raia"
+          "valor": 141.83,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -1115,8 +1139,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/suplemento-em-po-probiotica-100-pure-whey-sabor-chocolate-pote-de-900g/p/MLB6254051",
-          "valor": 155.66,
-          "data": "2026-10-29",
+          "valor": 141.83,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -1130,6 +1154,10 @@
             {
               "data": "2026-10-29",
               "valor": 155.66
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 141.83
             }
           ]
         }
@@ -1137,10 +1165,10 @@
     },
     "dux-concentrado": {
       "oferta": {
-        "valor": 264.9,
-        "loja": "Droga Raia",
+        "valor": 191.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogaraia.com.br/whey-protein-concentrado-sabor-neutro-pote-900g-dux-1309106.html",
+        "url": "https://www.mercadolivre.com.br/dux-human-health-whey-protein-concentrado-suplemento-900g-sabor-chocolate/p/MLB23853955",
         "afiliado": ""
       },
       "historico": [
@@ -1219,16 +1247,16 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 264.9,
-          "loja": "Droga Raia"
+          "valor": 191.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/dux-human-health-whey-protein-concentrado-suplemento-900g-sabor-chocolate/p/MLB23853955",
-          "valor": 226.92,
-          "data": "2026-10-29",
+          "valor": 191.0,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -1250,6 +1278,10 @@
             {
               "data": "2026-10-29",
               "valor": 226.92
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 191.0
             }
           ]
         },
@@ -1486,13 +1518,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/top-whey-3w-mais-performance-900g-max-titanium-chocolate/up/MLBU3559164075",
-          "valor": 205.6,
-          "data": "2026-10-29",
+          "valor": 257.0,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 205.6
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 257.0
             }
           ]
         }
@@ -1500,10 +1536,10 @@
     },
     "atlhetica-best-whey": {
       "oferta": {
-        "valor": 239.9,
-        "loja": "Droga Raia",
+        "valor": 229.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogaraia.com.br/best-whey-vanilla-cream-900g.html",
+        "url": "https://www.mercadolivre.com.br/atlhetica-nutrition-best-whey-en-pote-sabor-original-900g/p/MLB15054380",
         "afiliado": ""
       },
       "historico": [
@@ -1582,8 +1618,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 239.9,
-          "loja": "Droga Raia"
+          "valor": 229.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -1640,11 +1676,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/atlhetica-nutrition-best-whey-en-pote-sabor-original-900g/p/MLB15054380",
           "valor": 229.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 229.0
+            },
+            {
+              "data": "2026-10-30",
               "valor": 229.0
             }
           ]
@@ -1863,13 +1903,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-isolado-isofort-chocolate-pote-900g-vitafor/p/MLB18625908",
-          "valor": 289.7,
-          "data": "2026-10-29",
+          "valor": 339.0,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 289.7
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 339.0
             }
           ]
         }
@@ -2077,13 +2121,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/tasty-iso-proteina-isolada-hidrolisada-adaptogen-900g-whey-sabor-doce-de-leite/p/MLB51911002",
-          "valor": 377.58,
-          "data": "2026-10-29",
+          "valor": 387.03,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 377.58
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 387.03
             }
           ]
         },
@@ -2132,7 +2180,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/iso-whey-isolado-900g-new-millen-sabor-baunilha/p/MLB19797243",
           "valor": 149.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -2146,6 +2194,10 @@
             {
               "data": "2026-10-29",
               "valor": 149.0
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 149.0
             }
           ]
         }
@@ -2153,10 +2205,10 @@
     },
     "under-labz-crush": {
       "oferta": {
-        "valor": 149.0,
-        "loja": "Drogasil",
+        "valor": 135.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogasil.com.br/100-whey-crush-concentrada-900g-cocobear-under-labz-1462363.html",
+        "url": "https://www.mercadolivre.com.br/proteina-under-labz-whey-concentrado-crush-em-po-sabor-cookies-bear-x-900g/p/MLB58803320",
         "afiliado": ""
       },
       "historico": [
@@ -2235,8 +2287,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 149.0,
-          "loja": "Drogasil"
+          "valor": 135.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -2342,11 +2394,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/proteina-under-labz-whey-concentrado-crush-em-po-sabor-cookies-bear-x-900g/p/MLB58803320",
           "valor": 135.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 135.0
+            },
+            {
+              "data": "2026-10-30",
               "valor": 135.0
             }
           ]
@@ -2355,10 +2411,10 @@
     },
     "under-labz-iso-hydro": {
       "oferta": {
-        "valor": 288.78,
-        "loja": "Drogarias Pacheco",
+        "valor": 264.99,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogariaspacheco.com.br/iso-hydro-whey-crush-907g-sabor-dulce-de-leche-175b951410j765t0/p",
+        "url": "https://www.mercadolivre.com.br/iso-hydro-whey-crush-907g-milk-cream-under-labz-sabor-creme-de-leite/p/MLB38432507",
         "afiliado": ""
       },
       "historico": [
@@ -2433,8 +2489,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 288.78,
-          "loja": "Drogarias Pacheco"
+          "valor": 264.99,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -2483,11 +2539,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/iso-hydro-whey-crush-907g-milk-cream-under-labz-sabor-creme-de-leite/p/MLB38432507",
           "valor": 264.99,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 907,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 264.99
+            },
+            {
+              "data": "2026-10-30",
               "valor": 264.99
             }
           ]
@@ -2648,13 +2708,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/nutri-whey-protein-baunilha-refil-900g-integral-medica/p/MLB18537209",
-          "valor": 129.9,
-          "data": "2026-10-29",
+          "valor": 144.9,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 129.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 144.9
             }
           ]
         }
@@ -2662,10 +2726,10 @@
     },
     "integralmedica-iso-triple-zero": {
       "oferta": {
-        "valor": 311.6,
-        "loja": "Ultrafarma",
+        "valor": 308.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.ultrafarma.com.br/iso-triple-zero-sabor-baunilha-907g",
+        "url": "https://www.mercadolivre.com.br/integralmedica-iso-triple-zero-whey-protein-isolado-sabor-baunilha-suplemento-alimentar-proteico-pote-900g/p/MLB13088510",
         "afiliado": ""
       },
       "historico": [
@@ -2721,8 +2785,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 311.6,
-          "loja": "Ultrafarma"
+          "valor": 308.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -2774,8 +2838,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/integralmedica-iso-triple-zero-whey-protein-isolado-sabor-baunilha-suplemento-alimentar-proteico-pote-900g/p/MLB13088510",
-          "valor": 311.28,
-          "data": "2026-10-29",
+          "valor": 308.0,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -2785,6 +2849,10 @@
             {
               "data": "2026-10-29",
               "valor": 311.28
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 308.0
             }
           ]
         },
@@ -2915,11 +2983,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-900g-iso-whey-max-titanium-baunilha-proteina-isolada/p/MLB20609445",
           "valor": 299.0,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 299.0
+            },
+            {
+              "data": "2026-10-30",
               "valor": 299.0
             }
           ]
@@ -2928,10 +3000,10 @@
     },
     "black-skull-whey-hd": {
       "oferta": {
-        "valor": 159.59,
-        "loja": "Preço Popular",
+        "valor": 113.9,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.precopopular.com.br/black-skull-whey-100--hd-900gr-chocolate/p",
+        "url": "https://www.mercadolivre.com.br/proteina-black-skull-whey-100-hd-em-po-sabor-cookies-and-cream-x-900g/p/MLB18995414",
         "afiliado": ""
       },
       "historico": [
@@ -2982,8 +3054,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 159.59,
-          "loja": "Preço Popular"
+          "valor": 113.9,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -3114,7 +3186,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/proteina-black-skull-whey-100-hd-em-po-sabor-cookies-and-cream-x-900g/p/MLB18995414",
           "valor": 113.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
@@ -3128,6 +3200,10 @@
             {
               "data": "2026-10-29",
               "valor": 113.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 113.9
             }
           ]
         }
@@ -3135,10 +3211,10 @@
     },
     "dux-isolado": {
       "oferta": {
-        "valor": 550.9,
-        "loja": "Drogasil",
+        "valor": 339.0,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogasil.com.br/whey-protein-isolado-pote-900g-dux-nutrition-chocolate-1056666.html",
+        "url": "https://www.mercadolivre.com.br/proteina-dux-nutrition-whey-protein-isolado-em-po-sabor-baunilha-x-900g/p/MLB18512109",
         "afiliado": ""
       },
       "historico": [
@@ -3189,8 +3265,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 550.9,
-          "loja": "Drogasil"
+          "valor": 339.0,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -3242,13 +3318,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/proteina-dux-nutrition-whey-protein-isolado-em-po-sabor-baunilha-x-900g/p/MLB18512109",
-          "valor": 353.58,
-          "data": "2026-10-29",
+          "valor": 339.0,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 353.58
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 339.0
             }
           ]
         }
@@ -3256,10 +3336,10 @@
     },
     "dux-hidrolisado": {
       "oferta": {
-        "valor": 406.15,
-        "loja": "Ultrafarma",
+        "valor": 342.92,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.ultrafarma.com.br/whey-protein-hydro-sabor-baunilha-900g",
+        "url": "https://www.mercadolivre.com.br/whey-protein-hydro-900g-dux-nutrition-sabor-baunilha/p/MLB79445822",
         "afiliado": ""
       },
       "historico": [
@@ -3315,8 +3395,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 406.15,
-          "loja": "Ultrafarma"
+          "valor": 342.92,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -3417,13 +3497,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-hydro-900g-dux-nutrition-sabor-baunilha/p/MLB79445822",
-          "valor": 585.0,
-          "data": "2026-10-29",
+          "valor": 342.92,
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 585.0
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 342.92
             }
           ]
         },
@@ -3610,11 +3694,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-3w-concentrada-isolada-hidrolisada-900g-probiotica-sabor-chocolate/p/MLB58829714",
           "valor": 324.86,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 324.86
+            },
+            {
+              "data": "2026-10-30",
               "valor": 324.86
             }
           ]
@@ -3785,11 +3873,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-isolado-probiotica-iso-pro-whey-900g-sabor-baunilha-whey-protein/p/MLB30948212",
           "valor": 369.8,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 369.8
+            },
+            {
+              "data": "2026-10-30",
               "valor": 369.8
             }
           ]
@@ -3973,11 +4065,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/best-whey-iso-atlhetica-nutrition-900g-brigadeiro/up/MLBU4174644416",
           "valor": 342.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 342.9
+            },
+            {
+              "data": "2026-10-30",
               "valor": 342.9
             }
           ]
@@ -4124,11 +4220,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622",
           "valor": 208.22,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 208.22
+            },
+            {
+              "data": "2026-10-30",
               "valor": 208.22
             }
           ]
@@ -4299,11 +4399,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-100-900g-concentrado-new-millen-sabor-doce-de-leite/p/MLB37037483",
           "valor": 189.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 189.9
+            },
+            {
+              "data": "2026-10-30",
               "valor": 189.9
             }
           ]
@@ -4312,10 +4416,10 @@
     },
     "adaptogen-tasty-whey-3w": {
       "oferta": {
-        "valor": 313.9,
-        "loja": "Drogasil",
+        "valor": 216.5,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogasil.com.br/tasty-whey-3w-adaptogen-900g-brigadeiro-1482355.html",
+        "url": "https://www.mercadolivre.com.br/whey-protein-adaptogen-science-tasty-gourmet-3w-em-po-sem-sabor-x-900g/p/MLB61630221",
         "afiliado": ""
       },
       "historico": [
@@ -4371,8 +4475,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 313.9,
-          "loja": "Drogasil"
+          "valor": 216.5,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -4474,11 +4578,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-adaptogen-science-tasty-gourmet-3w-em-po-sem-sabor-x-900g/p/MLB61630221",
           "valor": 216.5,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 216.5
+            },
+            {
+              "data": "2026-10-30",
               "valor": 216.5
             }
           ]
@@ -4487,10 +4595,10 @@
     },
     "essential-cacao-whey": {
       "oferta": {
-        "valor": 297.0,
-        "loja": "Droga Raia",
+        "valor": 269.77,
+        "loja": "Mercado Livre",
         "data": "2026-10-30",
-        "url": "https://www.drogaraia.com.br/cacao-whey-420g-essential-nutrition-922031.html",
+        "url": "https://www.mercadolivre.com.br/cacao-whey-protein-isolado-e-hidrolisado-420g-essential-nutrition/p/MLB29712868",
         "afiliado": ""
       },
       "historico": [
@@ -4546,8 +4654,8 @@
         },
         {
           "data": "2026-10-30",
-          "valor": 297.0,
-          "loja": "Droga Raia"
+          "valor": 269.77,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -4648,13 +4756,17 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/cacao-whey-protein-isolado-e-hidrolisado-420g-essential-nutrition/p/MLB29712868",
-          "valor": 229.3,
-          "data": "2026-10-29",
+          "valor": 269.77,
+          "data": "2026-10-30",
           "embalagem": 420,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 229.3
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 269.77
             }
           ]
         },
@@ -4692,13 +4804,17 @@
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
-          "valor": 236.9,
-          "data": "2026-10-29",
+          "valor": 244.9,
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 236.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 244.9
             }
           ]
         }
@@ -4706,9 +4822,9 @@
     },
     "growth-hidrolisado": {
       "oferta": {
-        "valor": 449.9,
+        "valor": 429.9,
         "loja": "Growth (oficial)",
-        "data": "2026-10-29",
+        "data": "2026-10-30",
         "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
         "afiliado": ""
       },
@@ -4717,19 +4833,28 @@
           "data": "2026-10-29",
           "valor": 449.9,
           "loja": "Growth (oficial)"
+        },
+        {
+          "data": "2026-10-30",
+          "valor": 429.9,
+          "loja": "Growth (oficial)"
         }
       ],
       "lojas": [
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
-          "valor": 449.9,
-          "data": "2026-10-29",
+          "valor": 429.9,
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
               "valor": 449.9
+            },
+            {
+              "data": "2026-10-30",
+              "valor": 429.9
             }
           ]
         }
@@ -4755,11 +4880,15 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
           "valor": 259.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 259.9
+            },
+            {
+              "data": "2026-10-30",
               "valor": 259.9
             }
           ]
@@ -4768,11 +4897,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-concentrado-zero-lactose-1kg-growth-supplements-morango/p/MLB74916619",
           "valor": 275.4,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 275.4
+            },
+            {
+              "data": "2026-10-30",
               "valor": 275.4
             }
           ]
@@ -4799,11 +4932,15 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
           "valor": 99.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 99.9
+            },
+            {
+              "data": "2026-10-30",
               "valor": 99.9
             }
           ]
@@ -4812,11 +4949,15 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-medium-1kg-growth-supplementos-chocolate/p/MLB23982703",
           "valor": 139.9,
-          "data": "2026-10-29",
+          "data": "2026-10-30",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-10-29",
+              "valor": 139.9
+            },
+            {
+              "data": "2026-10-30",
               "valor": 139.9
             }
           ]
