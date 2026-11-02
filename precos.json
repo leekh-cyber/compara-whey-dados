@@ -1,11 +1,11 @@
 {
-  "atualizado": "2026-11-01",
+  "atualizado": "2026-11-02",
   "wheys": {
     "integralmedica-100-pure": {
       "oferta": {
         "valor": 142.49,
         "loja": "Centauro",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.centauro.com.br/nav/produto/wheyprotein/marca/integralmedica/preco/r100r200",
         "afiliado": ""
       },
@@ -83,6 +83,11 @@
           "data": "2026-11-01",
           "valor": 142.49,
           "loja": "Centauro"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 142.49,
+          "loja": "Centauro"
         }
       ],
       "lojas": [
@@ -90,7 +95,7 @@
           "loja": "Centauro",
           "url": "https://www.centauro.com.br/nav/produto/wheyprotein/marca/integralmedica/preco/r100r200",
           "valor": 142.49,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -132,6 +137,10 @@
             {
               "data": "2026-11-01",
               "valor": 142.49
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 142.49
             }
           ]
         },
@@ -170,7 +179,7 @@
       "oferta": {
         "valor": 124.9,
         "loja": "Farmácia Indiana",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/100-whey-sabor-baunilha-900g-max-titanium",
         "afiliado": ""
       },
@@ -238,6 +247,11 @@
           "data": "2026-11-01",
           "valor": 124.9,
           "loja": "Farmácia Indiana"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 124.9,
+          "loja": "Farmácia Indiana"
         }
       ],
       "lojas": [
@@ -245,7 +259,7 @@
           "loja": "Farmácia Indiana",
           "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/100-whey-sabor-baunilha-900g-max-titanium",
           "valor": 124.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -270,6 +284,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 124.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 124.9
             }
           ]
@@ -320,10 +338,10 @@
     },
     "growth-concentrado": {
       "oferta": {
-        "valor": 199.72,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/whey-concentrado-80-whey-protein-1kg-growth-supplements-sabor-chocolate/p/MLB19049038",
+        "valor": 208.91,
+        "loja": "Magazine Luiza",
+        "data": "2026-11-02",
+        "url": "https://m.magazineluiza.com.br/busca/growth+suplementos",
         "afiliado": ""
       },
       "historico": [
@@ -389,6 +407,11 @@
           "data": "2026-11-01",
           "valor": 199.72,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 208.91,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
@@ -396,7 +419,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/whey-protein-concentrado-80-growth-supplements-1kg-baunilha-1040331.html",
           "valor": 227.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -425,6 +448,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 227.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 227.9
             }
           ]
@@ -491,11 +518,15 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/growth+suplementos",
           "valor": 208.91,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 1000,
           "historico": [
             {
               "data": "2026-11-01",
+              "valor": 208.91
+            },
+            {
+              "data": "2026-11-02",
               "valor": 208.91
             }
           ]
@@ -592,10 +623,10 @@
     },
     "on-gold-standard": {
       "oferta": {
-        "valor": 320.0,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/suplemento-em-po-optimum-nutrition-proteina-gold-standard-100-whey-sabor-double-rich-chocolate-em-pote-de-907g/p/MLB6088697",
+        "valor": 379.9,
+        "loja": "Drogasil",
+        "data": "2026-11-02",
+        "url": "https://www.drogasil.com.br/whey-gold-standard-100-vanilla-ice-cream-flavor-optimum-nutrition-907g-631420.html",
         "afiliado": ""
       },
       "historico": [
@@ -686,6 +717,11 @@
           "data": "2026-11-01",
           "valor": 320.0,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 379.9,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -693,7 +729,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-gold-standard-100-vanilla-ice-cream-flavor-optimum-nutrition-907g-631420.html",
           "valor": 379.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 907,
           "historico": [
             {
@@ -742,6 +778,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 379.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 379.9
             }
           ]
@@ -843,7 +883,7 @@
       "oferta": {
         "valor": 236.9,
         "loja": "Droga Raia",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogaraia.com.br/whey-protein-h-i-natural-375g-essential-nutrition-1429499.html",
         "afiliado": ""
       },
@@ -935,6 +975,11 @@
           "data": "2026-11-01",
           "valor": 236.9,
           "loja": "Droga Raia"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 236.9,
+          "loja": "Droga Raia"
         }
       ],
       "lojas": [
@@ -979,7 +1024,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/hi-whey-essential-nutrition-sem-sabor-375g-948520.html",
           "valor": 297.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 375,
           "historico": [
             {
@@ -1029,6 +1074,10 @@
             {
               "data": "2026-11-01",
               "valor": 297.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 297.0
             }
           ]
         },
@@ -1036,7 +1085,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/whey-protein-h-i-natural-375g-essential-nutrition-1429499.html",
           "valor": 236.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 375,
           "historico": [
             {
@@ -1086,6 +1135,10 @@
             {
               "data": "2026-11-01",
               "valor": 236.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 236.9
             }
           ]
         },
@@ -1132,7 +1185,7 @@
       "oferta": {
         "valor": 121.6,
         "loja": "Magazine Luiza",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://m.magazineluiza.com.br/busca/probio+probiotico/",
         "afiliado": ""
       },
@@ -1220,6 +1273,11 @@
           "data": "2026-11-01",
           "valor": 121.6,
           "loja": "Magazine Luiza"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 121.6,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
@@ -1264,7 +1322,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/100-pure-whey-900g-baunilha-900-g-875704.html",
           "valor": 149.89,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1277,6 +1335,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 149.89
+            },
+            {
+              "data": "2026-11-02",
               "valor": 149.89
             }
           ]
@@ -1318,7 +1380,7 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/probio+probiotico/",
           "valor": 121.6,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1328,6 +1390,10 @@
             {
               "data": "2026-11-01",
               "valor": 121.6
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 121.6
             }
           ]
         }
@@ -1335,10 +1401,10 @@
     },
     "dux-concentrado": {
       "oferta": {
-        "valor": 244.9,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/dux-human-health-whey-protein-concentrado-suplemento-900g-sabor-chocolate/p/MLB23853955",
+        "valor": 245.9,
+        "loja": "Drogasil",
+        "data": "2026-11-02",
+        "url": "https://www.drogasil.com.br/whey-protein-concentrado-900g-sabor-chocolate-dux-1474978.html",
         "afiliado": ""
       },
       "historico": [
@@ -1429,6 +1495,11 @@
           "data": "2026-11-01",
           "valor": 244.9,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 245.9,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -1477,7 +1548,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/whey-protein-concentrado-sabor-neutro-pote-900g-dux-1309106.html",
           "valor": 264.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1527,6 +1598,10 @@
             {
               "data": "2026-11-01",
               "valor": 264.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 264.9
             }
           ]
         },
@@ -1547,11 +1622,15 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-protein-concentrado-900g-sabor-chocolate-dux-1474978.html",
           "valor": 245.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-11-01",
+              "valor": 245.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 245.9
             }
           ]
@@ -1562,7 +1641,7 @@
       "oferta": {
         "valor": 199.99,
         "loja": "Drogasil",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogasil.com.br/top-whey-3w-mais-performance-900g-max-titanium-900-g-chocolate-878395.html",
         "afiliado": ""
       },
@@ -1654,6 +1733,11 @@
           "data": "2026-11-01",
           "valor": 199.99,
           "loja": "Drogasil"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 199.99,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -1661,7 +1745,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/top-whey-3w-mais-performance-900g-max-titanium-900-g-chocolate-878395.html",
           "valor": 199.99,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1711,6 +1795,10 @@
             {
               "data": "2026-11-01",
               "valor": 199.99
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 199.99
             }
           ]
         },
@@ -1718,7 +1806,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/top-whey-3w-mais-performance-900g-max-titanium-900-g-baunilha-878394.html",
           "valor": 257.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1760,6 +1848,10 @@
             {
               "data": "2026-11-01",
               "valor": 257.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 257.0
             }
           ]
         },
@@ -1788,10 +1880,10 @@
     },
     "atlhetica-best-whey": {
       "oferta": {
-        "valor": 229.0,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/atlhetica-nutrition-best-whey-en-pote-sabor-original-900g/p/MLB15054380",
+        "valor": 239.9,
+        "loja": "Droga Raia",
+        "data": "2026-11-02",
+        "url": "https://www.drogaraia.com.br/best-whey-vanilla-cream-900g.html",
         "afiliado": ""
       },
       "historico": [
@@ -1882,6 +1974,11 @@
           "data": "2026-11-01",
           "valor": 229.0,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 239.9,
+          "loja": "Droga Raia"
         }
       ],
       "lojas": [
@@ -1889,7 +1986,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/best-whey-900g-brigadeiro-gourmet-atlhetica-nutrition-744591.html",
           "valor": 292.33,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1939,6 +2036,10 @@
             {
               "data": "2026-11-01",
               "valor": 292.33
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 292.33
             }
           ]
         },
@@ -1967,7 +2068,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/best-whey-vanilla-cream-900g.html",
           "valor": 239.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -1981,6 +2082,10 @@
             {
               "data": "2026-11-01",
               "valor": 239.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 239.9
             }
           ]
         }
@@ -1990,7 +2095,7 @@
       "oferta": {
         "valor": 289.99,
         "loja": "Drogasil",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogasil.com.br/whey-isolado-isofort-900g-vitafor-suplemento-alimentar-1123196.html",
         "afiliado": ""
       },
@@ -2082,6 +2187,11 @@
           "data": "2026-11-01",
           "valor": 289.99,
           "loja": "Drogasil"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 289.99,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -2102,7 +2212,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-isolado-isofort-900g-vitafor-suplemento-alimentar-1123196.html",
           "valor": 289.99,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2152,14 +2262,18 @@
             {
               "data": "2026-11-01",
               "valor": 289.99
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 289.99
             }
           ]
         },
         {
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/isofort-baunilha-vitafor-900g-1264915.html",
-          "valor": 338.56,
-          "data": "2026-11-01",
+          "valor": 454.0,
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2205,6 +2319,10 @@
             {
               "data": "2026-11-01",
               "valor": 338.56
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 454.0
             }
           ]
         },
@@ -2251,7 +2369,7 @@
       "oferta": {
         "valor": 329.9,
         "loja": "Casas Bahia",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.casasbahia.com.br/tasty-iso-whey-900g-doce-de-leite/p/1571127833",
         "afiliado": ""
       },
@@ -2339,6 +2457,11 @@
           "data": "2026-11-01",
           "valor": 329.9,
           "loja": "Casas Bahia"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 329.9,
+          "loja": "Casas Bahia"
         }
       ],
       "lojas": [
@@ -2346,7 +2469,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/tasty-iso-whey-isolado-pote-900g-sabor-trufa-de-chocolate-864108.html",
           "valor": 373.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2396,6 +2519,10 @@
             {
               "data": "2026-11-01",
               "valor": 373.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 373.9
             }
           ]
         },
@@ -2403,7 +2530,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/tasty-iso-whey-isolado-pote-900g-sabor-doce-de-leite-864132.html",
           "valor": 416.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2448,6 +2575,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 416.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 416.9
             }
           ]
@@ -2477,7 +2608,7 @@
           "loja": "Casas Bahia",
           "url": "https://www.casasbahia.com.br/tasty-iso-whey-900g-doce-de-leite/p/1571127833",
           "valor": 329.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2490,6 +2621,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 329.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 329.9
             }
           ]
@@ -2555,10 +2690,10 @@
     },
     "under-labz-crush": {
       "oferta": {
-        "valor": 115.0,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/proteina-under-labz-whey-concentrado-crush-em-po-sabor-cookies-bear-x-900g/p/MLB58803320",
+        "valor": 149.0,
+        "loja": "Drogasil",
+        "data": "2026-11-02",
+        "url": "https://www.drogasil.com.br/100-whey-crush-concentrada-900g-cocobear-under-labz-1462363.html",
         "afiliado": ""
       },
       "historico": [
@@ -2649,6 +2784,11 @@
           "data": "2026-11-01",
           "valor": 115.0,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 149.0,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -2656,7 +2796,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/100-whey-crush-concentrada-900g-cocobear-under-labz-1462363.html",
           "valor": 149.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2705,6 +2845,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 149.0
+            },
+            {
+              "data": "2026-11-02",
               "valor": 149.0
             }
           ]
@@ -2713,7 +2857,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/100-whey-crush-concentrada-900g-cocobear-under-labz-1462363.html",
           "valor": 149.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -2762,6 +2906,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 149.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 149.9
             }
           ]
@@ -2791,10 +2939,10 @@
     },
     "under-labz-iso-hydro": {
       "oferta": {
-        "valor": 264.99,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/iso-hydro-whey-crush-907g-milk-cream-under-labz-sabor-creme-de-leite/p/MLB38432507",
+        "valor": 249.99,
+        "loja": "Magazine Luiza",
+        "data": "2026-11-02",
+        "url": "https://m.magazineluiza.com.br/busca/whey+crush/",
         "afiliado": ""
       },
       "historico": [
@@ -2881,14 +3029,19 @@
           "data": "2026-11-01",
           "valor": 264.99,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 249.99,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
         {
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/whey+crush/",
-          "valor": 265.99,
-          "data": "2026-11-01",
+          "valor": 249.99,
+          "data": "2026-11-02",
           "embalagem": 907,
           "historico": [
             {
@@ -2930,6 +3083,10 @@
             {
               "data": "2026-11-01",
               "valor": 265.99
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 249.99
             }
           ]
         },
@@ -2958,7 +3115,7 @@
           "loja": "Drogarias Pacheco",
           "url": "https://www.drogariaspacheco.com.br/iso-hydro-whey-crush-907g-sabor-dulce-de-leche-175b951410j765t0/p",
           "valor": 288.78,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 907,
           "historico": [
             {
@@ -2972,6 +3129,10 @@
             {
               "data": "2026-11-01",
               "valor": 288.78
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 288.78
             }
           ]
         }
@@ -2979,9 +3140,9 @@
     },
     "integralmedica-nutri-whey": {
       "oferta": {
-        "valor": 93.99,
-        "loja": "Droga Freitas",
-        "data": "2026-11-01",
+        "valor": 72.74,
+        "loja": "Promofarma",
+        "data": "2026-11-02",
         "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/integralmedica-nutri-whey-protein-chocolate-907g-integralmedica",
         "afiliado": ""
       },
@@ -3055,6 +3216,11 @@
           "data": "2026-11-01",
           "valor": 93.99,
           "loja": "Droga Freitas"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 72.74,
+          "loja": "Promofarma"
         }
       ],
       "lojas": [
@@ -3083,11 +3249,15 @@
           "loja": "Promofarma",
           "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/integralmedica-nutri-whey-protein-chocolate-907g-integralmedica",
           "valor": 72.74,
-          "data": "2026-10-31",
+          "data": "2026-11-02",
           "embalagem": 907,
           "historico": [
             {
               "data": "2026-10-31",
+              "valor": 72.74
+            },
+            {
+              "data": "2026-11-02",
               "valor": 72.74
             }
           ]
@@ -3109,11 +3279,15 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/im+907g/",
           "valor": 103.55,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-11-01",
+              "valor": 103.55
+            },
+            {
+              "data": "2026-11-02",
               "valor": 103.55
             }
           ]
@@ -3122,10 +3296,10 @@
     },
     "integralmedica-iso-triple-zero": {
       "oferta": {
-        "valor": 311.28,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/integralmedica-iso-triple-zero-whey-protein-isolado-sabor-baunilha-suplemento-alimentar-proteico-pote-900g/p/MLB13088510",
+        "valor": 311.6,
+        "loja": "Ultrafarma",
+        "data": "2026-11-02",
+        "url": "https://www.ultrafarma.com.br/iso-triple-zero-sabor-baunilha-907g",
         "afiliado": ""
       },
       "historico": [
@@ -3193,6 +3367,11 @@
           "data": "2026-11-01",
           "valor": 311.28,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 311.6,
+          "loja": "Ultrafarma"
         }
       ],
       "lojas": [
@@ -3200,7 +3379,7 @@
           "loja": "Ultrafarma",
           "url": "https://www.ultrafarma.com.br/iso-triple-zero-sabor-baunilha-907g",
           "valor": 311.6,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3246,6 +3425,10 @@
             {
               "data": "2026-11-01",
               "valor": 311.6
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 311.6
             }
           ]
         },
@@ -3278,7 +3461,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/iso-triple-zero-907g-sabor-baunilha-900g-1010068.html",
           "valor": 351.47,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3308,6 +3491,10 @@
             {
               "data": "2026-11-01",
               "valor": 351.47
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 351.47
             }
           ]
         },
@@ -3315,7 +3502,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/iso-triple-zero-907g-sabor-baunilha-900g-1010068.html",
           "valor": 392.02,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3329,6 +3516,10 @@
             {
               "data": "2026-11-01",
               "valor": 392.02
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 392.02
             }
           ]
         }
@@ -3338,7 +3529,7 @@
       "oferta": {
         "valor": 211.0,
         "loja": "Oncolog Medicamentos Especiais",
-        "data": "2026-10-29",
+        "data": "2026-11-02",
         "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/iso-whey-chocolate-900g",
         "afiliado": ""
       },
@@ -3377,6 +3568,11 @@
           "data": "2026-10-29",
           "valor": 211.0,
           "loja": "Oncolog Medicamentos Especiais"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 211.0,
+          "loja": "Oncolog Medicamentos Especiais"
         }
       ],
       "lojas": [
@@ -3384,7 +3580,7 @@
           "loja": "Oncolog Medicamentos Especiais",
           "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/iso-whey-chocolate-900g",
           "valor": 211.0,
-          "data": "2026-10-29",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3409,6 +3605,10 @@
             },
             {
               "data": "2026-10-29",
+              "valor": 211.0
+            },
+            {
+              "data": "2026-11-02",
               "valor": 211.0
             }
           ]
@@ -3438,10 +3638,10 @@
     },
     "black-skull-whey-hd": {
       "oferta": {
-        "valor": 109.0,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/proteina-black-skull-whey-100-hd-em-po-sabor-cookies-and-cream-x-900g/p/MLB18995414",
+        "valor": 113.99,
+        "loja": "Droga Freitas",
+        "data": "2026-11-02",
+        "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/whey-100-hd-morango-900g-blackskull",
         "afiliado": ""
       },
       "historico": [
@@ -3504,6 +3704,11 @@
           "data": "2026-11-01",
           "valor": 109.0,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 113.99,
+          "loja": "Droga Freitas"
         }
       ],
       "lojas": [
@@ -3511,7 +3716,7 @@
           "loja": "Droga Freitas",
           "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/whey-100-hd-morango-900g-blackskull",
           "valor": 113.99,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3552,6 +3757,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 113.99
+            },
+            {
+              "data": "2026-11-02",
               "valor": 113.99
             }
           ]
@@ -3597,7 +3806,7 @@
           "loja": "Preço Popular",
           "url": "https://www.precopopular.com.br/black-skull-whey-100--hd-900gr-chocolate/p",
           "valor": 159.59,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3643,6 +3852,10 @@
             {
               "data": "2026-11-01",
               "valor": 159.59
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 159.59
             }
           ]
         },
@@ -3679,10 +3892,10 @@
     },
     "dux-isolado": {
       "oferta": {
-        "valor": 379.9,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/proteina-dux-nutrition-whey-protein-isolado-em-po-sabor-baunilha-x-900g/p/MLB18512109",
+        "valor": 419.9,
+        "loja": "Farmácia Indiana",
+        "data": "2026-11-02",
+        "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/whey-protein-isolado-chocolate-dux-nutrition-900g",
         "afiliado": ""
       },
       "historico": [
@@ -3745,6 +3958,11 @@
           "data": "2026-11-01",
           "valor": 379.9,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 419.9,
+          "loja": "Farmácia Indiana"
         }
       ],
       "lojas": [
@@ -3752,7 +3970,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-protein-isolado-pote-900g-dux-nutrition-chocolate-1056666.html",
           "valor": 550.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3798,6 +4016,10 @@
             {
               "data": "2026-11-01",
               "valor": 550.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 550.9
             }
           ]
         },
@@ -3826,11 +4048,15 @@
           "loja": "Farmácia Indiana",
           "url": "https://www.cliquefarma.com.br/vitaminas-e-suplementos/suplementos-funcionais/proteinas/whey-protein-isolado-chocolate-dux-nutrition-900g",
           "valor": 419.9,
-          "data": "2026-10-31",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
               "data": "2026-10-31",
+              "valor": 419.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 419.9
             }
           ]
@@ -3841,7 +4067,7 @@
       "oferta": {
         "valor": 406.15,
         "loja": "Ultrafarma",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.ultrafarma.com.br/whey-protein-hydro-sabor-baunilha-900g",
         "afiliado": ""
       },
@@ -3910,6 +4136,11 @@
           "data": "2026-11-01",
           "valor": 406.15,
           "loja": "Ultrafarma"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 406.15,
+          "loja": "Ultrafarma"
         }
       ],
       "lojas": [
@@ -3917,7 +4148,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-protein-hydrolisado-dux-baunilha-900g-985691.html",
           "valor": 419.92,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -3967,6 +4198,10 @@
             {
               "data": "2026-11-01",
               "valor": 419.92
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 419.92
             }
           ]
         },
@@ -3974,7 +4209,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/whey-protein-hydro-900g-baunilha-dux-nutrition-727549.html",
           "valor": 672.75,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4020,6 +4255,10 @@
             {
               "data": "2026-11-01",
               "valor": 672.75
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 672.75
             }
           ]
         },
@@ -4048,7 +4287,7 @@
           "loja": "Ultrafarma",
           "url": "https://www.ultrafarma.com.br/whey-protein-hydro-sabor-baunilha-900g",
           "valor": 406.15,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4062,6 +4301,10 @@
             {
               "data": "2026-11-01",
               "valor": 406.15
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 406.15
             }
           ]
         }
@@ -4071,7 +4314,7 @@
       "oferta": {
         "valor": 241.88,
         "loja": "Drogasil",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogasil.com.br/3-whey-protein-900g-sabor-chocolate-882513.html",
         "afiliado": ""
       },
@@ -4140,6 +4383,11 @@
           "data": "2026-11-01",
           "valor": 241.88,
           "loja": "Drogasil"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 241.88,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -4147,7 +4395,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/3-whey-protein-900g-sabor-chocolate-882513.html",
           "valor": 241.88,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4196,6 +4444,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 241.88
+            },
+            {
+              "data": "2026-11-02",
               "valor": 241.88
             }
           ]
@@ -4204,7 +4456,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/3-whey-protein-900g-sabor-baunilha-923451.html",
           "valor": 246.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4253,6 +4505,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 246.9
+            },
+            {
+              "data": "2026-11-02",
               "valor": 246.9
             }
           ]
@@ -4284,7 +4540,7 @@
       "oferta": {
         "valor": 294.4,
         "loja": "Magazine Luiza",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://m.magazineluiza.com.br/busca/probio+probiotico/",
         "afiliado": ""
       },
@@ -4353,6 +4609,11 @@
           "data": "2026-11-01",
           "valor": 294.4,
           "loja": "Magazine Luiza"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 294.4,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
@@ -4360,7 +4621,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/iso-pro-whey-900g-sabor-baunilha-883647.html",
           "valor": 456.98,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4410,6 +4671,10 @@
             {
               "data": "2026-11-01",
               "valor": 456.98
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 456.98
             }
           ]
         },
@@ -4438,7 +4703,7 @@
           "loja": "Drogarias Pacheco",
           "url": "https://www.drogariaspacheco.com.br/iso-pro-whey-900g-sabor-baunilha-175951r41378j6j7/p",
           "valor": 345.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4452,6 +4717,10 @@
             {
               "data": "2026-11-01",
               "valor": 345.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 345.0
             }
           ]
         },
@@ -4459,7 +4728,7 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/probio+probiotico/",
           "valor": 294.4,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4468,6 +4737,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 294.4
+            },
+            {
+              "data": "2026-11-02",
               "valor": 294.4
             }
           ]
@@ -4478,7 +4751,7 @@
       "oferta": {
         "valor": 340.73,
         "loja": "Drogasil",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogasil.com.br/best-whey-iso-900g-baunilha-atlhetica-nutrition-744643.html",
         "afiliado": ""
       },
@@ -4547,6 +4820,11 @@
           "data": "2026-11-01",
           "valor": 340.73,
           "loja": "Drogasil"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 340.73,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -4554,7 +4832,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/best-whey-iso-900g-baunilha-atlhetica-nutrition-744643.html",
           "valor": 340.73,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4604,6 +4882,10 @@
             {
               "data": "2026-11-01",
               "valor": 340.73
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 340.73
             }
           ]
         },
@@ -4611,7 +4893,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/best-whey-iso-900g-baunilha-atlhetica-nutrition-744643.html",
           "valor": 340.73,
-          "data": "2026-10-30",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4649,6 +4931,10 @@
             {
               "data": "2026-10-30",
               "valor": 340.73
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 340.73
             }
           ]
         },
@@ -4679,7 +4965,7 @@
       "oferta": {
         "valor": 199.0,
         "loja": "Drogasil",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://www.drogasil.com.br/whey-fort-3w-vitafor-900-g-mochaccino-1472068.html",
         "afiliado": ""
       },
@@ -4748,6 +5034,11 @@
           "data": "2026-11-01",
           "valor": 199.0,
           "loja": "Drogasil"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 199.0,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -4755,7 +5046,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-fort-3w-vitafor-900-g-mochaccino-1472068.html",
           "valor": 199.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4805,6 +5096,10 @@
             {
               "data": "2026-11-01",
               "valor": 199.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 199.0
             }
           ]
         },
@@ -4812,7 +5107,7 @@
           "loja": "Extrafarma",
           "url": "https://www.extrafarma.com.br/whey-fort-vitafor-3w-chocolate-900g/p",
           "valor": 237.99,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4833,6 +5128,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 237.99
+            },
+            {
+              "data": "2026-11-02",
               "valor": 237.99
             }
           ]
@@ -4864,7 +5163,7 @@
       "oferta": {
         "valor": 123.41,
         "loja": "Magazine Luiza",
-        "data": "2026-11-01",
+        "data": "2026-11-02",
         "url": "https://m.magazineluiza.com.br/busca/whey+millen/",
         "afiliado": ""
       },
@@ -4933,6 +5232,11 @@
           "data": "2026-11-01",
           "valor": 123.41,
           "loja": "Magazine Luiza"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 123.41,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
@@ -4940,7 +5244,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/whey-100-refil-new-millen-900g-sabor-doce-de-leite-1324490.html",
           "valor": 138.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -4990,6 +5294,10 @@
             {
               "data": "2026-11-01",
               "valor": 138.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 138.0
             }
           ]
         },
@@ -4997,7 +5305,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/whey-100-refil-900g-sabor-morango-941429.html",
           "valor": 183.12,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -5043,6 +5351,10 @@
             {
               "data": "2026-11-01",
               "valor": 183.12
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 183.12
             }
           ]
         },
@@ -5071,7 +5383,7 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/whey+millen/",
           "valor": 123.41,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -5081,6 +5393,10 @@
             {
               "data": "2026-11-01",
               "valor": 123.41
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 123.41
             }
           ]
         }
@@ -5088,10 +5404,10 @@
     },
     "adaptogen-tasty-whey-3w": {
       "oferta": {
-        "valor": 208.05,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/whey-protein-adaptogen-science-tasty-gourmet-3w-em-po-sem-sabor-x-900g/p/MLB61630221",
+        "valor": 313.9,
+        "loja": "Drogasil",
+        "data": "2026-11-02",
+        "url": "https://www.drogasil.com.br/tasty-whey-3w-adaptogen-900g-baunilha-1482360.html",
         "afiliado": ""
       },
       "historico": [
@@ -5159,6 +5475,11 @@
           "data": "2026-11-01",
           "valor": 208.05,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 313.9,
+          "loja": "Drogasil"
         }
       ],
       "lojas": [
@@ -5166,7 +5487,7 @@
           "loja": "Drogasil",
           "url": "https://www.drogasil.com.br/tasty-whey-3w-adaptogen-900g-baunilha-1482360.html",
           "valor": 313.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -5216,6 +5537,10 @@
             {
               "data": "2026-11-01",
               "valor": 313.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 313.9
             }
           ]
         },
@@ -5223,7 +5548,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/tasty-whey-3w-adaptogen-900g-baunilha-1482360.html",
           "valor": 313.9,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 900,
           "historico": [
             {
@@ -5269,6 +5594,10 @@
             {
               "data": "2026-11-01",
               "valor": 313.9
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 313.9
             }
           ]
         },
@@ -5297,10 +5626,10 @@
     },
     "essential-cacao-whey": {
       "oferta": {
-        "valor": 218.0,
-        "loja": "Mercado Livre",
-        "data": "2026-11-01",
-        "url": "https://www.mercadolivre.com.br/cacao-whey-protein-isolado-e-hidrolisado-420g-essential-nutrition/p/MLB29712868",
+        "valor": 282.15,
+        "loja": "Magazine Luiza",
+        "data": "2026-11-02",
+        "url": "https://m.magazineluiza.com.br/busca/cacao+whey+essential/",
         "afiliado": ""
       },
       "historico": [
@@ -5368,6 +5697,11 @@
           "data": "2026-11-01",
           "valor": 218.0,
           "loja": "Mercado Livre"
+        },
+        {
+          "data": "2026-11-02",
+          "valor": 282.15,
+          "loja": "Magazine Luiza"
         }
       ],
       "lojas": [
@@ -5375,7 +5709,7 @@
           "loja": "Droga Raia",
           "url": "https://www.drogaraia.com.br/cacao-whey-essential-nutrition-420g-948525.html",
           "valor": 297.0,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 420,
           "historico": [
             {
@@ -5421,6 +5755,10 @@
             {
               "data": "2026-11-01",
               "valor": 297.0
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 297.0
             }
           ]
         },
@@ -5449,7 +5787,7 @@
           "loja": "Drogarias Pacheco",
           "url": "https://www.drogariaspacheco.com.br/cacao-whey-essential-nutrition-420g-935304115/p",
           "valor": 303.6,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 420,
           "historico": [
             {
@@ -5463,6 +5801,10 @@
             {
               "data": "2026-11-01",
               "valor": 303.6
+            },
+            {
+              "data": "2026-11-02",
+              "valor": 303.6
             }
           ]
         },
@@ -5470,7 +5812,7 @@
           "loja": "Magazine Luiza",
           "url": "https://m.magazineluiza.com.br/busca/cacao+whey+essential/",
           "valor": 282.15,
-          "data": "2026-11-01",
+          "data": "2026-11-02",
           "embalagem": 420,
           "historico": [
             {
@@ -5479,6 +5821,10 @@
             },
             {
               "data": "2026-11-01",
+              "valor": 282.15
+            },
+            {
+              "data": "2026-11-02",
               "valor": 282.15
             }
           ]
