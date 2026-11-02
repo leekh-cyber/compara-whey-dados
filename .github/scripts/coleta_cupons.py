@@ -92,10 +92,13 @@ def filtrar(brutos, agora):
         idade = IDADE_SUPLEMENTOS_DIAS if suple else IDADE_GERAL_DIAS
         if agora - x["publicado"] > timedelta(days=idade):
             continue
+        ate = None
         if x["ate"]:
             try:
-                if datetime.fromisoformat(str(x["ate"]).replace("Z", "+00:00")) < agora:
+                fim = datetime.fromisoformat(str(x["ate"]).replace("Z", "+00:00"))
+                if fim < agora:
                     continue
+                ate = fim.isoformat()  # "-03:00" com dois pontos: o Safari não lê "-0300"
             except ValueError:
                 pass
         chave = x["codigo"] or x["titulo"]
@@ -108,7 +111,7 @@ def filtrar(brutos, agora):
             "categoria": x["categoria"] or "Selecionados",
             "suplementos": suple,
             "automatico": x["automatico"],
-            "ate": x["ate"],
+            "ate": ate,
             "publicado": x["publicado"].astimezone(BRT).isoformat(timespec="minutes"),
         })
     # suplementos primeiro, depois os de maior desconto
