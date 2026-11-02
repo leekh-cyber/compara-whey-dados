@@ -1,0 +1,29 @@
+name: Preços do Mercado Livre (API)
+
+on:
+  schedule:
+    - cron: "40 10 * * *"   # 7h40 de Brasília, depois da rotina da nuvem das 7h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: precos-json
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar e gravar no precos.json
+        env:
+          ML_CLIENT_ID: "6309283037543551"
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/coleta_ml_api.py
