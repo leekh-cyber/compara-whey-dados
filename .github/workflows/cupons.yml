@@ -1,0 +1,23 @@
+name: Cupons do Mercado Livre
+
+on:
+  schedule:
+    - cron: "20 9-23/3 * * *"   # a cada 3 horas, das 6h20 às 21h20 de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar cupons e gravar no cupons.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/coleta_cupons.py
