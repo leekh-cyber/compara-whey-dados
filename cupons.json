@@ -1,5 +1,54 @@
 {
-  "atualizado": "2026-11-02T19:50-03:00",
+  "atualizado": "2026-11-03T10:17-03:00",
   "fonte": "Promobit",
-  "cupons": []
+  "cupons": [
+    {
+      "codigo": "MOMENTOPROMO",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-03T09:16-03:00"
+    },
+    {
+      "codigo": "GANHEDESCONTO",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-03T09:16-03:00"
+    },
+    {
+      "codigo": "PROMOIMPERDIVEL",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-03T09:16-03:00"
+    },
+    {
+      "codigo": "COMPRAAGORA",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-03T09:16-03:00"
+    }
+  ]
 }
