@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-04T16:11-03:00",
+  "atualizado": "2026-11-05T07:16-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -61,18 +61,6 @@
       "automatico": false,
       "ate": "2026-12-31T23:59:59-03:00",
       "publicado": "2026-11-04T09:16-03:00"
-    },
-    {
-      "codigo": "SAUDEML",
-      "pct": 10,
-      "fixo": null,
-      "minimo": 79.0,
-      "teto": 30.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-04T23:59:59-03:00",
-      "publicado": "2026-11-04T09:26-03:00"
     }
   ]
 }
