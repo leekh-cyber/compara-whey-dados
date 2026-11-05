@@ -1,7 +1,19 @@
 {
-  "atualizado": "2026-11-05T10:25-03:00",
+  "atualizado": "2026-11-05T13:16-03:00",
   "fonte": "Promobit",
   "cupons": [
+    {
+      "codigo": "PEGUEOFF",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Casa, Saúde e mais",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-04T09:16-03:00"
+    },
     {
       "codigo": "DESCONTONAHORA",
       "pct": 30,
@@ -17,30 +29,6 @@
     {
       "codigo": "MEUDESCONTAO",
       "pct": 30,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-31T23:59:59-03:00",
-      "publicado": "2026-11-04T09:16-03:00"
-    },
-    {
-      "codigo": "PEGUEOFF",
-      "pct": 25,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-31T23:59:59-03:00",
-      "publicado": "2026-11-04T09:16-03:00"
-    },
-    {
-      "codigo": "VEMCOMPRAR",
-      "pct": 22,
       "fixo": null,
       "minimo": 1.0,
       "teto": 500.0,
