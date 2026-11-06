@@ -1,0 +1,27 @@
+name: Preços da Growth
+
+on:
+  schedule:
+    - cron: "50 10 * * *"   # 7h50 de Brasília, depois da rotina da nuvem das 7h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: precos-json
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar e gravar no precos.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/coleta_growth.py
