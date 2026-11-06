@@ -659,10 +659,10 @@
     },
     "growth-isolado": {
       "oferta": {
-        "valor": 349.9,
-        "loja": "Mercado Livre",
+        "valor": 339.9,
+        "loja": "Growth (oficial)",
         "data": "2026-11-05",
-        "url": "https://www.mercadolivre.com.br/whey-protein-isolado-1kg-growth-supplements-chocolate/p/MLB26879184",
+        "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
         "afiliado": ""
       },
       "historico": [
@@ -698,8 +698,8 @@
         },
         {
           "data": "2026-11-05",
-          "valor": 349.9,
-          "loja": "Mercado Livre"
+          "valor": 339.9,
+          "loja": "Growth (oficial)"
         }
       ],
       "lojas": [
@@ -752,7 +752,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
           "valor": 339.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 1000,
           "historico": [
             {
@@ -769,6 +769,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 339.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 339.9
             }
           ]
@@ -2267,8 +2271,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/top-whey-3w-mais-performance-900g-max-titanium-chocolate/up/MLBU3559164075",
-          "valor": 223.59,
-          "data": "2026-11-02",
+          "valor": 257.0,
+          "data": "2026-11-05",
           "embalagem": 900,
           "historico": [
             {
@@ -2286,6 +2290,10 @@
             {
               "data": "2026-11-02",
               "valor": 223.59
+            },
+            {
+              "data": "2026-11-05",
+              "valor": 257.0
             }
           ]
         }
@@ -6179,7 +6187,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/best-whey-iso-atlhetica-nutrition-900g-brigadeiro/up/MLBU4174644416",
           "valor": 342.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 900,
           "historico": [
             {
@@ -6196,6 +6204,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 342.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 342.9
             }
           ]
@@ -7332,7 +7344,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
           "valor": 244.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 1000,
           "historico": [
             {
@@ -7349,6 +7361,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 244.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 244.9
             }
           ]
@@ -7380,7 +7396,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
           "valor": 429.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 1000,
           "historico": [
             {
@@ -7397,6 +7413,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 429.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 429.9
             }
           ]
@@ -7423,7 +7443,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
           "valor": 259.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 1000,
           "historico": [
             {
@@ -7440,6 +7460,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 259.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 259.9
             }
           ]
@@ -7503,7 +7527,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
           "valor": 144.9,
-          "data": "2026-11-02",
+          "data": "2026-11-05",
           "embalagem": 1000,
           "historico": [
             {
@@ -7520,6 +7544,10 @@
             },
             {
               "data": "2026-11-02",
+              "valor": 144.9
+            },
+            {
+              "data": "2026-11-05",
               "valor": 144.9
             }
           ]
