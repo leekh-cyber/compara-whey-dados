@@ -1,7 +1,19 @@
 {
-  "atualizado": "2026-11-05T18:57-03:00",
+  "atualizado": "2026-11-06T16:26-03:00",
   "fonte": "Promobit",
   "cupons": [
+    {
+      "codigo": "ECONOMIZEI",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 29.0,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-06T13:44-03:00"
+    },
     {
       "codigo": "TOPACHADO",
       "pct": 30,
@@ -15,28 +27,28 @@
       "publicado": "2026-11-05T18:42-03:00"
     },
     {
-      "codigo": "GARIMPEI",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 29.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-31T23:59:59-03:00",
-      "publicado": "2026-11-05T18:40-03:00"
-    },
-    {
       "codigo": "",
-      "pct": 25,
+      "pct": 21,
       "fixo": null,
-      "minimo": 999.0,
+      "minimo": 790.0,
       "teto": null,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": true,
-      "ate": "2026-11-30T23:59:59-03:00",
-      "publicado": "2026-11-05T18:39-03:00"
+      "ate": "2026-11-07T23:59:59-03:00",
+      "publicado": "2026-11-06T13:44-03:00"
+    },
+    {
+      "codigo": "",
+      "pct": 20,
+      "fixo": null,
+      "minimo": 199.9,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": true,
+      "ate": "2026-12-06T23:59:59-03:00",
+      "publicado": "2026-11-06T13:45-03:00"
     },
     {
       "codigo": "",
@@ -61,18 +73,6 @@
       "automatico": true,
       "ate": "2026-11-08T23:59:59-03:00",
       "publicado": "2026-11-05T18:43-03:00"
-    },
-    {
-      "codigo": "",
-      "pct": 15,
-      "fixo": null,
-      "minimo": 25.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-12T23:59:59-03:00",
-      "publicado": "2026-11-05T18:46-03:00"
     }
   ]
 }
