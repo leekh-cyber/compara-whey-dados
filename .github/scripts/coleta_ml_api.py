@@ -10,6 +10,8 @@ Roda no GitHub Actions (.github/workflows/precos-ml.yml), sem depender do PC.
     produto). E o preco do anuncio, sem o desconto do Pix.
   - Para cada preco: lojas[ML] ganha valor/data/historico; a oferta do whey so muda se
     o preco for menor que a atual (mesma regra do coleta_precos_pc.py).
+  - Falha de um dia pode ser passageira e nao fica vermelha. Se o ultimo preco lido de um produto
+    tiver DIAS_ALERTA dias ou mais (ex.: o ML trocou o codigo do anuncio), a execucao fica vermelha.
 
 Variaveis de ambiente: ML_CLIENT_ID, ML_CLIENT_SECRET, GITHUB_TOKEN, GITHUB_REPOSITORY.
 Uso local sem gravar: python coleta_ml_api.py --teste
@@ -23,7 +25,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 
 AFILIADOS = "https://raw.githubusercontent.com/leekh-cyber/comparawhey/main/js/afiliados.js"
 API = "https://api.mercadolibre.com"
@@ -31,6 +33,7 @@ CAMINHO = "precos.json"
 LOJA_ML = "Mercado Livre"
 FAIXA = (30, 1500)   # precos fora disso sao tratados como leitura errada
 PAUSA = 1
+DIAS_ALERTA = 2      # produto ha tantos dias sem preco deixa a execucao vermelha
 
 
 def pedir(url, dados=None, cab=None, metodo=None):
@@ -113,6 +116,18 @@ def aplicar(dados, leituras, hoje):
     return ofertas
 
 
+def parados(dados, falhas, hoje):
+    """Falhas de hoje cujo ultimo preco lido tem DIAS_ALERTA dias ou mais: [(whey, data ou None)]."""
+    res = []
+    for k, _ in falhas:
+        l = next((x for x in dados["wheys"].get(k, {}).get("lojas", []) if x.get("loja") == LOJA_ML), None)
+        data = l.get("data") if l else None
+        dias = (date.fromisoformat(hoje) - date.fromisoformat(data)).days if data else None
+        if dias is None or dias >= DIAS_ALERTA:
+            res.append((k, data))
+    return res
+
+
 def gh(caminho, corpo=None, metodo=None):
     cab = {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Accept": "application/vnd.github+json"}
     if corpo is not None:
@@ -173,7 +188,10 @@ def main():
         raise RuntimeError("nao consegui gravar (conflito repetido)")
 
     print(f"resumo: {len(leituras)} precos atualizados, {ofertas} ofertas baixaram, {len(falhas)} falhas")
-    return 1 if falhas and len(falhas) > len(leituras) else 0
+    alerta = parados(dados, falhas, hoje)
+    for k, data in alerta:
+        print(f"ALERTA {k}: sem preco desde {data or 'sempre'}; confira o anuncio no afiliados.js")
+    return 1 if alerta or len(falhas) > len(leituras) else 0
 
 
 if __name__ == "__main__":
