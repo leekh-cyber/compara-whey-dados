@@ -1,0 +1,34 @@
+name: Preços da Shopee (API)
+
+on:
+  schedule:
+    - cron: "5 11 * * *"   # 8h05 de Brasília, depois da rotina da nuvem das 7h
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "So ler os precos, sem gravar"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: precos-json
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar e gravar no precos.json
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/coleta_shopee.py ${{ inputs.teste && '--teste' || '' }}
