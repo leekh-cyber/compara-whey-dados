@@ -379,8 +379,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-100-max-titanium-whey-concentrado-900g-chocolate/p/MLB18488791",
-          "valor": 164.0,
-          "data": "2026-11-04",
+          "valor": 167.5,
+          "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
             {
@@ -414,6 +414,10 @@
             {
               "data": "2026-11-04",
               "valor": 164.0
+            },
+            {
+              "data": "2026-11-07",
+              "valor": 167.5
             }
           ]
         },
@@ -2061,7 +2065,7 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/dux-human-health-whey-protein-concentrado-suplemento-900g-sabor-chocolate/p/MLB23853955",
-          "valor": 176.0,
+          "valor": 197.1,
           "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
@@ -2119,7 +2123,7 @@
             },
             {
               "data": "2026-11-07",
-              "valor": 176.0
+              "valor": 197.1
             }
           ]
         },
@@ -3137,7 +3141,7 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-isolado-isofort-chocolate-pote-900g-vitafor/p/MLB18625908",
-          "valor": 309.9,
+          "valor": 308.0,
           "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
@@ -3175,7 +3179,7 @@
             },
             {
               "data": "2026-11-07",
-              "valor": 309.9
+              "valor": 308.0
             }
           ]
         },
@@ -4477,7 +4481,7 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/nutri-whey-protein-baunilha-refil-900g-integral-medica/p/MLB18537209",
-          "valor": 91.0,
+          "valor": 144.9,
           "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
@@ -4515,7 +4519,7 @@
             },
             {
               "data": "2026-11-07",
-              "valor": 91.0
+              "valor": 144.9
             }
           ]
         },
@@ -7913,7 +7917,7 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/whey-protein-adaptogen-science-tasty-gourmet-3w-em-po-sem-sabor-x-900g/p/MLB61630221",
-          "valor": 229.0,
+          "valor": 232.0,
           "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
@@ -7951,7 +7955,7 @@
             },
             {
               "data": "2026-11-07",
-              "valor": 229.0
+              "valor": 232.0
             }
           ]
         },
