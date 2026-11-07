@@ -2147,10 +2147,10 @@
     },
     "max-top-whey-3w": {
       "oferta": {
-        "valor": 225.9,
-        "loja": "Drogasil",
+        "valor": 223.59,
+        "loja": "Mercado Livre",
         "data": "2026-11-07",
-        "url": "https://www.drogasil.com.br/top-whey-3w-mais-performance-900g-max-titanium-fresh-lemon-632773.html",
+        "url": "https://www.mercadolivre.com.br/top-whey-3w-mais-performance-900g-max-titanium-chocolate/up/MLBU3559164075",
         "afiliado": ""
       },
       "historico": [
@@ -2269,8 +2269,8 @@
         },
         {
           "data": "2026-11-07",
-          "valor": 225.9,
-          "loja": "Drogasil"
+          "valor": 223.59,
+          "loja": "Mercado Livre"
         }
       ],
       "lojas": [
@@ -2427,8 +2427,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/top-whey-3w-mais-performance-900g-max-titanium-chocolate/up/MLBU3559164075",
-          "valor": 257.0,
-          "data": "2026-11-06",
+          "valor": 223.59,
+          "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
             {
@@ -2454,6 +2454,10 @@
             {
               "data": "2026-11-06",
               "valor": 257.0
+            },
+            {
+              "data": "2026-11-07",
+              "valor": 223.59
             }
           ]
         }
@@ -6615,7 +6619,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/best-whey-iso-atlhetica-nutrition-900g-brigadeiro/up/MLBU4174644416",
           "valor": 342.9,
-          "data": "2026-11-06",
+          "data": "2026-11-07",
           "embalagem": 900,
           "historico": [
             {
@@ -6640,6 +6644,10 @@
             },
             {
               "data": "2026-11-06",
+              "valor": 342.9
+            },
+            {
+              "data": "2026-11-07",
               "valor": 342.9
             }
           ]
