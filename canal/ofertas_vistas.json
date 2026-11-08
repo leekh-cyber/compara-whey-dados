@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T18:30:25.628923",
+  "quando": "2026-11-08T19:00:31.562724",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1237,5 +1237,13 @@
   "link": "https://meli.la/1UmVHsY",
   "publico": null,
   "produto": "MLB4039471005"
+ },
+ "3186610": {
+  "quando": "2026-11-08T19:00:39.296215",
+  "titulo": "Body Bebê Meu 1º Primeiro Natal e Ano Novo (Tam. P ao GG)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3Vlg7UrwCP",
+  "publico": null,
+  "produto": "shopee:49801254076"
  }
 }
