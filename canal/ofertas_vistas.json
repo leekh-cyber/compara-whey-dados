@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T17:00:31.604805",
+  "quando": "2026-11-08T17:30:28.051949",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1204,5 +1204,19 @@
   "link": "https://meli.la/1NRrjNg",
   "publico": null,
   "produto": "MLB45524778"
+ },
+ "3185848": {
+  "quando": "2026-11-08T17:30:34.063803",
+  "titulo": "Wella Professionals Oil Reflections - Máscara Capilar 500ml",
+  "link": "https://meli.la/1qWarFF",
+  "publico": null,
+  "produto": "MLB19513855"
+ },
+ "3185849": {
+  "quando": "2026-11-08T17:31:38.595922",
+  "titulo": "Liquidificador Cadence Hit LIQ200 2,5L 800W Preto",
+  "link": "https://meli.la/29ai2yV",
+  "publico": null,
+  "produto": "MLB26643191"
  }
 }
