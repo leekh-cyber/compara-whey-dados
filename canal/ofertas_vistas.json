@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T14:30:26.333680",
+  "quando": "2026-11-08T15:00:31.397723",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1124,5 +1124,20 @@
   "link": "https://meli.la/1BCxVXz",
   "publico": "masculino",
   "produto": "MLB3800842215"
+ },
+ "3185685": {
+  "quando": "2026-11-08T15:00:36.357699",
+  "titulo": "PowerBank Baseus EnerFill FC31 20000mAh 22.5W com 2 Cabos Integrados Turbo Display Digital",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5fqAQzeCtE",
+  "publico": null,
+  "produto": "shopee:56755782843"
+ },
+ "3186052": {
+  "quando": "2026-11-08T15:01:44.602032",
+  "titulo": "Guarda-roupa Casal Modulado Canto 9 Portas 2 Gav Multimóveis",
+  "link": "https://meli.la/2TKLNje",
+  "publico": null,
+  "produto": "MLB4975877313"
  }
 }
