@@ -426,6 +426,11 @@ def repo_gravar(caminho, texto, sha, mensagem):
         raise RuntimeError(f"gh api: {(r.stderr or r.stdout).strip()[:200]}")
 
 
+def sem_fila(vistas):
+    """No PC, o que foi para a fila fica marcado como visto ("fila"); isso nao quer dizer postado."""
+    return {k: v for k, v in vistas.items() if not v.get("fila")}
+
+
 def fila_valida(fila, postadas):
     """Tira da fila o que a nuvem ja postou e o que ficou velho demais."""
     limite = (datetime.now() - timedelta(hours=FILA_HORAS)).isoformat()
@@ -468,7 +473,7 @@ def rodada_nuvem(a):
     if not HORARIO_NUVEM[0] <= agora.hour < HORARIO_NUVEM[1]:
         print(f"Fora do horario de postagem ({HORARIO_NUVEM[0]}h-{HORARIO_NUVEM[1]}h).")
         return
-    vistas = carregar_vistas()
+    vistas = sem_fila(carregar_vistas())
     ultima = vistas.get("rodada:nuvem", {}).get("quando")
     if a.enviar and ultima and agora - datetime.fromisoformat(ultima) < timedelta(minutes=INTERVALO_MINIMO_NUVEM):
         print(f"Ultima rodada as {ultima[11:16]}: menos de {INTERVALO_MINIMO_NUVEM} min, esta fica de fora.")
@@ -544,7 +549,7 @@ def main():
     if a.abastecer:
         # o registro da nuvem vale: e ela quem posta
         texto, _ = repo_ler(REPO_VISTAS)
-        postadas = json.loads(texto) if texto else {}
+        postadas = sem_fila(json.loads(texto) if texto else {})
         vistas.update(postadas)
         texto, sha_fila = repo_ler(REPO_FILA_ML)
         fila_antes = json.loads(texto) if texto else []
