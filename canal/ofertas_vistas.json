@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T15:30:29.308107",
+  "quando": "2026-11-08T16:00:32.581984",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1154,5 +1154,25 @@
   "link": "https://meli.la/2KFd6gC",
   "publico": null,
   "produto": "MLB27439531"
+ },
+ "3182522": {
+  "quando": "2026-11-08T16:00:38.506934",
+  "titulo": "Cerveja Premium 5L Barril Heineken - Gelado",
+  "loja": "shopee"
+ },
+ "3185077": {
+  "quando": "2026-11-08T16:00:41.516899",
+  "titulo": "Mantecorp Gel de Limpeza Glycare Control 150g",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/80E5HPGODZ",
+  "publico": null,
+  "produto": "shopee:23298010703"
+ },
+ "3186053": {
+  "quando": "2026-11-08T16:01:48.071917",
+  "titulo": "Torradeira Arno Soleil Com 7 Níveis De Tostagem Spto",
+  "link": "https://meli.la/284b1dk",
+  "publico": null,
+  "produto": "MLB5072773930"
  }
 }
