@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T13:30:26.724483",
+  "quando": "2026-11-08T14:00:34.906886",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1084,5 +1084,20 @@
   "link": "https://meli.la/1LuMSSY",
   "publico": "masculino",
   "produto": "MLB4903101001"
+ },
+ "3185927": {
+  "quando": "2026-11-08T14:00:41.009777",
+  "titulo": "Suporte Baba Eletronica Para Berco Universal",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7fbEkYLgjp",
+  "publico": null,
+  "produto": "shopee:22093204974"
+ },
+ "3185909": {
+  "quando": "2026-11-08T14:01:47.806240",
+  "titulo": "O Boticário Liz Aura Colônia Feminina",
+  "link": "https://meli.la/2TpmuVM",
+  "publico": "feminino",
+  "produto": "MLB64569078"
  }
 }
