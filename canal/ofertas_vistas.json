@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T15:00:31.397723",
+  "quando": "2026-11-08T15:30:29.308107",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1139,5 +1139,20 @@
   "link": "https://meli.la/2TKLNje",
   "publico": null,
   "produto": "MLB4975877313"
+ },
+ "3186153": {
+  "quando": "2026-11-08T15:30:32.974455",
+  "titulo": "Kit 4 Sacos de Lixo Perfumados Lavanda 160 Sacos",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDK4R7iHg",
+  "publico": null,
+  "produto": "shopee:22394343234"
+ },
+ "3186060": {
+  "quando": "2026-11-08T15:31:39.816876",
+  "titulo": "Torneira de Cozinha com Filtro Carbon Block Bica Flexível Móvel com Arejador 2 Modos de Jato Dazie Metais",
+  "link": "https://meli.la/2KFd6gC",
+  "publico": null,
+  "produto": "MLB27439531"
  }
 }
