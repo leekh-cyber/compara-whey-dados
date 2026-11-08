@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T16:00:32.581984",
+  "quando": "2026-11-08T16:30:30.044029",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1174,5 +1174,20 @@
   "link": "https://meli.la/284b1dk",
   "publico": null,
   "produto": "MLB5072773930"
+ },
+ "3186328": {
+  "quando": "2026-11-08T16:30:35.783122",
+  "titulo": "Bicicleta Scooter Elétrica 600W Bike WeHawk WX-03 Basket Bateria Chumbo 48V 12Ah Removível Autopropelido",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9KjStuYfZh",
+  "publico": null,
+  "produto": "shopee:23194419020"
+ },
+ "3185929": {
+  "quando": "2026-11-08T16:31:42.682784",
+  "titulo": "Minibola Copa Do Mundo Da Fifa 26tm Trionda Adidas",
+  "link": "https://meli.la/1ZdnF5b",
+  "publico": null,
+  "produto": "MLB58473761"
  }
 }
