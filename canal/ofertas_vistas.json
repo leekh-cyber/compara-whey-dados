@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T17:30:28.051949",
+  "quando": "2026-11-08T18:00:33.526675",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1218,5 +1218,24 @@
   "link": "https://meli.la/29ai2yV",
   "publico": null,
   "produto": "MLB26643191"
+ },
+ "3186507": {
+  "quando": "2026-11-08T18:00:38.526929",
+  "titulo": "Placa-Mãe ASUS TUF GAMING A520M-PLUS WIFI AMD AM4 RGB mATX DDR4 Preto - 90MB17F0-M0EAY0",
+  "loja": "shopee"
+ },
+ "3185598": {
+  "quando": "2026-11-08T18:00:40.292547",
+  "titulo": "Kit Wella Invigo Nutri Enrich (Shampoo 1L, Condicionador 1L, Máscara 150ml)",
+  "link": "https://meli.la/1tstxVf",
+  "publico": null,
+  "produto": "MLB48187462"
+ },
+ "3185631": {
+  "quando": "2026-11-08T18:01:44.656408",
+  "titulo": "Capa Protetor De Colchão Elástico Queen Impermeável Matelado",
+  "link": "https://meli.la/1UmVHsY",
+  "publico": null,
+  "produto": "MLB4039471005"
  }
 }
