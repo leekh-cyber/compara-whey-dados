@@ -1,0 +1,59 @@
+name: Canal do WhatsApp
+
+# Posta no Canal sem depender do PC: cupom, Shopee e os posts do ML que o PC deixou em canal/fila_ml.json.
+# O disparo principal vem do cron-job.org (workflow_dispatch), que e pontual. A agenda do GitHub atrasa
+# e pula execucoes, entao fica so de reserva: dois disparos com menos de 20 min viram uma rodada so.
+on:
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "Simular sem postar"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17,47 11-23 * * *"   # 8h17 às 20h47 de Brasília (reserva)
+    - cron: "17,47 0-1 * * *"     # 21h17 às 22h47 de Brasília (reserva)
+
+concurrency:
+  group: canal
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rodada:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/Sao_Paulo
+      WHAPI_TOKEN: ${{ secrets.WHAPI_TOKEN }}
+      WHAPI_CANAL: "120363411869793766@newsletter"
+      WHAPI_MODO: link
+      SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+      SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar Pillow (foto quadrada)
+        run: pip install pillow
+      - name: Simular sem postar
+        if: ${{ inputs.teste }}
+        run: |
+          python canal/descobrir_ofertas.py --nuvem --max 2
+          python -c "import sys; sys.path.insert(0, 'canal'); import whapi; f = whapi.foto_quadrada('https://http2.mlstatic.com/D_NQ_NP_833803-MLB118685362969_102026-F.jpg'); print('foto quadrada:', 'ok' if f else 'falhou', len(f or ''))"
+      - name: Rodada
+        if: ${{ !inputs.teste }}
+        run: python canal/descobrir_ofertas.py --nuvem --enviar --max 1
+      - name: Gravar o registro dos posts
+        if: ${{ always() && !inputs.teste }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canal/ofertas_vistas.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Canal: registro da rodada"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
