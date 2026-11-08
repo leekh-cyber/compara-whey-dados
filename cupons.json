@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-07T18:52-03:00",
+  "atualizado": "2026-11-08T12:59-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "suplementos": false,
       "automatico": false,
       "ate": "2026-12-31T23:59:59-03:00",
-      "publicado": "2026-11-06T13:44-03:00"
-    },
-    {
-      "codigo": "",
-      "pct": 21,
-      "fixo": null,
-      "minimo": 790.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-07T23:59:59-03:00",
       "publicado": "2026-11-06T13:44-03:00"
     },
     {
