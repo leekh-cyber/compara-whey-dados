@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T16:30:30.044029",
+  "quando": "2026-11-08T17:00:31.604805",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1189,5 +1189,20 @@
   "link": "https://meli.la/1ZdnF5b",
   "publico": null,
   "produto": "MLB58473761"
+ },
+ "3186386": {
+  "quando": "2026-11-08T17:00:35.871408",
+  "titulo": "Creatina Monohidratada DUX Nutrition 100% Pura Original",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3g56BYdjbp",
+  "publico": null,
+  "produto": "shopee:58258320900"
+ },
+ "3185823": {
+  "quando": "2026-11-08T17:01:42.884007",
+  "titulo": "Celular Samsung Galaxy S25 Ultra 5g 256gb 12gb Câm Quád Cor Prata",
+  "link": "https://meli.la/1NRrjNg",
+  "publico": null,
+  "produto": "MLB45524778"
  }
 }
