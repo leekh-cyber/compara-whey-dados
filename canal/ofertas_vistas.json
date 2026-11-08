@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T14:00:34.906886",
+  "quando": "2026-11-08T14:30:26.333680",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1099,5 +1099,30 @@
   "link": "https://meli.la/2TpmuVM",
   "publico": "feminino",
   "produto": "MLB64569078"
+ },
+ "3185728": {
+  "quando": "2026-11-08T14:30:31.981237",
+  "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+  "loja": "shopee"
+ },
+ "3185686": {
+  "quando": "2026-11-08T14:30:33.753013",
+  "titulo": "Caixa de Som Aiwa Boombox Light Plus AWS-BBS-01-LBL Bluetooth Ativa Portátil 200W USB",
+  "loja": "shopee"
+ },
+ "3185679": {
+  "quando": "2026-11-08T14:30:35.348750",
+  "titulo": "Esmalte Risqué Diamond Gel Efeito Magnético Shine Esmalte Atacado Promoção",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6L5rC9oG25",
+  "publico": null,
+  "produto": "shopee:44819793869"
+ },
+ "3185932": {
+  "quando": "2026-11-08T14:31:45.778554",
+  "titulo": "Camiseta Dry-fit  Preta Caveira Unisex Dark Lab",
+  "link": "https://meli.la/1BCxVXz",
+  "publico": "masculino",
+  "produto": "MLB3800842215"
  }
 }
