@@ -1021,5 +1021,34 @@
   "link": "https://meli.la/1EDPjB2",
   "publico": null,
   "produto": "MLB3964737911"
+ },
+ "rodada:nuvem": {
+  "quando": "2026-11-08T12:07:09.358393",
+  "titulo": "ultima rodada da nuvem"
+ },
+ "3185690": {
+  "quando": "2026-11-08T12:07:14.505416",
+  "titulo": "Camiseta Masculino Light T-shirt Insider",
+  "loja": "shopee"
+ },
+ "3185439": {
+  "quando": "2026-11-08T12:07:16.631555",
+  "titulo": "Scooter Moto Elétrica X18 Bateria Lítio 60V 20Ah NFC Amortecedor Duplo 200kg 55kmh Autonomia Máxima 70km",
+  "loja": "shopee"
+ },
+ "3185491": {
+  "quando": "2026-11-08T12:07:17.642156",
+  "titulo": "Mini Processador De Alimentos Elétrico Picador E Triturador 350ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6q27dANSV8",
+  "publico": null,
+  "produto": "shopee:22497375036"
+ },
+ "3185634": {
+  "quando": "2026-11-08T12:08:25.420421",
+  "titulo": "Relógio Technos Masculino Steel Marrom - 2115ubp0m",
+  "link": "https://meli.la/2z81Xzh",
+  "publico": "masculino",
+  "produto": "MLB54395374"
  }
 }
