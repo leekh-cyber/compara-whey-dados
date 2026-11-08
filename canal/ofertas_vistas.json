@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T19:51:50.751679",
+  "quando": "2026-11-08T20:30:26.992056",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1245,5 +1245,33 @@
   "link": "https://s.shopee.com.br/3Vlg7UrwCP",
   "publico": null,
   "produto": "shopee:49801254076"
+ },
+ "3186861": {
+  "quando": "2026-11-08T20:30:31.184220",
+  "titulo": "Wella Professionals Invigo Nutri-Enrich Máscara Capilar 500ml",
+  "loja": "shopee"
+ },
+ "3186865": {
+  "quando": "2026-11-08T20:30:33.658120",
+  "titulo": "Wella Professionals Fusion - Máscara Capilar 150ml",
+  "loja": "shopee"
+ },
+ "3186802": {
+  "quando": "2026-11-08T20:30:34.614969",
+  "titulo": "Ar Condicionado Samsung Split Hi Wall Inverter Windfree Ai 12.000 Btu Frio AR12DYFAAWKNAZ 220V",
+  "loja": "shopee"
+ },
+ "3186832": {
+  "quando": "2026-11-08T20:30:36.349418",
+  "titulo": "Capacete Moto Aberto Pro Tork Liberty Compact Com Viseira",
+  "loja": "shopee"
+ },
+ "3186858": {
+  "quando": "2026-11-08T20:30:38.202909",
+  "titulo": "Leave-in de Tratamento com Reparação Imediata Proteção Térmica 10 em 1 L'Oréal Paris Elseve Cicatri Renov 50ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6L5rasktla",
+  "publico": null,
+  "produto": "shopee:58212791053"
  }
 }
