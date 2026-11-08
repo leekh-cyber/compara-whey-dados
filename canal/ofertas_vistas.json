@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T12:07:09.358393",
+  "quando": "2026-11-08T12:45:17.937321",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1050,5 +1050,24 @@
   "link": "https://meli.la/2z81Xzh",
   "publico": "masculino",
   "produto": "MLB54395374"
+ },
+ "cupom:71666": {
+  "quando": "2026-11-08T12:45:20.354562",
+  "titulo": "Faça compras com cupom de desconto Mercado Livre e economize 20%"
+ },
+ "3185831": {
+  "quando": "2026-11-08T12:46:27.052109",
+  "titulo": "Sandalias Papete Dunas Estilosa e Confortável Verão",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/114KjCkz9z",
+  "publico": "feminino",
+  "produto": "shopee:23997891631"
+ },
+ "3185851": {
+  "quando": "2026-11-08T12:47:34.868860",
+  "titulo": "Ferro a Vapor Mondial FVN-01-BL 1200W",
+  "link": "https://meli.la/1GvSH4p",
+  "publico": null,
+  "produto": "MLB23999940"
  }
 }
