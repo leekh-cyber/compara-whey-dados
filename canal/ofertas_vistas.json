@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T20:00:32.060566",
+  "quando": "2026-11-09T20:30:25.896910",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1818,5 +1818,13 @@
   "quando": "2026-11-09T20:01:41.605928",
   "titulo": "Lâmpada Canbus T10 37 LED 8W 6000K – 2 Unidades",
   "loja": "shopee"
+ },
+ "3190865": {
+  "quando": "2026-11-09T20:30:30.184696",
+  "titulo": "Pistola Finca Pino Manual Profissional Kit Completo com Acessórios para Obra Instalação e Manutenção",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3g580rdTgO",
+  "publico": null,
+  "produto": "shopee:57869192350"
  }
 }
