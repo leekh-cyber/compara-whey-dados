@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T11:00:32.620302",
+  "quando": "2026-11-09T11:30:27.721829",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1535,5 +1535,20 @@
   "link": "https://meli.la/145guLw",
   "publico": null,
   "produto": "MLB37262591"
+ },
+ "3188047": {
+  "quando": "2026-11-09T11:30:31.454711",
+  "titulo": "Tênis Feminino Ortopédico Ultra Conforto Benévola Knit Slip On Calce Fácil Esporão Fascite Plantar",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6fiizIFC0V",
+  "publico": "feminino",
+  "produto": "shopee:23093133129"
+ },
+ "3187561": {
+  "quando": "2026-11-09T11:31:38.544770",
+  "titulo": "Kit Hidrabene Clareador Sérum + Fps70 + Sabonete",
+  "link": "https://meli.la/15dQDor",
+  "publico": null,
+  "produto": "MLB2085859759"
  }
 }
