@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T21:30:27.912617",
+  "quando": "2026-11-08T22:00:28.375392",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1315,5 +1315,38 @@
   "link": "https://s.shopee.com.br/1qdSIoFj6S",
   "publico": null,
   "produto": "shopee:12782096688"
+ },
+ "3186886": {
+  "quando": "2026-11-08T22:00:32.712093",
+  "titulo": "kit 8 peças de cortador e marcadorcarimbo molde de natal biscoitos de natal papai noel arvore de natal",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4qH3uIh1EU",
+  "publico": null,
+  "produto": "shopee:58219522951"
+ },
+ "3186919": {
+  "quando": "2026-11-08T22:01:42.164062",
+  "titulo": "Soundbar TCL S55H 2.1 Canais Bluetooth com Subwoofer sem Fio 120W",
+  "loja": "shopee"
+ },
+ "3186921": {
+  "quando": "2026-11-08T22:01:43.224990",
+  "titulo": "Celular Samsung Galaxy S26+ 5G 256GB 12GB RAM Galaxy AI Câmera Tripla de 50+12+10 Tela de 6.7\"",
+  "loja": "shopee"
+ },
+ "3186948": {
+  "quando": "2026-11-08T22:01:45.151623",
+  "titulo": "Samsung Galaxy Buds4 Pro Fone de Ouvido sem Fio Áudio Hi-Fi Auto-falante Aprimorado",
+  "loja": "shopee"
+ },
+ "3186917": {
+  "quando": "2026-11-08T22:01:46.021998",
+  "titulo": "Celular Samsung Galaxy S25 Ultra 5G 512GB 12GB RAM Câmera Quádrupla de 200+50+10+50 Tela Grande de 6.9\"",
+  "loja": "shopee"
+ },
+ "3186914": {
+  "quando": "2026-11-08T22:01:46.959483",
+  "titulo": "Smart TV 58\" 4K UHD LED Philips 58PUG701978 Wi-Fi Bluetooth Google Assistente 3 HDMI 2 USB",
+  "loja": "shopee"
  }
 }
