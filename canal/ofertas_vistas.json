@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T18:25:28.184197",
+  "quando": "2026-11-09T19:00:31.332117",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1778,5 +1778,23 @@
   "link": "https://s.shopee.com.br/4B1OTH09Tr",
   "publico": null,
   "produto": "shopee:48619986721"
+ },
+ "3190545": {
+  "quando": "2026-11-09T19:00:41.602902",
+  "titulo": "Apple iPad 11 Geração A16 128GB Wi-fi Tela 11pol Original Novo Lacrado",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9fML3iqYV5",
+  "publico": null,
+  "produto": "shopee:23699143525"
+ },
+ "3190395": {
+  "quando": "2026-11-09T19:00:37.902385",
+  "titulo": "Celular Galaxy S25 Ultra 5G Galaxy AI Titânio 6 9\" 12GB RAM Câm Quádrupla 200+50+10+50MP Bateria 5000mAh Dual Chip",
+  "loja": "shopee"
+ },
+ "3190462": {
+  "quando": "2026-11-09T19:00:39.390339",
+  "titulo": "Ar Condicionado Split LG 9000 BTU Frio 220V",
+  "loja": "shopee"
  }
 }
