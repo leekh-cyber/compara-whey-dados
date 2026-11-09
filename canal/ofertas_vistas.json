@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T15:00:35.950208",
+  "quando": "2026-11-09T15:30:33.218962",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1693,5 +1693,22 @@
   "quando": "2026-11-09T15:00:42.567323",
   "titulo": "Placa-Mãe MSI B550M Gaming Plus WiFi6E, AMD AM4, DDR4, Wi-Fi 6E, Bluetooth 5.2, Preto e Prata - B550M GAMING PLUS WIFI6E",
   "loja": "shopee"
+ },
+ "cupom:71744": {
+  "quando": "2026-11-09T15:30:35.752167",
+  "titulo": "Use cupom Mercado Livre e tenha desconto de 35%"
+ },
+ "3189564": {
+  "quando": "2026-11-09T15:31:42.723471",
+  "titulo": "Gabinete Gamer Spectrum FLUX 900 Mid Tower Vidro Temperado ATX Sem Fans Sem Fonte,",
+  "loja": "shopee"
+ },
+ "3189520": {
+  "quando": "2026-11-09T15:31:45.627852",
+  "titulo": "Lanolina EllaMamy 50g",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50aVGncKwA",
+  "publico": null,
+  "produto": "shopee:58250622619"
  }
 }
