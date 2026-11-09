@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T17:00:32.952263",
+  "quando": "2026-11-09T17:30:31.570828",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1743,5 +1743,28 @@
   "link": "https://s.shopee.com.br/2VtAONXnO7",
   "publico": null,
   "produto": "shopee:23695155914"
+ },
+ "3190052": {
+  "quando": "2026-11-09T17:30:38.110898",
+  "titulo": "Kit Completo de 5 Peças para Limpeza Vassoura + Rodo + Pá +balde e Rodo Conjunto de esfregão -S7",
+  "loja": "shopee"
+ },
+ "3190101": {
+  "quando": "2026-11-09T17:30:40.768198",
+  "titulo": "Caixa de Som Speaker Philco Extreme 15W PBSE15",
+  "loja": "shopee"
+ },
+ "3190166": {
+  "quando": "2026-11-09T17:30:42.889027",
+  "titulo": "Power Bank Solar 10000mAh Carregador Portátil Bateria Externa Para Xiaomi Android IOS Tipo-C Carreg",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9pfl9qmF8N",
+  "publico": null,
+  "produto": "shopee:22794306940"
+ },
+ "3190144": {
+  "quando": "2026-11-09T17:31:52.799981",
+  "titulo": "Lanolina EllaMamy 50g",
+  "loja": "shopee"
  }
 }
