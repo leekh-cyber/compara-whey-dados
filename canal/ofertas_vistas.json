@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T20:30:26.992056",
+  "quando": "2026-11-08T21:00:35.076977",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1273,5 +1273,26 @@
   "link": "https://s.shopee.com.br/6L5rasktla",
   "publico": null,
   "produto": "shopee:58212791053"
+ },
+ "3186888": {
+  "quando": "2026-11-08T21:00:38.430382",
+  "titulo": "Copo Pote de Salada Portátil com Compartimento de Molho Marmita Saudável para Almoço",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VHp15UHQf",
+  "publico": null,
+  "produto": "shopee:58206660328"
+ },
+ "3186923": {
+  "quando": "2026-11-08T21:01:50.694217",
+  "titulo": "Caixa de som Portátil LG XBOOM XG9S Bluetooth - 24 horas de bateria - IP67",
+  "loja": "shopee"
+ },
+ "3186899": {
+  "quando": "2026-11-08T21:01:52.481228",
+  "titulo": "Mesinha Infantil Portátil Com Porta Objetos Mesa De Colo Estudo Lanche Suporte Tablet E Atividades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2BGIfN3opc",
+  "publico": null,
+  "produto": "shopee:52658576440"
  }
 }
