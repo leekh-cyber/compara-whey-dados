@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T19:30:28.228275",
+  "quando": "2026-11-09T20:00:32.060566",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1800,6 +1800,23 @@
  "3190562": {
   "quando": "2026-11-09T19:30:33.584306",
   "titulo": "Tablet Xiaomi Redmi Pad 2 256GB 8GB RAM 128GB 4GB RAM de 9.7\" e 11\" - Global Novo Original Lacrado",
+  "loja": "shopee"
+ },
+ "cupom:71749": {
+  "quando": "2026-11-09T20:00:34.949565",
+  "titulo": "Use cupom Mercado Livre e tenha desconto de R$ 330"
+ },
+ "3190836": {
+  "quando": "2026-11-09T20:01:43.106781",
+  "titulo": "Patinete Elétrico De 350w Com Uma Bateria De Alta Alcança Velocidades De 25-30kmh Com Autonomia De 4-5 Horas",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VHqXvmW0O",
+  "publico": null,
+  "produto": "shopee:58204359689"
+ },
+ "3190848": {
+  "quando": "2026-11-09T20:01:41.605928",
+  "titulo": "Lâmpada Canbus T10 37 LED 8W 6000K – 2 Unidades",
   "loja": "shopee"
  }
 }
