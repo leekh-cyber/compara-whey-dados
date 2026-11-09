@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T22:30:26.746243",
+  "quando": "2026-11-09T08:00:38.039543",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1347,6 +1347,77 @@
  "3186914": {
   "quando": "2026-11-08T22:01:46.959483",
   "titulo": "Smart TV 58\" 4K UHD LED Philips 58PUG701978 Wi-Fi Bluetooth Google Assistente 3 HDMI 2 USB",
+  "loja": "shopee"
+ },
+ "3187303": {
+  "quando": "2026-11-09T08:00:41.532503",
+  "titulo": "HUAWEI FreeBuds Pro 5 | Fone de Ouvido Bluetooth Sem Fio | Som Ultra Imersivo | Chamadas Nítidas",
+  "loja": "shopee"
+ },
+ "3187382": {
+  "quando": "2026-11-09T08:00:43.531714",
+  "titulo": "HUAWEI FreeBuds Neo ANC TWS | 4,8 g | Até 55 dB | Hi-Res e HWA | Conexão com Múltiplos Dispositivos em Diferentes Sis",
+  "loja": "shopee"
+ },
+ "3187290": {
+  "quando": "2026-11-09T08:00:45.091632",
+  "titulo": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Agratto Quente e Frio Zen Top 220v",
+  "loja": "shopee"
+ },
+ "3187231": {
+  "quando": "2026-11-09T08:00:45.958684",
+  "titulo": "Placa Mãe Maxsun B550m Ms-Terminator, Chipset B550, Amd Am4, mATX, Ddr4, Ms-Terminator B550m",
+  "loja": "shopee"
+ },
+ "3187240": {
+  "quando": "2026-11-09T08:00:46.807042",
+  "titulo": "Geladeira Consul Frost Free Crm40mbana 333L Branco",
+  "loja": "shopee"
+ },
+ "3187262": {
+  "quando": "2026-11-09T08:00:48.210469",
+  "titulo": "Kit 03 Unidades Azeite Extra Virgem 500ml Cocinero",
+  "loja": "shopee"
+ },
+ "3187232": {
+  "quando": "2026-11-09T08:00:49.617031",
+  "titulo": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 16GB, GDDR6, 128-bit, RX 9060 XT-16GB-A",
+  "loja": "shopee"
+ },
+ "3187253": {
+  "quando": "2026-11-09T08:00:50.431894",
+  "titulo": "Placa de Video Mancer GeForce RTX 3070 Heimdall X, 8GB, GDDR6, 256-bit, MCR-RTX3070X",
+  "loja": "shopee"
+ },
+ "3174314": {
+  "quando": "2026-11-09T08:00:51.242922",
+  "titulo": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/BVF0wvxxB",
+  "publico": null,
+  "produto": "shopee:47353036643"
+ },
+ "3187225": {
+  "quando": "2026-11-09T08:02:04.023986",
+  "titulo": "Smart TV Philips 65\" 4K UHD Ambilight",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6VPIYfixwg",
+  "publico": null,
+  "produto": "shopee:29695795023"
+ },
+ "3187255": {
+  "quando": "2026-11-09T08:02:01.413528",
+  "titulo": "Monitor Lg Gamer 24\" 100Hz 5ms Full Hd 24Ms500-B",
+  "loja": "shopee"
+ },
+ "3187265": {
+  "quando": "2026-11-09T08:02:02.335627",
+  "titulo": "Cooktop De Indução 4 Bocas Dako Supreme Preto 220v",
+  "loja": "shopee"
+ },
+ "3187247": {
+  "quando": "2026-11-09T08:02:03.169460",
+  "titulo": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Agratto Quente e Frio Zen Top 220v",
   "loja": "shopee"
  }
 }
