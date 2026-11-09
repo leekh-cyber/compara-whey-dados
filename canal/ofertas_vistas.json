@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T08:00:38.039543",
+  "quando": "2026-11-09T08:30:26.972050",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1418,6 +1418,19 @@
  "3187247": {
   "quando": "2026-11-09T08:02:03.169460",
   "titulo": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Agratto Quente e Frio Zen Top 220v",
+  "loja": "shopee"
+ },
+ "3187409": {
+  "quando": "2026-11-09T08:30:30.569088",
+  "titulo": "Sapato Masculino Social Oxford Confortável Casual Sapatênis Derby Couro Trabalho Casamento Elegante Moderno Esporte Fi",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4B1NoKzkrQ",
+  "publico": "masculino",
+  "produto": "shopee:21329235580"
+ },
+ "3187444": {
+  "quando": "2026-11-09T08:31:40.182375",
+  "titulo": "Smart Tv 65\" Philips Ambilight 4K PUG8100",
   "loja": "shopee"
  }
 }
