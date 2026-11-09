@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T13:00:32.100284",
+  "quando": "2026-11-09T13:30:29.106159",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1598,5 +1598,26 @@
   "link": "https://s.shopee.com.br/6fij5Yyqd0",
   "publico": null,
   "produto": "shopee:27044050938"
+ },
+ "3188086": {
+  "quando": "2026-11-09T13:30:32.208447",
+  "titulo": "Bandeja Lyor de Bambu Dobrável para Braço de Sofá 25cm Suporte Flexível para Copos e Pratos na Sala Prática e Resis",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AKc1UH1bSv",
+  "publico": null,
+  "produto": "shopee:56454752340"
+ },
+ "3188001": {
+  "quando": "2026-11-09T13:31:41.594783",
+  "titulo": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+  "loja": "shopee"
+ },
+ "3188078": {
+  "quando": "2026-11-09T13:31:43.097812",
+  "titulo": "Conjunto 4 Xícaras Wolff Classic de Vidro 100ml Resistente ao Calor para Café Expresso Chás Cappuccino e Bebidas Quen",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9pfktR6Mrt",
+  "publico": null,
+  "produto": "shopee:29187146849"
  }
 }
