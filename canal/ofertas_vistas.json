@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T16:30:28.681498",
+  "quando": "2026-11-09T17:00:32.952263",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1731,5 +1731,17 @@
   "link": "https://s.shopee.com.br/5fqC88tqYu",
   "publico": null,
   "produto": "shopee:58219530922"
+ },
+ "cupom:71745": {
+  "quando": "2026-11-09T17:00:35.251691",
+  "titulo": "Aproveite para economizar 30% com cupom Mercado Livre"
+ },
+ "3189909": {
+  "quando": "2026-11-09T17:01:40.471593",
+  "titulo": "Kit Puxador Flor Margarida Com Parafuso incluso",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2VtAONXnO7",
+  "publico": null,
+  "produto": "shopee:23695155914"
  }
 }
