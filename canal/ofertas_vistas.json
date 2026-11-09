@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T16:00:33.897846",
+  "quando": "2026-11-09T16:30:28.681498",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1715,5 +1715,21 @@
   "quando": "2026-11-09T16:00:37.263611",
   "titulo": "Monitor Gamer AOC Gaming 32\" QHD 180Hz VA 0,5ms HDMI DisplayPort",
   "loja": "shopee"
+ },
+ "3189803": {
+  "quando": "2026-11-09T16:30:31.954249",
+  "titulo": "Tênis QIAODAN TG 1.0 unissex",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5AtvX8kZSU",
+  "publico": "masculino",
+  "produto": "shopee:45962433905"
+ },
+ "3189853": {
+  "quando": "2026-11-09T16:31:44.102884",
+  "titulo": "Kit Cerave Creme Hidratante Corporal Para pele seca e extra seca - 2 Unidades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5fqC88tqYu",
+  "publico": null,
+  "produto": "shopee:58219530922"
  }
 }
