@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T11:30:27.721829",
+  "quando": "2026-11-09T12:00:33.502750",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1550,5 +1550,21 @@
   "link": "https://meli.la/15dQDor",
   "publico": null,
   "produto": "MLB2085859759"
+ },
+ "3188498": {
+  "quando": "2026-11-09T12:00:38.734527",
+  "titulo": "Lenço Umedecido Lara Baby Premium Total 1200 (12 Pacotes com 100 unidades em cada)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5fqBpWc6OR",
+  "publico": null,
+  "produto": "shopee:19699242179"
+ },
+ "3188075": {
+  "quando": "2026-11-09T12:01:48.559874",
+  "titulo": "Conjunto Galheteiro de Vidro com Suporte de Metal 200ml Lyor",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LZQ3V0Uf",
+  "publico": null,
+  "produto": "shopee:46221212097"
  }
 }
