@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T08:30:26.972050",
+  "quando": "2026-11-09T09:00:34.211952",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1432,5 +1432,30 @@
   "quando": "2026-11-09T08:31:40.182375",
   "titulo": "Smart Tv 65\" Philips Ambilight 4K PUG8100",
   "loja": "shopee"
+ },
+ "3187540": {
+  "quando": "2026-11-09T09:00:38.440391",
+  "titulo": "Ar Condicionado Split Inverter Hitachi AirHome 12.000 BTUs Frio 220V",
+  "loja": "shopee"
+ },
+ "3187539": {
+  "quando": "2026-11-09T09:00:39.994561",
+  "titulo": "Xiaomi Redmi Note 15 PRO 5G, 256GB, 8GB RAM",
+  "loja": "shopee"
+ },
+ "3187471": {
+  "quando": "2026-11-09T09:00:41.403979",
+  "titulo": "Formas Silicone Para Air Fryer, Forno, Geladeira",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1gK2rofVPv",
+  "publico": null,
+  "produto": "shopee:18826319006"
+ },
+ "3187458": {
+  "quando": "2026-11-09T09:01:48.911592",
+  "titulo": "Copo Térmico Marvel Capitão América de Aço Inox 300 mL Preto",
+  "link": "https://meli.la/2FdGsji",
+  "publico": null,
+  "produto": "MLB77805910"
  }
 }
