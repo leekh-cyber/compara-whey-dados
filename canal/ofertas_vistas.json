@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T09:30:30.620777",
+  "quando": "2026-11-09T10:00:32.405227",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1486,5 +1486,20 @@
   "link": "https://meli.la/1joktek",
   "publico": null,
   "produto": "MLB47536758"
+ },
+ "3187783": {
+  "quando": "2026-11-09T10:00:37.424895",
+  "titulo": "Sandália Infantil (20 ao 27, 4 Cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3B8qigkpxx",
+  "publico": null,
+  "produto": "shopee:54917303033"
+ },
+ "3187669": {
+  "quando": "2026-11-09T10:01:44.381641",
+  "titulo": "Tênis Converse Chuck Taylor All Star Sintético Cano Baixo",
+  "link": "https://meli.la/1GgrPeX",
+  "publico": "masculino",
+  "produto": "MLB4980260553"
  }
 }
