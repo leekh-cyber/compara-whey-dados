@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T14:00:34.909169",
+  "quando": "2026-11-09T14:30:28.353818",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1660,5 +1660,28 @@
   "link": "https://s.shopee.com.br/AAIbK8w6NH",
   "publico": null,
   "produto": "shopee:18957880985"
+ },
+ "3189197": {
+  "quando": "2026-11-09T14:30:31.738060",
+  "titulo": "Kit Decoração Festa em Casa Tema Super Mário",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8AXWyPheHD",
+  "publico": null,
+  "produto": "shopee:20352500507"
+ },
+ "3189295": {
+  "quando": "2026-11-09T14:31:42.586744",
+  "titulo": "Smart Tv 40 Aoc Led Full Hd Roku Tv Conversor Digital",
+  "loja": "shopee"
+ },
+ "3189289": {
+  "quando": "2026-11-09T14:31:43.933157",
+  "titulo": "Placa-Mãe MSI B550 Gaming WiFi6E, AMD AM4, ATX, DDR4, Wi-Fi 6E, Bluetooth 5.3, Preto e Prata B550 GAMING WIFI6E",
+  "loja": "shopee"
+ },
+ "3189258": {
+  "quando": "2026-11-09T14:31:44.983779",
+  "titulo": "Placa-Mãe MSI B550 Gaming WiFi6E AMD AM4 ATX DDR4 Wi-Fi 6E Bluetooth 5.3 Preto e",
+  "loja": "shopee"
  }
 }
