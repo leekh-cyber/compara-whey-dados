@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T10:30:30.545119",
+  "quando": "2026-11-09T11:00:32.620302",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1516,5 +1516,24 @@
   "link": "https://meli.la/19vdZp1",
   "publico": null,
   "produto": "MLB5204410817"
+ },
+ "cupom:OFFNAMODA": {
+  "quando": "2026-11-09T11:00:36.152918",
+  "titulo": "Cupom Mercado Livre: 15% OFF acima de R$ 79 (até R$ 60) em Moda"
+ },
+ "3188031": {
+  "quando": "2026-11-09T11:01:42.913765",
+  "titulo": "Calça Legging Fitness Feminina Canelada Cintura Alta Modeladora com Brilho",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/80E6XlcHhp",
+  "publico": "feminino",
+  "produto": "shopee:23198570477"
+ },
+ "3187545": {
+  "quando": "2026-11-09T11:02:51.465137",
+  "titulo": "Cama Box Baú Queen Ortobom Airtech Molas Ensacadas Bege Com Suede",
+  "link": "https://meli.la/145guLw",
+  "publico": null,
+  "produto": "MLB37262591"
  }
 }
