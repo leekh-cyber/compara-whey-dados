@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T12:30:33.873488",
+  "quando": "2026-11-09T13:00:32.100284",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1582,5 +1582,21 @@
   "link": "https://s.shopee.com.br/5AtvGkYGUo",
   "publico": null,
   "produto": "shopee:58266142662"
+ },
+ "3188711": {
+  "quando": "2026-11-09T13:00:39.265748",
+  "titulo": "Painel Solar De 2W Com USB À Prova D'água Para Caminhadas Ao Ar Livre E Acampamento De Carregamento De Banco",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6fij5U1LhD",
+  "publico": null,
+  "produto": "shopee:27204922454"
+ },
+ "3188072": {
+  "quando": "2026-11-09T13:01:49.400691",
+  "titulo": "Prato Infantil de Bambu Cachorrinho Dog Lyor 20cm Pratinho Bebê Criança Refeição Introdução Alimentar Ecológico P",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6fij5Yyqd0",
+  "publico": null,
+  "produto": "shopee:27044050938"
  }
 }
