@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T12:00:33.502750",
+  "quando": "2026-11-09T12:30:33.873488",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1566,5 +1566,21 @@
   "link": "https://s.shopee.com.br/70LZQ3V0Uf",
   "publico": null,
   "produto": "shopee:46221212097"
+ },
+ "3188100": {
+  "quando": "2026-11-09T12:30:40.235505",
+  "titulo": "Meleira de Vidro com Tampa e Pegador de Bambu Bee Lyor 9,5cm Potinho Porta Mel Mesa Posta Café da Manhã Cozinha Presen",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2BGJh9hmqH",
+  "publico": null,
+  "produto": "shopee:56554752272"
+ },
+ "3188551": {
+  "quando": "2026-11-09T12:31:51.928780",
+  "titulo": "Kit Coala Completo Chá Branco - 6 Itens",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5AtvGkYGUo",
+  "publico": null,
+  "produto": "shopee:58266142662"
  }
 }
