@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T14:30:28.353818",
+  "quando": "2026-11-09T15:00:35.950208",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1682,6 +1682,16 @@
  "3189258": {
   "quando": "2026-11-09T14:31:44.983779",
   "titulo": "Placa-Mãe MSI B550 Gaming WiFi6E AMD AM4 ATX DDR4 Wi-Fi 6E Bluetooth 5.3 Preto e",
+  "loja": "shopee"
+ },
+ "3189374": {
+  "quando": "2026-11-09T15:00:40.817871",
+  "titulo": "Monitor Gamer HQ Ultra 32\" Curvo 1ms 180Hz Quad HD (QHD) - 2560x1440 AMD FreeSync H",
+  "loja": "shopee"
+ },
+ "3189358": {
+  "quando": "2026-11-09T15:00:42.567323",
+  "titulo": "Placa-Mãe MSI B550M Gaming Plus WiFi6E, AMD AM4, DDR4, Wi-Fi 6E, Bluetooth 5.2, Preto e Prata - B550M GAMING PLUS WIFI6E",
   "loja": "shopee"
  }
 }
