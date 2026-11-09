@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-08T21:00:35.076977",
+  "quando": "2026-11-08T21:30:27.912617",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1294,5 +1294,26 @@
   "link": "https://s.shopee.com.br/2BGIfN3opc",
   "publico": null,
   "produto": "shopee:52658576440"
+ },
+ "3186926": {
+  "quando": "2026-11-08T21:30:33.104427",
+  "titulo": "Soundbar JBL Bluetooth Cinema SB180 2.1 Canais Subwoofer de 6,5\" Sem Fio 110W RMS",
+  "loja": "shopee"
+ },
+ "3186903": {
+  "quando": "2026-11-08T21:30:35.020584",
+  "titulo": "SUPORTE BOTIJÃO DE GÁS PAREDE C 2 PARAFUSOS E BUCHAS REFORÇADO KIT",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1LhBhoJJ3s",
+  "publico": null,
+  "produto": "shopee:58209305993"
+ },
+ "3186907": {
+  "quando": "2026-11-08T21:31:44.642612",
+  "titulo": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1qdSIoFj6S",
+  "publico": null,
+  "produto": "shopee:12782096688"
  }
 }
