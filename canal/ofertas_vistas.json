@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T10:00:32.405227",
+  "quando": "2026-11-09T10:30:30.545119",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1501,5 +1501,20 @@
   "link": "https://meli.la/1GgrPeX",
   "publico": "masculino",
   "produto": "MLB4980260553"
+ },
+ "3188013": {
+  "quando": "2026-11-09T10:30:35.780629",
+  "titulo": "Sapato GiGiL Feminino Scarpin Slingback Bico Fino Salto Fino Verniz Onça Clássico Elegante",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7AezW66e9O",
+  "publico": "feminino",
+  "produto": "shopee:23393830955"
+ },
+ "3187683": {
+  "quando": "2026-11-09T10:31:46.101695",
+  "titulo": "Notebook Gamer Lenovo Loq Irx9 I5 15.6 Fhd 512gb Linux+ubook",
+  "link": "https://meli.la/19vdZp1",
+  "publico": null,
+  "produto": "MLB5204410817"
  }
 }
