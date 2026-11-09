@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T15:30:33.218962",
+  "quando": "2026-11-09T16:00:33.897846",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1710,5 +1710,10 @@
   "link": "https://s.shopee.com.br/50aVGncKwA",
   "publico": null,
   "produto": "shopee:58250622619"
+ },
+ "3187195": {
+  "quando": "2026-11-09T16:00:37.263611",
+  "titulo": "Monitor Gamer AOC Gaming 32\" QHD 180Hz VA 0,5ms HDMI DisplayPort",
+  "loja": "shopee"
  }
 }
