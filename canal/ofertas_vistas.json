@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T09:00:34.211952",
+  "quando": "2026-11-09T09:30:30.620777",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1457,5 +1457,34 @@
   "link": "https://meli.la/2FdGsji",
   "publico": null,
   "produto": "MLB77805910"
+ },
+ "cupom:NOMELI": {
+  "quando": "2026-11-09T09:30:33.064625",
+  "titulo": "Cupom Mercado Livre: 25% OFF acima de R$ 99 (até R$ 60) em Automotivo"
+ },
+ "3187598": {
+  "quando": "2026-11-09T09:31:42.864757",
+  "titulo": "Smart TV 43\" LG Full HD",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7pugFHLu9u",
+  "publico": null,
+  "produto": "shopee:58257621281"
+ },
+ "3187612": {
+  "quando": "2026-11-09T09:31:40.726046",
+  "titulo": "Smart Tv 43\" Philco QLED HDR10 Roku TV P43KRB",
+  "loja": "shopee"
+ },
+ "3187705": {
+  "quando": "2026-11-09T09:31:41.903358",
+  "titulo": "Cadeira de Escritório Ergonômica Executiva Mesh Premium Presidente 150Kg NR17 Com Apoio",
+  "loja": "shopee"
+ },
+ "3187504": {
+  "quando": "2026-11-09T09:32:50.076432",
+  "titulo": "Kit com 2 Travesseiros Antiestresse Carbono 50x70cm Camesa",
+  "link": "https://meli.la/1joktek",
+  "publico": null,
+  "produto": "MLB47536758"
  }
 }
