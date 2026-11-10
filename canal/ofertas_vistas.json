@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T11:00:34.184638",
+  "quando": "2026-11-10T11:30:30.421041",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2212,5 +2212,13 @@
   "link": "https://meli.la/2osmSz3",
   "publico": null,
   "produto": "MLB63315647"
+ },
+ "3193068": {
+  "quando": "2026-11-10T11:30:34.812712",
+  "titulo": "Kit 8442 Enfeites Decoração Para Arvore De Natal Bolinha Tambor Papai Noel Laços Presente Bengala Pendentes Natalina",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50aWb7vehe",
+  "publico": null,
+  "produto": "shopee:23697969853"
  }
 }
