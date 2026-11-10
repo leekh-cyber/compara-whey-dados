@@ -2775,8 +2775,8 @@
         {
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/top-whey-3w-mais-performance-900g-max-titanium-chocolate/up/MLBU3559164075",
-          "valor": 223.59,
-          "data": "2026-11-09",
+          "valor": 257.0,
+          "data": "2026-11-10",
           "embalagem": 900,
           "historico": [
             {
@@ -2814,6 +2814,10 @@
             {
               "data": "2026-11-09",
               "valor": 223.59
+            },
+            {
+              "data": "2026-11-10",
+              "valor": 257.0
             }
           ]
         },
@@ -7501,7 +7505,7 @@
           "loja": "Mercado Livre",
           "url": "https://www.mercadolivre.com.br/best-whey-iso-atlhetica-nutrition-900g-brigadeiro/up/MLBU4174644416",
           "valor": 342.9,
-          "data": "2026-11-09",
+          "data": "2026-11-10",
           "embalagem": 900,
           "historico": [
             {
@@ -7538,6 +7542,10 @@
             },
             {
               "data": "2026-11-09",
+              "valor": 342.9
+            },
+            {
+              "data": "2026-11-10",
               "valor": 342.9
             }
           ]
