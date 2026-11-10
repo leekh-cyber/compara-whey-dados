@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T13:00:38.464463",
+  "quando": "2026-11-10T13:30:28.866425",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2268,5 +2268,13 @@
   "quando": "2026-11-10T13:00:43.570086",
   "titulo": "Monitor Gamer 34\" Curvo Branco 1ms 165Hz UltraWide (QHD) - 3440x1440 AMD FreeSync HD",
   "loja": "shopee"
+ },
+ "3193572": {
+  "quando": "2026-11-10T13:30:36.797279",
+  "titulo": "Smartphone Motorola Edge 60 Pro 5G 256GB 12GB RAM Câmera Traseira 50 MP OIS + 50 MP + 1",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50aWjMw1ca",
+  "publico": null,
+  "produto": "shopee:22698881511"
  }
 }
