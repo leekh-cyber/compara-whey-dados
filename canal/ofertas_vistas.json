@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T19:30:28.772108",
+  "quando": "2026-11-10T20:00:31.789667",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2519,5 +2519,69 @@
   "link": "https://meli.la/1CjD331",
   "publico": "masculino",
   "produto": "MLB4085597457"
+ },
+ "cupom:CHEGOUCUPOM30": {
+  "quando": "2026-11-10T20:00:35.429346",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Selecionados"
+ },
+ "3195842": {
+  "quando": "2026-11-10T20:01:40.882356",
+  "titulo": "Kit 2 Regata Fitness Feminina Alça Fina em Poliamida",
+  "loja": "shopee"
+ },
+ "3195907": {
+  "quando": "2026-11-10T20:01:43.925257",
+  "titulo": "Mesa Jantar Kappesberg Madeira Tampo Vidro 160cm",
+  "loja": "shopee"
+ },
+ "3195825": {
+  "quando": "2026-11-10T20:02:00.334655",
+  "titulo": "KIT NIVEA Loção Hidratante Desodorante Soft Milk 400ml - 2 unidades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9V2wWW5P8B",
+  "publico": null,
+  "produto": "shopee:58256848035"
+ },
+ "3195863": {
+  "quando": "2026-11-10T20:01:46.895609",
+  "titulo": "Cereal Sucrilhos Original Kellogg’s 1kg",
+  "loja": "shopee"
+ },
+ "3195867": {
+  "quando": "2026-11-10T20:01:48.680036",
+  "titulo": "Amendoim Japonês Mendorato 1,01kg",
+  "loja": "shopee"
+ },
+ "3195833": {
+  "quando": "2026-11-10T20:01:50.457409",
+  "titulo": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01 Principia",
+  "loja": "shopee"
+ },
+ "3195874": {
+  "quando": "2026-11-10T20:01:52.102521",
+  "titulo": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
+  "loja": "shopee"
+ },
+ "3195946": {
+  "quando": "2026-11-10T20:01:53.908441",
+  "titulo": "Nutella Ferrero Creme De Avelã 700g",
+  "loja": "shopee"
+ },
+ "3195901": {
+  "quando": "2026-11-10T20:01:55.100697",
+  "titulo": "Nintendo Switch Lite Desbloqueado Novo",
+  "loja": "shopee"
+ },
+ "3195900": {
+  "quando": "2026-11-10T20:01:57.755832",
+  "titulo": "Smart TV Hisense DLED HD 32\" 32A4NV Processador AI HDR10 Alexa Google Home",
+  "loja": "shopee"
+ },
+ "3195453": {
+  "quando": "2026-11-10T20:03:07.263487",
+  "titulo": "Kit 3 Painel Led Plafon Aluminio Embutir Quadrado 6500K Branco Frio 18w 22x22Cm",
+  "link": "https://meli.la/1RyG6cM",
+  "publico": null,
+  "produto": "MLB75779016"
  }
 }
