@@ -83,6 +83,17 @@ ACHADOS_POR_RODADA_PICO = 3  # 29 rodadas x 3 alcancam o teto de pico
 HORA_AVISOS = 9             # contagem, vespera e aviso do dia saem a partir desta hora (1 por dia por campanha)
 SELO = ""                   # selo da campanha no topo dos achados; so a rodada da nuvem liga
 
+# ---- Ofertas encerradas: o post e editado (o Canal aceita editar posts antigos) ----
+ENCERRADA = "❌ *OFERTA ENCERRADA*\n_O preço subiu ou o produto esgotou._"
+HORAS_CONFERIR = 48         # confere os achados postados nas ultimas N horas
+CONFERIR_SHOPEE_H = 3       # nuvem: cada post da Shopee e conferido de N em N horas
+CONFERIR_ML_H = 6           # PC: cada post do ML e conferido de N em N horas (pagina do ML, com calma)
+MAX_CONFERIR_SHOPEE = 15    # por rodada da nuvem
+MAX_CONFERIR_ML = 6         # por rodada do PC
+REPO_ENCERRAR_ML = "canal/encerrar_ml.json"        # so o PC grava; a nuvem edita os posts
+ARQ_ENCERRAR_ML = os.path.join(PASTA, "encerrar_ml.json")  # na nuvem: lida do repositorio
+ARQ_CONFERIDOS_ML = os.path.join(PASTA, "conferidos_ml.json")  # PC: quando cada post do ML foi conferido
+
 
 def baixar(url, tentativas=1):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "pt-BR",
@@ -177,7 +188,8 @@ def salvar_vistas(vistas):
         json.dump(vistas, f, ensure_ascii=False, indent=1)
 
 
-def publicar(texto, imagem, rotulo, enviar):
+def publicar(texto, imagem, rotulo, enviar, registro=None):
+    """registro: a entrada do achado em vistas; guarda o id do post e o texto para editar se a oferta acabar."""
     if SELO and rotulo.startswith(("achado", "repost")):
         texto = f"{SELO}\n\n{texto}"
     print(f"\n===== POST ({rotulo}) =====\n{texto}")
@@ -185,7 +197,12 @@ def publicar(texto, imagem, rotulo, enviar):
         f.write(f"### {time.strftime('%Y-%m-%d %H:%M')} | {rotulo}\n{texto}\n\n")
     if enviar:
         try:
-            print(enviar_whapi(texto, imagem))
+            r = enviar_whapi(texto, imagem)
+            print(r)
+            if registro is not None and isinstance(r, dict) and (r.get("message") or {}).get("id"):
+                registro.update(msg=r["message"]["id"], texto=texto, imagem=imagem)
+                registro.pop("encerrada", None)
+                registro.pop("conferido", None)
             time.sleep(PAUSA_ENTRE_POSTS)
         except BaseException as e:
             print(f"ERRO ao enviar: {e}")
@@ -317,8 +334,9 @@ def repostar(vistas, quantos, enviar):
             continue
         v["quando"] = datetime.now().isoformat()
         v["produto"] = d["produto"]
+        v["preco"] = d["por"]
         feitos += 1
-        publicar(montar_post(d, v["link"]), d["imagem"], f"repost | {v['titulo'][:50]}", enviar)
+        publicar(montar_post(d, v["link"]), d["imagem"], f"repost | {v['titulo'][:50]}", enviar, registro=v)
     return feitos
 
 
@@ -414,8 +432,10 @@ def rodada_shopee(vistas, quantos, enviar):
                 break
             continue
         feitos += 1
-        vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"])
-        publicar(montar_post(d, meu_link), d["imagem"], f"achado Shopee | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}", enviar)
+        vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"],
+                               preco=d["por"], shopee=[loja, item])
+        publicar(montar_post(d, meu_link), d["imagem"], f"achado Shopee | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}",
+                 enviar, registro=vistas[o["id"]])
     return feitos
 
 
@@ -478,7 +498,8 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
                 continue
 
             feitos += 1
-            vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"])
+            vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"],
+                                   preco=d["por"])
             entregar(texto, d["imagem"], o)
     finally:
         if gerador:
@@ -548,10 +569,124 @@ def achados_da_fila(vistas, quantos, enviar):
         if ja_postado(vistas, i["link"], i["produto"]):
             continue
         vistas[i["id"]] = {"quando": datetime.now().isoformat(), "titulo": i["titulo"], "link": i["link"],
-                           "publico": i["publico"], "produto": i["produto"]}
-        publicar(i["texto"], i["imagem"], f"achado da fila | {i['titulo'][:50]}", enviar)
+                           "publico": i["publico"], "produto": i["produto"], "preco": i.get("preco")}
+        publicar(i["texto"], i["imagem"], f"achado da fila | {i['titulo'][:50]}", enviar, registro=vistas[i["id"]])
         feitos += 1
     return feitos
+
+
+# ---- Ofertas encerradas ----
+
+def a_conferir(vistas, horas, filtro):
+    """Achados postados nas ultimas HORAS_CONFERIR horas, ainda nao encerrados, sem conferencia nas ultimas `horas`."""
+    agora = datetime.now()
+    limite = (agora - timedelta(hours=HORAS_CONFERIR)).isoformat()
+    ultimo = (agora - timedelta(hours=horas)).isoformat()
+    alvos = [(k, v) for k, v in vistas.items()
+             if v.get("msg") and v.get("preco") and not v.get("encerrada") and filtro(v)
+             and v.get("quando", "") >= limite and (v.get("conferido") or v["quando"]) <= ultimo]
+    return sorted(alvos, key=lambda i: i[1].get("conferido") or i[1]["quando"])
+
+
+def acabou(v, agora):
+    """None = indisponivel; preco acima do postado alem da tolerancia = acabou."""
+    return agora is None or agora > v["preco"] * (1 + TOLERANCIA_PRECO)
+
+
+def encerrar(v, imagem, motivo, enviar):
+    """Edita o post: o aviso no topo e o texto original embaixo (o link continua, para quem quiser conferir)."""
+    texto = f"{ENCERRADA}\n\n{v['texto']}"
+    print(f"\n===== OFERTA ENCERRADA ({motivo}) | {v.get('titulo', '')[:50]} =====")
+    if enviar:
+        from whapi import postar
+        try:
+            print(postar(texto, imagem or v.get("imagem"), editar=v["msg"]))
+            time.sleep(5)
+        except BaseException as e:
+            print(f"ERRO ao editar: {e}")
+            return False
+    v["encerrada"] = datetime.now().isoformat()
+    return True
+
+
+def conferir_shopee(vistas, enviar):
+    """Nuvem: confere pela API da Shopee o preco dos posts recentes da Shopee."""
+    if not shopee.disponivel():
+        return 0
+    feitos = 0
+    for k, v in a_conferir(vistas, CONFERIR_SHOPEE_H, lambda v: v.get("shopee"))[:MAX_CONFERIR_SHOPEE]:
+        v["conferido"] = datetime.now().isoformat()
+        imagem = None
+        try:
+            d = shopee.produto(*v["shopee"])
+            preco, imagem = d["por"], d["imagem"]
+        except RuntimeError as e:
+            if "nao encontrado" not in str(e):
+                print(f"[{k}] conferir Shopee: {e}")
+                continue
+            preco = None
+        except Exception as e:
+            print(f"[{k}] conferir Shopee: {e}")
+            continue
+        if acabou(v, preco):
+            motivo = "indisponivel" if preco is None else f"R${v['preco']:.2f} -> R${preco:.2f}"
+            feitos += encerrar(v, imagem, motivo, enviar)
+    return feitos
+
+
+def encerrar_ml_da_fila(vistas, enviar):
+    """Nuvem: edita os posts do ML que o PC achou encerrados (encerrar_ml.json)."""
+    try:
+        with open(ARQ_ENCERRAR_ML, encoding="utf-8") as f:
+            lista = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return 0
+    feitos = 0
+    for e in lista:
+        v = vistas.get(e["id"])
+        # o post pode ter sido repostado depois da conferencia: so vale conferencia posterior ao post
+        if v and v.get("msg") and not v.get("encerrada") and e["quando"] >= v.get("quando", ""):
+            feitos += encerrar(v, e.get("imagem"), e.get("motivo", "ML"), enviar)
+    return feitos
+
+
+def conferir_ml(vistas):
+    """PC: confere na pagina do ML os posts recentes do ML e grava a lista dos encerrados para a nuvem editar."""
+    try:
+        with open(ARQ_CONFERIDOS_ML, encoding="utf-8") as f:
+            conferidos = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        conferidos = {}
+    marcados = {k: ({**v, "conferido": conferidos[k]} if conferidos.get(k, "") > v.get("quando", "") else v)
+                for k, v in vistas.items()}
+    novos = []
+    for k, v in a_conferir(marcados, CONFERIR_ML_H, lambda v: v.get("loja") != "shopee" and v.get("link"))[:MAX_CONFERIR_ML]:
+        try:
+            d = extrair(v["link"])
+        except OSError as e:
+            print(f"[{k}] conferir ML: {e}")
+            if limite_de_pedidos(e) or not internet_ok():
+                break
+            continue
+        except SystemExit as e:
+            print(f"[{k}] conferir ML: {e}; fica para depois")
+            continue
+        agora = datetime.now().isoformat()
+        conferidos[k] = agora
+        preco = d["por"] if d.get("url_produto") else None
+        if acabou(v, preco):
+            motivo = "indisponivel" if preco is None else f"R${v['preco']:.2f} -> R${preco:.2f}"
+            print(f"[{k}] oferta encerrada ({motivo}): {v.get('titulo', '')[:50]}")
+            novos.append({"id": k, "quando": agora, "motivo": motivo, "imagem": d.get("imagem")})
+    limite = (datetime.now() - timedelta(hours=HORAS_CONFERIR + 24)).isoformat()
+    with open(ARQ_CONFERIDOS_ML, "w", encoding="utf-8") as f:
+        json.dump({k: q for k, q in conferidos.items() if q >= limite}, f, indent=1)
+    if novos:
+        texto, sha = repo_ler(REPO_ENCERRAR_ML)
+        lista = [e for e in (json.loads(texto) if texto else []) if e["quando"] >= limite] + novos
+        repo_gravar(REPO_ENCERRAR_ML, json.dumps(lista, ensure_ascii=False, indent=1), sha,
+                    f"Canal: {len(novos)} oferta(s) do ML encerrada(s)")
+    return len(novos)
 
 
 def rodada_nuvem(a):
@@ -602,10 +737,11 @@ def rodada_nuvem(a):
         # faltou achado do ML na fila: a Shopee completa
         if feitos + feitos_shopee < quantos and feitos_shopee == cota:
             feitos_shopee += rodada_shopee(vistas, quantos - feitos - feitos_shopee, a.enviar)
+        encerradas = conferir_shopee(vistas, a.enviar) + encerrar_ml_da_fila(vistas, a.enviar)
     finally:
         salvar_vistas(vistas)
     print(f"\n{feitos} achado(s) do ML (fila), {feitos_shopee} da Shopee e {feitos_cupom} cupom(ns). "
-          f"Achados hoje: {achados_hoje + feitos + feitos_shopee}/{teto}.")
+          f"Achados hoje: {achados_hoje + feitos + feitos_shopee}/{teto}. Ofertas encerradas nesta rodada: {encerradas}.")
 
 
 def posts_de_cupom(lista, vistas, enviar, listar):
@@ -686,10 +822,14 @@ def main():
             v = vistas[o["id"]]
             v["fila"] = True
             fila_ml.append({"id": o["id"], "quando": v["quando"], "titulo": o["titulo"], "texto": texto, "imagem": imagem,
-                            "link": v["link"], "produto": v["produto"], "publico": v["publico"]})
+                            "link": v["link"], "produto": v["produto"], "publico": v["publico"], "preco": v.get("preco")})
             print(f"\n===== NA FILA DA NUVEM ({o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}) =====\n{texto}")
 
         try:
+            try:
+                conferir_ml(postadas)
+            except (OSError, RuntimeError, ValueError) as e:
+                print(f"Conferir ofertas do ML: ERRO {e}")
             feitos = achados_ml(fila, vistas, a.tag, lista_cupons, a.max, enfileirar)[0] if a.max else 0
             if feitos or len(fila_ml) != len(fila_antes):
                 repo_gravar(REPO_FILA_ML, json.dumps(fila_ml, ensure_ascii=False, indent=1), sha_fila,
@@ -707,7 +847,7 @@ def main():
         cota = cota_shopee(vistas, a.max)
         feitos_shopee = rodada_shopee(vistas, cota, a.enviar)
         feitos, caiu = achados_ml(fila, vistas, a.tag, lista_cupons, a.max - feitos_shopee, lambda texto, imagem, o: publicar(
-            texto, imagem, f"achado | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}", a.enviar))
+            texto, imagem, f"achado | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}", a.enviar, registro=vistas[o["id"]]))
         # faltou achado do ML: a Shopee completa, se ainda nao tiver esgotado as dela nesta rodada
         if feitos + feitos_shopee < a.max and not caiu and feitos_shopee == cota:
             feitos_shopee += rodada_shopee(vistas, a.max - feitos - feitos_shopee, a.enviar)
