@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T15:00:32.066734",
+  "quando": "2026-11-10T15:30:30.030109",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2335,5 +2335,25 @@
   "link": "https://s.shopee.com.br/8fTpCIC0Os",
   "publico": null,
   "produto": "shopee:57753224604"
+ },
+ "cupom:OFFAGORA": {
+  "quando": "2026-11-10T15:30:32.571958",
+  "titulo": "Cupom Mercado Livre: 18% OFF acima de R$ 79 (até R$ 100) em Selecionados"
+ },
+ "3194334": {
+  "quando": "2026-11-10T15:31:38.060809",
+  "titulo": "Penico Mictório Infantil Sapinho Para Meninos Desfralde Com Ventosa Parede Todas as Cores",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1W0ehFPhbZ",
+  "publico": null,
+  "produto": "shopee:42879661811"
+ },
+ "3194284": {
+  "quando": "2026-11-10T15:32:49.757097",
+  "titulo": "Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite Smoothie 400ML 6 Lâminas",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5q9drIFur6",
+  "publico": null,
+  "produto": "shopee:58260042754"
  }
 }
