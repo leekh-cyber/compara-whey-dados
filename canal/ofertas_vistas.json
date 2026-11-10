@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T17:30:27.974782",
+  "quando": "2026-11-10T18:00:33.545101",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2393,5 +2393,15 @@
   "link": "https://s.shopee.com.br/AUvTVyqJb3",
   "publico": null,
   "produto": "shopee:58209312972"
+ },
+ "3195146": {
+  "quando": "2026-11-10T18:00:36.951463",
+  "titulo": "Tênis QIAODAN LEILI 2.0 masculino",
+  "loja": "shopee"
+ },
+ "3195337": {
+  "quando": "2026-11-10T18:00:39.109294",
+  "titulo": "Tablet Xiaomi Redmi Pad 2 256GB8GB, 128GB6GB ou 128GB4GB RAM",
+  "loja": "shopee"
  }
 }
