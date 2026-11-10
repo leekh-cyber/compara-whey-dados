@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T21:00:43.320535",
+  "quando": "2026-11-09T21:30:27.988694",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1826,5 +1826,22 @@
   "link": "https://s.shopee.com.br/3g580rdTgO",
   "publico": null,
   "produto": "shopee:57869192350"
+ },
+ "cupom:71750": {
+  "quando": "2026-11-09T21:30:31.062989",
+  "titulo": "Cupom Mercado Livre concede desconto de R$ 300"
+ },
+ "3191157": {
+  "quando": "2026-11-09T21:31:39.219838",
+  "titulo": "Motorola Edge 60 Pro 5G 256GB 12GB Ram 6.7'' 50Mp Seminovo",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDM47pi9t",
+  "publico": null,
+  "produto": "shopee:58200071347"
+ },
+ "3191088": {
+  "quando": "2026-11-09T21:31:37.794944",
+  "titulo": "Celular Samsung Galaxy S26+ 5G 12256GB",
+  "loja": "shopee"
  }
 }
