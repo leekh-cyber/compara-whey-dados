@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T16:30:28.797175",
+  "quando": "2026-11-10T17:00:36.112200",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2376,5 +2376,22 @@
   "link": "https://s.shopee.com.br/3qOZVbzQUX",
   "publico": null,
   "produto": "shopee:48217403916"
+ },
+ "cupom:ULTIMASCHANCES": {
+  "quando": "2026-11-10T17:00:38.975407",
+  "titulo": "Cupom Mercado Livre: 15% OFF acima de R$ 79 (até R$ 100) em Selecionados"
+ },
+ "3194848": {
+  "quando": "2026-11-10T17:01:46.328029",
+  "titulo": "Bicicleta Elétrica Urbana e Off-Road 750W Velocidade 32kmh Autonomia 70km",
+  "loja": "shopee"
+ },
+ "3194839": {
+  "quando": "2026-11-10T17:01:48.302067",
+  "titulo": "Mordedor Bebê Chocalho Safari Látex Natural",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AUvTVyqJb3",
+  "publico": null,
+  "produto": "shopee:58209312972"
  }
 }
