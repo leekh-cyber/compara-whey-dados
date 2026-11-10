@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T22:30:27.926810",
+  "quando": "2026-11-10T08:00:32.913523",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1861,5 +1861,120 @@
   "link": "https://s.shopee.com.br/8VANtzmG2T",
   "publico": null,
   "produto": "shopee:54760387056"
+ },
+ "cupom:71747": {
+  "quando": "2026-11-10T08:00:35.525180",
+  "titulo": "Economize R$ 200 em seus pedidos aplicando cupom Mercado Livre"
+ },
+ "3191691": {
+  "quando": "2026-11-10T08:01:42.273285",
+  "titulo": "Óculos De Grau Oval Feminino Saint Germain Siena Tartaruga",
+  "loja": "shopee"
+ },
+ "3191789": {
+  "quando": "2026-11-10T08:01:44.243537",
+  "titulo": "Kit Jogo Pano De Prato Cozinha Copa Cheff Algodão Sortidos",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8AXY8bPqx4",
+  "publico": null,
+  "produto": "shopee:40961639598"
+ },
+ "3191857": {
+  "quando": "2026-11-10T08:02:54.669151",
+  "titulo": "Amaciante Downy Concentrado Sensitive Hipoalergênico 1,35L",
+  "loja": "shopee"
+ },
+ "3191863": {
+  "quando": "2026-11-10T08:02:57.269121",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+  "loja": "shopee"
+ },
+ "3191860": {
+  "quando": "2026-11-10T08:02:59.399815",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
+  "loja": "shopee"
+ },
+ "3191861": {
+  "quando": "2026-11-10T08:03:00.608365",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+  "loja": "shopee"
+ },
+ "3191862": {
+  "quando": "2026-11-10T08:03:02.868724",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+  "loja": "shopee"
+ },
+ "3191666": {
+  "quando": "2026-11-10T08:03:04.475903",
+  "titulo": "Cadeira de Escritório Ergonômica cinza Giratória com Apoio Lombar e Braços Ajustáveis - LARUNO",
+  "loja": "shopee"
+ },
+ "3191629": {
+  "quando": "2026-11-10T08:03:06.076223",
+  "titulo": "Kit 2 Óleos Elseve Extraordinário 100ml",
+  "loja": "shopee"
+ },
+ "3191628": {
+  "quando": "2026-11-10T08:03:08.317436",
+  "titulo": "NIVEA Creme Hidratante Lata 145g",
+  "loja": "shopee"
+ },
+ "3191674": {
+  "quando": "2026-11-10T08:03:09.212557",
+  "titulo": "Shampoo Invigo Nutri Enrich 1L",
+  "loja": "shopee"
+ },
+ "3191651": {
+  "quando": "2026-11-10T08:03:10.109570",
+  "titulo": "Whiskas Sachê 85g - 16 Unid +4 Grátis Leve 20",
+  "loja": "shopee"
+ },
+ "3191636": {
+  "quando": "2026-11-10T08:03:11.078270",
+  "titulo": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
+  "loja": "shopee"
+ },
+ "3191618": {
+  "quando": "2026-11-10T08:03:11.963861",
+  "titulo": "Kit Chocotone 400g + Panettone Frutas Bacouducco 400g",
+  "loja": "shopee"
+ },
+ "3191615": {
+  "quando": "2026-11-10T08:03:13.588990",
+  "titulo": "Azeite de Oliva Andorinha Tipo Único 2 Litros",
+  "loja": "shopee"
+ },
+ "3191689": {
+  "quando": "2026-11-10T08:03:14.526976",
+  "titulo": "KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco",
+  "loja": "shopee"
+ },
+ "3191675": {
+  "quando": "2026-11-10T08:03:15.470802",
+  "titulo": "Geladeira Brastemp 385 L Frost Free Duplex 127V",
+  "loja": "shopee"
+ },
+ "3191664": {
+  "quando": "2026-11-10T08:03:16.429637",
+  "titulo": "Soundbar JBL Bluetooth, Cinema SB180, 2.1 Canais, Subwoofer de 6,5\" Sem Fio 110W RMS",
+  "loja": "shopee"
+ },
+ "3191635": {
+  "quando": "2026-11-10T08:03:17.467534",
+  "titulo": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
+  "loja": "shopee"
+ },
+ "3191661": {
+  "quando": "2026-11-10T08:03:18.406741",
+  "titulo": "Armário de Cozinha Compacta Rustic Cinza Emilly Top Madesa",
+  "loja": "shopee"
+ },
+ "3191650": {
+  "quando": "2026-11-10T08:03:19.282702",
+  "titulo": "Rack para TV até 80 Polegadas 180cm 2 Portas 1 Gaveta BrancoRustic Toronto Madesa",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8KqyL1E0Hw",
+  "publico": null,
+  "produto": "shopee:23294433108"
  }
 }
