@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T09:00:34.497099",
+  "quando": "2026-11-10T09:30:28.505261",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2025,5 +2025,23 @@
   "quando": "2026-11-10T09:00:39.989291",
   "titulo": "Abajur Infantil Safari Animais da Floresta (3 Cores)",
   "loja": "shopee"
+ },
+ "cupom:SEMPRENOMELI": {
+  "quando": "2026-11-10T09:30:31.988761",
+  "titulo": "Cupom Mercado Livre: 25% OFF acima de R$ 99 (até R$ 60) em Automotivo"
+ },
+ "3192077": {
+  "quando": "2026-11-10T09:31:39.366949",
+  "titulo": "Perfume Arabe Mawwal Malek 100ml Eau De Parfum Unissex",
+  "link": "https://meli.la/2u4XGtV",
+  "publico": null,
+  "produto": "MLB54537557"
+ },
+ "3192052": {
+  "quando": "2026-11-10T09:32:53.522414",
+  "titulo": "Notebook Gamer Acer Predator Helios Neo 16 IA com Placa NVIDIA GeForce RTX 5070 8GB Processador Intel Core Ultra 7 32GB RAM DDR5 512GB SSD Tela 16\" WQ",
+  "link": "https://meli.la/1o1BVnH",
+  "publico": null,
+  "produto": "MLB66848323"
  }
 }
