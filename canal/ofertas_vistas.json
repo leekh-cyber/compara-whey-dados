@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T21:30:27.988694",
+  "quando": "2026-11-09T22:00:30.966794",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1842,6 +1842,16 @@
  "3191088": {
   "quando": "2026-11-09T21:31:37.794944",
   "titulo": "Celular Samsung Galaxy S26+ 5G 12256GB",
+  "loja": "shopee"
+ },
+ "3191166": {
+  "quando": "2026-11-09T22:00:35.679199",
+  "titulo": "Celular Samsung Galaxy S26+ 5G 256GB 12GB RAM Galaxy AI Câmera Tripla de 50+12+10 Tela de 6.7\"",
+  "loja": "shopee"
+ },
+ "3191216": {
+  "quando": "2026-11-09T22:00:37.054424",
+  "titulo": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Galaxy AI, Câmera Tripla",
   "loja": "shopee"
  }
 }
