@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T09:30:28.505261",
+  "quando": "2026-11-10T10:00:32.835448",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2043,5 +2043,20 @@
   "link": "https://meli.la/1o1BVnH",
   "publico": null,
   "produto": "MLB66848323"
+ },
+ "3192276": {
+  "quando": "2026-11-10T10:00:37.168060",
+  "titulo": "Boia com Cobertura Fralda Inflável Infantil Com Assento (Diversas cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/qkxXI2xVx",
+  "publico": null,
+  "produto": "shopee:58208356464"
+ },
+ "3192272": {
+  "quando": "2026-11-10T10:01:44.334888",
+  "titulo": "Perfume Feminino Givenchy L’interdit Eau de Parfum 80ml",
+  "link": "https://meli.la/2EAFS1P",
+  "publico": "feminino",
+  "produto": "MLB14133101"
  }
 }
