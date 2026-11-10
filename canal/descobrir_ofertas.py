@@ -37,7 +37,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 
 import cupons
 import shopee
@@ -75,6 +75,13 @@ FILA_HORAS = 12             # post da fila mais velho que isso nao sai (o preco 
 ACHADOS_POR_DIA = 50        # teto de achados da nuvem (os cupons tem o proprio)
 INTERVALO_MINIMO_NUVEM = 20  # minutos: dois disparos proximos (cron-job.org e a agenda do GitHub) viram uma rodada
 HORARIO_NUVEM = (8, 23)     # a nuvem so posta das 8h as 22h59
+
+# ---- Datas comemorativas e grandes promocoes (datas.json) ----
+ARQ_DATAS = os.path.join(PASTA, "datas.json")
+ACHADOS_PICO = 80           # teto de achados nos dias de pico ("pico": true)
+ACHADOS_POR_RODADA_PICO = 3  # 29 rodadas x 3 alcancam o teto de pico
+HORA_AVISOS = 9             # contagem, vespera e aviso do dia saem a partir desta hora (1 por dia por campanha)
+SELO = ""                   # selo da campanha no topo dos achados; so a rodada da nuvem liga
 
 
 def baixar(url, tentativas=1):
@@ -171,6 +178,8 @@ def salvar_vistas(vistas):
 
 
 def publicar(texto, imagem, rotulo, enviar):
+    if SELO and rotulo.startswith(("achado", "repost")):
+        texto = f"{SELO}\n\n{texto}"
     print(f"\n===== POST ({rotulo}) =====\n{texto}")
     with open(ARQ_FILA, "a", encoding="utf-8") as f:
         f.write(f"### {time.strftime('%Y-%m-%d %H:%M')} | {rotulo}\n{texto}\n\n")
@@ -193,8 +202,71 @@ def publico(titulo, categoria=""):
     return None if f == m else "feminino" if f else "masculino"
 
 
+def carregar_datas():
+    try:
+        with open(ARQ_DATAS, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def campanha(dia=None):
+    """(campanha, "dia" ou "esquenta") de hoje, ou (None, None). O dia real vence o esquenta; entre iguais, a mais curta."""
+    dia = (dia or datetime.now().date()).isoformat()
+    achadas = []
+    for c in carregar_datas():
+        ini, fim = date.fromisoformat(c["inicio"]), date.fromisoformat(c["fim"])
+        if c["inicio"] <= dia <= c["fim"]:
+            achadas.append((0, (fim - ini).days, c, "dia"))
+        elif c.get("esquenta", c["inicio"]) <= dia < c["inicio"]:
+            achadas.append((1, (ini - date.fromisoformat(c["esquenta"])).days, c, "esquenta"))
+    if not achadas:
+        return None, None
+    _, _, c, fase = min(achadas, key=lambda x: (x[0], x[1]))
+    return c, fase
+
+
+def na_campanha(titulo, categoria=""):
+    """0 = combina com a campanha de hoje (palavras ou publico) e vai na frente, 1 = nao. Sem campanha, tudo 0."""
+    c, _ = campanha()
+    if not c or not (c.get("palavras") or c.get("publico")):
+        return 0
+    if c.get("palavras") and re.search(c["palavras"], f"{titulo} {categoria}", re.I):
+        return 0
+    return 0 if c.get("publico") and publico(titulo, categoria) == c["publico"] else 1
+
+
+def avisos_do_dia(dia=None):
+    """[(chave, texto)] de contagem regressiva, vespera e dia das campanhas. "vespera"/"dia" null no datas.json desliga."""
+    dia = dia or datetime.now().date()
+    avisos = []
+    for c in carregar_datas():
+        falta = (date.fromisoformat(c["inicio"]) - dia).days
+        nome = c["nome"]
+        if falta == 0:
+            texto = c.get("dia", f"🛍️ *Hoje é {nome}!*\n\nAs melhores ofertas saem aqui o dia todo.\n\n"
+                                 "🔔 Ative as notificações do Canal para não perder.")
+        elif falta == 1:
+            texto = c.get("vespera", f"🚨 *Amanhã é {nome}!*\n\nAs ofertas vão sair aqui o dia todo.\n\n"
+                                     "🔔 Ative as notificações do Canal para não perder.")
+        elif (falta > 1 and c.get("contagem") and c.get("esquenta", c["inicio"]) <= dia.isoformat()
+              and falta <= c.get("contagem_dias", falta)):
+            texto = (f"⏳ *Faltam {falta} dias para {c.get('artigo', 'o')} {nome}!*\n\n"
+                     f"O esquenta já começou: os achados com o selo {c.get('selo_esquenta', '')} saem aqui todos os dias.\n\n"
+                     "🔔 Ative as notificações do Canal para não perder.")
+        else:
+            continue
+        if texto:
+            avisos.append((f"aviso:{nome}:{dia.isoformat()}", texto))
+    return avisos
+
+
 def publico_da_vez(vistas):
-    """Alterna mulher e homem: a vez e do publico oposto ao ultimo achado com genero."""
+    """Alterna mulher e homem: a vez e do publico oposto ao ultimo achado com genero.
+    Campanha com publico (ex.: Dia das Maes) fixa a vez nesse publico."""
+    c, _ = campanha()
+    if c and c.get("publico"):
+        return c["publico"]
     postados = [v for v in vistas.values() if v.get("link") and (v.get("publico") or publico(v.get("titulo", "")))]
     if not postados:
         return "feminino"
@@ -283,9 +355,11 @@ def filtrar(todas, vistas, listar):
 
 
 def cota_shopee(vistas, total):
-    """Com 2 ou mais posts por rodada, divide entre as lojas; com 1, reveza com o ultimo achado postado."""
+    """Com 2 ou mais posts por rodada, divide entre as lojas; com 1, reveza com o ultimo achado postado.
+    No dia de campanha com "foco": "shopee" (11.11, 12.12), a Shopee fica com todos menos 1."""
     if total >= 2:
-        return total // 2
+        c, fase = campanha()
+        return total - 1 if c and fase == "dia" and c.get("foco") == "shopee" else total // 2
     postados = [v for v in vistas.values() if v.get("link")]
     if not postados:
         return 1
@@ -305,7 +379,8 @@ def rodada_shopee(vistas, quantos, enviar):
     candidatas, folga = filtrar(todas, vistas, False)
     print(f"\n{len(todas)} ofertas da Shopee no Promobit, {len(candidatas)} passaram nos filtros, {len(folga)} de reserva.")
     vez = publico_da_vez(vistas)
-    fila = sorted(candidatas + folga, key=lambda o: prioridade(publico(o["titulo"], o["categoria"]), vez))
+    fila = sorted(candidatas + folga, key=lambda o: (na_campanha(o["titulo"], o["categoria"]),
+                                                     prioridade(publico(o["titulo"], o["categoria"]), vez)))
     feitos = 0
     for o in fila:
         if feitos >= quantos:
@@ -464,7 +539,7 @@ def achados_da_fila(vistas, quantos, enviar):
     prontos = [i for i in fila_valida(fila, vistas) if not ja_postado(vistas, i["link"], i["produto"])]
     vez = publico_da_vez(vistas)
     prontos.sort(key=lambda i: i["quando"], reverse=True)
-    prontos.sort(key=lambda i: prioridade(i["publico"], vez))
+    prontos.sort(key=lambda i: (na_campanha(i["titulo"]), prioridade(i["publico"], vez)))
     print(f"\nFila do ML: {len(fila)} post(s), {len(prontos)} prontos para postar.")
     feitos = 0
     for i in prontos:
@@ -495,11 +570,26 @@ def rodada_nuvem(a):
         return
     if a.enviar:
         vistas["rodada:nuvem"] = {"quando": agora.isoformat(), "titulo": "ultima rodada da nuvem"}
+    global SELO
+    c, fase = campanha()
+    SELO = ((c.get("selo") if fase == "dia" else c.get("selo_esquenta")) or "") if c else ""
+    pico = bool(c and fase == "dia" and c.get("pico"))
+    teto = ACHADOS_PICO if pico else ACHADOS_POR_DIA
+    if pico:
+        a.max = max(a.max, ACHADOS_POR_RODADA_PICO)
+    if c:
+        print(f"Campanha: {c['nome']} ({fase}){' - dia de pico' if pico else ''}; selo: {SELO or '(nenhum)'}")
     hoje = agora.date().isoformat()
     achados_hoje = sum(1 for k, v in vistas.items() if v.get("link") and v.get("quando", "")[:10] == hoje)
-    quantos = max(0, min(a.max, ACHADOS_POR_DIA - achados_hoje))
+    quantos = max(0, min(a.max, teto - achados_hoje))
     feitos = feitos_shopee = feitos_cupom = 0
     try:
+        if agora.hour >= HORA_AVISOS:
+            for chave, texto in avisos_do_dia():
+                if chave not in vistas:
+                    vistas[chave] = {"quando": agora.isoformat(), "titulo": chave}
+                    publicar(texto, None, f"aviso | {chave}", a.enviar)
+                    break  # um aviso por rodada; outra campanha no mesmo dia sai na proxima
         if not a.sem_cupons:
             try:
                 lista_cupons = cupons.cupons_validos(next_data(baixar(FONTE, tentativas=3)))
@@ -515,7 +605,7 @@ def rodada_nuvem(a):
     finally:
         salvar_vistas(vistas)
     print(f"\n{feitos} achado(s) do ML (fila), {feitos_shopee} da Shopee e {feitos_cupom} cupom(ns). "
-          f"Achados hoje: {achados_hoje + feitos + feitos_shopee}/{ACHADOS_POR_DIA}.")
+          f"Achados hoje: {achados_hoje + feitos + feitos_shopee}/{teto}.")
 
 
 def posts_de_cupom(lista, vistas, enviar, listar):
@@ -586,7 +676,8 @@ def main():
     # genero primeiro, alternando mulher e homem; a ordem de desconto e mantida dentro de cada grupo.
     # A lista cresce no laco: ofertas que subiram de preco voltam no fim.
     vez = publico_da_vez(vistas)
-    fila = sorted(candidatas + folga, key=lambda o: prioridade(publico(o["titulo"], o["categoria"]), vez))
+    fila = sorted(candidatas + folga, key=lambda o: (na_campanha(o["titulo"], o["categoria"]),
+                                                     prioridade(publico(o["titulo"], o["categoria"]), vez)))
     if fila and not a.tag:
         raise SystemExit("Informe --tag ou defina ML_TAG.")
 
