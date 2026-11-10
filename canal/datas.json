@@ -1,0 +1,71 @@
+[
+ {"nome": "11.11", "artigo": "o", "inicio": "2026-11-11", "fim": "2026-11-11",
+  "selo": "🛍️ *OFERTAS 11.11*", "pico": true, "foco": "shopee"},
+
+ {"nome": "Black Friday", "artigo": "a", "esquenta": "2026-11-20", "inicio": "2026-11-27", "fim": "2026-11-29",
+  "selo_esquenta": "🔥 *ESQUENTA BLACK FRIDAY*", "selo": "🖤 *BLACK FRIDAY*", "pico": true, "contagem": true},
+
+ {"nome": "Cyber Monday", "artigo": "a", "inicio": "2026-11-30", "fim": "2026-11-30",
+  "selo": "💻 *CYBER MONDAY*", "pico": true, "vespera": null},
+
+ {"nome": "12.12", "artigo": "o", "esquenta": "2026-12-08", "inicio": "2026-12-12", "fim": "2026-12-12",
+  "selo_esquenta": "🔥 *ESQUENTA 12.12*", "selo": "🛍️ *OFERTAS 12.12*", "pico": true, "foco": "shopee", "contagem": true},
+
+ {"nome": "Natal", "artigo": "o", "esquenta": "2026-12-01", "inicio": "2026-12-25", "fim": "2026-12-25",
+  "selo_esquenta": "🎄 *PRESENTE DE NATAL*", "selo": "🎄 *FELIZ NATAL*", "contagem": true, "contagem_dias": 7,
+  "palavras": "brinquedo|boneca|lego|perfume|kit|presente|rel[oó]gio|fone|caixa de som|smartwatch|pel[uú]cia",
+  "vespera": "🎄 *Amanhã é Natal!*\n\nÚltimo dia de achados para o presente. Boas festas! 🎁",
+  "dia": "🎄 *Feliz Natal!*\n\nObrigado por acompanhar o Canal. Os achados voltam amanhã cedo. 🎁"},
+
+ {"nome": "Ano Novo", "artigo": "o", "esquenta": "2026-12-26", "inicio": "2027-01-01", "fim": "2027-01-01",
+  "selo_esquenta": "🥂 *ACHADOS DE ANO NOVO*", "selo": "🎆 *FELIZ ANO NOVO*",
+  "palavras": "branc|festa|espumante|ta[cç]a|vestido|mala|viagem|piscina|praia|cooler",
+  "vespera": "🎆 *Amanhã é Ano Novo!*\n\nObrigado por fazer parte do Canal em 2026. Que 2027 venha cheio de achados! 🥂",
+  "dia": "🎆 *Feliz Ano Novo!*\n\nOs achados de 2027 começam amanhã. 🥂"},
+
+ {"nome": "Volta às Aulas", "artigo": "a", "inicio": "2027-01-18", "fim": "2027-02-12",
+  "selo": "🎒 *VOLTA ÀS AULAS*", "vespera": null, "dia": null,
+  "palavras": "mochila|caderno|estojo|escolar|l[aá]pis|caneta|lancheira|garrafa|notebook|tablet|calculadora"},
+
+ {"nome": "Dia do Consumidor", "artigo": "o", "esquenta": "2027-03-10", "inicio": "2027-03-15", "fim": "2027-03-15",
+  "selo_esquenta": "🔥 *ESQUENTA DIA DO CONSUMIDOR*", "selo": "🛒 *DIA DO CONSUMIDOR*", "pico": true, "contagem": true},
+
+ {"nome": "Páscoa", "artigo": "a", "esquenta": "2027-03-21", "inicio": "2027-03-28", "fim": "2027-03-28",
+  "selo_esquenta": "🐰 *ACHADOS DE PÁSCOA*", "selo": "🐰 *FELIZ PÁSCOA*",
+  "palavras": "chocolate|p[aá]scoa|cacau|bombom|ovo",
+  "vespera": null, "dia": "🐰 *Feliz Páscoa!*\n\nOs achados voltam amanhã cedo. 🍫"},
+
+ {"nome": "Dia das Mães", "artigo": "o", "esquenta": "2027-04-25", "inicio": "2027-05-09", "fim": "2027-05-09",
+  "selo_esquenta": "💐 *PRESENTE DIA DAS MÃES*", "selo": "💐 *FELIZ DIA DAS MÃES*", "publico": "feminino",
+  "contagem": true, "contagem_dias": 7, "palavras": "perfume|kit|bolsa|rel[oó]gio|joia|colar|brinco|skincare|cafeteira|airfryer",
+  "vespera": "💐 *Amanhã é Dia das Mães!*\n\nAinda dá tempo de garantir o presente nos achados de hoje.",
+  "dia": "💐 *Feliz Dia das Mães!*"},
+
+ {"nome": "Dia dos Namorados", "artigo": "o", "esquenta": "2027-05-29", "inicio": "2027-06-12", "fim": "2027-06-12",
+  "selo_esquenta": "❤️ *PRESENTE DIA DOS NAMORADOS*", "selo": "❤️ *DIA DOS NAMORADOS*",
+  "contagem": true, "contagem_dias": 7, "palavras": "perfume|rel[oó]gio|joia|colar|anel|pulseira|kit|presente|chocolate|lingerie|fone",
+  "vespera": "❤️ *Amanhã é Dia dos Namorados!*\n\nAinda dá tempo de garantir o presente nos achados de hoje.",
+  "dia": "❤️ *Feliz Dia dos Namorados!*"},
+
+ {"nome": "Dia dos Pais", "artigo": "o", "esquenta": "2027-07-25", "inicio": "2027-08-08", "fim": "2027-08-08",
+  "selo_esquenta": "👔 *PRESENTE DIA DOS PAIS*", "selo": "👔 *FELIZ DIA DOS PAIS*", "publico": "masculino",
+  "contagem": true, "contagem_dias": 7, "palavras": "perfume|rel[oó]gio|carteira|barbeador|ferramenta|churrasco|t[eê]nis|fone|camisa",
+  "vespera": "👔 *Amanhã é Dia dos Pais!*\n\nAinda dá tempo de garantir o presente nos achados de hoje.",
+  "dia": "👔 *Feliz Dia dos Pais!*"},
+
+ {"nome": "Dia das Crianças", "artigo": "o", "esquenta": "2027-09-28", "inicio": "2027-10-12", "fim": "2027-10-12",
+  "selo_esquenta": "🧸 *PRESENTE DIA DAS CRIANÇAS*", "selo": "🧸 *DIA DAS CRIANÇAS*",
+  "contagem": true, "contagem_dias": 7, "palavras": "brinquedo|boneca|lego|carrinho|infantil|pel[uú]cia|jogo|bicicleta|patinete|kids",
+  "vespera": "🧸 *Amanhã é Dia das Crianças!*\n\nAinda dá tempo de garantir o presente nos achados de hoje.",
+  "dia": "🧸 *Feliz Dia das Crianças!*"},
+
+ {"nome": "2.2", "artigo": "o", "inicio": "2027-02-02", "fim": "2027-02-02", "selo": "🛍️ *OFERTAS 2.2*", "foco": "shopee"},
+ {"nome": "3.3", "artigo": "o", "inicio": "2027-03-03", "fim": "2027-03-03", "selo": "🛍️ *OFERTAS 3.3*", "foco": "shopee"},
+ {"nome": "4.4", "artigo": "o", "inicio": "2027-04-04", "fim": "2027-04-04", "selo": "🛍️ *OFERTAS 4.4*", "foco": "shopee"},
+ {"nome": "5.5", "artigo": "o", "inicio": "2027-05-05", "fim": "2027-05-05", "selo": "🛍️ *OFERTAS 5.5*", "foco": "shopee"},
+ {"nome": "6.6", "artigo": "o", "inicio": "2027-06-06", "fim": "2027-06-06", "selo": "🛍️ *OFERTAS 6.6*", "foco": "shopee"},
+ {"nome": "7.7", "artigo": "o", "inicio": "2027-07-07", "fim": "2027-07-07", "selo": "🛍️ *OFERTAS 7.7*", "foco": "shopee"},
+ {"nome": "8.8", "artigo": "o", "inicio": "2027-08-08", "fim": "2027-08-08", "selo": "🛍️ *OFERTAS 8.8*", "foco": "shopee", "vespera": null},
+ {"nome": "9.9", "artigo": "o", "inicio": "2027-09-09", "fim": "2027-09-09", "selo": "🛍️ *OFERTAS 9.9*", "foco": "shopee"},
+ {"nome": "10.10", "artigo": "o", "inicio": "2027-10-10", "fim": "2027-10-10", "selo": "🛍️ *OFERTAS 10.10*", "foco": "shopee"}
+]
