@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T14:00:34.494816",
+  "quando": "2026-11-10T14:30:29.709578",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2296,5 +2296,21 @@
   "link": "https://s.shopee.com.br/W87PJSDE1",
   "publico": null,
   "produto": "shopee:8337843814"
+ },
+ "3193838": {
+  "quando": "2026-11-10T14:30:34.559822",
+  "titulo": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LbBA8Wmx",
+  "publico": null,
+  "produto": "shopee:14494160625"
+ },
+ "3193982": {
+  "quando": "2026-11-10T14:31:44.454847",
+  "titulo": "Geladeira Electrolux Frost Free 432L Efficient AutoSense Duplex Branca (TF70)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1BqqNX5WJ",
+  "publico": null,
+  "produto": "shopee:22893986885"
  }
 }
