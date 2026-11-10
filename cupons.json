@@ -1,7 +1,19 @@
 {
-  "atualizado": "2026-11-10T14:04-03:00",
+  "atualizado": "2026-11-10T20:24-03:00",
   "fonte": "Promobit",
   "cupons": [
+    {
+      "codigo": "POUPAAGORA30",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Saúde, Esportes e mais",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-10T23:59:59-03:00",
+      "publicado": "2026-11-10T19:26-03:00"
+    },
     {
       "codigo": "ECONOMIZE",
       "pct": 30,
@@ -15,64 +27,52 @@
       "publicado": "2026-11-10T10:56-03:00"
     },
     {
-      "codigo": "",
-      "pct": 35,
+      "codigo": "OFERTAMELIMAIS1011",
+      "pct": 100,
       "fixo": null,
-      "minimo": 50.0,
-      "teto": null,
+      "minimo": 799.0,
+      "teto": 100.0,
       "categoria": "Selecionados",
       "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-15T23:59:59-03:00",
-      "publicado": "2026-11-09T15:11-03:00"
+      "automatico": false,
+      "ate": "2026-11-10T23:59:59-03:00",
+      "publicado": "2026-11-10T17:26-03:00"
     },
     {
-      "codigo": "",
+      "codigo": "CHEGOUCUPOM30",
       "pct": 30,
-      "fixo": null,
-      "minimo": 30.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-15T23:59:59-03:00",
-      "publicado": "2026-11-09T15:11-03:00"
-    },
-    {
-      "codigo": "DESCONTO",
-      "pct": 25,
       "fixo": null,
       "minimo": 1.0,
       "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2027-05-31T23:59:59-03:00",
-      "publicado": "2026-11-10T09:56-03:00"
+      "ate": "2026-12-10T23:59:59-03:00",
+      "publicado": "2026-11-10T19:26-03:00"
     },
     {
-      "codigo": "OFFAGORA",
-      "pct": 18,
+      "codigo": "OFERTAJA30",
+      "pct": 30,
       "fixo": null,
-      "minimo": 79.0,
-      "teto": 100.0,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-11-10T23:59:59-03:00",
-      "publicado": "2026-11-10T13:46-03:00"
+      "ate": "2026-12-10T23:59:59-03:00",
+      "publicado": "2026-11-10T19:16-03:00"
     },
     {
-      "codigo": "ULTIMASCHANCES",
-      "pct": 15,
+      "codigo": "PROMOFLASH30",
+      "pct": 30,
       "fixo": null,
-      "minimo": 79.0,
-      "teto": 100.0,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-11-10T23:59:59-03:00",
-      "publicado": "2026-11-10T11:16-03:00"
+      "ate": "2026-12-31T23:59:59-03:00",
+      "publicado": "2026-11-10T19:16-03:00"
     }
   ]
 }
