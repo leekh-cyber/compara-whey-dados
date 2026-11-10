@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T19:00:34.509163",
+  "quando": "2026-11-10T19:30:28.772108",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2450,5 +2450,74 @@
   "link": "https://meli.la/2Mg9n65",
   "publico": "masculino",
   "produto": "MLB4907814405"
+ },
+ "aviso:11.11:2026-11-10": {
+  "quando": "2026-11-10T19:30:28.772108",
+  "titulo": "aviso:11.11:2026-11-10"
+ },
+ "3195796": {
+  "quando": "2026-11-10T19:31:36.409575",
+  "titulo": "Mousepad Gamer Preto Sem Desenho Extra Grande 90 X 40 Cm",
+  "loja": "shopee"
+ },
+ "3195738": {
+  "quando": "2026-11-10T19:31:38.311626",
+  "titulo": "Kit 2 Óleos Extraordinário Elseve 100ml Nutrição Profunda e Anti-Frizz",
+  "loja": "shopee"
+ },
+ "3195799": {
+  "quando": "2026-11-10T19:31:39.332320",
+  "titulo": "Bombom Sonho De Valsa 20G Pc 1Kg",
+  "loja": "shopee"
+ },
+ "3195786": {
+  "quando": "2026-11-10T19:31:40.761518",
+  "titulo": "Ar-Condicionado de Janela Consul 10.000 BTUs Frio Mecânico CCB10GB com Design Moderno",
+  "loja": "shopee"
+ },
+ "3195744": {
+  "quando": "2026-11-10T19:31:42.118196",
+  "titulo": "Basike Ventilador portátil mini refrigeração display digital 10000mAh，Ventilador USB 20000RPM Alta potência ，fan330",
+  "loja": "shopee"
+ },
+ "3195737": {
+  "quando": "2026-11-10T19:31:42.918795",
+  "titulo": "KIT NIVEA Sabonete Líquido Óleo de Banho 200ml - 2 unidades",
+  "loja": "shopee"
+ },
+ "3195800": {
+  "quando": "2026-11-10T19:31:44.232855",
+  "titulo": "Kit Nivea 2 Hidratante Milk Pele Seca e Extraseca - 400ml",
+  "loja": "shopee"
+ },
+ "3195687": {
+  "quando": "2026-11-10T19:31:45.627795",
+  "titulo": "Xiaomi Redmi 17 4G – Versão Global, 128GB256GB",
+  "loja": "shopee"
+ },
+ "3195803": {
+  "quando": "2026-11-10T19:31:46.523814",
+  "titulo": "Amend KIT Seca Sem Frizz Leave-in 180g + Acidificante Máscara Equilíbrio do PH 250g",
+  "loja": "shopee"
+ },
+ "3195802": {
+  "quando": "2026-11-10T19:31:47.855433",
+  "titulo": "Nutella Ferrero Creme de Avelã 700g",
+  "loja": "shopee"
+ },
+ "3195753": {
+  "quando": "2026-11-10T19:31:49.237272",
+  "titulo": "Hub USB Type C 8 Em 1 5 EM 1 Com Leitor De Cartão",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3LSJ96wvD3",
+  "publico": null,
+  "produto": "shopee:58252023833"
+ },
+ "3195439": {
+  "quando": "2026-11-10T19:32:56.206935",
+  "titulo": "Camiseta Light T-shirt Insider (3 cores)",
+  "link": "https://meli.la/1CjD331",
+  "publico": "masculino",
+  "produto": "MLB4085597457"
  }
 }
