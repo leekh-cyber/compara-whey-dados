@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T12:30:28.435864",
+  "quando": "2026-11-10T13:00:38.464463",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2263,5 +2263,10 @@
   "link": "https://s.shopee.com.br/40hzTTzY4I",
   "publico": null,
   "produto": "shopee:7478320021"
+ },
+ "3193423": {
+  "quando": "2026-11-10T13:00:43.570086",
+  "titulo": "Monitor Gamer 34\" Curvo Branco 1ms 165Hz UltraWide (QHD) - 3440x1440 AMD FreeSync HD",
+  "loja": "shopee"
  }
 }
