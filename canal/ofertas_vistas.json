@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T14:30:29.709578",
+  "quando": "2026-11-10T15:00:32.066734",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2312,5 +2312,28 @@
   "link": "https://s.shopee.com.br/1BqqNX5WJ",
   "publico": null,
   "produto": "shopee:22893986885"
+ },
+ "3194145": {
+  "quando": "2026-11-10T15:00:36.231045",
+  "titulo": "Tênis De Corrida Masculino Qiaodan TG 2.0 SE Almofada Rocker Grossa Leve Treinamento De Longa Distância LEILI",
+  "loja": "shopee"
+ },
+ "3194203": {
+  "quando": "2026-11-10T15:00:37.815050",
+  "titulo": "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi e Bluetooth HY300 Magcubic 110220",
+  "loja": "shopee"
+ },
+ "3194219": {
+  "quando": "2026-11-10T15:00:39.989647",
+  "titulo": "HUAWEI MatePad SE 11\" | Tablet | Design de Corpo Único em Metal | 7700 mAh + Superbater",
+  "loja": "shopee"
+ },
+ "3194178": {
+  "quando": "2026-11-10T15:00:41.341904",
+  "titulo": "Carrinho Infantil Rolimã Gira Triciclo Roda Led Volante 360° Suporta 70kg Rosa Azul Vermelho Brinquedo Presente",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8fTpCIC0Os",
+  "publico": null,
+  "produto": "shopee:57753224604"
  }
 }
