@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T18:30:30.330189",
+  "quando": "2026-11-10T19:00:34.509163",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2425,5 +2425,30 @@
   "quando": "2026-11-10T18:31:43.343304",
   "titulo": "Kit 2 Pneus 18560 R15 XBRI Fastway F1 84H Aro 15 Novos",
   "loja": "shopee"
+ },
+ "3195580": {
+  "quando": "2026-11-10T19:00:45.301549",
+  "titulo": "Memória DDR4 Rise Mode Z 16GB 3200MHz Preto RM-D4-16G-3200Z",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2LZlv8sahN",
+  "publico": null,
+  "produto": "shopee:22299440899"
+ },
+ "3195487": {
+  "quando": "2026-11-10T19:00:41.463542",
+  "titulo": "Bicicleta EléTrica DobráVel Para Adultos 9Cavalo Pedal Tripulado Compras Ao Ar Livre Viagem Bicicleta Scooter EléT",
+  "loja": "shopee"
+ },
+ "3195492": {
+  "quando": "2026-11-10T19:00:42.868211",
+  "titulo": "Smart Tv Toshiba 50\" Qled Full Hd 60hz Vidaa com Wi-fi Dual Band e Bluetooth 50V45SS Bivolt",
+  "loja": "shopee"
+ },
+ "3195415": {
+  "quando": "2026-11-10T19:01:53.880349",
+  "titulo": "Tênis Fila Masculino Spry Esportivo Treino Corrida Academia",
+  "link": "https://meli.la/2Mg9n65",
+  "publico": "masculino",
+  "produto": "MLB4907814405"
  }
 }
