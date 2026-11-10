@@ -34,6 +34,8 @@ import subprocess
 import sys
 import tempfile
 import time
+import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -131,6 +133,16 @@ def internet_ok():
         return False
 
 
+def limite_de_pedidos(e):
+    """HTTP 429: o site pediu para esperar. A rodada para em vez de insistir nas outras ofertas
+    (insistir mantem o bloqueio); a proxima rodada tenta de novo. Diz qual site recusou."""
+    if isinstance(e, urllib.error.HTTPError) and e.code == 429:
+        site = urllib.parse.urlsplit(e.filename or "").hostname or "site desconhecido"
+        print(f"   {site} pediu para esperar (429): rodada encerrada, a proxima tenta de novo")
+        return True
+    return False
+
+
 def preparar_ao_acordar(segundos=120):
     """Quando a tarefa acorda o PC: impede que ele volte a dormir durante a rodada e espera o Wi-Fi voltar."""
     if os.name != "nt":
@@ -223,7 +235,7 @@ def repostar(vistas, quantos, enviar):
             d = extrair(v["link"])
         except OSError as e:
             print(f"[{k}] ERRO: {e}")
-            if not internet_ok():
+            if limite_de_pedidos(e) or not internet_ok():
                 break
             continue
         except SystemExit as e:
@@ -379,6 +391,9 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
                 texto = montar_post(d, meu_link, cupom=c and c["codigo"], cupom_detalhe=c and cupons.resumo(c))
             except BaseException as e:
                 print(f"[{o['id']}] ERRO: {e}")
+                if limite_de_pedidos(e):
+                    del vistas[o["id"]]  # a oferta nao foi avaliada: volta na proxima rodada
+                    break
                 if "Chrome" in str(e) or (isinstance(e, OSError) and not internet_ok()):
                     # conexao caiu (PC dormiu?): a oferta nao foi avaliada e as proximas falhariam igual.
                     # Pagina lenta de uma oferta so nao para a rodada: ela e pulada.
