@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T10:30:28.613076",
+  "quando": "2026-11-10T11:00:34.184638",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2153,5 +2153,64 @@
   "link": "https://meli.la/1MXTP9J",
   "publico": null,
   "produto": "MLB78717889"
+ },
+ "cupom:ECONOMIZE": {
+  "quando": "2026-11-10T11:00:36.807698",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Esportes, Saúde e mais"
+ },
+ "3192805": {
+  "quando": "2026-11-10T11:01:55.121700",
+  "titulo": "Bicicleta Aro 29 Ksw 21 Velocidades Cambio Shimano Alumínio Xlt 100 Mtb aero freio a disco suspensão Mtb",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7puhwMcohk",
+  "publico": null,
+  "produto": "shopee:22498106276"
+ },
+ "3192758": {
+  "quando": "2026-11-10T11:01:44.185633",
+  "titulo": "Bicicleta Aro 29 Ksw 21 Velocidades Cambio Shimano Alumínio Xlt 100 Mtb aero freio a di",
+  "loja": "shopee"
+ },
+ "3192777": {
+  "quando": "2026-11-10T11:01:45.696369",
+  "titulo": "Gabinete Gamer Aquário Aigo Apollo A275 Mini-Tower Lateral de Vidro Preto AC-A275-B-HQ1",
+  "loja": "shopee"
+ },
+ "3192780": {
+  "quando": "2026-11-10T11:01:47.389241",
+  "titulo": "Gabinete Gamer Bluecase BG-066 Life Mini-Tower Lateral de Vidro Preto BG-066-LIFE-BK",
+  "loja": "shopee"
+ },
+ "3192610": {
+  "quando": "2026-11-10T11:01:48.859151",
+  "titulo": "Caixa de Som Speaker Philco PBS45BT Extreme Bluetooth V5.3 40W",
+  "loja": "shopee"
+ },
+ "3192771": {
+  "quando": "2026-11-10T11:01:50.303895",
+  "titulo": "Gabinete Gamer Aquário Pichau Atom X Mini-Tower Lateral de Vidro Com 2 Fans Preto PG-ATOMX-BK",
+  "loja": "shopee"
+ },
+ "3192615": {
+  "quando": "2026-11-10T11:01:51.674471",
+  "titulo": "Controle Xbox Series QAS-00007 Sem Fio Branco",
+  "loja": "shopee"
+ },
+ "3192695": {
+  "quando": "2026-11-10T11:01:53.042076",
+  "titulo": "Kit Fraldas Descartáveis Pampers SuperSequinha - Tamanho G 160 unidades",
+  "loja": "shopee"
+ },
+ "3192628": {
+  "quando": "2026-11-10T11:01:54.062039",
+  "titulo": "Water Cooler GStorm HX700 ARGB 360mm 320W Intel AMD",
+  "loja": "shopee"
+ },
+ "3192010": {
+  "quando": "2026-11-10T11:03:01.892222",
+  "titulo": "Vaso Sanitário Inteligente Smart Toilet Automático Tubrax Branco 220V VAB0038",
+  "link": "https://meli.la/2osmSz3",
+  "publico": null,
+  "produto": "MLB63315647"
  }
 }
