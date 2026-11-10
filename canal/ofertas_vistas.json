@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T12:00:36.835523",
+  "quando": "2026-11-10T12:30:28.435864",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2236,5 +2236,32 @@
   "link": "https://s.shopee.com.br/1LhEGXUXyz",
   "publico": null,
   "produto": "shopee:23293653632"
+ },
+ "cupom:DESCONTO": {
+  "quando": "2026-11-10T12:30:31.235404",
+  "titulo": "Cupom Mercado Livre: 25% OFF acima de R$ 1 (até R$ 500) em Selecionados"
+ },
+ "3193392": {
+  "quando": "2026-11-10T12:31:36.814940",
+  "titulo": "Produto Para Limpar Painel e Plásticos Sintra Fast Vonixx",
+  "loja": "shopee"
+ },
+ "3193267": {
+  "quando": "2026-11-10T12:31:38.037836",
+  "titulo": "Smartphone Infinix HOT 70 256GB 8GB RAM, Bateria 5600mAh, NFC e Tela 120Hz",
+  "loja": "shopee"
+ },
+ "3193315": {
+  "quando": "2026-11-10T12:31:39.745168",
+  "titulo": "Processador AMD Ryzen 7 5700 3.7 GHz (4.6GHz Max Turbo) Cache 4 MB 8 Núcleos 16 Thr",
+  "loja": "shopee"
+ },
+ "3193393": {
+  "quando": "2026-11-10T12:31:40.600151",
+  "titulo": "Produto Para Limpar Painel e Plásticos Sintra Fast Vonixx",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/40hzTTzY4I",
+  "publico": null,
+  "produto": "shopee:7478320021"
  }
 }
