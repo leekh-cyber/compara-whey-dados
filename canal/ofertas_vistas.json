@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T15:30:30.030109",
+  "quando": "2026-11-10T16:00:32.751551",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2355,5 +2355,26 @@
   "link": "https://s.shopee.com.br/5q9drIFur6",
   "publico": null,
   "produto": "shopee:58260042754"
+ },
+ "3194402": {
+  "quando": "2026-11-10T16:00:38.546898",
+  "titulo": "Smartphone Motorola Moto G17 4G 12GB Câmera 50MP Sony Lytia 600 Tela FHD+ 60Hz Bateria",
+  "loja": "shopee"
+ },
+ "3194397": {
+  "quando": "2026-11-10T16:00:41.315173",
+  "titulo": "Kit 03 Uni Limpa Contato Elétrico Eletronico Mundial Prime",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AAId3AZLfx",
+  "publico": null,
+  "produto": "shopee:58266747525"
+ },
+ "3187186": {
+  "quando": "2026-11-10T16:01:51.963969",
+  "titulo": "Smart TV AOC 50\" DLED 4K UHD Roku TV 50U706678G",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qOZVbzQUX",
+  "publico": null,
+  "produto": "shopee:48217403916"
  }
 }
