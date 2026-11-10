@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-09T22:00:30.966794",
+  "quando": "2026-11-09T22:30:27.926810",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1853,5 +1853,13 @@
   "quando": "2026-11-09T22:00:37.054424",
   "titulo": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Galaxy AI, Câmera Tripla",
   "loja": "shopee"
+ },
+ "3191255": {
+  "quando": "2026-11-09T22:30:37.035181",
+  "titulo": "DESINFETANTE ATÉ 150 5 LITROS Tira Cheiro De Xixi de Cachorro Gato Essência TALCO",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8VANtzmG2T",
+  "publico": null,
+  "produto": "shopee:54760387056"
  }
 }
