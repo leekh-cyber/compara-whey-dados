@@ -54,6 +54,8 @@ def config():
     cfg["token"] = os.environ.get("WHAPI_TOKEN") or cfg.get("token", "")
     cfg["canal"] = os.environ.get("WHAPI_CANAL") or cfg.get("canal", "")
     cfg["modo"] = os.environ.get("WHAPI_MODO") or cfg.get("modo", "imagem")  # link | imagem | texto
+    # Gateway proprio (pasta gateway/) responde nos mesmos caminhos: troque so o endereco e o token.
+    cfg["base"] = (os.environ.get("WHAPI_BASE") or cfg.get("base") or BASE).rstrip("/")
     if not cfg["token"]:
         raise SystemExit("Falta o token do Whapi. Crie o whapi.json (veja o topo do whapi.py).")
     return cfg
@@ -62,7 +64,7 @@ def config():
 def chamar(metodo, caminho, corpo=None):
     cfg = config()
     req = urllib.request.Request(
-        BASE + caminho, method=metodo,
+        cfg["base"] + caminho, method=metodo,
         data=json.dumps(corpo).encode() if corpo is not None else None,
         headers={"Authorization": f"Bearer {cfg['token']}", "Content-Type": "application/json",
                  "Accept": "application/json", "User-Agent": "ComparaWhey/1.0"},
@@ -134,14 +136,16 @@ def foto_quadrada(url):
             return None
 
 
-def postar(texto, imagem=None):
-    """Posta no Canal. Modo link: card com foto que abre o link + texto. Modo imagem: foto + legenda. Sem imagem: so texto."""
+def postar(texto, imagem=None, editar=None):
+    """Posta no Canal. Modo link: card com foto que abre o link + texto. Modo imagem: foto + legenda. Sem imagem: so texto.
+    editar: id de um post ja enviado; o Canal troca o texto dele (testado em post de 31h em 10/11/2026)."""
     cfg = config()
     if not cfg["canal"].endswith("@newsletter"):
         raise SystemExit('Falta o ID do Canal no whapi.json ("canal": "...@newsletter"). Rode: python whapi.py --canais')
+    extra = {"edit": editar} if editar else {}
     if cfg["modo"] == "link" and imagem and "https://" in texto:
         # O Whapi exige title; em branco o card mostra so a foto e o dominio (meli.la).
-        card = {"to": cfg["canal"], "body": texto, "title": " "}
+        card = {"to": cfg["canal"], "body": texto, "title": " ", **extra}
         original = imagem_jpg(imagem)
         quadrada = foto_quadrada(original)
         if quadrada:
@@ -151,9 +155,9 @@ def postar(texto, imagem=None):
                 print(f"Foto quadrada recusada ({e}); enviando a original.")
         return chamar("POST", "/messages/link_preview", {**card, "media": original})
     if cfg["modo"] != "texto" and imagem:
-        return chamar("POST", "/messages/image", {"to": cfg["canal"], "media": imagem_jpg(imagem), "caption": texto})
+        return chamar("POST", "/messages/image", {"to": cfg["canal"], "media": imagem_jpg(imagem), "caption": texto, **extra})
     # Sem foto propria, o WhatsApp usaria a imagem da pagina do link: no perfil social, a de um produto qualquer.
-    return chamar("POST", "/messages/text", {"to": cfg["canal"], "body": texto, "no_link_preview": True})
+    return chamar("POST", "/messages/text", {"to": cfg["canal"], "body": texto, "no_link_preview": True, **extra})
 
 
 def listar_canais():
