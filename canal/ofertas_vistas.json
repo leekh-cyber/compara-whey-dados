@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T08:00:32.913523",
+  "quando": "2026-11-10T08:30:27.836887",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1976,5 +1976,41 @@
   "link": "https://s.shopee.com.br/8KqyL1E0Hw",
   "publico": null,
   "produto": "shopee:23294433108"
+ },
+ "3191898": {
+  "quando": "2026-11-10T08:30:39.684688",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus M com 148",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8VAOZCWZl9",
+  "publico": null,
+  "produto": "shopee:22692564994"
+ },
+ "3191896": {
+  "quando": "2026-11-10T08:30:36.116237",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus XG com 116",
+  "loja": "shopee"
+ },
+ "3191895": {
+  "quando": "2026-11-10T08:30:37.654677",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112",
+  "loja": "shopee"
+ },
+ "3191897": {
+  "quando": "2026-11-10T08:30:38.810579",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus G com 128",
+  "loja": "shopee"
+ },
+ "3191950": {
+  "quando": "2026-11-10T08:31:51.235147",
+  "titulo": "Amaciante Downy Concentrado Sensitive Hipoalergênico 1,35L",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50aWOqqXex",
+  "publico": null,
+  "produto": "shopee:10968517012"
+ },
+ "3191951": {
+  "quando": "2026-11-10T08:31:49.817169",
+  "titulo": "Notebook Positivo Vision R15 Ryzen 5-5500U, 16GB RAM, 256GB SSD, Tela15.6” FHD IPS, Lunix",
+  "loja": "shopee"
  }
 }
