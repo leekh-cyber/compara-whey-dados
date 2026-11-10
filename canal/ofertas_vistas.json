@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T20:00:31.789667",
+  "quando": "2026-11-10T20:30:28.331710",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -1294,7 +1294,8 @@
   "shopee": [
    1406964673,
    58206660328
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:50.312630"
  },
  "3186923": {
   "quando": "2026-11-08T21:01:50.694217",
@@ -1314,7 +1315,8 @@
   "shopee": [
    1592831479,
    52658576440
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:50.886834"
  },
  "3186926": {
   "quando": "2026-11-08T21:30:33.104427",
@@ -1334,7 +1336,8 @@
   "shopee": [
    672880157,
    58209305993
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:51.273445"
  },
  "3186907": {
   "quando": "2026-11-08T21:31:44.642612",
@@ -1349,7 +1352,8 @@
   "shopee": [
    616222685,
    12782096688
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:51.557956"
  },
  "3186886": {
   "quando": "2026-11-08T22:00:32.712093",
@@ -1364,7 +1368,9 @@
   "shopee": [
    339693855,
    58219522951
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:51.799944",
+  "encerrada": "2026-11-10T20:32:59.651806"
  },
  "3186919": {
   "quando": "2026-11-08T22:01:42.164062",
@@ -1444,7 +1450,9 @@
   "shopee": [
    365399646,
    47353036643
-  ]
+  ],
+  "conferido": "2026-11-10T20:32:59.651831",
+  "encerrada": "2026-11-10T20:33:08.908219"
  },
  "3187225": {
   "quando": "2026-11-09T08:02:04.023986",
@@ -1459,7 +1467,9 @@
   "shopee": [
    1343318906,
    29695795023
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:08.908246",
+  "encerrada": "2026-11-10T20:33:16.439487"
  },
  "3187255": {
   "quando": "2026-11-09T08:02:01.413528",
@@ -1489,7 +1499,8 @@
   "shopee": [
    313957967,
    21329235580
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:16.439514"
  },
  "3187444": {
   "quando": "2026-11-09T08:31:40.182375",
@@ -1519,7 +1530,8 @@
   "shopee": [
    539970515,
    18826319006
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:16.769904"
  },
  "3187458": {
   "quando": "2026-11-09T09:01:48.911592",
@@ -1550,7 +1562,8 @@
   "shopee": [
    898761179,
    58257621281
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:17.108088"
  },
  "3187612": {
   "quando": "2026-11-09T09:31:40.726046",
@@ -1585,7 +1598,8 @@
   "shopee": [
    566931825,
    54917303033
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:17.342377"
  },
  "3187669": {
   "quando": "2026-11-09T10:01:44.381641",
@@ -1610,7 +1624,8 @@
   "shopee": [
    387348115,
    23393830955
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:17.610029"
  },
  "3187683": {
   "quando": "2026-11-09T10:31:46.101695",
@@ -1641,7 +1656,8 @@
   "shopee": [
    417489596,
    23198570477
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:17.836957"
  },
  "3187545": {
   "quando": "2026-11-09T11:02:51.465137",
@@ -1666,7 +1682,8 @@
   "shopee": [
    371728614,
    23093133129
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:18.228710"
  },
  "3187561": {
   "quando": "2026-11-09T11:31:38.544770",
@@ -1691,7 +1708,9 @@
   "shopee": [
    1230684338,
    19699242179
-  ]
+  ],
+  "conferido": "2026-11-10T20:33:18.516443",
+  "encerrada": "2026-11-10T20:33:26.620425"
  },
  "3188075": {
   "quando": "2026-11-09T12:01:48.559874",
@@ -3148,5 +3167,47 @@
   "msg": "PsoKHF7_5m.XwqM-12sBq53iqHP95g-9Q",
   "texto": "*Kit 3 Painel Led Plafon Aluminio Embutir Quadrado 6500K Branco Frio 18w 22x22Cm*\n\nDe ~R$112~\nPor *R$59* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1RyG6cM\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "preco": 59.0
+ },
+ "3196039": {
+  "quando": "2026-11-10T20:30:34.596939",
+  "titulo": "Cereal Sucrilhos Original Kellogg&#039;s 1kg",
+  "loja": "shopee"
+ },
+ "3196025": {
+  "quando": "2026-11-10T20:30:36.420670",
+  "titulo": "Placa-mãe Asus B550M-Plus TUF Gaming AM4",
+  "loja": "shopee"
+ },
+ "3195977": {
+  "quando": "2026-11-10T20:30:37.937948",
+  "titulo": "Placa-mãe Asus pAMD AM4 B550M-Plus TUF Gaming 4xDDR4 mATX",
+  "loja": "shopee"
+ },
+ "3195958": {
+  "quando": "2026-11-10T20:30:39.321744",
+  "titulo": "Sérum Elixir Antiporosidade, Protetor Térmico e Brilho, L'Oréal Paris Elseve Glycolic Gloss, 100ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7Af1kveuir",
+  "publico": null,
+  "produto": "shopee:58262720205",
+  "preco": 24.9,
+  "shopee": [
+   1855095856,
+   58262720205
+  ],
+  "msg": "PspnkcQAeHUcZV4-110Bq53iqHP95g-9g",
+  "texto": "*Sérum Elixir Antiporosidade, Protetor Térmico e Brilho, L'Oréal Paris Elseve Glycolic Gloss, 100ml*\n\nDe ~R$45~\nPor *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7Af1kveuir\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpl8favmckci2d"
+ },
+ "3195454": {
+  "quando": "2026-11-10T20:31:45.870606",
+  "titulo": "Gel De Limpeza Acne Control Para Pele Oleosa 340g Cerave",
+  "link": "https://meli.la/2ZehdP1",
+  "publico": null,
+  "produto": "MLB4755919816",
+  "preco": null,
+  "msg": "Psq4WoX9g084r.0-1_0Bq53iqHP95g-9w",
+  "texto": "*Gel De Limpeza Acne Control Para Pele Oleosa 340g Cerave*\n\nDe ~R$115~\nPor *R$57* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2ZehdP1\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_667295-MLA75417882354_042024-P.webp"
  }
 }
