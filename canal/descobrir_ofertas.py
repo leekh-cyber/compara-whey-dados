@@ -85,6 +85,8 @@ SELO = ""                   # selo da campanha no topo dos achados; so a rodada 
 
 # ---- Ofertas encerradas: o post e editado (o Canal aceita editar posts antigos) ----
 ENCERRADA = "❌ *OFERTA ENCERRADA*\n_O preço subiu ou o produto esgotou._"
+CUPOM_ENCERRADO = "❌ *CUPOM ENCERRADO*\n_Venceu ou esgotou._"
+FONTE_CUPONS = "https://www.promobit.com.br/cupons/loja/mercado-livre/"  # so os cupons no ar (40)
 HORAS_CONFERIR = 48         # confere os achados postados nas ultimas N horas
 CONFERIR_SHOPEE_H = 3       # nuvem: cada post da Shopee e conferido de N em N horas
 CONFERIR_ML_H = 6           # PC: cada post do ML e conferido de N em N horas (pagina do ML, com calma)
@@ -593,9 +595,9 @@ def acabou(v, agora):
     return agora is None or agora > v["preco"] * (1 + TOLERANCIA_PRECO)
 
 
-def encerrar(v, imagem, motivo, enviar):
+def encerrar(v, imagem, motivo, enviar, aviso=ENCERRADA):
     """Edita o post: o aviso no topo e o texto original embaixo (o link continua, para quem quiser conferir)."""
-    texto = f"{ENCERRADA}\n\n{v['texto']}"
+    texto = f"{aviso}\n\n{v['texto']}"
     print(f"\n===== OFERTA ENCERRADA ({motivo}) | {v.get('titulo', '')[:50]} =====")
     if enviar:
         from whapi import postar
@@ -647,6 +649,45 @@ def encerrar_ml_da_fila(vistas, enviar):
         # o post pode ter sido repostado depois da conferencia: so vale conferencia posterior ao post
         if v and v.get("msg") and not v.get("encerrada") and e["quando"] >= v.get("quando", ""):
             feitos += encerrar(v, e.get("imagem"), e.get("motivo", "ML"), enviar)
+    return feitos
+
+
+def _quando_promobit(txt):
+    try:
+        return datetime.fromisoformat(re.sub(r"([+-]\d\d)(\d\d)$", r"\1:\2", str(txt).replace("Z", "+00:00")))
+    except ValueError:
+        return None
+
+
+def conferir_cupons(vistas, enviar):
+    """Nuvem: cupom postado nas ultimas 48h que venceu, ou que o Promobit tirou do ar (esgotou), tem o post editado.
+    A pagina so mostra os cupons no ar mais recentes: sumir so conta para cupom mais novo que o mais velho da lista."""
+    limite = (datetime.now() - timedelta(hours=HORAS_CONFERIR)).isoformat()
+    alvos = [(k, v) for k, v in vistas.items() if k.startswith("cupom:") and v.get("msg") and v.get("texto")
+             and not v.get("encerrada") and v.get("quando", "") >= limite]
+    if not alvos:
+        return 0
+    try:
+        brutos = (next_data(baixar(FONTE_CUPONS, tentativas=2)).get("serverCoupons") or {}).get("coupons") or []
+    except (OSError, RuntimeError, ValueError) as e:
+        print(f"Conferir cupons: ERRO ao ler o Promobit: {e}")
+        return 0
+    agora = datetime.now(timezone.utc)
+    no_ar = {str(c.get("couponId")) for c in brutos if c.get("couponStatusName") == "APPROVED"}
+    # cupons fixos antigos (ex.: de setembro) ficam na lista: a cobertura e medida so pelos da ultima semana
+    datas = [d for d in (_quando_promobit(c.get("couponPublished")) for c in brutos)
+             if d and agora - d < timedelta(days=7)]
+    cobertura = min(datas) if len(datas) >= 10 else None
+    feitos = 0
+    for k, v in alvos:
+        ate, publicado = _quando_promobit(v.get("ate") or ""), _quando_promobit(v.get("publicado") or "")
+        motivo = None
+        if ate and ate < agora:
+            motivo = "venceu"
+        elif v.get("id") and v["id"] not in no_ar and cobertura and publicado and publicado > cobertura:
+            motivo = "saiu do ar no Promobit"
+        if motivo:
+            feitos += encerrar(v, None, f"cupom {motivo}", enviar, aviso=CUPOM_ENCERRADO)
     return feitos
 
 
@@ -738,6 +779,8 @@ def rodada_nuvem(a):
         if feitos + feitos_shopee < quantos and feitos_shopee == cota:
             feitos_shopee += rodada_shopee(vistas, quantos - feitos - feitos_shopee, a.enviar)
         encerradas = conferir_shopee(vistas, a.enviar) + encerrar_ml_da_fila(vistas, a.enviar)
+        if not a.sem_cupons:
+            encerradas += conferir_cupons(vistas, a.enviar)
     finally:
         salvar_vistas(vistas)
     print(f"\n{feitos} achado(s) do ML (fila), {feitos_shopee} da Shopee e {feitos_cupom} cupom(ns). "
@@ -761,8 +804,11 @@ def posts_de_cupom(lista, vistas, enviar, listar):
     if de_hoje and datetime.now() - datetime.fromisoformat(max(de_hoje)) < timedelta(hours=cupons.INTERVALO_CUPOM_HORAS):
         return 0
     for c in novos[:min(cupons.CUPONS_POR_RODADA, max(0, cupons.CUPONS_POR_DIA - feitos_hoje))]:
-        vistas[f"cupom:{c['codigo'] or c['id']}"] = {"quando": datetime.now().isoformat(), "titulo": c["titulo"]}
-        publicar(cupons.post_cupom(c, LINK_CUPONS), None, f"cupom | {c['codigo'] or 'automatico'}", enviar)
+        chave = f"cupom:{c['codigo'] or c['id']}"
+        vistas[chave] = {"quando": datetime.now().isoformat(), "titulo": c["titulo"], "id": c["id"],
+                         "publicado": c["publicado"].isoformat(), "ate": c["ate"]}
+        publicar(cupons.post_cupom(c, LINK_CUPONS), None, f"cupom | {c['codigo'] or 'automatico'}", enviar,
+                 registro=vistas[chave])
         feitos += 1
     return feitos
 
