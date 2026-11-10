@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T08:30:27.836887",
+  "quando": "2026-11-10T09:00:34.497099",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2011,6 +2011,19 @@
  "3191951": {
   "quando": "2026-11-10T08:31:49.817169",
   "titulo": "Notebook Positivo Vision R15 Ryzen 5-5500U, 16GB RAM, 256GB SSD, Tela15.6” FHD IPS, Lunix",
+  "loja": "shopee"
+ },
+ "3191973": {
+  "quando": "2026-11-10T09:00:41.844167",
+  "titulo": "Toalha Umedecida Turma da Alegria Total 1120 unidades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6q2AcCZc1L",
+  "publico": null,
+  "produto": "shopee:23792979098"
+ },
+ "3192109": {
+  "quando": "2026-11-10T09:00:39.989291",
+  "titulo": "Abajur Infantil Safari Animais da Floresta (3 Cores)",
   "loja": "shopee"
  }
 }
