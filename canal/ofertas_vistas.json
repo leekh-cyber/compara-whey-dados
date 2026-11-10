@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T10:00:32.835448",
+  "quando": "2026-11-10T10:30:28.613076",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2058,5 +2058,100 @@
   "link": "https://meli.la/2EAFS1P",
   "publico": "feminino",
   "produto": "MLB14133101"
+ },
+ "3192545": {
+  "quando": "2026-11-10T10:30:33.230348",
+  "titulo": "Gabinete Gamer Mancer CV450 Mini-Tower Lateral de Vidro Preto, MCR-CV450-BK",
+  "loja": "shopee"
+ },
+ "3192578": {
+  "quando": "2026-11-10T10:30:52.372560",
+  "titulo": "Fonte ATX Gamemax 600W GS600 com Cabo PFC Ativo 80 Plus White Preto",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4LKpjnd7fa",
+  "publico": null,
+  "produto": "shopee:46856458828"
+ },
+ "3192567": {
+  "quando": "2026-11-10T10:30:35.958705",
+  "titulo": "Cadeira Presidente Ergonomica Escritorio Mesh Reclinavel Com Apoio De Pes Retratil E Apoio De Cabeça",
+  "loja": "shopee"
+ },
+ "3192517": {
+  "quando": "2026-11-10T10:30:36.741055",
+  "titulo": "Monitor Gamer Duex Pro 27 QHD 180Hz 05ms 2hdmi 2dp Preto",
+  "loja": "shopee"
+ },
+ "3192471": {
+  "quando": "2026-11-10T10:30:37.494288",
+  "titulo": "Monitor Gamer Mancer Horizon Z2, 27 Pol, VA, FHD, 100Hz, 1ms, HDMIVGA, MCR-HZN27-BL2",
+  "loja": "shopee"
+ },
+ "3192470": {
+  "quando": "2026-11-10T10:30:38.711194",
+  "titulo": "Fonte Cougar Atlas 650W 80 Plus Bronze ATX 3.1 PFC Ativo Preto - 31AA065001P01",
+  "loja": "shopee"
+ },
+ "3192557": {
+  "quando": "2026-11-10T10:30:40.809574",
+  "titulo": "Water Cooler Gamer Ninja Yuki, ARGB, 360mm, Intel-AMD, Controladora, Black, GN-WC-YK360RB",
+  "loja": "shopee"
+ },
+ "3192499": {
+  "quando": "2026-11-10T10:30:41.633142",
+  "titulo": "Kit Ventoinhas TGT Striker, Rainbow, 5x120mm, TGT-STK5-BLRBW",
+  "loja": "shopee"
+ },
+ "3192550": {
+  "quando": "2026-11-10T10:30:42.457470",
+  "titulo": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
+  "loja": "shopee"
+ },
+ "3192528": {
+  "quando": "2026-11-10T10:30:43.317112",
+  "titulo": "PowerBank Baseus FC51 Bipow2 Pro 20000mAh 22.5W com Cabo Integrado e Display Digital En",
+  "loja": "shopee"
+ },
+ "3192602": {
+  "quando": "2026-11-10T10:30:44.605569",
+  "titulo": "Máquina Lavar Brastemp 14Kg Ciclo Tira Manchas Branca",
+  "loja": "shopee"
+ },
+ "3192502": {
+  "quando": "2026-11-10T10:30:46.740787",
+  "titulo": "Gabinete Gamer Mancer CV450 Mini-Tower Lateral de Vidro Com 9 Fans Preto MCR-CV450",
+  "loja": "shopee"
+ },
+ "3192526": {
+  "quando": "2026-11-10T10:30:47.520677",
+  "titulo": "Gabinete Gamer Aquário em Vidro Com 4 Fans RGB GB1796",
+  "loja": "shopee"
+ },
+ "3192516": {
+  "quando": "2026-11-10T10:30:48.561877",
+  "titulo": "Headset Gamer Havit Fuxi-H5D P2 3.5Mm Drivers De 50Mm Preto Multiplataforma",
+  "loja": "shopee"
+ },
+ "3192540": {
+  "quando": "2026-11-10T10:30:49.321447",
+  "titulo": "Monitor Gamer Haiz 25'' 144hz 0.5ms 1920x1080 HDR10 Resolução FHD HDMIDP Painel IPS VE",
+  "loja": "shopee"
+ },
+ "3192464": {
+  "quando": "2026-11-10T10:30:50.376585",
+  "titulo": "PC Home Essential S, Intel Core i3, 8GB DE RAM, SSD 120GB",
+  "loja": "shopee"
+ },
+ "3192524": {
+  "quando": "2026-11-10T10:30:51.077201",
+  "titulo": "iPhone 17 Pro  17 Pro Max, 256GB, 12GB RAM, 5G, Tela OLED de 6,9”",
+  "loja": "shopee"
+ },
+ "3192072": {
+  "quando": "2026-11-10T10:32:04.970825",
+  "titulo": "Ar Condicionado Portátil Haier 12000 Btus Frio 110v R32 Branco 110v",
+  "link": "https://meli.la/1MXTP9J",
+  "publico": null,
+  "produto": "MLB78717889"
  }
 }
