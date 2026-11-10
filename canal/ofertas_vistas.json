@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T11:30:30.421041",
+  "quando": "2026-11-10T12:00:36.835523",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2220,5 +2220,21 @@
   "link": "https://s.shopee.com.br/50aWb7vehe",
   "publico": null,
   "produto": "shopee:23697969853"
+ },
+ "3193172": {
+  "quando": "2026-11-10T12:00:41.863112",
+  "titulo": "Chocolate Trento Mousse De Maracujá Com 16 Unidades De 29g",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4VeG2HBmTJ",
+  "publico": null,
+  "produto": "shopee:23593395687"
+ },
+ "3193260": {
+  "quando": "2026-11-10T12:01:54.858349",
+  "titulo": "Cadeira Gamer Pichau Donek Signature Tecido Indigo PCH-DKSE-IDO",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1LhEGXUXyz",
+  "publico": null,
+  "produto": "shopee:23293653632"
  }
 }
