@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T13:30:28.866425",
+  "quando": "2026-11-10T14:00:34.494816",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2276,5 +2276,25 @@
   "link": "https://s.shopee.com.br/50aWjMw1ca",
   "publico": null,
   "produto": "shopee:22698881511"
+ },
+ "cupom:PROMOPRACONSTRU": {
+  "quando": "2026-11-10T14:00:36.286013",
+  "titulo": "Cupom Mercado Livre: 20% OFF acima de R$ 79 (até R$ 80) em Ferramentas e Construção"
+ },
+ "3193818": {
+  "quando": "2026-11-10T14:01:41.142082",
+  "titulo": "Mesa Dobrável Vira Maleta Alumínio Com Alça Camping Pesca Jardim Branco LuvinCo",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8VAOvvzdcv",
+  "publico": null,
+  "produto": "shopee:52653471245"
+ },
+ "3193829": {
+  "quando": "2026-11-10T14:02:51.466625",
+  "titulo": "Pasta De Amendoim Integral Vários Sabores Maniforce",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/W87PJSDE1",
+  "publico": null,
+  "produto": "shopee:8337843814"
  }
 }
