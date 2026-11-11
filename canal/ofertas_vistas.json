@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T13:30:28.933926",
+  "quando": "2026-11-11T14:00:31.571896",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -4039,7 +4039,8 @@
   },
   "msg": "Psq5.TKnXpL3C7k-1woBq53iqHP95g-ARI",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Gabinete Gamer Pichau Osiris PRO, Mid-Tower, Lateral de Vidro, Preto, PG-OSIP-BK*\n\nDe ~R$662~\nPor *R$298* 🔥\n\n🎟️ Cupom: *C0M3C0U35*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/BVIPBARFB\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-mseai72813ia0b"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-mseai72813ia0b",
+  "conferido": "2026-11-11T14:05:11.772428"
  },
  "3199586": {
   "quando": "2026-11-11T11:03:15.199985",
@@ -4061,7 +4062,8 @@
   },
   "msg": "PsqhsJHVvDt7GJw-1.oBq53iqHP95g-ARM",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Processador Amd Ryzen 7 5700x Oem Sem Cooler*\n\nDe ~R$1999~\nPor *R$1160* 🔥\n\n🎟️ Cupom: *300DATADUPLAAF*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/114POn0ung\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtv3th9psf0n77"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtv3th9psf0n77",
+  "conferido": "2026-11-11T14:05:12.148379"
  },
  "3199600": {
   "quando": "2026-11-11T11:01:48.407588",
@@ -4163,7 +4165,8 @@
   "cupom": null,
   "msg": "PsrmBVGmk9y4ThE-1zYBq53iqHP95g-ARQ",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 4 peças Macaquinho de Bebe para Mesversário Temático Safari Promoção 100% Algodão Verão Confortável*\n\nPor *R$32* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5fqExRh3wQ\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260m-mmbyd21zi9kze2"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260m-mmbyd21zi9kze2",
+  "conferido": "2026-11-11T14:05:12.343153"
  },
  "3199728": {
   "quando": "2026-11-11T11:33:05.204014",
@@ -4695,5 +4698,96 @@
   "msg": "PsqNyGneltn2_M0-10sBq53iqHP95g-ASI",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis De Corrida Feminino Questar 4 adidas Preto Liso 34 Br*\n\nDe ~R$599~\nPor *R$349* 🔥 no pix\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$297*\n\n👉 *Pegar promoção:* https://meli.la/1Vebbv2\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_812312-MLB110045842976_042026-P.webp"
+ },
+ "cupom:APROVEITAAGORA": {
+  "quando": "2026-11-11T14:00:34.760239",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 79 (até R$ 30) em Selecionados",
+  "id": "71915",
+  "publicado": "2026-11-11T13:16:20-03:00",
+  "ate": "2026-11-11T23:59:59-0300",
+  "msg": "PsprbzXsfDjt8.0-1w4Bq53iqHP95g-ASM",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$79, até R$30*\nem Selecionados\n\nCódigo: *APROVEITAAGORA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3200871": {
+  "quando": "2026-11-11T14:01:40.173679",
+  "titulo": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
+  "loja": "shopee"
+ },
+ "3201044": {
+  "quando": "2026-11-11T14:01:44.354532",
+  "titulo": "Carrinho de Bebê EasyGo cCesto 3 Rodas Passeio Até 15kgs KaBaby (4 Cores)",
+  "loja": "shopee"
+ },
+ "3200758": {
+  "quando": "2026-11-11T14:01:53.461200",
+  "titulo": "Placa-mãe ASUS pAMD AM4 B550M-Plus TUF Gaming 4xDDR4 mATX",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2gCda7QLew",
+  "publico": null,
+  "produto": "shopee:23293788558",
+  "preco": 748.99,
+  "shopee": [
+   344381236,
+   23293788558
+  ],
+  "cupom": null,
+  "msg": "PsrH9r5kVQXGHlE-17YBq53iqHP95g-ASQ",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0*\n\nDe ~R$1291~\nPor *R$749* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gCda7QLew\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88"
+ },
+ "3201004": {
+  "quando": "2026-11-11T14:02:59.806322",
+  "titulo": "Maxi Baby Cadeira de Descanso Musical FunTime Azul",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2LZnBaCOlM",
+  "publico": null,
+  "produto": "shopee:22494292223",
+  "preco": 154.9,
+  "shopee": [
+   624228750,
+   22494292223
+  ],
+  "cupom": null,
+  "msg": "PsoqFh0Y35NJZ2A-1wYBq53iqHP95g-ASU",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Cadeira De Descanso Para Bebê Musical Vibratória Modo Balanço Reclinável 18kg Azul FunTime Maxi Baby*\n\nDe ~R$360~\nPor *R$155* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2LZnBaCOlM\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mv7g1arr17nlf9"
+ },
+ "3200939": {
+  "quando": "2026-11-11T14:01:48.292144",
+  "titulo": "Memoria Ram DDR5 8GB 4800mhz 5600mhz NOTEBOOKS AdataSk HynixSamsungZilia SODIMM",
+  "loja": "shopee"
+ },
+ "3200919": {
+  "quando": "2026-11-11T14:01:49.394481",
+  "titulo": "Smartphone Xiaomi Redmi 17 4G 4GB RAM 128GB 6GB 256GB Tela 6,9 120Hz Bateria 7500mAh 50MP Preto Azul Verde",
+  "loja": "shopee"
+ },
+ "3200988": {
+  "quando": "2026-11-11T14:01:50.987459",
+  "titulo": "Crimson Desert - PS5",
+  "loja": "shopee"
+ },
+ "3201007": {
+  "quando": "2026-11-11T14:01:51.894536",
+  "titulo": "Placa mãe Gigabyte X870M AORUS ELITE WIFI7 ICE DDR5 Socket AMD AM5 mATX Chipset X87",
+  "loja": "shopee"
+ },
+ "3200134": {
+  "quando": "2026-11-11T14:04:06.326794",
+  "titulo": "Kit 3 Regata Modelo Americano Canelada Premium",
+  "link": "https://meli.la/2RKrZ3U",
+  "publico": "masculino",
+  "produto": "MLB5926127538",
+  "preco": 50.9,
+  "cupom": {
+   "codigo": "MODASEMPREML",
+   "id": "71868",
+   "publicado": "2026-11-11T08:16:11-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  },
+  "msg": "PspqlAwkJtfQyHo-1wgBq53iqHP95g-ASY",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3 Regata Modelo Americano Canelada Premium*\n\nDe ~R$118~\nPor *R$51* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$43*\n\n👉 *Pegar promoção:* https://meli.la/2RKrZ3U\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_871232-MLB97519633810_112025-P.webp"
  }
 }
