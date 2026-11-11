@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T09:00:30.830809",
+  "quando": "2026-11-11T09:30:28.130823",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2831,7 +2831,7 @@
    616222685,
    14494160625
   ],
-  "conferido": "2026-11-10T22:03:09.645911"
+  "conferido": "2026-11-11T09:34:16.176628"
  },
  "3193982": {
   "quando": "2026-11-10T14:31:44.454847",
@@ -2847,7 +2847,7 @@
    1526836548,
    22893986885
   ],
-  "conferido": "2026-11-10T22:03:09.819537"
+  "conferido": "2026-11-11T09:34:16.754158"
  },
  "3194145": {
   "quando": "2026-11-10T15:00:36.231045",
@@ -2878,7 +2878,7 @@
    762383390,
    57753224604
   ],
-  "conferido": "2026-11-10T22:03:09.998486"
+  "conferido": "2026-11-11T09:34:17.460458"
  },
  "cupom:OFFAGORA": {
   "quando": "2026-11-10T15:30:32.571958",
@@ -2904,7 +2904,7 @@
    1600119292,
    42879661811
   ],
-  "conferido": "2026-11-10T22:03:10.328966"
+  "conferido": "2026-11-11T09:34:17.710085"
  },
  "3194284": {
   "quando": "2026-11-10T15:32:49.757097",
@@ -2920,7 +2920,7 @@
    1383463294,
    58260042754
   ],
-  "conferido": "2026-11-10T22:03:10.493013"
+  "conferido": "2026-11-11T09:34:17.928610"
  },
  "3194402": {
   "quando": "2026-11-10T16:00:38.546898",
@@ -2941,7 +2941,7 @@
    908721653,
    58266747525
   ],
-  "conferido": "2026-11-10T22:03:10.701440"
+  "conferido": "2026-11-11T09:34:18.173193"
  },
  "3187186": {
   "quando": "2026-11-10T16:01:51.963969",
@@ -2957,7 +2957,7 @@
    1343318906,
    48217403916
   ],
-  "conferido": "2026-11-10T22:03:10.890048"
+  "conferido": "2026-11-11T09:34:18.426252"
  },
  "cupom:ULTIMASCHANCES": {
   "quando": "2026-11-10T17:00:38.975407",
@@ -2988,7 +2988,7 @@
    526029865,
    58209312972
   ],
-  "conferido": "2026-11-10T22:03:11.071759"
+  "conferido": "2026-11-11T09:34:18.675279"
  },
  "3195146": {
   "quando": "2026-11-10T18:00:36.951463",
@@ -3029,7 +3029,7 @@
    811034337,
    58261060170
   ],
-  "conferido": "2026-11-10T22:03:11.263953"
+  "conferido": "2026-11-11T09:34:19.053533"
  },
  "3195451": {
   "quando": "2026-11-10T18:31:43.343304",
@@ -3050,7 +3050,7 @@
    1552226494,
    22299440899
   ],
-  "conferido": "2026-11-10T22:03:11.492923"
+  "conferido": "2026-11-11T09:34:19.301378"
  },
  "3195487": {
   "quando": "2026-11-10T19:00:41.463542",
@@ -3140,7 +3140,7 @@
    1374288201,
    58252023833
   ],
-  "conferido": "2026-11-10T22:32:04.205520"
+  "conferido": "2026-11-11T09:34:20.060910"
  },
  "3195439": {
   "quando": "2026-11-10T19:32:56.206935",
@@ -3434,7 +3434,8 @@
   "cupom": null,
   "msg": "PsopLOIYl9lxOQg-160Bq53iqHP95g-_w",
   "texto": "*Areia Higiênica Biodegradável Catbio 4 Kg - Super Clean - Grãos Médios*\n\nDe ~R$70~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W87yCTsYj\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meiqq5na5vcx98"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meiqq5na5vcx98",
+  "conferido": "2026-11-11T09:34:19.595792"
  },
  "3196579": {
   "quando": "2026-11-10T22:30:43.312865",
@@ -3638,5 +3639,129 @@
   "msg": "PsoDQDgFQ4kBXVo-100Bq53iqHP95g-AQg",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness*\n\nDe ~R$99~\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VHt0Xf3fW\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f"
+ },
+ "cupom:OFERTAJA30": {
+  "quando": "2026-11-11T09:30:30.052864",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Selecionados",
+  "id": "71843",
+  "publicado": "2026-11-10T19:16:15-03:00",
+  "ate": "2026-12-10T23:59:59-0300",
+  "msg": "Psq8WY0bbfzwpiE-1zYBq53iqHP95g-AQk",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF, até R$500*\nem Selecionados\n\nCódigo: *OFERTAJA30*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3198937": {
+  "quando": "2026-11-11T09:32:00.868497",
+  "titulo": "Kit 2 Óleos Extraordinário Elseve 100ml Nutrição Profunda e Anti-Frizz",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8AXZph36ku",
+  "publico": null,
+  "produto": "shopee:58219972030",
+  "preco": 49.9,
+  "shopee": [
+   1855095856,
+   58219972030
+  ],
+  "cupom": null,
+  "msg": "PspzcpdHedKuYY8-1wsBq53iqHP95g-AQo",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 2 Óleos Extraordinário Elseve 100ml Nutrição Profunda e Anti-Frizz*\n\nDe ~R$116~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8AXZph36ku\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mu0z10dr92ir66"
+ },
+ "3198871": {
+  "quando": "2026-11-11T09:31:36.203231",
+  "titulo": "Smart TV LG 55\" 4K UHD HDR10 Pro AI Gen8 webOS 25",
+  "loja": "shopee"
+ },
+ "3198878": {
+  "quando": "2026-11-11T09:31:37.282975",
+  "titulo": "Smart TV LG 55\" 4K UHD HDR10 Pro AI Gen8 webOS 25",
+  "loja": "shopee"
+ },
+ "3198969": {
+  "quando": "2026-11-11T09:33:07.613601",
+  "titulo": "Nebulizador Portátil Mesh Adulto e Infantil",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6L5veOuWZK",
+  "publico": null,
+  "produto": "shopee:58254687779",
+  "preco": 23.99,
+  "shopee": [
+   1721810104,
+   58254687779
+  ],
+  "cupom": null,
+  "msg": "PsoKGkTrMbFrtw0-15oBq53iqHP95g-AQs",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Nebulizador Portátil Mesh Adulto e Infantil com Máscaras e Bocal Alimentação USB-C ou Pilhas AA KODI*\n\nDe ~R$59~\nPor *R$24* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6L5veOuWZK\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-muh7ue0o969ve3"
+ },
+ "3198719": {
+  "quando": "2026-11-11T09:31:40.104306",
+  "titulo": "Sabão em Pó Todo Ciclo Omo 5,6Kg",
+  "loja": "shopee"
+ },
+ "3198912": {
+  "quando": "2026-11-11T09:31:42.020095",
+  "titulo": "Cerveja Premium 5L Barril Heineken",
+  "loja": "shopee"
+ },
+ "3198864": {
+  "quando": "2026-11-11T09:31:44.087125",
+  "titulo": "HUAWEI WATCH GT 7 SERIES | 41mm 46mm | Smartwatch Relógio | GPS Integrado | AMOLED 1,47\" | 5 ATM + IP69",
+  "loja": "shopee"
+ },
+ "3198987": {
+  "quando": "2026-11-11T09:31:45.347120",
+  "titulo": "Óleo Capilar Oil Reflections Wella 100ml",
+  "loja": "shopee"
+ },
+ "3198970": {
+  "quando": "2026-11-11T09:31:46.219130",
+  "titulo": "Fralda Pampers Pants Ajuste Total Jumbo M 84 Unidades",
+  "loja": "shopee"
+ },
+ "3198935": {
+  "quando": "2026-11-11T09:31:47.372898",
+  "titulo": "KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco",
+  "loja": "shopee"
+ },
+ "3198967": {
+  "quando": "2026-11-11T09:31:48.257073",
+  "titulo": "Fralda Pampers Pants Premium Care Jumbo XXG 60 Unidades",
+  "loja": "shopee"
+ },
+ "3198932": {
+  "quando": "2026-11-11T09:31:49.232270",
+  "titulo": "Fralda Pampers Pants Ajuste Total Jumbo G 72 Unidades",
+  "loja": "shopee"
+ },
+ "3198921": {
+  "quando": "2026-11-11T09:31:50.496484",
+  "titulo": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
+  "loja": "shopee"
+ },
+ "3198942": {
+  "quando": "2026-11-11T09:31:51.886380",
+  "titulo": "Console Nintendo Switch 2 + Mario Kart World",
+  "loja": "shopee"
+ },
+ "3198946": {
+  "quando": "2026-11-11T09:31:53.398511",
+  "titulo": "Kit Coala - Os Favoritos Chá Branco - 4 Itens",
+  "loja": "shopee"
+ },
+ "3198929": {
+  "quando": "2026-11-11T09:31:54.708357",
+  "titulo": "Fonte Mach1 Steady 750W 80 Plus Bronze",
+  "loja": "shopee"
+ },
+ "3198955": {
+  "quando": "2026-11-11T09:31:58.124101",
+  "titulo": "PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony",
+  "loja": "shopee"
+ },
+ "3198931": {
+  "quando": "2026-11-11T09:31:59.958133",
+  "titulo": "Console Sony PlayStation 5 Edição Digital Slim SSD 825GB Controle DualSense Astro's Playroom Branco - CFI 2114B",
+  "loja": "shopee"
  }
 }
