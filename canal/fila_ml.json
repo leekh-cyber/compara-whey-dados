@@ -46,20 +46,71 @@
   "cupom": null
  },
  {
-  "id": "3202250",
-  "quando": "2026-11-11T16:47:06.172395",
-  "titulo": "Tênis Reserva Masculino Casual Cano Baixo Antiderrapante",
-  "texto": "*Tênis Reserva Masculino Casual Cano Baixo Antiderrapante*\n\nDe ~R$389~\nPor *R$288* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1QnC4jH\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_907387-MLB90125238097_082025-P.webp",
-  "link": "https://meli.la/1QnC4jH",
-  "produto": "MLB5330020602",
+  "id": "3202514",
+  "quando": "2026-11-11T17:20:08.810096",
+  "titulo": "Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium",
+  "texto": "*Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium Verde | Preto | Chumbo Lisa G*\n\nDe ~R$169~\nPor *R$80* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/245GRxD\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_769658-MLB115845532507_082026-P.webp",
+  "link": "https://meli.la/245GRxD",
+  "produto": "MLB5024787607",
   "publico": "masculino",
-  "preco": 287.99,
+  "preco": 79.9,
   "cupom": {
    "codigo": "LEVEAGORA30",
    "id": "71845",
    "publicado": "2026-11-10T19:26:05-03:00",
    "ate": "2026-12-10T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3202520",
+  "quando": "2026-11-11T17:20:19.328795",
+  "titulo": "Kit 3x Camiseta Básica T-shirt Preta Super Pima Premium Tech",
+  "texto": "*Kit 3x Camiseta Básica T-shirt Preta Super Pima Premium Tech*\n\nDe ~R$311~\nPor *R$213* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$181*\n\n👉 *Pegar promoção:* https://meli.la/2837Gdy\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_615419-MLB107123554519_022026-P.webp",
+  "link": "https://meli.la/2837Gdy",
+  "produto": "MLB6248901736",
+  "publico": "masculino",
+  "preco": 213.0,
+  "cupom": {
+   "codigo": "MODASEMPREML",
+   "id": "71868",
+   "publicado": "2026-11-11T08:16:11-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3202561",
+  "quando": "2026-11-11T17:20:30.693400",
+  "titulo": "GameMax GX-Series GX700WBKPSS7710BR fonte de alimentação 80 plus gold 700w black cor preto",
+  "texto": "*GameMax GX-Series GX700WBKPSS7710BR fonte de alimentação 80 plus gold 700w black cor preto*\n\nDe ~R$678~\nPor *R$399* 🔥\n\n🎟️ Cupom: *OFERTASCOMTECH* (12% OFF acima de R$199, até R$300)\n\n👉 *Pegar promoção:* https://meli.la/1JipXnK\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_620015-MLA99505889660_112025-P.webp",
+  "link": "https://meli.la/1JipXnK",
+  "produto": "MLB28308602",
+  "publico": null,
+  "preco": 399.0,
+  "cupom": {
+   "codigo": "OFERTASCOMTECH",
+   "id": "71941",
+   "publicado": "2026-11-11T17:16:23-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3202570",
+  "quando": "2026-11-11T17:20:40.359385",
+  "titulo": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI",
+  "texto": "*Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Preta*\n\nDe ~R$3199~\nPor *R$2155* 🔥 no pix\n\n🎟️ Cupom: *APROVEITAOFERTA*\n\n👉 *Pegar promoção:* https://meli.la/2TDnHq3\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_863194-MLA118534430667_092026-P.webp",
+  "link": "https://meli.la/2TDnHq3",
+  "produto": "MLB53924359",
+  "publico": null,
+  "preco": 2155.0,
+  "cupom": {
+   "codigo": "APROVEITAOFERTA",
+   "id": null,
+   "publicado": null,
+   "ate": null
   }
  }
 ]
