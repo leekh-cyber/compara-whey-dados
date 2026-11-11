@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T22:00:29.621931",
+  "quando": "2026-11-10T22:30:30.748329",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -3131,7 +3131,8 @@
   "shopee": [
    1374288201,
    58252023833
-  ]
+  ],
+  "conferido": "2026-11-10T22:32:04.205520"
  },
  "3195439": {
   "quando": "2026-11-10T19:32:56.206935",
@@ -3401,5 +3402,37 @@
   "msg": "Psps3Tryv.WRDeg-1x0Bq53iqHP95g-_g",
   "texto": "*Decoração de Natal Calendário Natal*\n\nA partir de *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8fTpfDVHOc\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mssucm0jf0n9f0"
+ },
+ "3196564": {
+  "quando": "2026-11-10T22:30:50.841420",
+  "titulo": "Areia Higiênica Biodegradável Catbio 4 Kg - Super Clean - Grãos Médios",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/W87yCTsYj",
+  "publico": null,
+  "produto": "shopee:18998675584",
+  "preco": 49.9,
+  "shopee": [
+   1023760886,
+   18998675584
+  ],
+  "cupom": null,
+  "msg": "PsopLOIYl9lxOQg-160Bq53iqHP95g-_w",
+  "texto": "*Areia Higiênica Biodegradável Catbio 4 Kg - Super Clean - Grãos Médios*\n\nDe ~R$70~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W87yCTsYj\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meiqq5na5vcx98"
+ },
+ "3196579": {
+  "quando": "2026-11-10T22:30:43.312865",
+  "titulo": "Bago Balango Truck Engate Acessório Decorativo Carros Impressão 3D",
+  "loja": "shopee"
+ },
+ "3196651": {
+  "quando": "2026-11-10T22:30:44.673457",
+  "titulo": "Notebook Positivo Vision C14 Lumina BAR Intel Celeron N4500 Windows 11 Home 8GB RAM 128GB eMMC 14\"",
+  "loja": "shopee"
+ },
+ "3196546": {
+  "quando": "2026-11-10T22:30:47.571658",
+  "titulo": "Novo Tablet Xiaomi Redmi Pad 2 2568GB 1286GB 1284GB de Ram Com Envio Imediato",
+  "loja": "shopee"
  }
 }
