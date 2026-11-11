@@ -112,5 +112,68 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3202694",
+  "quando": "2026-11-11T17:55:04.691110",
+  "titulo": "Perfume Lattafa Yara Moi 100ml Edp Feminino",
+  "texto": "*Perfume Lattafa Yara Moi 100ml Edp Feminino*\n\nDe ~R$269~\nPor *R$130* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n💸 Com o cupom: *R$114*\n\n👉 *Pegar promoção:* https://meli.la/2fLFV6t\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_825019-MLA100349454836_122025-P.webp",
+  "link": "https://meli.la/2fLFV6t",
+  "produto": "MLB62978984",
+  "publico": "feminino",
+  "preco": 129.63,
+  "cupom": {
+   "codigo": "BELEZASEMPRE",
+   "id": "71889",
+   "publicado": "2026-11-11T12:16:05-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3202719",
+  "quando": "2026-11-11T17:55:12.324067",
+  "titulo": "Perfume Armaf Club De Nuit EDT 105ml Feminino",
+  "texto": "*Perfume Armaf Club De Nuit Feminino Nota Marcante*\n\nDe ~R$299~\nPor *R$193* 🔥\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n💸 Com o cupom: *R$170*\n\n👉 *Pegar promoção:* https://meli.la/2cCUquK\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_822912-MLB118530501722_102026-P.webp",
+  "link": "https://meli.la/2cCUquK",
+  "produto": "MLB7885598762",
+  "publico": "feminino",
+  "preco": 193.03,
+  "cupom": {
+   "codigo": "BELEZASEMPRE",
+   "id": "71889",
+   "publicado": "2026-11-11T12:16:05-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3202537",
+  "quando": "2026-11-11T17:55:16.054429",
+  "titulo": "Fritadeira Air Fry Oven Bfr2100p 12 Litros 1800w Britânia Preto",
+  "texto": "*Fritadeira Air Fry Oven Bfr2100p 12 Litros 1800w Britânia Preto*\n\nDe ~R$829~\nPor *R$359* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2ZagYrE\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879784-MLA99497288438_112025-P.webp",
+  "link": "https://meli.la/2ZagYrE",
+  "produto": "MLB27957442",
+  "publico": null,
+  "preco": 359.1,
+  "cupom": null
+ },
+ {
+  "id": "3202698",
+  "quando": "2026-11-11T17:55:19.705568",
+  "titulo": "Kit Panelas Ferro Fundido 18 Peças Antiaderente Esmaltada Cinza",
+  "texto": "*Jogo de Panelas 5 Peças Antiaderente Cerâmico Grafite Mimo Style - Conjunto Completo*\n\nPor *R$295* 🔥\n\n🎟️ Cupom: *PROMOPRACASA*\n\n👉 *Pegar promoção:* https://meli.la/1pBRKF8\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_926296-MLA99483685310_112025-P.webp",
+  "link": "https://meli.la/1pBRKF8",
+  "produto": "MLB43328371",
+  "publico": null,
+  "preco": 295.0,
+  "cupom": {
+   "codigo": "PROMOPRACASA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
