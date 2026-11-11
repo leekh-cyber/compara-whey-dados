@@ -120,6 +120,62 @@ def cupons_validos(page_props):
     return lista
 
 
+CODIGO = re.compile(r"[A-Z0-9]{4,24}")  # "Nubank", "Pix" e frases nao sao codigo de cupom
+
+
+def codigo_valido(txt):
+    cod = (txt or "").strip()
+    return cod if CODIGO.fullmatch(cod) and not EXCLUSIVOS.search(cod) else None
+
+
+def por_codigo(*page_props):
+    """Codigo -> cupom (interpretado), dos cupons no ar nas paginas do Promobit, sem filtro de idade."""
+    agora = datetime.now(timezone.utc)
+    achados = {}
+    for pp in page_props:
+        for c in (pp.get("serverCoupons") or {}).get("coupons") or []:
+            try:
+                x = interpretar(c)
+            except (KeyError, ValueError):
+                continue
+            if c.get("couponStatusName") != "APPROVED" or not x["codigo"] or not (x["pct"] or x["fixo"]):
+                continue
+            try:
+                if x["ate"] and datetime.fromisoformat(re.sub(r"([+-]\d\d)(\d\d)$", r"\1:\2", str(x["ate"]))) < agora:
+                    continue
+            except ValueError:
+                pass
+            achados.setdefault(x["codigo"].upper(), x)
+    return achados
+
+
+def com_cupom(c, preco):
+    """Preco depois do cupom, ou None se a compra nao atinge o minimo."""
+    if not c or not preco or preco < c["minimo"]:
+        return None
+    desconto = preco * c["pct"] / 100 if c["pct"] else c["fixo"]
+    if c["teto"]:
+        desconto = min(desconto, c["teto"])
+    return max(preco - desconto, 0)
+
+
+def registro(codigo, c):
+    """O que o registro do post guarda do cupom, para marcar quando ele vencer ou esgotar."""
+    return {"codigo": codigo, "id": c and c["id"], "publicado": c and c["publicado"].isoformat(), "ate": c and c["ate"]}
+
+
+def riscar(texto, codigo):
+    """Texto do post com a linha do cupom riscada e sem o preco com cupom."""
+    linhas = []
+    for linha in texto.split("\n"):
+        if linha.startswith("🎟️ Cupom:"):
+            linha = f"🎟️ ~Cupom: {codigo}~ _(venceu ou esgotou)_"
+        elif linha.startswith("💸 Com o cupom:"):
+            continue
+        linhas.append(linha)
+    return "\n".join(linhas)
+
+
 def cupom_para(oferta, preco, cupons):
     """Melhor cupom de categoria compativel com a oferta (so cupons com codigo e minimo atingido)."""
     palavras = CATEGORIAS.get(oferta["categoria"], [])
