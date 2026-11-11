@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T21:00:32.362407",
+  "quando": "2026-11-10T21:30:26.598321",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2093,7 +2093,8 @@
   "shopee": [
    873865538,
    23699143525
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:49.576679"
  },
  "3190395": {
   "quando": "2026-11-09T19:00:37.902385",
@@ -2132,7 +2133,8 @@
   "shopee": [
    1235724103,
    58204359689
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:49.934119"
  },
  "3190848": {
   "quando": "2026-11-09T20:01:41.605928",
@@ -2152,7 +2154,8 @@
   "shopee": [
    552389168,
    57869192350
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:50.175284"
  },
  "cupom:71750": {
   "quando": "2026-11-09T21:30:31.062989",
@@ -2176,7 +2179,8 @@
   "shopee": [
    344390826,
    58200071347
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:50.561704"
  },
  "3191088": {
   "quando": "2026-11-09T21:31:37.794944",
@@ -2206,7 +2210,8 @@
   "shopee": [
    497891469,
    54760387056
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:50.806299"
  },
  "cupom:71747": {
   "quando": "2026-11-10T08:00:35.525180",
@@ -2235,7 +2240,8 @@
   "shopee": [
    816024645,
    40961639598
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:51.026856"
  },
  "3191857": {
   "quando": "2026-11-10T08:02:54.669151",
@@ -2340,7 +2346,9 @@
   "shopee": [
    872473112,
    23294433108
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:51.257962",
+  "encerrada": "2026-11-10T21:33:59.805522"
  },
  "3191898": {
   "quando": "2026-11-10T08:30:39.684688",
@@ -2355,7 +2363,8 @@
   "shopee": [
    1062557396,
    22692564994
-  ]
+  ],
+  "conferido": "2026-11-10T21:33:59.805546"
  },
  "3191896": {
   "quando": "2026-11-10T08:30:36.116237",
@@ -2385,7 +2394,8 @@
   "shopee": [
    353664457,
    10968517012
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:00.016143"
  },
  "3191951": {
   "quando": "2026-11-10T08:31:49.817169",
@@ -2405,7 +2415,8 @@
   "shopee": [
    1230684338,
    23792979098
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:00.203098"
  },
  "3192109": {
   "quando": "2026-11-10T09:00:39.989291",
@@ -2454,7 +2465,8 @@
   "shopee": [
    976255710,
    58208356464
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:00.423522"
  },
  "3192272": {
   "quando": "2026-11-10T10:01:44.334888",
@@ -2484,7 +2496,8 @@
   "shopee": [
    344381236,
    46856458828
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:00.650809"
  },
  "3192567": {
   "quando": "2026-11-10T10:30:35.958705",
@@ -2569,7 +2582,8 @@
   "produto": "MLB78717889",
   "msg": "PsoRaQxXga3v9xA-12gBq53iqHP95g-1Q",
   "texto": "*Ar Condicionado Portátil Haier 12000 Btus Frio 110v R32 Branco 110v*\n\nPor *R$1651* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1MXTP9J\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "preco": 1651.0
+  "preco": 1651.0,
+  "encerrada": "2026-11-10T21:34:15.790277"
  },
  "cupom:ECONOMIZE": {
   "quando": "2026-11-10T11:00:36.807698",
@@ -2593,7 +2607,9 @@
   "shopee": [
    990966849,
    22498106276
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:00.853325",
+  "encerrada": "2026-11-10T21:34:08.306506"
  },
  "3192758": {
   "quando": "2026-11-10T11:01:44.185633",
@@ -2658,7 +2674,8 @@
   "shopee": [
    275804987,
    23697969853
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:08.306531"
  },
  "3193172": {
   "quando": "2026-11-10T12:00:41.863112",
@@ -2673,7 +2690,8 @@
   "shopee": [
    1192511758,
    23593395687
-  ]
+  ],
+  "conferido": "2026-11-10T21:34:08.613621"
  },
  "3193260": {
   "quando": "2026-11-10T12:01:54.858349",
@@ -3271,5 +3289,47 @@
   "msg": "PsrhwOaA330GtuI-19UBq53iqHP95g-.Q",
   "texto": "*Creme Nutella 140gr Ferrero Avela*\n\nDe ~R$22~\nPor *R$16* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9KjWOK4IGv\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxck29konbb55"
+ },
+ "cupom:POUPAAGORA30": {
+  "quando": "2026-11-10T21:30:28.578422",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Saúde, Esportes e mais",
+  "id": "71846",
+  "publicado": "2026-11-10T19:26:06-03:00",
+  "ate": "2026-12-10T23:59:59-0300",
+  "msg": "Pspgq.drNSTKE7U-1y0Bq53iqHP95g-.g",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF, até R$500*\nem Saúde, Esportes e mais\n\nCódigo: *POUPAAGORA30*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3196326": {
+  "quando": "2026-11-10T21:31:34.661054",
+  "titulo": "Fritadeira Air Fryer Gaabor 4.2L Tela Touch Colorida Com Visor Analógica Visor Transparente Sem Óleo 127V220V",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qOZsFr32v",
+  "publico": null,
+  "produto": "shopee:58219999942",
+  "preco": 249.0,
+  "shopee": [
+   1033814930,
+   58219999942
+  ],
+  "msg": "PsqeMRV5IedL0wY-178Bq53iqHP95g-.w",
+  "texto": "*Fritadeira Air Fryer Gaabor 4.2L Tela Touch Colorida Com Visor Analógica, Visor Transparente, Sem Óleo, 127V/220V*\n\nDe ~R$401~\nPor *R$249* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOZsFr32v\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825av-mu1ty3414dtt78"
+ },
+ "3196324": {
+  "quando": "2026-11-10T21:32:43.492900",
+  "titulo": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VHsF4Sc9a",
+  "publico": null,
+  "produto": "shopee:58210633027",
+  "preco": 1429.9,
+  "shopee": [
+   811034337,
+   58210633027
+  ],
+  "msg": "PsqeWm41J0LPy6w-1.QBq53iqHP95g-_A",
+  "texto": "*Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB*\n\nDe ~R$2199~\nPor *R$1430* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VHsF4Sc9a\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825at-mvc2n3j5qbyc1b"
  }
 }
