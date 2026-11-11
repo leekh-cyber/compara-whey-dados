@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T19:00:28.817103",
+  "quando": "2026-11-11T19:30:31.512074",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2817,7 +2817,7 @@
    409969707,
    8337843814
   ],
-  "conferido": "2026-11-11T16:03:13.473188"
+  "conferido": "2026-11-11T19:34:10.704041"
  },
  "3193838": {
   "quando": "2026-11-10T14:30:34.559822",
@@ -5304,7 +5304,8 @@
   "cupom": null,
   "msg": "PspSRBCGFGmzhZM-18YBq53iqHP95g-ATA",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*GABINETE GAMER ACEGEEK DIAMOND R339 RAINBOW MID-TOWER LATERAL DE VIDRO 4 FANS AG-DIAMOND-R339-WH-I4F*\n\nPor *R$205* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6fimVgsbU1\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lt-mqxu0k6t6kudf0"
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lt-mqxu0k6t6kudf0",
+  "conferido": "2026-11-11T19:34:11.085501"
  },
  "3202149": {
   "quando": "2026-11-11T16:31:51.508227",
@@ -5326,7 +5327,8 @@
   "cupom": null,
   "msg": "PsrzATbPQBZ.DqQ-12QBq53iqHP95g-ATE",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Gabinete Gamer Acegeek Mercury R425, Mid-Tower, Lateral de Vidro, Branco, AG-MERCURY-R425-WH*\n\nDe ~R$598~\nPor *R$347* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qkzZ3CrKA\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwn-lzhzke18oj3eb2"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwn-lzhzke18oj3eb2",
+  "conferido": "2026-11-11T19:34:11.420072"
  },
  "3202066": {
   "quando": "2026-11-11T16:33:02.867794",
@@ -5348,7 +5350,8 @@
   "cupom": null,
   "msg": "Psrs7dIXqpnuQ.0-13YBq53iqHP95g-ATI",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony*\n\nDe ~R$4763~\nPor *R$4049* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdWkySxhU\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258y-muao10t38ttude"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258y-muao10t38ttude",
+  "conferido": "2026-11-11T19:34:11.640031"
  },
  "3202112": {
   "quando": "2026-11-11T16:33:05.909858",
@@ -5738,5 +5741,91 @@
   "msg": "Psqx6PdGUDpePkY-1zUBq53iqHP95g-AUA",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium Verde | Preto | Chumbo Lisa G*\n\nDe ~R$169~\nPor *R$80* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/245GRxD\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_769658-MLB115845532507_082026-P.webp"
+ },
+ "3203299": {
+  "quando": "2026-11-11T19:31:58.166435",
+  "titulo": "Panettone Lindt Trufado ao Leite 410g",
+  "loja": "shopee"
+ },
+ "3203328": {
+  "quando": "2026-11-11T19:31:59.527481",
+  "titulo": "Barra Chocolate Lindt Lindor Ao Leite 100g",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6AmW7DmJCY",
+  "publico": null,
+  "produto": "shopee:22894452678",
+  "preco": 33.74,
+  "shopee": [
+   1633726335,
+   22894452678
+  ],
+  "cupom": null,
+  "msg": "Pso2zHYDreZ9tZA-15ABq53iqHP95g-AUI",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Barra De Chocolate Lindt Lindor Singles Ao Leite 100g*\n\nDe ~R$44~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6AmW7DmJCY\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hv-mf8nk4xg7si402"
+ },
+ "3203268": {
+  "quando": "2026-11-11T19:30:37.957182",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus G 128 un",
+  "loja": "shopee"
+ },
+ "3203232": {
+  "quando": "2026-11-11T19:30:39.188080",
+  "titulo": "Fralda Pampers Confort Sec Jumbo Plus G com 128 unid.",
+  "loja": "shopee"
+ },
+ "3203273": {
+  "quando": "2026-11-11T19:30:40.929456",
+  "titulo": "DJI Osmo Nano (128GB), Câmera 4K",
+  "loja": "shopee"
+ },
+ "3203199": {
+  "quando": "2026-11-11T19:30:42.268139",
+  "titulo": "DJI Osmo Nano (128GB) Câmera 4K",
+  "loja": "shopee"
+ },
+ "3203280": {
+  "quando": "2026-11-11T19:30:43.352784",
+  "titulo": "Kit de Ferramentas 142 Peças + Maleta FST142 - FASTERR",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2BGNLmYl1q",
+  "publico": null,
+  "produto": "shopee:4064221240",
+  "preco": 74.0,
+  "shopee": [
+   340096629,
+   4064221240
+  ],
+  "cupom": null,
+  "msg": "Psqr9aTcgrCRdUM-1zEBq53iqHP95g-AUE",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit de Ferramentas 142 Peças + Maleta FST142 - FASTERR*\n\nDe ~R$137~\nPor *R$74* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2BGNLmYl1q\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mt8ggol5usci2c"
+ },
+ "3203207": {
+  "quando": "2026-11-11T19:31:51.871862",
+  "titulo": "Kit 3 Óleos Corporais Infantis Turminha da Bagunça 100ml",
+  "loja": "shopee"
+ },
+ "3203257": {
+  "quando": "2026-11-11T19:31:55.587658",
+  "titulo": "Kit 5 Pomadas Prevenção de Assaduras Turminha da Bagunça 45g",
+  "loja": "shopee"
+ },
+ "3203322": {
+  "quando": "2026-11-11T19:31:56.892070",
+  "titulo": "Kit 10 Toalhas Umedecidas Turminha da Bagunça 120 Folhas",
+  "loja": "shopee"
+ },
+ "3202271": {
+  "quando": "2026-11-11T19:33:06.365168",
+  "titulo": "RELOGIO ORIENT MASCULINO ANALOGICO PRATEADO MBSS1155A D2SX",
+  "link": "https://meli.la/21Cb9v7",
+  "publico": "masculino",
+  "produto": "MLB17913852",
+  "preco": 284.04,
+  "cupom": null,
+  "msg": "PsrnU4TxmeiDWlk-19cBq53iqHP95g-AUM",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*RELOGIO ORIENT MASCULINO ANALOGICO PRATEADO MBSS1155A D2SX*\n\nDe ~R$399~\nPor *R$284* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/21Cb9v7\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_704858-MLA118919599687_102026-P.webp"
  }
 }
