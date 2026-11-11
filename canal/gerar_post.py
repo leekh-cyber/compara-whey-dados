@@ -81,7 +81,7 @@ def reais(v, arredondar=False):
     return f"R${round(v) if arredondar else math.floor(v + 1e-9)}"
 
 
-def montar_post(d, link, cupom=None, pct=None, titulo=None, cupom_detalhe=None):
+def montar_post(d, link, cupom=None, pct=None, titulo=None, cupom_detalhe=None, com_cupom=None):
     por = d["por"]
     if pct:
         por = por * (1 - pct / 100)
@@ -95,6 +95,8 @@ def montar_post(d, link, cupom=None, pct=None, titulo=None, cupom_detalhe=None):
     linhas.append(f"{rotulo} *{reais(por, arredondar=True)}* 🔥{no_pix}")
     if cupom:
         linhas += ["", f"🎟️ Cupom: *{cupom}*" + (f" ({cupom_detalhe})" if cupom_detalhe else "")]
+        if com_cupom and com_cupom < por:
+            linhas.append(f"💸 Com o cupom: *{reais(com_cupom, arredondar=True)}*")
     linhas += ["", f"👉 *Pegar promoção:* {link}"]
     if d["loja_oficial"]:
         linhas += ["", "Loja oficial no MELI!"]
