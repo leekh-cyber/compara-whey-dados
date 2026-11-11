@@ -133,6 +133,7 @@ def ofertas_promobit(pp, loja="mercado-livre"):
             "antes": antes,
             "desconto": (1 - preco / antes) if antes > preco > 0 else 0,
             "categoria": o.get("categorySlug") or "",
+            "cupom": o.get("offerCoupon") or "",
             "engajamento": o.get("offerEngagementScore") or 0,
             "horas": (agora - publicado).total_seconds() / 3600,
         })
@@ -413,11 +414,13 @@ def rodada_shopee(vistas, quantos, enviar):
                 continue
             loja, item = shopee.ids_do_link(m.group(0))
             d = shopee.produto(loja, item)
+            cod, cdet, preco_cupom = cupom_da_oferta(o, "shopee", d["por"])
             if o.get("preco_atual"):
                 if not desconto_real(d):
                     continue
-            elif d["por"] > o["preco"] * (1 + TOLERANCIA_PRECO):
-                print(f"[{o['id']}] preco subiu (Shopee: R${d['por']:.2f}, anunciado R${o['preco']:.2f}); pulando")
+            elif (preco_cupom or d["por"]) > o["preco"] * (1 + TOLERANCIA_PRECO):
+                print(f"[{o['id']}] preco subiu (Shopee: R${preco_cupom or d['por']:.2f}"
+                      f"{' com cupom' if preco_cupom else ''}, anunciado R${o['preco']:.2f}); pulando")
                 if desconto_real(d):
                     fila.append({**o, "preco_atual": True})
                 continue
@@ -435,10 +438,31 @@ def rodada_shopee(vistas, quantos, enviar):
             continue
         feitos += 1
         vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"],
-                               preco=d["por"], shopee=[loja, item])
-        publicar(montar_post(d, meu_link), d["imagem"], f"achado Shopee | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}",
+                               preco=d["por"], shopee=[loja, item], cupom=cod and cupons.registro(cod, cdet))
+        texto = montar_post(d, meu_link, cupom=cod, cupom_detalhe=cdet and cupons.resumo(cdet),
+                            com_cupom=cupons.com_cupom(cdet, d["por"]))
+        publicar(texto, d["imagem"], f"achado Shopee | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}",
                  enviar, registro=vistas[o["id"]])
     return feitos
+
+
+_CUPONS = {}
+
+
+def cupom_da_oferta(o, loja, preco):
+    """(codigo, detalhes ou None, preco com cupom ou None) do cupom que o Promobit indicou na propria oferta.
+    O preco do Promobit costuma ja vir com esse cupom descontado."""
+    cod = cupons.codigo_valido(o.get("cupom"))
+    if not cod:
+        return None, None, None
+    if loja not in _CUPONS:
+        try:
+            _CUPONS[loja] = cupons.por_codigo(next_data(baixar(f"https://www.promobit.com.br/cupons/loja/{loja}/", tentativas=2)))
+        except (OSError, RuntimeError, ValueError) as e:
+            print(f"Cupons da {loja}: ERRO ao ler o Promobit: {e}")
+            _CUPONS[loja] = {}
+    c = _CUPONS[loja].get(cod.upper())
+    return cod, c, cupons.com_cupom(c, preco)
 
 
 def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
@@ -462,11 +486,13 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
                 if not atual["por"] or not atual["url_produto"]:
                     print(f"[{o['id']}] produto indisponivel; pulando")
                     continue
+                cod, cdet, preco_cupom = cupom_da_oferta(o, "mercado-livre", atual["por"])
                 if o.get("preco_atual"):
                     if not desconto_real(atual):
                         continue
-                elif atual["por"] > o["preco"] * (1 + TOLERANCIA_PRECO):
-                    print(f"[{o['id']}] oferta acabou (ML: R${atual['por']:.2f}, anunciado R${o['preco']:.2f}); pulando")
+                elif (preco_cupom or atual["por"]) > o["preco"] * (1 + TOLERANCIA_PRECO):
+                    print(f"[{o['id']}] oferta acabou (ML: R${preco_cupom or atual['por']:.2f}"
+                          f"{' com cupom' if preco_cupom else ''}, anunciado R${o['preco']:.2f}); pulando")
                     if desconto_real(atual):
                         fila.append({**o, "preco_atual": True})
                     continue
@@ -482,10 +508,13 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
                     continue
                 if d["de"] and 1 - d["por"] / d["de"] > DESCONTO_SUSPEITO:
                     d["de"] = None
-                # cupom da mesma categoria: so sugere o codigo (o preco do post nao desconta o cupom,
-                # porque nem todo item da categoria participa)
-                c = cupons.cupom_para(o, d["por"], lista_cupons)
-                texto = montar_post(d, meu_link, cupom=c and c["codigo"], cupom_detalhe=c and cupons.resumo(c))
+                if not cod:
+                    # cupom da mesma categoria: so sugere o codigo (o preco do post nao desconta o cupom,
+                    # porque nem todo item da categoria participa)
+                    cdet = cupons.cupom_para(o, d["por"], lista_cupons)
+                    cod = cdet and cdet["codigo"]
+                texto = montar_post(d, meu_link, cupom=cod, cupom_detalhe=cdet and cupons.resumo(cdet),
+                                    com_cupom=preco_cupom and cupons.com_cupom(cdet, d["por"]))
             except BaseException as e:
                 print(f"[{o['id']}] ERRO: {e}")
                 if limite_de_pedidos(e):
@@ -501,7 +530,7 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
 
             feitos += 1
             vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"],
-                                   preco=d["por"])
+                                   preco=d["por"], cupom=cod and cupons.registro(cod, cdet))
             entregar(texto, d["imagem"], o)
     finally:
         if gerador:
@@ -571,7 +600,8 @@ def achados_da_fila(vistas, quantos, enviar):
         if ja_postado(vistas, i["link"], i["produto"]):
             continue
         vistas[i["id"]] = {"quando": datetime.now().isoformat(), "titulo": i["titulo"], "link": i["link"],
-                           "publico": i["publico"], "produto": i["produto"], "preco": i.get("preco")}
+                           "publico": i["publico"], "produto": i["produto"], "preco": i.get("preco"),
+                           "cupom": i.get("cupom")}
         publicar(i["texto"], i["imagem"], f"achado da fila | {i['titulo'][:50]}", enviar, registro=vistas[i["id"]])
         feitos += 1
     return feitos
@@ -663,32 +693,68 @@ def conferir_cupons(vistas, enviar):
     """Nuvem: cupom postado nas ultimas 48h que venceu, ou que o Promobit tirou do ar (esgotou), tem o post editado.
     A pagina so mostra os cupons no ar mais recentes: sumir so conta para cupom mais novo que o mais velho da lista."""
     limite = (datetime.now() - timedelta(hours=HORAS_CONFERIR)).isoformat()
-    alvos = [(k, v) for k, v in vistas.items() if k.startswith("cupom:") and v.get("msg") and v.get("texto")
-             and not v.get("encerrada") and v.get("quando", "") >= limite]
-    if not alvos:
-        return 0
-    try:
-        brutos = (next_data(baixar(FONTE_CUPONS, tentativas=2)).get("serverCoupons") or {}).get("coupons") or []
-    except (OSError, RuntimeError, ValueError) as e:
-        print(f"Conferir cupons: ERRO ao ler o Promobit: {e}")
+    recentes = [(k, v) for k, v in vistas.items() if v.get("msg") and v.get("texto")
+                and not v.get("encerrada") and v.get("quando", "") >= limite]
+    posts_cupom = [(k, v) for k, v in recentes if k.startswith("cupom:")]
+    com_cupom = [(k, v) for k, v in recentes if (v.get("cupom") or {}).get("id") and not v["cupom"].get("encerrado")]
+    if not posts_cupom and not com_cupom:
         return 0
     agora = datetime.now(timezone.utc)
-    no_ar = {str(c.get("couponId")) for c in brutos if c.get("couponStatusName") == "APPROVED"}
-    # cupons fixos antigos (ex.: de setembro) ficam na lista: a cobertura e medida so pelos da ultima semana
-    datas = [d for d in (_quando_promobit(c.get("couponPublished")) for c in brutos)
-             if d and agora - d < timedelta(days=7)]
-    cobertura = min(datas) if len(datas) >= 10 else None
-    feitos = 0
-    for k, v in alvos:
-        ate, publicado = _quando_promobit(v.get("ate") or ""), _quando_promobit(v.get("publicado") or "")
-        motivo = None
+    paginas = {}
+
+    def situacao(loja):
+        """(ids no ar, publicacao do cupom mais velho da lista) da pagina de cupons da loja."""
+        if loja not in paginas:
+            try:
+                brutos = (next_data(baixar(f"https://www.promobit.com.br/cupons/loja/{loja}/", tentativas=2))
+                          .get("serverCoupons") or {}).get("coupons") or []
+            except (OSError, RuntimeError, ValueError) as e:
+                print(f"Conferir cupons da {loja}: ERRO ao ler o Promobit: {e}")
+                paginas[loja] = None
+                return None
+            no_ar = {str(c.get("couponId")) for c in brutos if c.get("couponStatusName") == "APPROVED"}
+            # cupons fixos antigos (ex.: de setembro) ficam na lista: a cobertura e medida so pelos da ultima semana
+            datas = [d for d in (_quando_promobit(c.get("couponPublished")) for c in brutos)
+                     if d and agora - d < timedelta(days=7)]
+            paginas[loja] = (no_ar, min(datas) if len(datas) >= 10 else None)
+        return paginas[loja]
+
+    def motivo(info, loja):
+        ate, publicado = _quando_promobit(info.get("ate") or ""), _quando_promobit(info.get("publicado") or "")
         if ate and ate < agora:
-            motivo = "venceu"
-        elif v.get("id") and v["id"] not in no_ar and cobertura and publicado and publicado > cobertura:
-            motivo = "saiu do ar no Promobit"
-        if motivo:
-            feitos += encerrar(v, None, f"cupom {motivo}", enviar, aviso=CUPOM_ENCERRADO)
+            return "venceu"
+        s = situacao(loja) if info.get("id") and publicado else None
+        if s and info["id"] not in s[0] and s[1] and publicado > s[1]:
+            return "saiu do ar no Promobit"
+        return None
+
+    feitos = 0
+    for k, v in posts_cupom:
+        m = motivo(v, "mercado-livre")
+        if m:
+            feitos += encerrar(v, None, f"cupom {m}", enviar, aviso=CUPOM_ENCERRADO)
+    for k, v in com_cupom:
+        m = motivo(v["cupom"], "shopee" if v.get("loja") == "shopee" else "mercado-livre")
+        if m:
+            feitos += riscar_cupom(v, m, enviar)
     return feitos
+
+
+def riscar_cupom(v, motivo, enviar):
+    """Post de produto cujo cupom venceu: risca a linha do cupom; a oferta continua no ar."""
+    texto = cupons.riscar(v["texto"], v["cupom"]["codigo"])
+    print(f"\n===== CUPOM DO POST {motivo.upper()} ({v['cupom']['codigo']}) | {v.get('titulo', '')[:50]} =====\n{texto}")
+    if enviar:
+        from whapi import postar
+        try:
+            print(postar(texto, v.get("imagem"), editar=v["msg"]))
+            time.sleep(5)
+        except BaseException as e:
+            print(f"ERRO ao editar: {e}")
+            return False
+    v["texto"] = texto  # se a oferta acabar depois, o aviso entra em cima deste texto
+    v["cupom"]["encerrado"] = datetime.now().isoformat()
+    return True
 
 
 def conferir_ml(vistas):
@@ -868,7 +934,8 @@ def main():
             v = vistas[o["id"]]
             v["fila"] = True
             fila_ml.append({"id": o["id"], "quando": v["quando"], "titulo": o["titulo"], "texto": texto, "imagem": imagem,
-                            "link": v["link"], "produto": v["produto"], "publico": v["publico"], "preco": v.get("preco")})
+                            "link": v["link"], "produto": v["produto"], "publico": v["publico"], "preco": v.get("preco"),
+                            "cupom": v.get("cupom")})
             print(f"\n===== NA FILA DA NUVEM ({o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}) =====\n{texto}")
 
         try:
