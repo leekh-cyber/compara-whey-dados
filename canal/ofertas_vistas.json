@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T12:00:36.846563",
+  "quando": "2026-11-11T12:30:32.242150",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2212,7 +2212,7 @@
    497891469,
    54760387056
   ],
-  "conferido": "2026-11-11T09:05:05.253010"
+  "conferido": "2026-11-11T12:35:18.277830"
  },
  "cupom:71747": {
   "quando": "2026-11-10T08:00:35.525180",
@@ -2366,7 +2366,7 @@
    1062557396,
    22692564994
   ],
-  "conferido": "2026-11-11T09:05:13.984340"
+  "conferido": "2026-11-11T12:35:18.491869"
  },
  "3191896": {
   "quando": "2026-11-10T08:30:36.116237",
@@ -2397,7 +2397,7 @@
    353664457,
    10968517012
   ],
-  "conferido": "2026-11-11T09:05:14.376532"
+  "conferido": "2026-11-11T12:35:18.721044"
  },
  "3191951": {
   "quando": "2026-11-10T08:31:49.817169",
@@ -2418,7 +2418,7 @@
    1230684338,
    23792979098
   ],
-  "conferido": "2026-11-11T09:05:14.586431"
+  "conferido": "2026-11-11T12:35:19.008061"
  },
  "3192109": {
   "quando": "2026-11-10T09:00:39.989291",
@@ -2469,7 +2469,7 @@
    976255710,
    58208356464
   ],
-  "conferido": "2026-11-11T09:05:14.843480"
+  "conferido": "2026-11-11T12:35:19.277290"
  },
  "3192272": {
   "quando": "2026-11-10T10:01:44.334888",
@@ -2500,7 +2500,7 @@
    344381236,
    46856458828
   ],
-  "conferido": "2026-11-11T09:05:15.057923"
+  "conferido": "2026-11-11T12:35:19.500846"
  },
  "3192567": {
   "quando": "2026-11-10T10:30:35.958705",
@@ -2695,7 +2695,7 @@
    1192511758,
    23593395687
   ],
-  "conferido": "2026-11-11T09:05:20.962927"
+  "conferido": "2026-11-11T12:35:19.922743"
  },
  "3193260": {
   "quando": "2026-11-10T12:01:54.858349",
@@ -2711,7 +2711,7 @@
    627750190,
    23293653632
   ],
-  "conferido": "2026-11-11T09:05:21.711111"
+  "conferido": "2026-11-11T12:35:20.693146"
  },
  "cupom:DESCONTO": {
   "quando": "2026-11-10T12:30:31.235404",
@@ -2773,7 +2773,7 @@
    1602856616,
    22698881511
   ],
-  "conferido": "2026-11-11T09:05:22.068108"
+  "conferido": "2026-11-11T12:35:20.890162"
  },
  "cupom:PROMOPRACONSTRU": {
   "quando": "2026-11-10T14:00:36.286013",
@@ -2799,7 +2799,7 @@
    1495626487,
    52653471245
   ],
-  "conferido": "2026-11-11T09:05:22.293981"
+  "conferido": "2026-11-11T12:35:21.145623"
  },
  "3193829": {
   "quando": "2026-11-10T14:02:51.466625",
@@ -2815,7 +2815,7 @@
    409969707,
    8337843814
   ],
-  "conferido": "2026-11-11T09:05:22.516608"
+  "conferido": "2026-11-11T12:35:21.367798"
  },
  "3193838": {
   "quando": "2026-11-10T14:30:34.559822",
@@ -3389,7 +3389,7 @@
   "msg": "PsrTx3RZV_mQY_c-1xgBq53iqHP95g-_Q",
   "texto": "*Fritadeira Air Fryer Forno Oven 12L Mondial Branco/Inox 2000W - AFON-12L-WI*\n\nDe ~R$868~\nA partir de *R$599* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V2wdaDC64\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgpfia0cbp558d",
-  "conferido": "2026-11-11T09:05:21.197401"
+  "conferido": "2026-11-11T12:35:20.225630"
  },
  "3196499": {
   "quando": "2026-11-10T22:01:48.901154",
@@ -3417,7 +3417,7 @@
   "msg": "Psps3Tryv.WRDeg-1x0Bq53iqHP95g-_g",
   "texto": "*Decoração de Natal Calendário Natal*\n\nA partir de *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8fTpfDVHOc\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mssucm0jf0n9f0",
-  "conferido": "2026-11-11T09:05:21.476296"
+  "conferido": "2026-11-11T12:35:20.473460"
  },
  "3196564": {
   "quando": "2026-11-10T22:30:50.841420",
@@ -3644,7 +3644,8 @@
   "cupom": null,
   "msg": "PsoDQDgFQ4kBXVo-100Bq53iqHP95g-AQg",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness*\n\nDe ~R$99~\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VHt0Xf3fW\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f",
+  "conferido": "2026-11-11T12:35:17.891177"
  },
  "cupom:OFERTAJA30": {
   "quando": "2026-11-11T09:30:30.052864",
@@ -3671,7 +3672,9 @@
   "cupom": null,
   "msg": "PspzcpdHedKuYY8-1wsBq53iqHP95g-AQo",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 2 Óleos Extraordinário Elseve 100ml Nutrição Profunda e Anti-Frizz*\n\nDe ~R$116~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8AXZph36ku\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mu0z10dr92ir66"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mu0z10dr92ir66",
+  "conferido": "2026-11-11T12:35:21.588225",
+  "encerrada": "2026-11-11T12:35:29.699315"
  },
  "3198871": {
   "quando": "2026-11-11T09:31:36.203231",
@@ -4313,5 +4316,91 @@
   "quando": "2026-11-11T12:00:51.272069",
   "titulo": "Monitor Gamer AOC Agon 27\" Quad HD OLED 240Hz 0.03ms G-Sync Preto - Q27G4ZDR",
   "loja": "shopee"
+ },
+ "cupom:OFERTASML30": {
+  "quando": "2026-11-11T12:30:35.485435",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Selecionados",
+  "id": "71880",
+  "publicado": "2026-11-11T10:16:12-03:00",
+  "ate": "2026-12-11T23:59:59-0300",
+  "msg": "PsqIqX2U7x2EhDg-14UBq53iqHP95g-ARk",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF, até R$500*\nem Selecionados\n\nCódigo: *OFERTASML30*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3200317": {
+  "quando": "2026-11-11T12:31:51.220352",
+  "titulo": "Cadeira Presidente Ergonomica Escritorio Mesh Reclinavel Com Apoio De Pes Retratil E Apoio De Cabeça",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3VlkTT6Mse",
+  "publico": null,
+  "produto": "shopee:43133305384",
+  "preco": 529.49,
+  "shopee": [
+   1251322845,
+   43133305384
+  ],
+  "cupom": null,
+  "msg": "Pspx2ieroXtoQhw-1_wBq53iqHP95g-ARo",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Cadeira Presidente Ergonomica Escritorio Mesh Reclinavel Com Apoio De Pes Retratil E Apoio De Cabeça*\n\nDe ~R$1203~\nPor *R$529* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlkTT6Mse\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mrin8yd5lmv9ee"
+ },
+ "3200221": {
+  "quando": "2026-11-11T12:33:03.373959",
+  "titulo": "Cadeira Presidente Ergonomica Escritorio Mesh Reclinavel Com Apoio De Pes Retratil E Ap",
+  "loja": "shopee"
+ },
+ "3200321": {
+  "quando": "2026-11-11T12:33:05.260429",
+  "titulo": "Barril 5L Cerveja Premium Heineken",
+  "loja": "shopee"
+ },
+ "3200281": {
+  "quando": "2026-11-11T12:33:06.272794",
+  "titulo": "Controle Playstation 5 Sem Fio Dualsense Branco - PS5",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1W0g5sTQJS",
+  "publico": null,
+  "produto": "shopee:22195061065",
+  "preco": 389.0,
+  "shopee": [
+   829012010,
+   22195061065
+  ],
+  "cupom": null,
+  "msg": "Pso9yMx9O3zX0fg-1zIBq53iqHP95g-ARs",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Controle Playstation 5 Sem Fio Dualsense Branco - PS5*\n\nDe ~R$547~\nPor *R$389* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1W0g5sTQJS\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpthld7xggeaa3"
+ },
+ "3200178": {
+  "quando": "2026-11-11T12:31:47.390403",
+  "titulo": "Kit 2 Pneus Continental 21560R17 ContiCrossContact",
+  "loja": "shopee"
+ },
+ "3200326": {
+  "quando": "2026-11-11T12:31:48.657434",
+  "titulo": "Pneu Continental Aro 14 17565R14 82T",
+  "loja": "shopee"
+ },
+ "3200232": {
+  "quando": "2026-11-11T12:31:49.638269",
+  "titulo": "Placa-Mãe MSI B550M Gaming Plus WiFi6E AMD AM4 DDR4 Wi-Fi 6E Bluetooth 5.2 Preto e",
+  "loja": "shopee"
+ },
+ "3199047": {
+  "quando": "2026-11-11T12:34:12.754360",
+  "titulo": "Tênis Nike Ebernon Low Masculino Branco 42 Br",
+  "link": "https://meli.la/2AURCB7",
+  "publico": "masculino",
+  "produto": "MLB6849586334",
+  "preco": 349.99,
+  "cupom": {
+   "codigo": "MODASEMPREML",
+   "id": "71868",
+   "publicado": "2026-11-11T08:16:11-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
+  },
+  "msg": "Psrb9f2euOU85K8-14YBq53iqHP95g-ARw",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis Nike Ebernon Low Masculino Branco 42 Br*\n\nDe ~R$369~\nPor *R$350* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$297*\n\n👉 *Pegar promoção:* https://meli.la/2AURCB7\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_977950-MLB112323293541_052026-P.webp"
  }
 }
