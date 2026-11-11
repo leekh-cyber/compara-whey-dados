@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T15:00:34.673295",
+  "quando": "2026-11-11T15:30:27.590815",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2182,7 +2182,7 @@
    344390826,
    58200071347
   ],
-  "conferido": "2026-11-11T12:03:09.211912"
+  "conferido": "2026-11-11T15:34:22.525613"
  },
  "3191088": {
   "quando": "2026-11-09T21:31:37.794944",
@@ -3610,7 +3610,7 @@
   "msg": "PsrCfWeYBFL7I1E-1.sBq53iqHP95g-AQY",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*KIT Robe + Sutiã Amamentação em Microfibra + Calcinha Galena Maternidade.*\n\nDe ~R$130~\nA partir de *R$60* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W88fWMsMt\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnaut47zl3i997",
-  "conferido": "2026-11-11T12:03:09.507933"
+  "conferido": "2026-11-11T15:34:22.903230"
  },
  "3198623": {
   "quando": "2026-11-11T09:02:48.152217",
@@ -3628,7 +3628,7 @@
   "msg": "Psq.5DjnCpSYb54-13gBq53iqHP95g-AQc",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit Com 3 Camisetas Masculinas Básicas Slim Hering*\n\nDe ~R$158~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5fqEp5sO4j\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc",
-  "conferido": "2026-11-11T12:03:09.892754"
+  "conferido": "2026-11-11T15:34:23.169724"
  },
  "3198441": {
   "quando": "2026-11-11T09:03:57.963700",
@@ -4357,7 +4357,9 @@
   "cupom": null,
   "msg": "Pspx2ieroXtoQhw-1_wBq53iqHP95g-ARo",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Cadeira Presidente Ergonomica Escritorio Mesh Reclinavel Com Apoio De Pes Retratil E Apoio De Cabeça*\n\nDe ~R$1203~\nPor *R$529* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlkTT6Mse\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mrin8yd5lmv9ee"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mrin8yd5lmv9ee",
+  "conferido": "2026-11-11T15:34:23.426263",
+  "encerrada": "2026-11-11T15:34:31.363017"
  },
  "3200221": {
   "quando": "2026-11-11T12:33:03.373959",
@@ -4384,7 +4386,9 @@
   "cupom": null,
   "msg": "Pso9yMx9O3zX0fg-1zIBq53iqHP95g-ARs",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Controle Playstation 5 Sem Fio Dualsense Branco - PS5*\n\nDe ~R$547~\nPor *R$389* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1W0g5sTQJS\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpthld7xggeaa3"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpthld7xggeaa3",
+  "conferido": "2026-11-11T15:34:31.363045",
+  "encerrada": "2026-11-11T15:34:38.537885"
  },
  "3200178": {
   "quando": "2026-11-11T12:31:47.390403",
@@ -4982,6 +4986,150 @@
  "3201380": {
   "quando": "2026-11-11T15:02:02.077798",
   "titulo": "Ar Condicionado Elgin Split 12000 BTUs Eco Inverter Iii Frio",
+  "loja": "shopee"
+ },
+ "cupom:PECHINCHA": {
+  "quando": "2026-11-11T15:30:29.643049",
+  "titulo": "O momento chegou: Aplique cupom Mercado Livre e ganhe 30% OFF",
+  "id": "71914",
+  "publicado": "2026-11-11T13:10:23-03:00",
+  "ate": "2026-12-31T23:59:59-0300",
+  "msg": "PsoVx.NXpbJEr90-15UBq53iqHP95g-ASs",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$29*\n\nCódigo: *PECHINCHA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3201739": {
+  "quando": "2026-11-11T15:31:34.555396",
+  "titulo": "Processador Amd (AM4) Ryzen 5 5500 4,2 Ghz",
+  "loja": "shopee"
+ },
+ "3201687": {
+  "quando": "2026-11-11T15:31:39.124010",
+  "titulo": "Cadeira De Escritório Ergonômica Yesop Com Apoio Lombar E De Pernas Assento Zero Gravit",
+  "loja": "shopee"
+ },
+ "3201689": {
+  "quando": "2026-11-11T15:32:04.711231",
+  "titulo": "Bicicleta Aro 29 Ksw 21 Velocidades Cambio Shimano Alumínio Xlt 100 Mtb aero freio",
+  "loja": "shopee"
+ },
+ "3201661": {
+  "quando": "2026-11-11T15:32:05.626985",
+  "titulo": "Cadeira De Descanso Para Bebê Musical Vibratória Modo Balanço Reclinável 18kg",
+  "loja": "shopee"
+ },
+ "3201677": {
+  "quando": "2026-11-11T15:32:06.804829",
+  "titulo": "Monitor Gamer Pichau Athen V4 Ultra 27 Pol VA QHD 1ms 165Hz HDMIDP PG-ATH27V4U",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/114PhFihKC",
+  "publico": null,
+  "produto": "shopee:58254360533",
+  "preco": 955.07,
+  "shopee": [
+   627750190,
+   58254360533
+  ],
+  "cupom": {
+   "codigo": "C4RR1NH0CH310",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqroP5B8cXEDew-14YBq53iqHP95g-ASw",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Monitor Gamer Pichau Athen V4 Ultra, 27 Pol, VA, QHD, 1ms, 165Hz, HDMI/DP, PG-ATH27V4U-BL04*\n\nDe ~R$1989~\nPor *R$955* 🔥\n\n🎟️ Cupom: *C4RR1NH0CH310*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/114PhFihKC\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mm24bfjiw2rof1"
+ },
+ "3201658": {
+  "quando": "2026-11-11T15:33:13.272259",
+  "titulo": "Monitor Gamer Mancer Horizon Z2 27 Pol VA FHD 100Hz 1ms HDMIVGA MCR-HZN27-BL2",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDOrI8aDo",
+  "publico": null,
+  "produto": "shopee:23498005822",
+  "preco": 666.86,
+  "shopee": [
+   627750190,
+   23498005822
+  ],
+  "cupom": {
+   "codigo": "1C4RR1NH0CH310",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrTFWwi1Q4zGyc-1_YBq53iqHP95g-AS0",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Monitor Gamer Mancer Horizon Z2, 27 Pol, VA, FHD, 100Hz, 1ms, HDMI/VGA, MCR-HZN27-BL2*\n\nDe ~R$1307~\nPor *R$667* 🔥\n\n🎟️ Cupom: *1C4RR1NH0CH310*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5LDOrI8aDo\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mttnt53zke80b8"
+ },
+ "3201688": {
+  "quando": "2026-11-11T15:31:47.851724",
+  "titulo": "Memória DDR4 Spectrum Blitz 8GB 3200MHz Preto ST-RM-BZ8G32C16WD4",
+  "loja": "shopee"
+ },
+ "3201684": {
+  "quando": "2026-11-11T15:31:48.910274",
+  "titulo": "Controle Playstation 5 Sem Fio DualSense Branco Edição Limitada Marathon - PS5",
+  "loja": "shopee"
+ },
+ "3201696": {
+  "quando": "2026-11-11T15:31:50.190632",
+  "titulo": "Fralda Pampers Confort Sec Ultra M 196 Unidades",
+  "loja": "shopee"
+ },
+ "3201628": {
+  "quando": "2026-11-11T15:31:51.192428",
+  "titulo": "Fralda Pampers Confort Sec Ultra XXG 148 Unidades",
+  "loja": "shopee"
+ },
+ "3201736": {
+  "quando": "2026-11-11T15:31:52.192414",
+  "titulo": "Controle para Xbox Sem Fio Pulse Red",
+  "loja": "shopee"
+ },
+ "3201675": {
+  "quando": "2026-11-11T15:31:54.558699",
+  "titulo": "Controle para Xbox Sem Fio Pulse Red",
+  "loja": "shopee"
+ },
+ "3201706": {
+  "quando": "2026-11-11T15:31:55.596478",
+  "titulo": "Mesa Dynamica 180X60X75cm",
+  "loja": "shopee"
+ },
+ "3201666": {
+  "quando": "2026-11-11T15:31:56.520141",
+  "titulo": "Memoria Ram DDR4 16GB 3200MHZ 2666MHZ para Notebook AdataSmartZeliaSamsung SODIMM 1X",
+  "loja": "shopee"
+ },
+ "3201678": {
+  "quando": "2026-11-11T15:31:57.512038",
+  "titulo": "Memoria Ram DDR4 16GB 3200MHZ 2666MHZ para Notebook AdataSmartZeliaSamsung SODIMM 1X16",
+  "loja": "shopee"
+ },
+ "3201652": {
+  "quando": "2026-11-11T15:31:59.809776",
+  "titulo": "Micro-ondas Philco 33L Pintura Limpa Fácil Pm36",
+  "loja": "shopee"
+ },
+ "3201651": {
+  "quando": "2026-11-11T15:32:00.722770",
+  "titulo": "PC Home Essential S Intel Core i3 8GB DE RAM SSD 120GB",
+  "loja": "shopee"
+ },
+ "3201731": {
+  "quando": "2026-11-11T15:32:01.679496",
+  "titulo": "Monitor Gamer Acer Ek241y Gbi 23.8\" Full Hd Ips 120Hz 1ms Hdmi Vga Preto",
+  "loja": "shopee"
+ },
+ "3201657": {
+  "quando": "2026-11-11T15:32:02.664665",
+  "titulo": "Micro-ondas Britânia 28L Espelhado Pintura Limpa Fácil Bmo30",
+  "loja": "shopee"
+ },
+ "3201722": {
+  "quando": "2026-11-11T15:32:03.701889",
+  "titulo": "Memória Ram Next-Bit DDR4 16GB 3200MHz 2666MHz (1x16)",
   "loja": "shopee"
  }
 }
