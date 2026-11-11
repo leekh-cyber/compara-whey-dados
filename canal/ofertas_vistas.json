@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T11:32:33.424143",
+  "quando": "2026-11-11T12:00:36.846563",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2156,7 +2156,7 @@
    552389168,
    57869192350
   ],
-  "conferido": "2026-11-11T08:32:50.393736"
+  "conferido": "2026-11-11T12:03:08.713923"
  },
  "cupom:71750": {
   "quando": "2026-11-09T21:30:31.062989",
@@ -2181,7 +2181,7 @@
    344390826,
    58200071347
   ],
-  "conferido": "2026-11-11T08:32:50.605328"
+  "conferido": "2026-11-11T12:03:09.211912"
  },
  "3191088": {
   "quando": "2026-11-09T21:31:37.794944",
@@ -3608,7 +3608,8 @@
   "cupom": null,
   "msg": "PsrCfWeYBFL7I1E-1.sBq53iqHP95g-AQY",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*KIT Robe + Sutiã Amamentação em Microfibra + Calcinha Galena Maternidade.*\n\nDe ~R$130~\nA partir de *R$60* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W88fWMsMt\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnaut47zl3i997"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnaut47zl3i997",
+  "conferido": "2026-11-11T12:03:09.507933"
  },
  "3198623": {
   "quando": "2026-11-11T09:02:48.152217",
@@ -3625,7 +3626,8 @@
   "cupom": null,
   "msg": "Psq.5DjnCpSYb54-13gBq53iqHP95g-AQc",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit Com 3 Camisetas Masculinas Básicas Slim Hering*\n\nDe ~R$158~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5fqEp5sO4j\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc",
+  "conferido": "2026-11-11T12:03:09.892754"
  },
  "3198441": {
   "quando": "2026-11-11T09:03:57.963700",
@@ -4256,6 +4258,60 @@
  "3199817": {
   "quando": "2026-11-11T11:33:04.172800",
   "titulo": "Placa-Mãe MSI B550M Gaming Plus WiFi6E AMD AM4 DDR4 Wi-Fi 6E Bluetooth 5.2 Preto e",
+  "loja": "shopee"
+ },
+ "3200124": {
+  "quando": "2026-11-11T12:00:52.149952",
+  "titulo": "Barril 5L Cerveja Premium Heineken",
+  "loja": "shopee"
+ },
+ "3200074": {
+  "quando": "2026-11-11T12:00:53.115824",
+  "titulo": "Gabinete Gamer Mancer CV450, Mini-Tower, Lateral de Vidro, Com 9 Fans, Preto, MCR-CV4509F-BK",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2BGMqtGEPp",
+  "publico": null,
+  "produto": "shopee:22199037859",
+  "preco": 378.9,
+  "shopee": [
+   627750190,
+   22199037859
+  ],
+  "cupom": {
+   "codigo": "11D011T3RRY3SH0P33",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Pso8cxUjFxrkg0Q-13ABq53iqHP95g-ARc",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Gabinete Gamer Mancer CV450, Mini-Tower, Lateral de Vidro, Com 9 Fans, Preto, MCR-CV4509F-BK*\n\nDe ~R$512~\nPor *R$379* 🔥\n\n🎟️ Cupom: *11D011T3RRY3SH0P33*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2BGMqtGEPp\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mfsl0reboh6z43"
+ },
+ "3200036": {
+  "quando": "2026-11-11T12:01:59.695947",
+  "titulo": "Jogo 4 Pneus Bridgestone Aro 15 Ecopia 18565R15",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/LoifbC2x1",
+  "publico": null,
+  "produto": "shopee:20999560676",
+  "preco": 1519.66,
+  "shopee": [
+   549724933,
+   20999560676
+  ],
+  "cupom": null,
+  "msg": "PspefDkN6UcqCMM-1xABq53iqHP95g-ARg",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Jogo 4 Pneus Bridgestone Aro 15 Ecopia EP150 185/65R15 88H*\n\nDe ~R$2202~\nPor *R$1520* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/LoifbC2x1\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-msk34uk1f1tsc4"
+ },
+ "3200087": {
+  "quando": "2026-11-11T12:00:49.869552",
+  "titulo": "Xiaomi Poco F9 Pro 256GB512GB 12GB RAM 5G Tela 6,59\" Versão Global Original Envio Imediato",
+  "loja": "shopee"
+ },
+ "3200023": {
+  "quando": "2026-11-11T12:00:51.272069",
+  "titulo": "Monitor Gamer AOC Agon 27\" Quad HD OLED 240Hz 0.03ms G-Sync Preto - Q27G4ZDR",
   "loja": "shopee"
  }
 }
