@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-10T21:30:26.598321",
+  "quando": "2026-11-10T22:00:29.621931",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2706,7 +2706,8 @@
   "shopee": [
    627750190,
    23293653632
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:00.036584"
  },
  "cupom:DESCONTO": {
   "quando": "2026-11-10T12:30:31.235404",
@@ -2745,7 +2746,9 @@
   "shopee": [
    316945044,
    7478320021
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:00.507418",
+  "encerrada": "2026-11-10T22:03:08.353420"
  },
  "3193423": {
   "quando": "2026-11-10T13:00:43.570086",
@@ -2765,7 +2768,8 @@
   "shopee": [
    1602856616,
    22698881511
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:08.353442"
  },
  "cupom:PROMOPRACONSTRU": {
   "quando": "2026-11-10T14:00:36.286013",
@@ -2789,7 +2793,8 @@
   "shopee": [
    1495626487,
    52653471245
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:08.588332"
  },
  "3193829": {
   "quando": "2026-11-10T14:02:51.466625",
@@ -2804,7 +2809,8 @@
   "shopee": [
    409969707,
    8337843814
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:09.440504"
  },
  "3193838": {
   "quando": "2026-11-10T14:30:34.559822",
@@ -2819,7 +2825,8 @@
   "shopee": [
    616222685,
    14494160625
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:09.645911"
  },
  "3193982": {
   "quando": "2026-11-10T14:31:44.454847",
@@ -2834,7 +2841,8 @@
   "shopee": [
    1526836548,
    22893986885
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:09.819537"
  },
  "3194145": {
   "quando": "2026-11-10T15:00:36.231045",
@@ -2864,7 +2872,8 @@
   "shopee": [
    762383390,
    57753224604
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:09.998486"
  },
  "cupom:OFFAGORA": {
   "quando": "2026-11-10T15:30:32.571958",
@@ -2888,7 +2897,8 @@
   "shopee": [
    1600119292,
    42879661811
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:10.328966"
  },
  "3194284": {
   "quando": "2026-11-10T15:32:49.757097",
@@ -2903,7 +2913,8 @@
   "shopee": [
    1383463294,
    58260042754
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:10.493013"
  },
  "3194402": {
   "quando": "2026-11-10T16:00:38.546898",
@@ -2923,7 +2934,8 @@
   "shopee": [
    908721653,
    58266747525
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:10.701440"
  },
  "3187186": {
   "quando": "2026-11-10T16:01:51.963969",
@@ -2938,7 +2950,8 @@
   "shopee": [
    1343318906,
    48217403916
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:10.890048"
  },
  "cupom:ULTIMASCHANCES": {
   "quando": "2026-11-10T17:00:38.975407",
@@ -2967,7 +2980,8 @@
   "shopee": [
    526029865,
    58209312972
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:11.071759"
  },
  "3195146": {
   "quando": "2026-11-10T18:00:36.951463",
@@ -3006,7 +3020,8 @@
   "shopee": [
    811034337,
    58261060170
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:11.263953"
  },
  "3195451": {
   "quando": "2026-11-10T18:31:43.343304",
@@ -3026,7 +3041,8 @@
   "shopee": [
    1552226494,
    22299440899
-  ]
+  ],
+  "conferido": "2026-11-10T22:03:11.492923"
  },
  "3195487": {
   "quando": "2026-11-10T19:00:41.463542",
@@ -3331,5 +3347,59 @@
   "msg": "PsqeWm41J0LPy6w-1.QBq53iqHP95g-_A",
   "texto": "*Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB*\n\nDe ~R$2199~\nPor *R$1430* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VHsF4Sc9a\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825at-mvc2n3j5qbyc1b"
+ },
+ "3196454": {
+  "quando": "2026-11-10T22:00:34.625566",
+  "titulo": "Torradeira Elétrica 2 Fatias 650W 127V220V Branca 7 Níveis Pão de Forma Café",
+  "loja": "shopee"
+ },
+ "3196437": {
+  "quando": "2026-11-10T22:00:36.611468",
+  "titulo": "Carrossel Natalino Musical A Corda Com Cavalinhos Caixinha de Música",
+  "loja": "shopee"
+ },
+ "3196318": {
+  "quando": "2026-11-10T22:00:38.095917",
+  "titulo": "Fritadeira Air Fryer Forno Oven 12L Mondial BrancoInox 2000W - AFON-12L-WI",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9V2wdaDC64",
+  "publico": null,
+  "produto": "shopee:58254143357",
+  "preco": 599.0,
+  "shopee": [
+   1062544851,
+   58254143357
+  ],
+  "cupom": null,
+  "msg": "PsrTx3RZV_mQY_c-1xgBq53iqHP95g-_Q",
+  "texto": "*Fritadeira Air Fryer Forno Oven 12L Mondial Branco/Inox 2000W - AFON-12L-WI*\n\nDe ~R$868~\nA partir de *R$599* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V2wdaDC64\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgpfia0cbp558d"
+ },
+ "3196499": {
+  "quando": "2026-11-10T22:01:48.901154",
+  "titulo": "Secador De Sapato Inteligente Dobrável Tênis Elimina Umidade Mal Cheiro E Odor",
+  "loja": "shopee"
+ },
+ "3196501": {
+  "quando": "2026-11-10T22:01:50.832026",
+  "titulo": "Vila Natalina Cenário Enfeite de Natal 5 Peças Envio Rapido",
+  "loja": "shopee"
+ },
+ "3196502": {
+  "quando": "2026-11-10T22:01:52.233293",
+  "titulo": "Decoração de Natal Calendário Natal",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8fTpfDVHOc",
+  "publico": null,
+  "produto": "shopee:22192585069",
+  "preco": 24.99,
+  "shopee": [
+   877720740,
+   22192585069
+  ],
+  "cupom": null,
+  "msg": "Psps3Tryv.WRDeg-1x0Bq53iqHP95g-_g",
+  "texto": "*Decoração de Natal Calendário Natal*\n\nA partir de *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8fTpfDVHOc\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mssucm0jf0n9f0"
  }
 }
