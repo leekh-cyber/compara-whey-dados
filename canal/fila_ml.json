@@ -87,23 +87,6 @@
   "cupom": null
  },
  {
-  "id": "3203946",
-  "quando": "2026-11-11T21:31:47.113933",
-  "titulo": "Perfume Rasasi Hawas Éclat 100ml EDP feminino",
-  "texto": "*Perfume Rasasi Hawas Éclat 100ml Eau de Parfum feminino*\n\nPor *R$234* 🔥\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/1KfWWKR\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_723990-MLA104778185278_012026-P.webp",
-  "link": "https://meli.la/1KfWWKR",
-  "produto": "MLB51541061",
-  "publico": "feminino",
-  "preco": 233.69,
-  "cupom": {
-   "codigo": "BELEZASEMPRE",
-   "id": "71889",
-   "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
-  }
- },
- {
   "id": "3203668",
   "quando": "2026-11-11T21:31:56.705983",
   "titulo": "Deo Colônia Natura Hoje Masculino 100ml",
@@ -162,15 +145,32 @@
   "cupom": null
  },
  {
-  "id": "3204170",
-  "quando": "2026-11-11T22:00:16.741156",
-  "titulo": "KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUM",
-  "texto": "*KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUME AMADEIRADO*\n\nDe ~R$279~\nPor *R$135* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/15XPKJF\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_624299-MLA99306640551_112025-P.webp",
-  "link": "https://meli.la/15XPKJF",
-  "produto": "MLB62491095",
+  "id": "3204231",
+  "quando": "2026-11-11T22:35:06.617782",
+  "titulo": "Tênis Flyer Runner Mesh Bdp Puma - R$ 179,99",
+  "texto": "*Tênis Flyer Runner Mesh Bdp Puma*\n\nDe ~R$349~\nPor *R$180* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1ETHzD7\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_768864-MLA106612727876_022026-P.webp",
+  "link": "https://meli.la/1ETHzD7",
+  "produto": "MLB65637461",
   "publico": "masculino",
-  "preco": 134.91,
+  "preco": 179.99,
+  "cupom": {
+   "codigo": "LEVEAGORA30",
+   "id": "71845",
+   "publicado": "2026-11-10T19:26:05-03:00",
+   "ate": "2026-12-10T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3204210",
+  "quando": "2026-11-11T22:35:14.843081",
+  "titulo": "Perfume Yves Saint Laurent YSL Masculino EDT 100ml Amadeirado Aromático",
+  "texto": "*Perfume Yves Saint Laurent YSL Masculino EDT 100ml Amadeirado Aromático*\n\nDe ~R$1199~\nPor *R$620* 🔥\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/2oqfg4M\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_975529-MLU72030573627_092023-P.webp",
+  "link": "https://meli.la/2oqfg4M",
+  "produto": "MLB27407227",
+  "publico": "masculino",
+  "preco": 620.0,
   "cupom": {
    "codigo": "BELEZASEMPRE",
    "id": "71889",
