@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-12T19:00:30.786053",
+  "quando": "2026-11-12T19:30:26.186870",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -5017,7 +5017,7 @@
   "msg": "PsoWusehZ0rgwsI-14gBq53iqHP95g-ASk",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Smartphone Xiaomi Redmi A7 Pro 4GB RAM + 4GB Virtual 128GB Dual SIM 6000mAh HyperOS Verde*\n\nDe ~R$1731~\nPor *R$1212* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qkzSnojGj\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnyqxg4shoua5a",
-  "conferido": "2026-11-12T15:55:31.891927"
+  "conferido": "2026-11-12T19:31:35.796389"
  },
  "3201380": {
   "quando": "2026-11-11T15:02:02.077798",
@@ -7278,7 +7278,8 @@
   "cupom": null,
   "msg": "Psrl6qPV0gyfWbg-10ABq53iqHP95g-AYM",
   "texto": "*Conjunto 2 Peças Tábua com Bandeja Encanto de Natal para Servir Petiscos Frios e Doces na Ceia e Decorar a Mesa Natalina*\n\nDe ~R$46~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRaxXyDRA\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258q-mu3ot0j15lac67"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258q-mu3ot0j15lac67",
+  "conferido": "2026-11-12T19:31:36.385947"
  },
  "3205020": {
   "quando": "2026-11-12T16:31:42.612673",
@@ -7566,5 +7567,22 @@
   "msg": "PsoJCkrpkkG7X_o-10YBq53iqHP95g-AZA",
   "texto": "*kit 2 Refletor Led 200w Holofote Bivolt Prova D'água Cor Branco Frio 6500k*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *MAISCUPONS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2yWGDMT\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_993375-MLA112854255007_062026-P.webp"
+ },
+ "3204840": {
+  "quando": "2026-11-12T19:30:30.920509",
+  "titulo": "Copo Térmico Gocase 880ml - Aço Inox Com Canudo E Tampa",
+  "link": "https://meli.la/2yu3W5J",
+  "publico": null,
+  "produto": "MLB3953635097",
+  "preco": 92.05,
+  "cupom": {
+   "codigo": "MAISCUPONS25",
+   "id": "71842",
+   "publicado": "2026-11-10T19:16:15-03:00",
+   "ate": "2026-12-09T23:59:59-0300"
+  },
+  "msg": "PsoJ35vSsmr4M88-1zUBq53iqHP95g-AZE",
+  "texto": "*Copo Térmico Gocase 880ml - Aço Inox Com Canudo E Tampa*\n\nPor *R$92* 🔥 no pix\n\n🎟️ Cupom: *MAISCUPONS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2yu3W5J\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_773898-MLB89147874313_082025-P.webp"
  }
 }
