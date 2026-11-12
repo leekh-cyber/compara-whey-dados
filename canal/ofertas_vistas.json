@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-12T10:00:34.946858",
+  "quando": "2026-11-12T10:30:25.443489",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2715,7 +2715,7 @@
    627750190,
    23293653632
   ],
-  "conferido": "2026-11-11T22:34:08.621623"
+  "conferido": "2026-11-12T10:32:40.244845"
  },
  "cupom:DESCONTO": {
   "quando": "2026-11-10T12:30:31.235404",
@@ -2777,7 +2777,7 @@
    1602856616,
    22698881511
   ],
-  "conferido": "2026-11-11T22:34:08.837910"
+  "conferido": "2026-11-12T10:32:40.585087"
  },
  "cupom:PROMOPRACONSTRU": {
   "quando": "2026-11-10T14:00:36.286013",
@@ -2803,7 +2803,7 @@
    1495626487,
    52653471245
   ],
-  "conferido": "2026-11-11T22:34:09.082255"
+  "conferido": "2026-11-12T10:32:40.852502"
  },
  "3193829": {
   "quando": "2026-11-10T14:02:51.466625",
@@ -5838,7 +5838,8 @@
   "msg": "Psqr9aTcgrCRdUM-1zEBq53iqHP95g-AUE",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit de Ferramentas 142 Peças + Maleta FST142 - FASTERR*\n\nDe ~R$137~\nPor *R$74* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2BGNLmYl1q\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mt8ggol5usci2c",
-  "conferido": "2026-11-11T22:34:09.285123"
+  "conferido": "2026-11-12T10:32:41.078619",
+  "encerrada": "2026-11-12T10:32:49.096241"
  },
  "3203207": {
   "quando": "2026-11-11T19:31:51.871862",
@@ -6764,5 +6765,39 @@
   "msg": "PsrxRksaPbxSb2I-16IBq53iqHP95g-AWY",
   "texto": "*Tênis Masculino Rbd Game Low Puma Team Gold Liso 41*\n\nDe ~R$499~\nPor *R$294* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2kpAaaL\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_860031-MLA99474143066_112025-P.webp"
+ },
+ "3205312": {
+  "quando": "2026-11-12T10:30:29.329684",
+  "titulo": "Caneca Xícara Personalizada Copo GTA 325ml | Cerâmica Premium | Gamer | Presente para Fãs de Grand Theft Auto",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1qdXwxb4DV",
+  "publico": null,
+  "produto": "shopee:58213233379",
+  "preco": 20.99,
+  "shopee": [
+   1821431551,
+   58213233379
+  ],
+  "cupom": null,
+  "msg": "PsoAN_yIbeEGCvg-17wBq53iqHP95g-AWc",
+  "texto": "*Caneca Xícara Personalizada Copo GTA 325ml | Cerâmica Premium | Gamer | Presente para Fãs de Grand Theft Auto*\n\nA partir de *R$21* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdXwxb4DV\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mpwueir89x4w63"
+ },
+ "3205503": {
+  "quando": "2026-11-12T10:31:35.836752",
+  "titulo": "Mocassim Masculino Em Camurça Linha Esporte Fino Old Money",
+  "link": "https://meli.la/1fjvWSq",
+  "publico": "masculino",
+  "produto": "MLB4179967533",
+  "preco": 178.2,
+  "cupom": {
+   "codigo": "LEVEAGORA30",
+   "id": "71845",
+   "publicado": "2026-11-10T19:26:05-03:00",
+   "ate": "2026-12-10T23:59:59-0300"
+  },
+  "msg": "PsqIl8VOYy.6onQ-1_0Bq53iqHP95g-AWg",
+  "texto": "*Mocassim Masculino Em Camurça Linha Esporte Fino Old Money*\n\nDe ~R$279~\nPor *R$178* 🔥 no pix\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1fjvWSq\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_786973-MLB90750152660_082025-P.webp"
  }
 }
