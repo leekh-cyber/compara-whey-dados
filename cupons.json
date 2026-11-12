@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-11T14:09-03:00",
+  "atualizado": "2026-11-12T14:37-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -13,6 +13,18 @@
       "automatico": false,
       "ate": "2026-12-10T23:59:59-03:00",
       "publicado": "2026-11-10T19:26-03:00"
+    },
+    {
+      "codigo": "QUEROPROMO25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Esportes, Saúde e mais",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-12T23:59:59-03:00",
+      "publicado": "2026-11-12T10:16-03:00"
     },
     {
       "codigo": "",
@@ -39,18 +51,6 @@
       "publicado": "2026-11-11T13:10-03:00"
     },
     {
-      "codigo": "APROVEITAAGORA",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 79.0,
-      "teto": 30.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-11T23:59:59-03:00",
-      "publicado": "2026-11-11T13:16-03:00"
-    },
-    {
       "codigo": "PECHINCHA",
       "pct": 30,
       "fixo": null,
@@ -71,8 +71,8 @@
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": true,
-      "ate": "2026-11-11T23:59:59-03:00",
-      "publicado": "2026-11-11T12:47-03:00"
+      "ate": "2026-12-11T23:59:59-03:00",
+      "publicado": "2026-11-11T12:39-03:00"
     }
   ]
 }
