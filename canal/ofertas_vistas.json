@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-12T17:30:29.135368",
+  "quando": "2026-11-12T18:00:29.330710",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -7138,7 +7138,8 @@
   "cupom": null,
   "msg": "Psqgj9L6QvDteQM-15oBq53iqHP95g-AXw",
   "texto": "*Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction*\n\nDe ~R$99~\nPor *R$42* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9zzFyW7Spy\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mnlhyfwwl05g38"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mnlhyfwwl05g38",
+  "conferido": "2026-11-12T18:02:47.335022"
  },
  "3204889": {
   "quando": "2026-11-12T15:01:42.852511",
@@ -7401,5 +7402,39 @@
   "msg": "PsoHzbTYnMHLy70-12UBq53iqHP95g-AYk",
   "texto": "*Principia Kit Protetor Cor 3.0 + Limpeza + Hidrata*\n\nDe ~R$142~\nPor *R$68* 🔥 no pix\n\n🎟️ Cupom: *MAISCUPONS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1fLTfjz\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_728258-MLA106795454020_022026-P.webp"
+ },
+ "3207496": {
+  "quando": "2026-11-12T18:00:35.261750",
+  "titulo": "Tênis QIAODAN TG 1.0 unissex",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/ql1G2A3hc",
+  "publico": "masculino",
+  "produto": "shopee:45962433905",
+  "preco": 274.0,
+  "shopee": [
+   1535859203,
+   45962433905
+  ],
+  "cupom": null,
+  "msg": "Psr1Iihij75W5P8-1wsBq53iqHP95g-AYo",
+  "texto": "*Sola Grossa E 2E De Largura À Prova Deqiaodan TG 1.0 Masculino Tênis De Corrida Profissional Respirável Rebote QDB0232*\n\nPor *R$274* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/ql1G2A3hc\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mubj81ttfmdkdd"
+ },
+ "3205066": {
+  "quando": "2026-11-12T18:01:42.647045",
+  "titulo": "Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos Ponte Lar Utilidades",
+  "link": "https://meli.la/2p9fpMB",
+  "publico": null,
+  "produto": "MLB27146487",
+  "preco": 28.9,
+  "cupom": {
+   "codigo": "MAISCUPONS25",
+   "id": "71842",
+   "publicado": "2026-11-10T19:16:15-03:00",
+   "ate": "2026-12-09T23:59:59-0300"
+  },
+  "msg": "Psr4vdk8BlQJaT0-1xwBq53iqHP95g-AYs",
+  "texto": "*Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos ponte lar utilidades*\n\nDe ~R$59~\nPor *R$29* 🔥\n\n🎟️ Cupom: *MAISCUPONS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2p9fpMB\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_748154-MLA114700023633_072026-P.webp"
  }
 }
