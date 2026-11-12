@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-12T14:00:34.019408",
+  "quando": "2026-11-12T14:30:26.824355",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -6868,7 +6868,8 @@
   "cupom": null,
   "msg": "PsoU3PUkvhdvzTI-1xIBq53iqHP95g-AWw",
   "texto": "*kit com 10 Calcinha infantil Kids*\n\nDe ~R$40~\nA partir de *R$23* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1gK7omMQGU\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
+  "conferido": "2026-11-12T14:32:43.541903"
  },
  "3205665": {
   "quando": "2026-11-12T11:31:39.113596",
@@ -7076,5 +7077,39 @@
   "msg": "Psr4ikEzvU4j._A-10gBq53iqHP95g-AXk",
   "texto": "*Tênis New Balance Fresh Foam Arishiv4 Masculino Original*\n\nPor *R$182* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/13k1M25\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_936344-MLB89212091538_082025-P.webp"
+ },
+ "3205775": {
+  "quando": "2026-11-12T14:30:31.207683",
+  "titulo": "BOLD CHOCOMALTE 14G - KIT 4 UND.",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3B8vntamnO",
+  "publico": null,
+  "produto": "shopee:49468944736",
+  "preco": 27.9,
+  "shopee": [
+   662247567,
+   49468944736
+  ],
+  "cupom": null,
+  "msg": "PsraNSKThHCuv6c-15QBq53iqHP95g-AXo",
+  "texto": "*BOLD CHOCOMALTE 14G - KIT 4 UND.*\n\nDe ~R$69~\nPor *R$28* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3B8vntamnO\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258p-mu2iq2ge7h1g28"
+ },
+ "3205268": {
+  "quando": "2026-11-12T14:31:38.646033",
+  "titulo": "Regata Masculina Oversized Machão Muscle 100%",
+  "link": "https://meli.la/1B4hH53",
+  "publico": "masculino",
+  "produto": "MLB5345093980",
+  "preco": 26.0,
+  "cupom": {
+   "codigo": "LEVEAGORA30",
+   "id": "71845",
+   "publicado": "2026-11-10T19:26:05-03:00",
+   "ate": "2026-12-10T23:59:59-0300"
+  },
+  "msg": "PsqfGFS.d0v75m8-1.wBq53iqHP95g-AXs",
+  "texto": "*Regata Masculina Oversized Machão Muscle 100% Algodão*\n\nDe ~R$59~\nPor *R$26* 🔥\n\n🎟️ Cupom: *LEVEAGORA30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1B4hH53\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_934390-MLB85969694024_062025-P.webp"
  }
 }
