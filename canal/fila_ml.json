@@ -87,23 +87,6 @@
   "cupom": null
  },
  {
-  "id": "3203503",
-  "quando": "2026-11-11T20:15:38.274798",
-  "titulo": "Aparador De Pelos Super Groom 10 Mondial Pretoazul Bivolt Bg-03",
-  "texto": "*Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03*\n\nDe ~R$202~\nPor *R$86* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/18exrTt\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_716732-MLA99952834055_112025-P.webp",
-  "link": "https://meli.la/18exrTt",
-  "produto": "MLB44784310",
-  "publico": null,
-  "preco": 85.5,
-  "cupom": {
-   "codigo": "BELEZASEMPRE",
-   "id": "71889",
-   "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
-  }
- },
- {
   "id": "3203946",
   "quando": "2026-11-11T21:31:47.113933",
   "titulo": "Perfume Rasasi Hawas Éclat 100ml EDP feminino",
@@ -164,6 +147,35 @@
    "id": "71846",
    "publicado": "2026-11-10T19:26:06-03:00",
    "ate": "2026-12-10T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3204178",
+  "quando": "2026-11-11T22:00:05.425699",
+  "titulo": "Natura Urbano Noite Masculino Deo colônia 100ml",
+  "texto": "*Natura Urbano Noite Masculino Deo colônia*\n\nPor *R$66* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2JpmZ27\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_891405-MLA86244556532_062025-P.webp",
+  "link": "https://meli.la/2JpmZ27",
+  "produto": "MLB51526227",
+  "publico": "masculino",
+  "preco": 66.3,
+  "cupom": null
+ },
+ {
+  "id": "3204170",
+  "quando": "2026-11-11T22:00:16.741156",
+  "titulo": "KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUM",
+  "texto": "*KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUME AMADEIRADO*\n\nDe ~R$279~\nPor *R$135* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/15XPKJF\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_624299-MLA99306640551_112025-P.webp",
+  "link": "https://meli.la/15XPKJF",
+  "produto": "MLB62491095",
+  "publico": "masculino",
+  "preco": 134.91,
+  "cupom": {
+   "codigo": "BELEZASEMPRE",
+   "id": "71889",
+   "publicado": "2026-11-11T12:16:05-03:00",
+   "ate": "2026-11-11T23:59:59-0300"
   }
  }
 ]
