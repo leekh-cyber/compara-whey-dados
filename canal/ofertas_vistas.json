@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-11T22:30:27.115711",
+  "quando": "2026-11-12T08:00:31.620242",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -2818,7 +2818,7 @@
    409969707,
    8337843814
   ],
-  "conferido": "2026-11-11T19:34:10.704041"
+  "conferido": "2026-11-12T08:04:23.222561"
  },
  "3193838": {
   "quando": "2026-11-10T14:30:34.559822",
@@ -2834,7 +2834,7 @@
    616222685,
    14494160625
   ],
-  "conferido": "2026-11-11T20:05:03.422124"
+  "conferido": "2026-11-12T08:04:32.156001"
  },
  "3193982": {
   "quando": "2026-11-10T14:31:44.454847",
@@ -2850,7 +2850,7 @@
    1526836548,
    22893986885
   ],
-  "conferido": "2026-11-11T20:05:03.995635"
+  "conferido": "2026-11-12T08:04:32.329420"
  },
  "3194145": {
   "quando": "2026-11-10T15:00:36.231045",
@@ -2881,7 +2881,7 @@
    762383390,
    57753224604
   ],
-  "conferido": "2026-11-11T20:05:04.295278"
+  "conferido": "2026-11-12T08:04:32.596194"
  },
  "cupom:OFFAGORA": {
   "quando": "2026-11-10T15:30:32.571958",
@@ -2907,7 +2907,7 @@
    1600119292,
    42879661811
   ],
-  "conferido": "2026-11-11T20:05:04.658424"
+  "conferido": "2026-11-12T08:04:32.798785"
  },
  "3194284": {
   "quando": "2026-11-10T15:32:49.757097",
@@ -2923,7 +2923,7 @@
    1383463294,
    58260042754
   ],
-  "conferido": "2026-11-11T20:05:05.023371"
+  "conferido": "2026-11-12T08:04:32.984769"
  },
  "3194402": {
   "quando": "2026-11-10T16:00:38.546898",
@@ -2944,7 +2944,7 @@
    908721653,
    58266747525
   ],
-  "conferido": "2026-11-11T20:05:05.239670"
+  "conferido": "2026-11-12T08:04:33.169181"
  },
  "3187186": {
   "quando": "2026-11-10T16:01:51.963969",
@@ -3706,7 +3706,7 @@
   "msg": "PsoKGkTrMbFrtw0-15oBq53iqHP95g-AQs",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Nebulizador Portátil Mesh Adulto e Infantil com Máscaras e Bocal Alimentação USB-C ou Pilhas AA KODI*\n\nDe ~R$59~\nPor *R$24* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6L5veOuWZK\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-muh7ue0o969ve3",
-  "conferido": "2026-11-11T20:05:02.832472"
+  "conferido": "2026-11-12T08:04:31.936145"
  },
  "3198719": {
   "quando": "2026-11-11T09:31:40.104306",
@@ -4419,10 +4419,11 @@
    "codigo": "MODASEMPREML",
    "id": "71868",
    "publicado": "2026-11-11T08:16:11-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:00.045141"
   },
   "msg": "Psrb9f2euOU85K8-14YBq53iqHP95g-ARw",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis Nike Ebernon Low Masculino Branco 42 Br*\n\nDe ~R$369~\nPor *R$350* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$297*\n\n👉 *Pegar promoção:* https://meli.la/2AURCB7\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis Nike Ebernon Low Masculino Branco 42 Br*\n\nDe ~R$369~\nPor *R$350* 🔥\n\n🎟️ ~Cupom: MODASEMPREML~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2AURCB7\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977950-MLB112323293541_052026-P.webp"
  },
  "3200556": {
@@ -4560,7 +4561,7 @@
   "msg": "PsqH_pO6IQz1RYY-1wQBq53iqHP95g-AR4",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Xiaomi Redmi Buds 6 Play Fone Bluetooth 5.4 TWS Sem Fio Driver 10mm IPX4 Preto*\n\nDe ~R$162~\nPor *R$114* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1BNpjGtOkk\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mt2rgeulnh8mff",
-  "conferido": "2026-11-11T20:05:01.865428"
+  "conferido": "2026-11-12T08:04:31.703208"
  },
  "3200136": {
   "quando": "2026-11-11T13:03:25.719348",
@@ -4573,10 +4574,11 @@
    "codigo": "MODASEMPREML",
    "id": "71868",
    "publicado": "2026-11-11T08:16:11-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:07.252935"
   },
   "msg": "PspMd.UflTo1e.c-19kBq53iqHP95g-AR8",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Sapatenis Masculino West Coast Casual Sunset Wc 207*\n\nDe ~R$199~\nPor *R$135* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$115*\n\n👉 *Pegar promoção:* https://meli.la/167zYFR\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Sapatenis Masculino West Coast Casual Sunset Wc 207*\n\nDe ~R$199~\nPor *R$135* 🔥\n\n🎟️ ~Cupom: MODASEMPREML~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/167zYFR\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_682501-MLB107319063586_032026-P.webp"
  },
  "3200887": {
@@ -4711,10 +4713,11 @@
    "codigo": "MODASEMPREML",
    "id": "71868",
    "publicado": "2026-11-11T08:16:11-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:14.917435"
   },
   "msg": "PsqNyGneltn2_M0-10sBq53iqHP95g-ASI",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis De Corrida Feminino Questar 4 adidas Preto Liso 34 Br*\n\nDe ~R$599~\nPor *R$349* 🔥 no pix\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$297*\n\n👉 *Pegar promoção:* https://meli.la/1Vebbv2\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Tênis De Corrida Feminino Questar 4 adidas Preto Liso 34 Br*\n\nDe ~R$599~\nPor *R$349* 🔥 no pix\n\n🎟️ ~Cupom: MODASEMPREML~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/1Vebbv2\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_812312-MLB110045842976_042026-P.webp"
  },
  "cupom:APROVEITAAGORA": {
@@ -4725,7 +4728,8 @@
   "ate": "2026-11-11T23:59:59-0300",
   "msg": "PsprbzXsfDjt8.0-1w4Bq53iqHP95g-ASM",
   "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$79, até R$30*\nem Selecionados\n\nCódigo: *APROVEITAAGORA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": null
+  "imagem": null,
+  "encerrada": "2026-11-12T08:04:41.359246"
  },
  "3200871": {
   "quando": "2026-11-11T14:01:40.173679",
@@ -4805,10 +4809,11 @@
    "codigo": "MODASEMPREML",
    "id": "71868",
    "publicado": "2026-11-11T08:16:11-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:22.638534"
   },
   "msg": "PspqlAwkJtfQyHo-1wgBq53iqHP95g-ASY",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3 Regata Modelo Americano Canelada Premium*\n\nDe ~R$118~\nPor *R$51* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$43*\n\n👉 *Pegar promoção:* https://meli.la/2RKrZ3U\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3 Regata Modelo Americano Canelada Premium*\n\nDe ~R$118~\nPor *R$51* 🔥\n\n🎟️ ~Cupom: MODASEMPREML~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2RKrZ3U\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_871232-MLB97519633810_112025-P.webp"
  },
  "3201084": {
@@ -5307,7 +5312,7 @@
   "msg": "PspSRBCGFGmzhZM-18YBq53iqHP95g-ATA",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*GABINETE GAMER ACEGEEK DIAMOND R339 RAINBOW MID-TOWER LATERAL DE VIDRO 4 FANS AG-DIAMOND-R339-WH-I4F*\n\nPor *R$205* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6fimVgsbU1\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134201-820lt-mqxu0k6t6kudf0",
-  "conferido": "2026-11-11T19:34:11.085501"
+  "conferido": "2026-11-12T08:04:23.504608"
  },
  "3202149": {
   "quando": "2026-11-11T16:31:51.508227",
@@ -5330,7 +5335,7 @@
   "msg": "PsrzATbPQBZ.DqQ-12QBq53iqHP95g-ATE",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Gabinete Gamer Acegeek Mercury R425, Mid-Tower, Lateral de Vidro, Branco, AG-MERCURY-R425-WH*\n\nDe ~R$598~\nPor *R$347* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qkzZ3CrKA\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwn-lzhzke18oj3eb2",
-  "conferido": "2026-11-11T19:34:11.420072"
+  "conferido": "2026-11-12T08:04:23.728832"
  },
  "3202066": {
   "quando": "2026-11-11T16:33:02.867794",
@@ -5353,7 +5358,8 @@
   "msg": "Psrs7dIXqpnuQ.0-13YBq53iqHP95g-ATI",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony*\n\nDe ~R$4763~\nPor *R$4049* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdWkySxhU\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258y-muao10t38ttude",
-  "conferido": "2026-11-11T19:34:11.640031"
+  "conferido": "2026-11-12T08:04:23.916813",
+  "encerrada": "2026-11-12T08:04:31.265288"
  },
  "3202112": {
   "quando": "2026-11-11T16:33:05.909858",
@@ -5620,10 +5626,11 @@
    "codigo": "BELEZASEMPRE",
    "id": "71889",
    "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:30.021823"
   },
   "msg": "Pspp9HFKFzvakpo-19oBq53iqHP95g-ATk",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Armaf Club De Nuit Feminino Nota Marcante*\n\nDe ~R$299~\nPor *R$193* 🔥\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n💸 Com o cupom: *R$170*\n\n👉 *Pegar promoção:* https://meli.la/2cCUquK\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Armaf Club De Nuit Feminino Nota Marcante*\n\nDe ~R$299~\nPor *R$193* 🔥\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2cCUquK\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_822912-MLB118530501722_102026-P.webp"
  },
  "cupom:APROVEITAOFERTA": {
@@ -5634,7 +5641,8 @@
   "ate": "2026-11-11T23:59:59-0300",
   "msg": "PsotG5hYDAJuih8-1_sBq53iqHP95g-ATo",
   "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*40% OFF acima de R$1999, até R$400*\nem Eletrônicos\n\nCódigo: *APROVEITAOFERTA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": null
+  "imagem": null,
+  "encerrada": "2026-11-12T08:04:47.050015"
  },
  "3202948": {
   "quando": "2026-11-11T18:31:34.346050",
@@ -5693,10 +5701,11 @@
    "codigo": "MODASEMPREML",
    "id": "71868",
    "publicado": "2026-11-11T08:16:11-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:36.768444"
   },
   "msg": "PspaWTorRl.mgmM-1yUBq53iqHP95g-AT0",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3x Camiseta Básica T-shirt Preta Super Pima Premium Tech*\n\nDe ~R$311~\nPor *R$213* 🔥\n\n🎟️ Cupom: *MODASEMPREML* (15% OFF acima de R$49, até R$60)\n💸 Com o cupom: *R$181*\n\n👉 *Pegar promoção:* https://meli.la/2837Gdy\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Kit 3x Camiseta Básica T-shirt Preta Super Pima Premium Tech*\n\nDe ~R$311~\nPor *R$213* 🔥\n\n🎟️ ~Cupom: MODASEMPREML~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2837Gdy\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_615419-MLB107123554519_022026-P.webp"
  },
  "3203146": {
@@ -5728,10 +5737,11 @@
    "codigo": "BELEZASEMPRE",
    "id": "71889",
    "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:43.331069"
   },
   "msg": "PsogGgfuGkv7W7c-15ABq53iqHP95g-AT8",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Lattafa Yara Moi 100ml Edp Feminino*\n\nDe ~R$269~\nPor *R$130* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n💸 Com o cupom: *R$114*\n\n👉 *Pegar promoção:* https://meli.la/2fLFV6t\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Lattafa Yara Moi 100ml Edp Feminino*\n\nDe ~R$269~\nPor *R$130* 🔥 no pix\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2fLFV6t\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_825019-MLA100349454836_122025-P.webp"
  },
  "3202514": {
@@ -5771,7 +5781,9 @@
   "cupom": null,
   "msg": "Pso2zHYDreZ9tZA-15ABq53iqHP95g-AUI",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Barra De Chocolate Lindt Lindor Singles Ao Leite 100g*\n\nDe ~R$44~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6AmW7DmJCY\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hv-mf8nk4xg7si402"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hv-mf8nk4xg7si402",
+  "conferido": "2026-11-12T08:04:14.098656",
+  "encerrada": "2026-11-12T08:04:23.222526"
  },
  "3203268": {
   "quando": "2026-11-11T19:30:37.957182",
@@ -5846,7 +5858,8 @@
   "ate": "2026-11-11T23:59:59-0300",
   "msg": "Psql4MVQqrOU1ok-1.QBq53iqHP95g-AUQ",
   "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF acima de R$149, até R$40*\nem Selecionados\n\nCódigo: *AGORAPROMO*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": null
+  "imagem": null,
+  "encerrada": "2026-11-12T08:04:52.703863"
  },
  "3203363": {
   "quando": "2026-11-11T20:01:37.018275",
@@ -5863,7 +5876,8 @@
   "cupom": null,
   "msg": "PspuQBq3ZGWXNjM-1z0Bq53iqHP95g-AUU",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Daily T-shirt Insider*\n\nA partir de *R$54* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6q2CwTuKai\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
+  "conferido": "2026-11-12T08:04:31.265317"
  },
  "3203460": {
   "quando": "2026-11-11T20:02:49.809330",
@@ -5885,7 +5899,8 @@
   },
   "msg": "PsrcqZJ9z77co6I-16gBq53iqHP95g-AUY",
   "texto": "🛍️ *OFERTAS 11.11*\n\n*Roupão Infantil Menina Banho Unicórnio - Pronta Entrega*\n\nDe ~R$129~\nPor *R$91* 🔥\n\n🎟️ Cupom: *BABYPROMOTQAF*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlkyRDrxo\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquzhbgnwtfxef"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lquzhbgnwtfxef",
+  "conferido": "2026-11-12T08:04:31.485871"
  },
  "3203477": {
   "quando": "2026-11-11T20:02:48.358555",
@@ -6251,10 +6266,11 @@
    "codigo": "BELEZASEMPRE",
    "id": "71889",
    "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:50.270217"
   },
   "msg": "PsqJdlrB9PZ4ZsQ-18IBq53iqHP95g-AVE",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03*\n\nDe ~R$202~\nPor *R$86* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/18exrTt\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03*\n\nDe ~R$202~\nPor *R$86* 🔥 no pix\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/18exrTt\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_716732-MLA99952834055_112025-P.webp"
  },
  "3204100": {
@@ -6322,10 +6338,11 @@
    "codigo": "BELEZASEMPRE",
    "id": "71889",
    "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:05:57.350526"
   },
   "msg": "PspGQS0H2pzKPb4-1zsBq53iqHP95g-AVQ",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Rasasi Hawas Éclat 100ml Eau de Parfum feminino*\n\nPor *R$234* 🔥\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/1KfWWKR\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*Perfume Rasasi Hawas Éclat 100ml Eau de Parfum feminino*\n\nPor *R$234* 🔥\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/1KfWWKR\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_723990-MLA104778185278_012026-P.webp"
  },
  "3195713": {
@@ -6413,10 +6430,131 @@
    "codigo": "BELEZASEMPRE",
    "id": "71889",
    "publicado": "2026-11-11T12:16:05-03:00",
-   "ate": "2026-11-11T23:59:59-0300"
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:06:04.579438"
   },
   "msg": "PsovCnogW9ZwBQI-1_wBq53iqHP95g-AVo",
-  "texto": "🛍️ *OFERTAS 11.11*\n\n*KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUME AMADEIRADO*\n\nDe ~R$279~\nPor *R$135* 🔥 no pix\n\n🎟️ Cupom: *BELEZASEMPRE* (12% OFF acima de R$79, até R$50)\n\n👉 *Pegar promoção:* https://meli.la/15XPKJF\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "texto": "🛍️ *OFERTAS 11.11*\n\n*KIT BODY SPLASH MASCULINO INFALIVEL + ENIGMA + BANKER + ADVENTUS 200ML - PRIMACIAL PERFUME AMADEIRADO*\n\nDe ~R$279~\nPor *R$135* 🔥 no pix\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/15XPKJF\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_624299-MLA99306640551_112025-P.webp"
+ },
+ "cupom:PROMOFLASH30": {
+  "quando": "2026-11-12T08:00:33.715523",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 1 (até R$ 500) em Selecionados",
+  "id": "71836",
+  "publicado": "2026-11-10T19:16:12-03:00",
+  "ate": "2026-12-31T23:59:59-0300",
+  "msg": "Psp8fqRKFJCR2Zs-114Bq53iqHP95g-AVs",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF, até R$500*\nem Selecionados\n\nCódigo: *PROMOFLASH30*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3204565": {
+  "quando": "2026-11-12T08:01:39.507181",
+  "titulo": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
+  "loja": "shopee"
+ },
+ "3204501": {
+  "quando": "2026-11-12T08:02:03.653822",
+  "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5VWq9VNMBg",
+  "publico": null,
+  "produto": "shopee:46360468172",
+  "preco": 41.99,
+  "shopee": [
+   408653169,
+   46360468172
+  ],
+  "cupom": null,
+  "msg": "PsrTHQoGtSi6Iqo-12MBq53iqHP95g-AVw",
+  "texto": "*Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha*\n\nDe ~R$99~\nPor *R$42* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VWq9VNMBg\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85"
+ },
+ "3204496": {
+  "quando": "2026-11-12T08:01:42.930458",
+  "titulo": "Pasta de Amendoim com Whey Protein 600g Dr Peanut",
+  "loja": "shopee"
+ },
+ "3204534": {
+  "quando": "2026-11-12T08:01:45.124447",
+  "titulo": "Smartphone Motorola Moto G06 128GB Câmera 50MP",
+  "loja": "shopee"
+ },
+ "3204515": {
+  "quando": "2026-11-12T08:01:47.145532",
+  "titulo": "Placa-Mãe Amd Am4 Asus Tuf Gaming B550m-Plus 90Mb14a0-C1bay0",
+  "loja": "shopee"
+ },
+ "3204579": {
+  "quando": "2026-11-12T08:01:49.342547",
+  "titulo": "Processador AMD Ryzen 7 5700, 3.7 GHz, Cache 4 MB, 8 Núcleos, 16 Threads, AM4 (4.6GHz Max Turbo)",
+  "loja": "shopee"
+ },
+ "3204493": {
+  "quando": "2026-11-12T08:01:51.520880",
+  "titulo": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+  "loja": "shopee"
+ },
+ "3204562": {
+  "quando": "2026-11-12T08:01:52.366701",
+  "titulo": "Smart Tv Aoc 50\" Dled 4K Uhd Roku Tv 50U706678G",
+  "loja": "shopee"
+ },
+ "3204555": {
+  "quando": "2026-11-12T08:01:54.492959",
+  "titulo": "Lava e Seca Philco 16 Programas Eco Inverter 11kg Titânio PLS11C",
+  "loja": "shopee"
+ },
+ "3204561": {
+  "quando": "2026-11-12T08:01:55.471794",
+  "titulo": "Ar Condicionado Split Inverter Philco PAC9QG Espelhado 9000 BTUs Quente e Frio 220V",
+  "loja": "shopee"
+ },
+ "3204599": {
+  "quando": "2026-11-12T08:01:56.320336",
+  "titulo": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
+  "loja": "shopee"
+ },
+ "3204532": {
+  "quando": "2026-11-12T08:01:57.216541",
+  "titulo": "Cooktop De Indução 4 Bocas Dako Supreme Preto 220v",
+  "loja": "shopee"
+ },
+ "3204600": {
+  "quando": "2026-11-12T08:01:58.765651",
+  "titulo": "Galaxy A57 5G (128Gb) Cinza + Galaxy Watch8 Bt 40mm Grafite",
+  "loja": "shopee"
+ },
+ "3204547": {
+  "quando": "2026-11-12T08:02:00.922057",
+  "titulo": "Soundbar JBL Bluetooth, Cinema SB180, 2.1 Canais, Subwoofer de 6,5\" Sem Fio 110W RMS",
+  "loja": "shopee"
+ },
+ "3204615": {
+  "quando": "2026-11-12T08:02:01.850808",
+  "titulo": "Rack para TV até 80 Polegadas 180cm 2 Portas 1 Gaveta BrancoRustic Toronto Madesa",
+  "loja": "shopee"
+ },
+ "3204509": {
+  "quando": "2026-11-12T08:02:02.750687",
+  "titulo": "Grand Theft Auto VI - Playstation 5",
+  "loja": "shopee"
+ },
+ "3204210": {
+  "quando": "2026-11-12T08:03:09.639465",
+  "titulo": "Perfume Yves Saint Laurent YSL Masculino EDT 100ml Amadeirado Aromático",
+  "link": "https://meli.la/2oqfg4M",
+  "publico": "masculino",
+  "produto": "MLB27407227",
+  "preco": 620.0,
+  "cupom": {
+   "codigo": "BELEZASEMPRE",
+   "id": "71889",
+   "publicado": "2026-11-11T12:16:05-03:00",
+   "ate": "2026-11-11T23:59:59-0300",
+   "encerrado": "2026-11-12T08:06:11.135443"
+  },
+  "msg": "Psq2mizf1CCpsAg-10IBq53iqHP95g-AV0",
+  "texto": "*Perfume Yves Saint Laurent YSL Masculino EDT 100ml Amadeirado Aromático*\n\nDe ~R$1199~\nPor *R$620* 🔥\n\n🎟️ ~Cupom: BELEZASEMPRE~ _(venceu ou esgotou)_\n\n👉 *Pegar promoção:* https://meli.la/2oqfg4M\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_975529-MLU72030573627_092023-P.webp"
  }
 }
