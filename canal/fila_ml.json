@@ -116,23 +116,6 @@
   }
  },
  {
-  "id": "3210672",
-  "quando": "2026-11-13T15:35:18.269207",
-  "titulo": "Jaqueta Masculina Grandpa Soft Dust Company Streetwear",
-  "texto": "*Jaqueta Masculina Grandpa Soft Dust Company Streetwear Marrom - Chocolate P*\n\nDe ~R$785~\nPor *R$342* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2s4b76b\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_973750-MLB110264219234_052026-P.webp",
-  "link": "https://meli.la/2s4b76b",
-  "produto": "MLB6712680460",
-  "publico": "masculino",
-  "preco": 341.9,
-  "cupom": {
-   "codigo": "QUEROPROMOS25",
-   "id": "71980",
-   "publicado": "2026-11-13T10:16:22-03:00",
-   "ate": "2026-12-13T23:59:59-0300"
-  }
- },
- {
   "id": "3210648",
   "quando": "2026-11-13T15:35:23.575164",
   "titulo": "Natura Papai e Bebê Kit Presente 2 Colônias 50ml",
@@ -171,6 +154,18 @@
   "produto": "MLB4339049133",
   "publico": "feminino",
   "preco": 133.11,
+  "cupom": null
+ },
+ {
+  "id": "3210979",
+  "quando": "2026-11-13T16:45:13.707904",
+  "titulo": "Kaiak Sonar Deo Colônia Natura Feminino 100 ml",
+  "texto": "*Kaiak Sonar Deo Colônia Natura Feminino 100 ml*\n\nDe ~R$189~\nPor *R$95* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2LQuMhx\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_945038-MLA87441059249_072025-P.webp",
+  "link": "https://meli.la/2LQuMhx",
+  "produto": "MLB39016424",
+  "publico": "feminino",
+  "preco": 94.95,
   "cupom": null
  }
 ]
