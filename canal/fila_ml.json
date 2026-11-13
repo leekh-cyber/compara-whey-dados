@@ -1,34 +1,5 @@
 [
  {
-  "id": "3208666",
-  "quando": "2026-11-13T08:00:17.548221",
-  "titulo": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
-  "texto": "*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$45* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp",
-  "link": "https://meli.la/1jGbFT8",
-  "produto": "MLB2081604757",
-  "publico": null,
-  "preco": 44.99,
-  "cupom": null
- },
- {
-  "id": "3208696",
-  "quando": "2026-11-13T08:00:32.216015",
-  "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Lumi Recarregável Anti Odor 16L",
-  "texto": "*Lixeira Inteligente Automática Branca Universal Com Sensor Lumi Recarregável Anti Odor 16L*\n\nPor *R$58* 🔥\n\n🎟️ Cupom: *ECONOMIA* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2EXBevD\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_888622-MLA111459157156_052026-P.webp",
-  "link": "https://meli.la/2EXBevD",
-  "produto": "MLB53166391",
-  "publico": null,
-  "preco": 58.0,
-  "cupom": {
-   "codigo": "ECONOMIA",
-   "id": "71960",
-   "publicado": "2026-11-12T09:56:06-03:00",
-   "ate": "2027-05-31T23:59:59-0300"
-  }
- },
- {
   "id": "3208768",
   "quando": "2026-11-13T08:35:29.851594",
   "titulo": "Parafusadeira e Furadeira Bateria 12v Bivolt Pfy-12 Yamasaki",
@@ -157,20 +128,49 @@
   "cupom": null
  },
  {
-  "id": "3211669",
-  "quando": "2026-11-13T19:40:15.189292",
-  "titulo": "Sapato Masculino Social Confortavel Elegante Oxford Premium",
-  "texto": "*Sapato Masculino Social Confortavel Elegante Oxford Premium*\n\nDe ~R$169~\nPor *R$90* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2GFz14a\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_972569-MLB89835798184_082025-P.webp",
-  "link": "https://meli.la/2GFz14a",
-  "produto": "MLB5587447662",
+  "id": "3211744",
+  "quando": "2026-11-13T20:15:06.742303",
+  "titulo": "Adizero Drive Rc M adidas",
+  "texto": "*Adizero Drive Rc M adidas*\n\nDe ~R$899~\nPor *R$590* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1An9s55\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_995100-MLB115784250507_082026-P.webp",
+  "link": "https://meli.la/1An9s55",
+  "produto": "MLB4169915821",
   "publico": "masculino",
-  "preco": 89.99,
+  "preco": 589.99,
   "cupom": {
    "codigo": "QUEROPROMOS25",
    "id": "71980",
    "publicado": "2026-11-13T10:16:22-03:00",
    "ate": "2026-12-13T23:59:59-0300"
   }
+ },
+ {
+  "id": "3211105",
+  "quando": "2026-11-13T20:15:17.881530",
+  "titulo": "Fone De Ouvido Bluetooth Soundcore Anker Q30 Sem Fio Headphone Cancelamento De Ruído A",
+  "texto": "*Fone De Ouvido Bluetooth Soundcore Anker Q30 Sem Fio Headphone Cancelamento De Ruído Anc Híbrido Headset Para Viagem Trabalho Estudo Gamer Hi-Res 60h Bateria App Carga Rápida Dobrável Conforto, Preto*\n\nDe ~R$749~\nPor *R$383* 🔥\n\n🎟️ Cupom: *PROMOSTECH* (10% OFF acima de R$149, até R$200)\n\n👉 *Pegar promoção:* https://meli.la/1W6ESRm\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_694723-MLA99581405500_122025-P.webp",
+  "link": "https://meli.la/1W6ESRm",
+  "produto": "MLB18278193",
+  "publico": null,
+  "preco": 383.0,
+  "cupom": {
+   "codigo": "PROMOSTECH",
+   "id": "71975",
+   "publicado": "2026-11-13T09:16:51-03:00",
+   "ate": "2026-11-13T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3211421",
+  "quando": "2026-11-13T20:15:21.761009",
+  "titulo": "Tanquinho Lavadora Semi Automática Colormaq Ecomax Lcs 20kg Cor Prata",
+  "texto": "*Tanquinho Lavadora Semi Automática Colormaq Ecomax Lcs 20kg Cor Prata*\n\nDe ~R$999~\nPor *R$541* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1YCzkqJ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_745557-MLA99491668166_112025-P.webp",
+  "link": "https://meli.la/1YCzkqJ",
+  "produto": "MLB18925150",
+  "publico": null,
+  "preco": 541.49,
+  "cupom": null
  }
 ]
