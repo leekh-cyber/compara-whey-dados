@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T13:00:32.959620",
+  "quando": "2026-11-13T13:30:25.980825",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -7958,7 +7958,8 @@
   "cupom": null,
   "msg": "PspVKktfo_EipBI-100Bq53iqHP95g-AaM",
   "texto": "*Sandália Infantil Menina Confortável Leve Moderna Verão Estilo Festa*\n\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlnWurIUS\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mv8yzk5v4npcf4"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mv8yzk5v4npcf4",
+  "conferido": "2026-11-13T13:32:45.622212"
  },
  "3209314": {
   "quando": "2026-11-13T10:31:36.969473",
@@ -8246,5 +8247,39 @@
   "msg": "Psqi7GFxBDYhKUA-17oBq53iqHP95g-AbA",
   "texto": "*Short Saia Academia Feminino Cintura Alta Legging Fitness*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2XZae7n\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_649012-MLB114771724993_072026-P.webp"
+ },
+ "3210098": {
+  "quando": "2026-11-13T13:30:31.156003",
+  "titulo": "Mini Organizador com 16 Gavetas Gaveteiro Empilhável e Modulável Multiuso",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9KjafzxxmU",
+  "publico": null,
+  "produto": "shopee:18199531307",
+  "preco": 19.9,
+  "shopee": [
+   871798706,
+   18199531307
+  ],
+  "cupom": null,
+  "msg": "PsrRUG8enFJZy7I-16MBq53iqHP95g-AbE",
+  "texto": "*Mini Organizador com 16 Gavetas – Gaveteiro Empilhável e Modulável Multiuso*\n\nDe ~R$33~\nA partir de *R$20* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9KjafzxxmU\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18f0qdwfdiac7"
+ },
+ "3210051": {
+  "quando": "2026-11-13T13:31:41.045631",
+  "titulo": "Tênis Ultimashow 2.0 Adidas",
+  "link": "https://meli.la/2aVKyEq",
+  "publico": "masculino",
+  "produto": "MLB3746645279",
+  "preco": 228.0,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "PspRG4uUK_69XLQ-13cBq53iqHP95g-AbI",
+  "texto": "*Tênis Ultimashow 2.0 adidas*\n\nDe ~R$379~\nPor *R$228* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2aVKyEq\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_839178-MLB81963635588_022025-P.webp"
  }
 }
