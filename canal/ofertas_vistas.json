@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T17:00:35.773959",
+  "quando": "2026-11-13T17:30:27.015884",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -8349,7 +8349,8 @@
   "cupom": null,
   "msg": "PsoItDNXAqWT5vs-1xQBq53iqHP95g-AbY",
   "texto": "*Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01*\n\nDe ~R$140~\nPor *R$91* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6VPPMugTgn\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512",
+  "conferido": "2026-11-13T17:32:44.221643"
  },
  "3210340": {
   "quando": "2026-11-13T14:31:38.973263",
@@ -8592,5 +8593,39 @@
   "msg": "Pso2s38E8rHNiNs-1_IBq53iqHP95g-AcY",
   "texto": "*Kaiak Sonar Deo Colônia Natura Feminino 100 ml*\n\nDe ~R$189~\nPor *R$95* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2LQuMhx\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_945038-MLA87441059249_072025-P.webp"
+ },
+ "3211180": {
+  "quando": "2026-11-13T17:30:31.295560",
+  "titulo": "Revitalizador Plástico Alta Durabilidade Vênus Car",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2gCh0EFlPE",
+  "publico": null,
+  "produto": "shopee:58260446079",
+  "preco": 19.96,
+  "shopee": [
+   1714472212,
+   58260446079
+  ],
+  "cupom": null,
+  "msg": "Psrw4u6HZIlp_Ho-1_cBq53iqHP95g-Acc",
+  "texto": "*Revitalizador De Plástico Borracha Painel Alta Durabilidade | Hidratante com Hidrorrepelencia Vênus Car*\n\nA partir de *R$20* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gCh0EFlPE\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mtazhvlk3wn781"
+ },
+ "3211092": {
+  "quando": "2026-11-13T17:31:39.578371",
+  "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
+  "link": "https://meli.la/1c71hHf",
+  "publico": "masculino",
+  "produto": "MLB4258897109",
+  "preco": 95.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "PsrYjOUMSMPkKZE-1_8Bq53iqHP95g-Acg",
+  "texto": "*Kit Com 3 Camisetas Masculinas Básicas Slim Hering*\n\nDe ~R$159~\nPor *R$96* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1c71hHf\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_820705-MLB112700765531_062026-P.webp"
  }
 }
