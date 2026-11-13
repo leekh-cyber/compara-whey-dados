@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T13:30:25.980825",
+  "quando": "2026-11-13T14:00:30.930209",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -7704,7 +7704,7 @@
   "msg": "PsozXTRgBCirJME-1w0Bq53iqHP95g-AZg",
   "texto": "*Kit 05 Escova Raquete Flex Escova Mágica e Polvo Massageador de Silicone Touca de Cetim Beauty Flash*\n\nDe ~R$49~\nA partir de *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4VeKYX17x3\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822xr-mo8c5nfwkh6q4c",
-  "conferido": "2026-11-13T11:03:50.047208"
+  "conferido": "2026-11-13T14:03:50.544230"
  },
  "3207989": {
   "quando": "2026-11-13T08:02:46.358430",
@@ -8008,7 +8008,8 @@
   "cupom": null,
   "msg": "Psp8C8sxqCModNY-1.sBq53iqHP95g-AaY",
   "texto": "*Esteira Ergométrica Elétrica 2.0HP Silenciosa Dobrável com Bluetooth 12km/h, Capacidade 120kg Uso Residencial*\n\nPor *R$650* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9zzHIzwpGm\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mqlqa3glb18h26"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mqlqa3glb18h26",
+  "conferido": "2026-11-13T14:03:50.276651"
  },
  "3209517": {
   "quando": "2026-11-13T11:02:45.989666",
@@ -8281,5 +8282,49 @@
   "msg": "PspRG4uUK_69XLQ-13cBq53iqHP95g-AbI",
   "texto": "*Tênis Ultimashow 2.0 adidas*\n\nDe ~R$379~\nPor *R$228* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2aVKyEq\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_839178-MLB81963635588_022025-P.webp"
+ },
+ "cupom:OFERTAPRATEC": {
+  "quando": "2026-11-13T14:00:32.472947",
+  "titulo": "Cupom Mercado Livre: 30% OFF acima de R$ 2.699 (até R$ 300) em Eletrônicos",
+  "id": "71997",
+  "publicado": "2026-11-13T13:16:11-03:00",
+  "ate": "2026-11-13T23:59:59-0300",
+  "msg": "PsrEbiwGDCdbYzQ-1.cBq53iqHP95g-AbM",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$2699, até R$300*\nem Eletrônicos\n\nCódigo: *OFERTAPRATEC*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3210238": {
+  "quando": "2026-11-13T14:01:37.417454",
+  "titulo": "Bota Infantil Tratorada (Tam. 21 ao 28, 3 cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9fMR6kMub9",
+  "publico": null,
+  "produto": "shopee:58263443418",
+  "preco": 22.89,
+  "shopee": [
+   378486926,
+   58263443418
+  ],
+  "cupom": null,
+  "msg": "Psorvb.SWj0vC4w-144Bq53iqHP95g-AbQ",
+  "texto": "*Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada*\n\nPor *R$23* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMR6kMub9\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83"
+ },
+ "3210128": {
+  "quando": "2026-11-13T14:02:45.299003",
+  "titulo": "Tênis Aramis Daily Knit Confortável Macio Azul Marinho Azul",
+  "link": "https://meli.la/2Q54dP6",
+  "publico": "masculino",
+  "produto": "MLB6863343574",
+  "preco": 219.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "Pso9CGzMGASEb7k-16kBq53iqHP95g-AbU",
+  "texto": "*Tênis Aramis Daily Knit Confortável Macio Azul Marinho Azul 41 Br*\n\nDe ~R$379~\nPor *R$220* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2Q54dP6\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_979871-MLB120355934135_102026-P.webp"
  }
 }
