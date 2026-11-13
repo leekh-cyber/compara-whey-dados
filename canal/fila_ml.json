@@ -157,15 +157,20 @@
   "cupom": null
  },
  {
-  "id": "3210979",
-  "quando": "2026-11-13T16:45:13.707904",
-  "titulo": "Kaiak Sonar Deo Colônia Natura Feminino 100 ml",
-  "texto": "*Kaiak Sonar Deo Colônia Natura Feminino 100 ml*\n\nDe ~R$189~\nPor *R$95* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2LQuMhx\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_945038-MLA87441059249_072025-P.webp",
-  "link": "https://meli.la/2LQuMhx",
-  "produto": "MLB39016424",
-  "publico": "feminino",
-  "preco": 94.95,
-  "cupom": null
+  "id": "3211092",
+  "quando": "2026-11-13T17:20:13.470832",
+  "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
+  "texto": "*Kit Com 3 Camisetas Masculinas Básicas Slim Hering*\n\nDe ~R$159~\nPor *R$96* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1c71hHf\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_820705-MLB112700765531_062026-P.webp",
+  "link": "https://meli.la/1c71hHf",
+  "produto": "MLB4258897109",
+  "publico": "masculino",
+  "preco": 95.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  }
  }
 ]
