@@ -1,34 +1,5 @@
 [
  {
-  "id": "3207710",
-  "quando": "2026-11-12T19:49:14.469696",
-  "titulo": "Mixer Elétrico 2 Em 1 Recarregável Usb 3 Velocidades Espumador De Leite Profissional Em Aço Inoxidável Misturador Portátil Para Cappuccino",
-  "texto": "*Mixer Elétrico 2 em 1 Recarregável USB 3 Velocidades Espumador de Leite Profissional em Aço Inoxidável Misturador Portátil para Cappuccino, Café, Whey, Matcha, Shakes e Ovos Woosh*\n\nPor *R$17* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2HQMmVz\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_786736-MLA121310205767_112026-P.webp",
-  "link": "https://meli.la/2HQMmVz",
-  "produto": "MLB20306137",
-  "publico": null,
-  "preco": 16.98,
-  "cupom": null
- },
- {
-  "id": "3207709",
-  "quando": "2026-11-12T19:49:20.614586",
-  "titulo": "Mesa Motor Elétrica Altura Ajustável até 120cm",
-  "texto": "*Mesa Motor Elétrica Regulagem Altura Elétrico Ajustável Game*\n\nPor *R$631* 🔥\n\n🎟️ Cupom: *MELHORDOMELIHJ* (20% OFF acima de R$79, até R$80)\n💸 Com o cupom: *R$551*\n\n👉 *Pegar promoção:* https://meli.la/2Jw5dEQ\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_669543-MLB110751440459_042026-P.webp",
-  "link": "https://meli.la/2Jw5dEQ",
-  "produto": "MLB4626159317",
-  "publico": null,
-  "preco": 630.84,
-  "cupom": {
-   "codigo": "MELHORDOMELIHJ",
-   "id": "71958",
-   "publicado": "2026-11-12T09:17:07-03:00",
-   "ate": "2026-11-12T23:59:59-0300"
-  }
- },
- {
   "id": "3207708",
   "quando": "2026-11-12T20:24:21.131696",
   "titulo": "Proteína Max Titanium Whey Pro Concetrado Em Pó Sabor Morango X 1kg",
@@ -186,6 +157,35 @@
    "id": "71964",
    "publicado": "2026-11-12T10:16:28-03:00",
    "ate": "2026-12-12T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3208666",
+  "quando": "2026-11-13T08:00:17.548221",
+  "titulo": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
+  "texto": "*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$45* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp",
+  "link": "https://meli.la/1jGbFT8",
+  "produto": "MLB2081604757",
+  "publico": null,
+  "preco": 44.99,
+  "cupom": null
+ },
+ {
+  "id": "3208696",
+  "quando": "2026-11-13T08:00:32.216015",
+  "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Lumi Recarregável Anti Odor 16L",
+  "texto": "*Lixeira Inteligente Automática Branca Universal Com Sensor Lumi Recarregável Anti Odor 16L*\n\nPor *R$58* 🔥\n\n🎟️ Cupom: *ECONOMIA* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2EXBevD\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_888622-MLA111459157156_052026-P.webp",
+  "link": "https://meli.la/2EXBevD",
+  "produto": "MLB53166391",
+  "publico": null,
+  "preco": 58.0,
+  "cupom": {
+   "codigo": "ECONOMIA",
+   "id": "71960",
+   "publicado": "2026-11-12T09:56:06-03:00",
+   "ate": "2027-05-31T23:59:59-0300"
   }
  }
 ]
