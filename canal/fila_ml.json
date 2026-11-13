@@ -92,23 +92,6 @@
   }
  },
  {
-  "id": "3208875",
-  "quando": "2026-11-13T09:10:25.086017",
-  "titulo": "Camiseta Dry Fit Proteção UV Voker",
-  "texto": "*Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit*\n\nDe ~R$49~\nPor *R$26* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1PXwaDQ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_882335-MLB118638885463_102026-P.webp",
-  "link": "https://meli.la/1PXwaDQ",
-  "produto": "MLB2178289241",
-  "publico": "masculino",
-  "preco": 25.89,
-  "cupom": {
-   "codigo": "MELIGARANTE25",
-   "id": "71961",
-   "publicado": "2026-11-12T10:16:27-03:00",
-   "ate": "2026-12-12T23:59:59-0300"
-  }
- },
- {
   "id": "3208846",
   "quando": "2026-11-13T09:10:38.132626",
   "titulo": "Jaqueta Puffer Matelassê + Saquinho Hering",
@@ -181,6 +164,23 @@
    "id": "71975",
    "publicado": "2026-11-13T09:16:51-03:00",
    "ate": "2026-11-13T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3209314",
+  "quando": "2026-11-13T10:20:14.506914",
+  "titulo": "Kit 3 Camisetas Tech T-shirt Masculino Insider",
+  "texto": "*Kit 3 Camisetas Tech T-shirt Masculino Insider*\n\nDe ~R$525~\nPor *R$356* 🔥 no pix\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/18qbtfs\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_856898-MLB88652716071_072025-P.webp",
+  "link": "https://meli.la/18qbtfs",
+  "produto": "MLB4039439893",
+  "publico": "masculino",
+  "preco": 356.25,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
   }
  }
 ]
