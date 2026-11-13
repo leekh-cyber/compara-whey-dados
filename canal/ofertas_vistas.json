@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T10:00:31.157420",
+  "quando": "2026-11-13T10:30:26.722544",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -7934,5 +7934,39 @@
   "msg": "PsoAQ17D1UY6vi8-1z0Bq53iqHP95g-AaI",
   "texto": "*Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit*\n\nDe ~R$49~\nPor *R$26* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1PXwaDQ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_882335-MLB118638885463_102026-P.webp"
+ },
+ "3209407": {
+  "quando": "2026-11-13T10:30:30.988679",
+  "titulo": "Sandália Infantil Menina Confortável (20 ao 34, Diversas cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3VlnWurIUS",
+  "publico": null,
+  "produto": "shopee:58266272317",
+  "preco": 39.9,
+  "shopee": [
+   1478327279,
+   58266272317
+  ],
+  "cupom": null,
+  "msg": "PspVKktfo_EipBI-100Bq53iqHP95g-AaM",
+  "texto": "*Sandália Infantil Menina Confortável Leve Moderna Verão Estilo Festa*\n\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlnWurIUS\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mv8yzk5v4npcf4"
+ },
+ "3209314": {
+  "quando": "2026-11-13T10:31:36.969473",
+  "titulo": "Kit 3 Camisetas Tech T-shirt Masculino Insider",
+  "link": "https://meli.la/18qbtfs",
+  "publico": "masculino",
+  "produto": "MLB4039439893",
+  "preco": 356.25,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  },
+  "msg": "PspsA3ab93iqfWI-138Bq53iqHP95g-AaQ",
+  "texto": "*Kit 3 Camisetas Tech T-shirt Masculino Insider*\n\nDe ~R$525~\nPor *R$356* 🔥 no pix\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/18qbtfs\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_856898-MLB88652716071_072025-P.webp"
  }
 }
