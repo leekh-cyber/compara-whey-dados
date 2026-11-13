@@ -146,5 +146,46 @@
    "publicado": "2026-11-12T09:56:06-03:00",
    "ate": "2027-05-31T23:59:59-0300"
   }
+ },
+ {
+  "id": "3208110",
+  "quando": "2026-11-12T21:41:46.332026",
+  "titulo": "Boticário Make B. Pincel Kabuki Para Base",
+  "texto": "*O Boticário Make B. Pincel Kabuki Para Base Acessível*\n\nPor *R$25* 🔥\n\n👉 *Pegar promoção:* https://meli.la/26Rm7Xu\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_739414-MLB111643583285_052026-P.webp",
+  "link": "https://meli.la/26Rm7Xu",
+  "produto": "MLB5205465636",
+  "publico": null,
+  "preco": 24.9,
+  "cupom": null
+ },
+ {
+  "id": "3208097",
+  "quando": "2026-11-12T21:41:53.565902",
+  "titulo": "Brilho Labial Franciny Ehlke Choco Chilli Gloss Chocolate",
+  "texto": "*Brilho Labial Franciny Ehlke Choco Chilli Gloss Chocolate*\n\nPor *R$22* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2J8WPpe\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_711466-MLA112284116055_052026-P.webp",
+  "link": "https://meli.la/2J8WPpe",
+  "produto": "MLB70336882",
+  "publico": null,
+  "preco": 21.99,
+  "cupom": null
+ },
+ {
+  "id": "3208154",
+  "quando": "2026-11-12T21:41:59.011894",
+  "titulo": "Pré Treino Tdz Force Gabriel Zancanelli 300g Purple Lemonade",
+  "texto": "*Pré Treino Tdz Force Gabriel Zancanelli 300g Purple Lemonade*\n\nPor *R$77* 🔥\n\n🎟️ Cupom: *QUEROPROMO25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2t79qFP\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_936123-MLA117367706409_092026-P.webp",
+  "link": "https://meli.la/2t79qFP",
+  "produto": "MLB47857559",
+  "publico": null,
+  "preco": 76.52,
+  "cupom": {
+   "codigo": "QUEROPROMO25",
+   "id": "71964",
+   "publicado": "2026-11-12T10:16:28-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  }
  }
 ]
