@@ -1,39 +1,5 @@
 [
  {
-  "id": "3207997",
-  "quando": "2026-11-12T20:59:11.993523",
-  "titulo": "Sapato Mocassim Loafer Gugi Tratorado Conforto Premium Leve - R$ 66,90",
-  "texto": "*Sapato Mocassim Loafer Gugi Tratorado Conforto Premium Leve*\n\nDe ~R$149~\nPor *R$67* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1rQHgxP\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_959386-MLA106865627165_022026-P.webp",
-  "link": "https://meli.la/1rQHgxP",
-  "produto": "MLB4134976789",
-  "publico": "masculino",
-  "preco": 66.9,
-  "cupom": {
-   "codigo": "MELIGARANTE25",
-   "id": "71961",
-   "publicado": "2026-11-12T10:16:27-03:00",
-   "ate": "2026-12-12T23:59:59-0300"
-  }
- },
- {
-  "id": "3207993",
-  "quando": "2026-11-12T20:59:25.187979",
-  "titulo": "Queijeira Cameratta Cristal Tampa -l Hermitage",
-  "texto": "*Queijeira Cameratta Cristal  Tampa -l Hermitage*\n\nPor *R$34* 🔥\n\n🎟️ Cupom: *ECONOMIA* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1kGEqHJ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_836912-MLB116057468082_092026-P.webp",
-  "link": "https://meli.la/1kGEqHJ",
-  "produto": "MLB5979676952",
-  "publico": null,
-  "preco": 34.19,
-  "cupom": {
-   "codigo": "ECONOMIA",
-   "id": "71960",
-   "publicado": "2026-11-12T09:56:06-03:00",
-   "ate": "2027-05-31T23:59:59-0300"
-  }
- },
- {
   "id": "3208110",
   "quando": "2026-11-12T21:41:46.332026",
   "titulo": "Boticário Make B. Pincel Kabuki Para Base",
@@ -104,23 +70,6 @@
   }
  },
  {
-  "id": "3208726",
-  "quando": "2026-11-13T08:35:13.646902",
-  "titulo": "Jaqueta Feminina Bobojaco Puffer Impermeável Com Capuz Nylon Preto M - R$ 39,90",
-  "texto": "*Jaqueta Feminina Bobojaco Puffer Impermeável Com Capuz Nylon Preto M*\n\nPor *R$40* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1vRTMuB\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970206-MLB114055847123_072026-P.webp",
-  "link": "https://meli.la/1vRTMuB",
-  "produto": "MLB4945287235",
-  "publico": "feminino",
-  "preco": 39.9,
-  "cupom": {
-   "codigo": "MELIGARANTE25",
-   "id": "71961",
-   "publicado": "2026-11-12T10:16:27-03:00",
-   "ate": "2026-12-12T23:59:59-0300"
-  }
- },
- {
   "id": "3208744",
   "quando": "2026-11-13T08:35:20.498359",
   "titulo": "Short Dri-fit Nike Flex K Graphic 7 Masculino",
@@ -164,6 +113,69 @@
   "produto": "MLB3377714061",
   "publico": null,
   "preco": 78.9,
+  "cupom": null
+ },
+ {
+  "id": "3208840",
+  "quando": "2026-11-13T09:10:13.639892",
+  "titulo": "Jaqueta Masculina Puffer Matelassê + Saquinho Hering",
+  "texto": "*Jaqueta Masculina Puffer Matelassê + Saquinho Hering Preto P*\n\nPor *R$112* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1ckEVXs\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_749720-MLB111238297591_052026-P.webp",
+  "link": "https://meli.la/1ckEVXs",
+  "produto": "MLB4930326407",
+  "publico": "masculino",
+  "preco": 111.99,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3208875",
+  "quando": "2026-11-13T09:10:25.086017",
+  "titulo": "Camiseta Dry Fit Proteção UV Voker",
+  "texto": "*Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit*\n\nDe ~R$49~\nPor *R$26* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1PXwaDQ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_882335-MLB118638885463_102026-P.webp",
+  "link": "https://meli.la/1PXwaDQ",
+  "produto": "MLB2178289241",
+  "publico": "masculino",
+  "preco": 25.89,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3208828",
+  "quando": "2026-11-13T09:10:31.677866",
+  "titulo": "Tênis Nike Ebernon Low Masculino",
+  "texto": "*Tênis Nike Ebernon Low Masculino Preto 39 Br*\n\nDe ~R$399~\nPor *R$300* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2635NQR\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_729362-MLB112323401925_052026-P.webp",
+  "link": "https://meli.la/2635NQR",
+  "produto": "MLB6849561720",
+  "publico": "masculino",
+  "preco": 299.99,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3208846",
+  "quando": "2026-11-13T09:10:38.132626",
+  "titulo": "Jaqueta Puffer Matelassê + Saquinho Hering",
+  "texto": "*Jaqueta Masculina Puffer Matelassê + Saquinho Hering Preto M*\n\nPor *R$112* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1q71Jtp\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_886541-MLB114961284507_072026-P.webp",
+  "link": "https://meli.la/1q71Jtp",
+  "produto": "MLB7227093194",
+  "publico": null,
+  "preco": 111.99,
   "cupom": null
  }
 ]
