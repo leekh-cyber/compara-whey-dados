@@ -88,5 +88,17 @@
   "quando": "2026-11-13T10:55:09.410919",
   "motivo": "R$50.90 -> R$68.77",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_871232-MLB97519633810_112025-P.webp"
+ },
+ {
+  "id": "3205665",
+  "quando": "2026-11-13T12:05:09.415011",
+  "motivo": "R$87.90 -> R$99.99",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_859749-MLB119574425995_102026-P.webp"
+ },
+ {
+  "id": "3206321",
+  "quando": "2026-11-13T12:05:12.782035",
+  "motivo": "R$176.00 -> R$239.00",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_985168-MLU73212961605_122023-P.webp"
  }
 ]
