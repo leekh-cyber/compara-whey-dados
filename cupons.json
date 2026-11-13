@@ -1,19 +1,7 @@
 {
-  "atualizado": "2026-11-12T14:37-03:00",
+  "atualizado": "2026-11-13T14:14-03:00",
   "fonte": "Promobit",
   "cupons": [
-    {
-      "codigo": "POUPAAGORA30",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Saúde, Esportes e mais",
-      "suplementos": true,
-      "automatico": false,
-      "ate": "2026-12-10T23:59:59-03:00",
-      "publicado": "2026-11-10T19:26-03:00"
-    },
     {
       "codigo": "QUEROPROMO25",
       "pct": 25,
@@ -27,52 +15,52 @@
       "publicado": "2026-11-12T10:16-03:00"
     },
     {
-      "codigo": "",
-      "pct": 40,
+      "codigo": "DESCONTO",
+      "pct": 25,
       "fixo": null,
-      "minimo": 0.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-30T23:59:59-03:00",
-      "publicado": "2026-11-11T12:39-03:00"
-    },
-    {
-      "codigo": "",
-      "pct": 35,
-      "fixo": null,
-      "minimo": 100.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-11-12T23:59:59-03:00",
-      "publicado": "2026-11-11T13:10-03:00"
-    },
-    {
-      "codigo": "PECHINCHA",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 29.0,
-      "teto": null,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-31T23:59:59-03:00",
-      "publicado": "2026-11-11T13:10-03:00"
+      "ate": "2027-05-31T23:59:59-03:00",
+      "publicado": "2026-11-13T10:16-03:00"
     },
     {
-      "codigo": "",
-      "pct": 30,
+      "codigo": "MELIVIP22",
+      "pct": 22,
       "fixo": null,
-      "minimo": 0.0,
-      "teto": null,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
-      "automatico": true,
-      "ate": "2026-12-11T23:59:59-03:00",
-      "publicado": "2026-11-11T12:39-03:00"
+      "automatico": false,
+      "ate": "2026-12-13T23:59:59-03:00",
+      "publicado": "2026-11-13T10:16-03:00"
+    },
+    {
+      "codigo": "PRASAUDEPROMO",
+      "pct": 18,
+      "fixo": null,
+      "minimo": 79.0,
+      "teto": 40.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-13T23:59:59-03:00",
+      "publicado": "2026-11-13T09:16-03:00"
+    },
+    {
+      "codigo": "MELIOFF18",
+      "pct": 18,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-12T23:59:59-03:00",
+      "publicado": "2026-11-12T10:16-03:00"
     }
   ]
 }
