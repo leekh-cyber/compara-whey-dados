@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T14:00:30.930209",
+  "quando": "2026-11-13T14:30:28.275932",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -8078,7 +8078,8 @@
   "cupom": null,
   "msg": "PsrodEuhMA4fyBE-11ABq53iqHP95g-Aag",
   "texto": "*Panela De Pressão Elétrica 6L Inox Preta Digital 110V ou 220V Oliver Home*\n\nDe ~R$603~\nA partir de *R$380* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/40i4ByDRDE\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbgj9fz2xac37"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbgj9fz2xac37",
+  "conferido": "2026-11-13T14:32:47.943736"
  },
  "3208840": {
   "quando": "2026-11-13T11:31:53.156964",
@@ -8326,5 +8327,39 @@
   "msg": "Pso9CGzMGASEb7k-16kBq53iqHP95g-AbU",
   "texto": "*Tênis Aramis Daily Knit Confortável Macio Azul Marinho Azul 41 Br*\n\nDe ~R$379~\nPor *R$220* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2Q54dP6\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_979871-MLB120355934135_102026-P.webp"
+ },
+ "3210358": {
+  "quando": "2026-11-13T14:30:32.828270",
+  "titulo": "Cafeteira Philco 15 Cafezinhos 600ml 550W",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6VPPMugTgn",
+  "publico": null,
+  "produto": "shopee:22792891006",
+  "preco": 91.0,
+  "shopee": [
+   811034337,
+   22792891006
+  ],
+  "cupom": null,
+  "msg": "PsoItDNXAqWT5vs-1xQBq53iqHP95g-AbY",
+  "texto": "*Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01*\n\nDe ~R$140~\nPor *R$91* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6VPPMugTgn\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512"
+ },
+ "3210340": {
+  "quando": "2026-11-13T14:31:38.973263",
+  "titulo": "Top Selene Alta Sustentação Sem Costura Fitness Academia",
+  "link": "https://meli.la/12LM67R",
+  "publico": "feminino",
+  "produto": "MLB4132087625",
+  "preco": 28.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "Psoz4mn8lF9bS7k-1w4Bq53iqHP95g-Abc",
+  "texto": "*Top Selene Alta Sustentação Sem Costura Fitness Academia*\n\nPor *R$29* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/12LM67R\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_687132-MLB104884534085_012026-P.webp"
  }
 }
