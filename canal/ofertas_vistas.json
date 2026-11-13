@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T09:30:26.169316",
+  "quando": "2026-11-13T10:00:31.157420",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -7900,5 +7900,39 @@
   "msg": "PsolbN39lIxOjrY-1zoBq53iqHP95g-AaA",
   "texto": "*Tênis Nike Ebernon Low Masculino Preto 39 Br*\n\nDe ~R$399~\nPor *R$300* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2635NQR\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_729362-MLB112323401925_052026-P.webp"
+ },
+ "3209191": {
+  "quando": "2026-11-13T10:00:37.995748",
+  "titulo": "Fritadeira Elétrica 4L Cesto Vidro 1500W",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/20wzi6mERt",
+  "publico": null,
+  "produto": "shopee:45665166927",
+  "preco": 374.99,
+  "shopee": [
+   342086228,
+   45665166927
+  ],
+  "cupom": null,
+  "msg": "Psp_8f5cY7aRCDM-1yABq53iqHP95g-AaE",
+  "texto": "*Fritadeira Elétrica 4L com Cesto de Vidro 1500W AFV-101 Air Fryer Travessa de vidro com Tampa Kian*\n\nDe ~R$604~\nPor *R$375* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/20wzi6mERt\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mtfcjtdfxatj39"
+ },
+ "3208875": {
+  "quando": "2026-11-13T10:02:00.751588",
+  "titulo": "Camiseta Dry Fit Proteção UV Voker",
+  "link": "https://meli.la/1PXwaDQ",
+  "publico": "masculino",
+  "produto": "MLB2178289241",
+  "preco": 25.89,
+  "cupom": {
+   "codigo": "MELIGARANTE25",
+   "id": "71961",
+   "publicado": "2026-11-12T10:16:27-03:00",
+   "ate": "2026-12-12T23:59:59-0300"
+  },
+  "msg": "PsoAQ17D1UY6vi8-1z0Bq53iqHP95g-AaI",
+  "texto": "*Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit*\n\nDe ~R$49~\nPor *R$26* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1PXwaDQ\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_882335-MLB118638885463_102026-P.webp"
  }
 }
