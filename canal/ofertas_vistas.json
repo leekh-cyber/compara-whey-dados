@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-13T19:30:34.196773",
+  "quando": "2026-11-13T20:00:31.051467",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -8569,7 +8569,8 @@
   "cupom": null,
   "msg": "Pspny0RWk8KrNws-148Bq53iqHP95g-AcU",
   "texto": "*Ar-Condicionado Prime Air Split Inverter 9000BTUs Frio 9FC*\n\nDe ~R$2284~\nPor *R$1576* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6AmZ8gcmwV\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82583-mudivhent5hd6d"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82583-mudivhent5hd6d",
+  "conferido": "2026-11-13T20:03:51.702433"
  },
  "3210994": {
   "quando": "2026-11-13T17:01:42.945843",
@@ -8782,5 +8783,49 @@
   "msg": "PsrJea_sAvnPUbQ-1_8Bq53iqHP95g-AdE",
   "texto": "*Tênis Flyer Runner Mesh Bdp Puma*\n\nDe ~R$349~\nPor *R$190* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2Soc8Qy\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-P.webp"
+ },
+ "cupom:PRASAUDEPROMO": {
+  "quando": "2026-11-13T20:00:33.651026",
+  "titulo": "Cupom Mercado Livre: 18% OFF acima de R$ 79 (até R$ 40) em Selecionados",
+  "id": "71978",
+  "publicado": "2026-11-13T09:16:52-03:00",
+  "ate": "2026-11-13T23:59:59-0300",
+  "msg": "PsoZFyCMskhHL3k-18QBq53iqHP95g-AdI",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*18% OFF acima de R$79, até R$40*\nem Selecionados\n\nCódigo: *PRASAUDEPROMO*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3211714": {
+  "quando": "2026-11-13T20:01:38.842546",
+  "titulo": "Tênis Ramy Cyber Feminino",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9fMRVTFMJr",
+  "publico": "feminino",
+  "produto": "shopee:22298871754",
+  "preco": 58.45,
+  "shopee": [
+   1588682691,
+   22298871754
+  ],
+  "cupom": null,
+  "msg": "PsorjmaCeWJJDDM-1y0Bq53iqHP95g-AdM",
+  "texto": "*Tênis Feminino Streetwear Masculino Casual Academia Caminhada Dia a Dia Confortável 34-43 Promoção*\n\nDe ~R$129~\nPor *R$58* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMRVTFMJr\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mt6my45qxb0ne7"
+ },
+ "3211669": {
+  "quando": "2026-11-13T20:02:46.905498",
+  "titulo": "Sapato Masculino Social Confortavel Elegante Oxford Premium",
+  "link": "https://meli.la/2GFz14a",
+  "publico": "masculino",
+  "produto": "MLB5587447662",
+  "preco": 89.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "Psr2gizlvR_4LIk-15YBq53iqHP95g-AdQ",
+  "texto": "*Sapato Masculino Social Confortavel Elegante Oxford Premium*\n\nDe ~R$169~\nPor *R$90* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2GFz14a\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_972569-MLB89835798184_082025-P.webp"
  }
 }
