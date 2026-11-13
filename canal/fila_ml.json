@@ -75,23 +75,6 @@
   "cupom": null
  },
  {
-  "id": "3208840",
-  "quando": "2026-11-13T09:10:13.639892",
-  "titulo": "Jaqueta Masculina Puffer Matelassê + Saquinho Hering",
-  "texto": "*Jaqueta Masculina Puffer Matelassê + Saquinho Hering Preto P*\n\nPor *R$112* 🔥\n\n🎟️ Cupom: *MELIGARANTE25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1ckEVXs\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_749720-MLB111238297591_052026-P.webp",
-  "link": "https://meli.la/1ckEVXs",
-  "produto": "MLB4930326407",
-  "publico": "masculino",
-  "preco": 111.99,
-  "cupom": {
-   "codigo": "MELIGARANTE25",
-   "id": "71961",
-   "publicado": "2026-11-12T10:16:27-03:00",
-   "ate": "2026-12-12T23:59:59-0300"
-  }
- },
- {
   "id": "3208846",
   "quando": "2026-11-13T09:10:38.132626",
   "titulo": "Jaqueta Puffer Matelassê + Saquinho Hering",
@@ -167,15 +150,37 @@
   }
  },
  {
-  "id": "3209695",
-  "quando": "2026-11-13T11:30:11.614320",
-  "titulo": "Relógio Technos Steel Masculino Analógico Couro Preto Inoxidável",
-  "texto": "*Relógio Technos Steel Masculino Analógico Couro Preto Inoxidável 2115TYB/0K*\n\nDe ~R$499~\nPor *R$245* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2nsKRd1\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_647149-MLA95637390476_102025-P.webp",
-  "link": "https://meli.la/2nsKRd1",
-  "produto": "MLB45708032",
+  "id": "3209894",
+  "quando": "2026-11-13T12:05:17.010308",
+  "titulo": "Kit com 2 Chinelos Polo Wear",
+  "texto": "*Kit 2 Chinelos Antiderrapantes Polo Wear Original Branco 43/44*\n\nDe ~R$119~\nPor *R$57* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1tLwqmr\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_715301-MLB110999825223_042026-P.webp",
+  "link": "https://meli.la/1tLwqmr",
+  "produto": "MLB4475276699",
   "publico": "masculino",
-  "preco": 244.51,
-  "cupom": null
+  "preco": 56.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3209816",
+  "quando": "2026-11-13T12:05:32.454202",
+  "titulo": "Desobstruidora De Alta Pressão Wap Ousada Plus 2200 Ultra 1500w Com 1750psi",
+  "texto": "*Desobstruidora de Alta Pressão Wap Ousada Plus 2200 Ultra 1500W com 1750psi*\n\nDe ~R$848~\nPor *R$368* 🔥 no pix\n\n🎟️ Cupom: *PARTIUREFORMA* (15% OFF acima de R$79, até R$50)\n💸 Com o cupom: *R$318*\n\n👉 *Pegar promoção:* https://meli.la/2n1jgMG\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_818695-MLU77151486742_072024-P.webp",
+  "link": "https://meli.la/2n1jgMG",
+  "produto": "MLB18197268",
+  "publico": null,
+  "preco": 368.1,
+  "cupom": {
+   "codigo": "PARTIUREFORMA",
+   "id": "71976",
+   "publicado": "2026-11-13T09:16:51-03:00",
+   "ate": "2026-11-13T23:59:59-0300"
+  }
  }
 ]
