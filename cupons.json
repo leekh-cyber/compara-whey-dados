@@ -1,7 +1,19 @@
 {
-  "atualizado": "2026-11-13T14:14-03:00",
+  "atualizado": "2026-11-14T12:49-03:00",
   "fonte": "Promobit",
   "cupons": [
+    {
+      "codigo": "POUPAAGORA30",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Saúde, Esportes e mais",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-10T23:59:59-03:00",
+      "publicado": "2026-11-10T19:26-03:00"
+    },
     {
       "codigo": "QUEROPROMO25",
       "pct": 25,
@@ -13,6 +25,18 @@
       "automatico": false,
       "ate": "2026-12-12T23:59:59-03:00",
       "publicado": "2026-11-12T10:16-03:00"
+    },
+    {
+      "codigo": "ECONOMIZEI25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-14T23:59:59-03:00",
+      "publicado": "2026-11-14T10:16-03:00"
     },
     {
       "codigo": "DESCONTO",
@@ -37,30 +61,6 @@
       "automatico": false,
       "ate": "2026-12-13T23:59:59-03:00",
       "publicado": "2026-11-13T10:16-03:00"
-    },
-    {
-      "codigo": "PRASAUDEPROMO",
-      "pct": 18,
-      "fixo": null,
-      "minimo": 79.0,
-      "teto": 40.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-13T23:59:59-03:00",
-      "publicado": "2026-11-13T09:16-03:00"
-    },
-    {
-      "codigo": "MELIOFF18",
-      "pct": 18,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-12T23:59:59-03:00",
-      "publicado": "2026-11-12T10:16-03:00"
     }
   ]
 }
