@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-14T09:00:28.392312",
+  "quando": "2026-11-14T09:30:32.526598",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -9040,5 +9040,49 @@
   "msg": "PsqCs0a.Q_8EyDw-170Bq53iqHP95g-Ads",
   "texto": "*Kit 3 Vestido Senhora Regata Tam 38 A 54 Liganete Malha Fria Estampado Variados G/gg*\n\nDe ~R$119~\nPor *R$83* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2cWCbPf\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_754334-MLB121075768759_112026-P.webp"
+ },
+ "cupom:SEMPREOFERTAS": {
+  "quando": "2026-11-14T09:30:34.732411",
+  "titulo": "Cupom Mercado Livre: 25% OFF acima de R$ 79 (até R$ 60) em Casa e Decoração",
+  "id": "72023",
+  "publicado": "2026-11-14T09:16:41-03:00",
+  "ate": "2026-11-14T23:59:59-0300",
+  "msg": "Psp2xIYPJSjkdUU-164Bq53iqHP95g-Adw",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF acima de R$79, até R$60*\nem Casa e Decoração\n\nCódigo: *SEMPREOFERTAS*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3212050": {
+  "quando": "2026-11-14T09:31:39.006069",
+  "titulo": "Tênis Fila Comet 2 Treino Leve Respirável Confortável Casual",
+  "link": "https://meli.la/27vxreg",
+  "publico": "masculino",
+  "produto": "MLB7123681782",
+  "preco": 190.99,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "PspeqDZzaD5hUyQ-13gBq53iqHP95g-Ad0",
+  "texto": "*Tênis Fila Comet 2 Corrida Treino Confortável Estável Preto Preto 42 Br*\n\nDe ~R$399~\nPor *R$191* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/27vxreg\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_843961-MLB118924666480_112026-P.webp"
+ },
+ "3212070": {
+  "quando": "2026-11-14T09:32:44.310135",
+  "titulo": "Kit com 9 Pares Meias Puma Sapatilha",
+  "link": "https://meli.la/324QAiK",
+  "publico": "masculino",
+  "produto": "MLB3240449537",
+  "preco": 67.8,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  },
+  "msg": "Psou9vByM0px.mU-16oBq53iqHP95g-Ad4",
+  "texto": "*Kit 9 Pares Meias Puma Sapatilha Cano Curto Baixo Original*\n\nPor *R$68* 🔥\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/324QAiK\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_711792-MLB54129158447_032023-P.webp"
  }
 }
