@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-14T16:00:28.523707",
+  "quando": "2026-11-14T16:30:24.754437",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -9252,7 +9252,8 @@
   "cupom": null,
   "msg": "PsoDSUN5zMvpJQ0-1zQBq53iqHP95g-Aec",
   "texto": "*Mini Vídeo Game Nintendo Vídeo Portátil 400 Jogos Sup Retrô Clássicos Antigos Anos 80 com Controle Para 2 Pessoas*\n\nDe ~R$69~\nA partir de *R$42* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4B1W7OZfco\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258r-mfs1xjcm03kf7c"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258r-mfs1xjcm03kf7c",
+  "conferido": "2026-11-14T16:32:51.783908"
  },
  "3213447": {
   "quando": "2026-11-14T13:31:42.185707",
@@ -9274,7 +9275,8 @@
   "cupom": null,
   "msg": "PsqoGw3OQ.OSyjQ-13cBq53iqHP95g-Aeg",
   "texto": "*Kit Couro Vonixx Limpar Hidratar Couro Vonixx Higicouro + Hidracouro Líder*\n\nDe ~R$74~\nPor *R$63* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VWthvXJnb\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawxkg7xjf9a7"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawxkg7xjf9a7",
+  "conferido": "2026-11-14T16:32:52.126071"
  },
  "cupom:MEUPROJETO": {
   "quando": "2026-11-14T14:00:39.471162",
@@ -9421,5 +9423,44 @@
   "msg": "Pso9BoPZn56teho-1z4Bq53iqHP95g-AfE",
   "texto": "*Aspirador 3 em 1 De Pó Usb Portátil Completo Premium Carro E Casa 2000mAh*\n\nDe ~R$34~\nPor *R$21* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1BNuiGl0ug\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82593-mtpkqnksszr7a1"
+ },
+ "3213969": {
+  "quando": "2026-11-14T16:30:31.450717",
+  "titulo": "kit 3 Short Masculino 2 Em 1 Para Academia E Corrida Com Bolso Para Celular E Secagem Rápida",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9fMSrrZljN",
+  "publico": "masculino",
+  "produto": "shopee:42384864694",
+  "preco": 57.55,
+  "shopee": [
+   1029208206,
+   42384864694
+  ],
+  "cupom": null,
+  "msg": "PspDi_2E3EL5mUo-15oBq53iqHP95g-AfI",
+  "texto": "*kit 3 Short Masculino 2 Em 1 Para Academia E Corrida Com Bolso  Para Celular E Secagem Rápida*\n\nDe ~R$85~\nPor *R$58* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMSrrZljN\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mttoz0q4o0eade"
+ },
+ "3213925": {
+  "quando": "2026-11-14T16:31:42.950793",
+  "titulo": "MONITOR GAMER DUEX PRO 27 QHD 180HZ 05MS 2HDMI 2DP PRETO",
+  "loja": "shopee"
+ },
+ "3211250": {
+  "quando": "2026-11-14T16:31:44.264934",
+  "titulo": "Casinha Vila Natalina Decoração Cenário Natal Mdf",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1qdbXYAIgc",
+  "publico": null,
+  "produto": "shopee:23597125703",
+  "preco": 77.98,
+  "shopee": [
+   789537828,
+   23597125703
+  ],
+  "cupom": null,
+  "msg": "PsrNTrddPaV4uns-15wBq53iqHP95g-AfM",
+  "texto": "*Casinha Vila Natalina Decoração Cenário Natal Mdf Promoção*\n\nDe ~R$96~\nPor *R$78* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdbXYAIgc\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mrfyzer2nnd0fa"
  }
 }
