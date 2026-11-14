@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-14T12:30:25.553876",
+  "quando": "2026-11-14T13:00:28.921460",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -9212,5 +9212,22 @@
   "quando": "2026-11-14T12:31:38.654131",
   "titulo": "Processador AMD Ryzen 5 7600X 4.7GHz (5.3GHz Max Turbo) Cache 38 MB 6 Núcleos 12 Th",
   "loja": "shopee"
+ },
+ "3213364": {
+  "quando": "2026-11-14T13:00:33.138102",
+  "titulo": "FED Bicicleta Spinning 001C Magnética Volante 18kg Bluetooth 100 Níveis",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9fMSdRZdjh",
+  "publico": null,
+  "produto": "shopee:51267963115",
+  "preco": 2199.0,
+  "shopee": [
+   1869692319,
+   51267963115
+  ],
+  "cupom": null,
+  "msg": "PsrN0OgUFogF6OY-1xsBq53iqHP95g-AeY",
+  "texto": "*FED Bicicleta Spinning 001C Magnética Volante 18kg Bluetooth 100 Níveis*\n\nPor *R$2199* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMSdRZdjh\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mt7vlzdx7p5146"
  }
 }
