@@ -1,18 +1,18 @@
 {
-  "atualizado": "2026-11-14T12:49-03:00",
+  "atualizado": "2026-11-14T19:26-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
-      "codigo": "POUPAAGORA30",
+      "codigo": "ECONOMIZE",
       "pct": 30,
       "fixo": null,
       "minimo": 1.0,
       "teto": 500.0,
-      "categoria": "Saúde, Esportes e mais",
+      "categoria": "Esportes, Saúde e mais",
       "suplementos": true,
       "automatico": false,
-      "ate": "2026-12-10T23:59:59-03:00",
-      "publicado": "2026-11-10T19:26-03:00"
+      "ate": "2026-12-24T23:59:59-03:00",
+      "publicado": "2026-11-14T16:26-03:00"
     },
     {
       "codigo": "QUEROPROMO25",
