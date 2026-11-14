@@ -1,17 +1,5 @@
 [
  {
-  "id": "3208846",
-  "quando": "2026-11-13T09:10:38.132626",
-  "titulo": "Jaqueta Puffer Matelassê + Saquinho Hering",
-  "texto": "*Jaqueta Masculina Puffer Matelassê + Saquinho Hering Preto M*\n\nPor *R$112* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1q71Jtp\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_886541-MLB114961284507_072026-P.webp",
-  "link": "https://meli.la/1q71Jtp",
-  "produto": "MLB7227093194",
-  "publico": null,
-  "preco": 111.99,
-  "cupom": null
- },
- {
   "id": "3209114",
   "quando": "2026-11-13T09:45:14.007754",
   "titulo": "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros",
@@ -172,5 +160,22 @@
   "publico": "masculino",
   "preco": 394.39,
   "cupom": null
+ },
+ {
+  "id": "3211985",
+  "quando": "2026-11-13T21:25:11.561122",
+  "titulo": "Kit 3 Vestido Senhora Regata Tam 38 A 54 Liganete Malha Fria Estampado Variados",
+  "texto": "*Kit 3 Vestido Senhora Regata Tam 38 A 54 Liganete Malha Fria Estampado Variados G/gg*\n\nDe ~R$119~\nPor *R$83* 🔥 no pix\n\n🎟️ Cupom: *QUEROPROMOS25* (25% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2cWCbPf\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_754334-MLB121075768759_112026-P.webp",
+  "link": "https://meli.la/2cWCbPf",
+  "produto": "MLB4799008393",
+  "publico": "feminino",
+  "preco": 82.65,
+  "cupom": {
+   "codigo": "QUEROPROMOS25",
+   "id": "71980",
+   "publicado": "2026-11-13T10:16:22-03:00",
+   "ate": "2026-12-13T23:59:59-0300"
+  }
  }
 ]
