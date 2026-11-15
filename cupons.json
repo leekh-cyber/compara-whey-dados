@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-14T19:26-03:00",
+  "atualizado": "2026-11-15T13:22-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -27,6 +27,18 @@
       "publicado": "2026-11-12T10:16-03:00"
     },
     {
+      "codigo": "OFERTASML25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-15T23:59:59-03:00",
+      "publicado": "2026-11-15T10:26-03:00"
+    },
+    {
       "codigo": "ECONOMIZEI25",
       "pct": 25,
       "fixo": null,
@@ -37,30 +49,6 @@
       "automatico": false,
       "ate": "2026-12-14T23:59:59-03:00",
       "publicado": "2026-11-14T10:16-03:00"
-    },
-    {
-      "codigo": "DESCONTO",
-      "pct": 25,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2027-05-31T23:59:59-03:00",
-      "publicado": "2026-11-13T10:16-03:00"
-    },
-    {
-      "codigo": "MELIVIP22",
-      "pct": 22,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-13T23:59:59-03:00",
-      "publicado": "2026-11-13T10:16-03:00"
     }
   ]
 }
