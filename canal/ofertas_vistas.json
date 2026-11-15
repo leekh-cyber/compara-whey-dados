@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-15T18:00:30.347090",
+  "quando": "2026-11-15T18:30:27.671343",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -10165,7 +10165,8 @@
   "cupom": null,
   "msg": "PsoZ2QlFUslNn7w-10EBq53iqHP95g-Ahc",
   "texto": "*Cortina de LED Fada Cordão de Luz Janela Estrelas Guirlanda de Natal Alimentada por USB*\n\nDe ~R$59~\nPor *R$27* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOhRzIbvY\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-ms0dqfdvrqx3f5"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-ms0dqfdvrqx3f5",
+  "conferido": "2026-11-15T18:32:47.416528"
  },
  "3215900": {
   "quando": "2026-11-15T15:32:47.128150",
@@ -10182,7 +10183,8 @@
   "cupom": null,
   "msg": "Psp01HwAMjXnRQ8-17QBq53iqHP95g-Ahg",
   "texto": "*Bicicleta Elétrica HONEYWHALE MT4 com Motor 2000W e Autonomia de 50 km*\n\nDe ~R$17019~\nPor *R$7999* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/30paSXJcsX\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms6hnwelcrnpb5"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms6hnwelcrnpb5",
+  "conferido": "2026-11-15T18:32:47.668652"
  },
  "3215934": {
   "quando": "2026-11-15T16:00:33.917353",
@@ -10373,5 +10375,44 @@
   "msg": "Psq5fHcTUFGW1rc-12wBq53iqHP95g-AiI",
   "texto": "*Espelho Orgânico Pedra 50X80 cm Sofisticação e Modernidade Sala Quarto*\n\nDe ~R$169~\nA partir de *R$120* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9KjeAPGFdn\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfqx28u9c75a9"
+ },
+ "3216261": {
+  "quando": "2026-11-15T18:30:30.906759",
+  "titulo": "Console PlayStation 5 Slim Digital 825GB",
+  "loja": "shopee"
+ },
+ "3215938": {
+  "quando": "2026-11-15T18:30:32.526552",
+  "titulo": "Conjunto de 4 jogos americanos de Natal para decoração de mesa festiva",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AKcBODgMEG",
+  "publico": null,
+  "produto": "shopee:54619303745",
+  "preco": 36.05,
+  "shopee": [
+   1930645644,
+   54619303745
+  ],
+  "cupom": null,
+  "msg": "PsqkygDKJIVLZD8-1y4Bq53iqHP95g-AiM",
+  "texto": "*Conjunto de 4 jogos americanos de Natal para decoração de mesa festiva*\n\nDe ~R$45~\nA partir de *R$36* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AKcBODgMEG\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mucy3xfzamme71"
+ },
+ "3216136": {
+  "quando": "2026-11-15T18:31:40.959118",
+  "titulo": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8Kr70chYHI",
+  "publico": null,
+  "produto": "shopee:54166806189",
+  "preco": 32.9,
+  "shopee": [
+   1876581966,
+   54166806189
+  ],
+  "cupom": null,
+  "msg": "Psq27oQFCUEivhY-1y8Bq53iqHP95g-AiQ",
+  "texto": "*Creatina Monohidratada - Growth Supplements - Sem sabor em pó*\n\nA partir de *R$33* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8Kr70chYHI\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259o-msdjsuyzmzgod8"
  }
 }
