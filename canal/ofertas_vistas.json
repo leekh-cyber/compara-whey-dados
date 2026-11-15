@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-15T11:00:28.290178",
+  "quando": "2026-11-15T11:30:27.552944",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -9768,7 +9768,8 @@
   "cupom": null,
   "msg": "PsrhiZD5D8S77OU-100Bq53iqHP95g-AgE",
   "texto": "*Smartphone Xiaomi Redmi 15C 256GB 4GB RAM Verde Global Dual SIM 4G*\n\nDe ~R$2012~\nPor *R$1288* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1LhM0TmJWR\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mulv71qprugz20"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mulv71qprugz20",
+  "conferido": "2026-11-15T11:31:45.184293"
  },
  "3214661": {
   "quando": "2026-11-15T08:31:45.990970",
@@ -9977,5 +9978,22 @@
   "msg": "PspulSNZILmRAmg-1_oBq53iqHP95g-Agw",
   "texto": "*Bicicleta  Aro 29 GT Sprint MX7 24V index Freio Disco Alumínio Suspensão Aero MTB*\n\nDe ~R$998~\nA partir de *R$699* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlqkuOlEO\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me910y70d7nmf6"
+ },
+ "3215034": {
+  "quando": "2026-11-15T11:30:32.442873",
+  "titulo": "GTA VI - Estatua Crocodilo Macca 3D 11cm - 15cm",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5fqLMnm6rX",
+  "publico": null,
+  "produto": "shopee:58219033915",
+  "preco": 40.0,
+  "shopee": [
+   1927606824,
+   58219033915
+  ],
+  "cupom": null,
+  "msg": "PspTxGa6_26EBMc-13EBq53iqHP95g-Ag0",
+  "texto": "*GTA VI (6) - Estatua Crocodilo Macca 3D 11cm - 15cm*\n\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5fqLMnm6rX\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820mg-muavs15a3gg036"
  }
 }
