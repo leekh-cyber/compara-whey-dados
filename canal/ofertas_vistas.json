@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-16T17:00:30.844667",
+  "quando": "2026-11-16T17:30:24.347964",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -11218,7 +11218,8 @@
   },
   "msg": "Psp2IwlBNryX9XQ-19gBq53iqHP95g-AkQ",
   "texto": "*Pilha Recarregável AA Pequena Duracell Com 4 Unidades*\n\nDe ~R$183~\nPor *R$110* 🔥\n\n🎟️ Cupom: *LOJAOF11*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMVvUBiZA\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9safvn4kjqe7"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9safvn4kjqe7",
+  "conferido": "2026-11-16T17:33:46.004537"
  },
  "3219176": {
   "quando": "2026-11-16T14:32:56.286067",
@@ -11235,7 +11236,8 @@
   "cupom": null,
   "msg": "PspYQr0jlTNXcmo-198Bq53iqHP95g-AkU",
   "texto": "*Ar Condicionado Split 12000 BTUs LG S3NQ12JAQAC - Frio, Dual Inverter, Compact*\n\nDe ~R$2743~\nPor *R$2250* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7fbRXtPlea\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mrabbu01oxdx7a"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mrabbu01oxdx7a",
+  "conferido": "2026-11-16T17:33:46.482427"
  },
  "3219089": {
   "quando": "2026-11-16T14:32:55.095578",
@@ -11475,5 +11477,44 @@
   "msg": "PsqQqozNwnIOmL4-16YBq53iqHP95g-Ak0",
   "texto": "*Perfume Árabe Ameerati Feminino Eau De Parfum 100 Ml Com Nf lipx*\n\nDe ~R$279~\nPor *R$151* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2LbWb5v\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907787-MLA108111313666_032026-P.webp"
+ },
+ "cupom:CHEGOUCUPOM25": {
+  "quando": "2026-11-16T17:30:26.356422",
+  "titulo": "Cupom Mercado Livre: 25% OFF acima de R$ 1 (até R$ 500) em Selecionados",
+  "id": "72059",
+  "publicado": "2026-11-16T10:16:40-03:00",
+  "ate": "2026-12-16T23:59:59-0300",
+  "msg": "PsrpguNUto1Q.Tc-1wwBq53iqHP95g-Ak4",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF, até R$500*\nem Selecionados\n\nCódigo: *CHEGOUCUPOM25*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": null
+ },
+ "3220085": {
+  "quando": "2026-11-16T17:31:31.692553",
+  "titulo": "QIAODAN TG 1.0 unissex",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3VlsmVBtAk",
+  "publico": "masculino",
+  "produto": "shopee:45962433905",
+  "preco": 274.0,
+  "shopee": [
+   1535859203,
+   45962433905
+  ],
+  "cupom": null,
+  "msg": "PsoRBXBj4Bx7nqM-17YBq53iqHP95g-Ak8",
+  "texto": "*Sola Grossa E 2E De Largura À Prova Deqiaodan TG 1.0 Masculino Tênis De Corrida Profissional Respirável Rebote QDB0232*\n\nPor *R$274* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3VlsmVBtAk\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlg7js571frbc"
+ },
+ "3219949": {
+  "quando": "2026-11-16T17:32:41.587725",
+  "titulo": "Camiseta Tech Light Insider Masculino - R$ 53,86",
+  "link": "https://meli.la/1JoQFn4",
+  "publico": "masculino",
+  "produto": "MLB4232914111",
+  "preco": 53.86,
+  "cupom": null,
+  "msg": "PsrxS2g_A1kFeJk-13YBq53iqHP95g-AlA",
+  "texto": "*Camiseta Tech Light  Insider Masculino*\n\nPor *R$54* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JoQFn4\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_871278-MLB93980423089_102025-P.webp"
  }
 }
