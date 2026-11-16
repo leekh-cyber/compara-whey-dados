@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-15T13:22-03:00",
+  "atualizado": "2026-11-16T16:37-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -27,6 +27,18 @@
       "publicado": "2026-11-12T10:16-03:00"
     },
     {
+      "codigo": "CHEGOUCUPOM25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-16T23:59:59-03:00",
+      "publicado": "2026-11-16T10:16-03:00"
+    },
+    {
       "codigo": "OFERTASML25",
       "pct": 25,
       "fixo": null,
@@ -39,16 +51,28 @@
       "publicado": "2026-11-15T10:26-03:00"
     },
     {
-      "codigo": "ECONOMIZEI25",
-      "pct": 25,
+      "codigo": "",
+      "pct": 20,
       "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
+      "minimo": 79.0,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": true,
+      "ate": "2026-12-16T23:59:59-03:00",
+      "publicado": "2026-11-16T15:39-03:00"
+    },
+    {
+      "codigo": "OFERTAPRASAUDE",
+      "pct": 10,
+      "fixo": null,
+      "minimo": 99.0,
+      "teto": 30.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-14T23:59:59-03:00",
-      "publicado": "2026-11-14T10:16-03:00"
+      "ate": "2026-11-16T23:59:59-03:00",
+      "publicado": "2026-11-16T09:16-03:00"
     }
   ]
 }
