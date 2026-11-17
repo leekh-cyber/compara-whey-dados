@@ -12,18 +12,6 @@
   "cupom": null
  },
  {
-  "id": "3220866",
-  "quando": "2026-11-16T21:25:17.229353",
-  "titulo": "Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino",
-  "texto": "*Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino*\n\nDe ~R$288~\nPor *R$185* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2qTaAXj\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_981007-MLA93957240711_102025-P.webp",
-  "link": "https://meli.la/2qTaAXj",
-  "produto": "MLB23221752",
-  "publico": "feminino",
-  "preco": 185.15,
-  "cupom": null
- },
- {
   "id": "3220655",
   "quando": "2026-11-16T21:25:22.515014",
   "titulo": "AOC Mouse Gamer RGB Óptico 7200dpi Preto 85g",
@@ -50,6 +38,69 @@
    "id": "72062",
    "publicado": "2026-11-16T10:16:41-03:00",
    "ate": "2026-12-16T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3220928",
+  "quando": "2026-11-16T22:00:38.619480",
+  "titulo": "Top Calvin Klein Regata Fitness Cotton Conforto Original",
+  "texto": "*Top Calvin Klein Regata Fitness Cotton Conforto Original Preto Liso Gg*\n\nDe ~R$109~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1Ln1TK7\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841514-MLB113300671208_072026-P.webp",
+  "link": "https://meli.la/1Ln1TK7",
+  "produto": "MLB6646572560",
+  "publico": "feminino",
+  "preco": 49.99,
+  "cupom": null
+ },
+ {
+  "id": "3220975",
+  "quando": "2026-11-16T22:00:52.610654",
+  "titulo": "Creatina 1kg Monohidratada 100% Pura Ronnie Coleman",
+  "texto": "*Creatina Monohidratada Ronnie Coleman Neutra 1,050kg Pó*\n\nPor *R$79* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1ju2US1\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_812094-MLA99459850586_112025-P.webp",
+  "link": "https://meli.la/1ju2US1",
+  "produto": "MLB55975735",
+  "publico": null,
+  "preco": 78.9,
+  "cupom": {
+   "codigo": "QUEROPROMO30",
+   "id": "72062",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3220984",
+  "quando": "2026-11-16T22:00:56.462786",
+  "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
+  "texto": "*Capa Protetora Colchão Box Casal Padrão Matelado Impermeável*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2JMq12p\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_706491-MLB83128725973_032025-P.webp",
+  "link": "https://meli.la/2JMq12p",
+  "produto": "MLB4002919471",
+  "publico": null,
+  "preco": 29.99,
+  "cupom": {
+   "codigo": "QUEROPROMO30",
+   "id": "72062",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3220996",
+  "quando": "2026-11-16T22:01:07.058551",
+  "titulo": "Abajur Luminária De Mesa Cabeceira Quarto Sala Escritório Marrom Branco 127220v",
+  "texto": "*Abajur Luminária De Mesa Cabeceira Quarto Sala Escritório Marrom Branco 127/220v*\n\nDe ~R$54~\nPor *R$30* 🔥\n\n🎟️ Cupom: *FESTIVALDECUPONS*\n💸 Com o cupom: *R$21*\n\n👉 *Pegar promoção:* https://meli.la/15JQmZe\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_752788-MLB112261366694_062026-P.webp",
+  "link": "https://meli.la/15JQmZe",
+  "produto": "MLB4790259427",
+  "publico": null,
+  "preco": 29.89,
+  "cupom": {
+   "codigo": "FESTIVALDECUPONS",
+   "id": null,
+   "publicado": null,
+   "ate": null
   }
  }
 ]
