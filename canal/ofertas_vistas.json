@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T17:00:28.168096",
+  "quando": "2026-11-17T17:30:25.749776",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12112,7 +12112,7 @@
   "msg": "PspFt68VfTmEtYs-17sBq53iqHP95g-Amk",
   "texto": "*Kit 10 Cueca Boxer Microfibra Selene Kit Cueca Box Poliamida Sem Costura Cueca Masculina Premium*\n\nDe ~R$249~\nPor *R$110* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7pusuEGBku",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-munhqsibhatd62",
-  "conferido": "2026-11-17T14:03:51.948134"
+  "conferido": "2026-11-17T17:32:42.860902"
  },
  "3220984": {
   "quando": "2026-11-17T08:02:54.955598",
@@ -12413,7 +12413,7 @@
   "msg": "Psr4Z1ThP_toF4M-1.4Bq53iqHP95g-Anc",
   "texto": "*calça infantil masculino jeans  e esporte fino menino varias cores e tamanho*\n\nDe ~R$90~\nA partir de *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMXHwzRpj",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mihb9slq4idif0",
-  "conferido": "2026-11-17T14:03:51.530252"
+  "conferido": "2026-11-17T17:32:42.502139"
  },
  "3222410": {
   "quando": "2026-11-17T11:02:46.716645",
@@ -12707,7 +12707,8 @@
   "cupom": null,
   "msg": "Pso9UmPKVQQsFUw-16MBq53iqHP95g-Aoc",
   "texto": "*Pasta de Amendoim com Whey Protein 600g Dr Peanut*\n\nDe ~R$98~\nA partir de *R$48* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3B93mNXiMA",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjogvg8bh62p24"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjogvg8bh62p24",
+  "conferido": "2026-11-17T17:32:43.120323"
  },
  "3223296": {
   "quando": "2026-11-17T14:30:39.461218",
@@ -13025,5 +13026,34 @@
   "msg": "Psq0NMz3dpjYY4k-14QBq53iqHP95g-ApQ",
   "texto": "*Kit 2 Camiseta Lupo Masculina Básica Raglan Dry-fit Sport Azul Marinho/ Preto P*\n\nDe ~R$211~\nPor *R$121* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1a9Sjc2",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_910330-MLB113720051767_062026-P.webp"
+ },
+ "3224140": {
+  "quando": "2026-11-17T17:30:30.751332",
+  "titulo": "Kit Desodorantes Twist Antitranspirante Lavanda Herbissimo 45g (3 unidades)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8VAaKVhdqZ",
+  "publico": null,
+  "produto": "shopee:21998718983",
+  "preco": 18.99,
+  "shopee": [
+   436104412,
+   21998718983
+  ],
+  "cupom": null,
+  "msg": "PsrICwF3fqpkS2g-17gBq53iqHP95g-ApU",
+  "texto": "*Kit Desodorante Twist Antitranspirante Lavanda Herbissimo 45g (3 unidades)*\n\nDe ~R$33~\nPor *R$19* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8VAaKVhdqZ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz6lnaw6oev5de"
+ },
+ "3224055": {
+  "quando": "2026-11-17T17:31:37.438500",
+  "titulo": "Kit Relogio Condor Com Colar E Brinco Dourado Feminino",
+  "link": "https://meli.la/2AapZsT",
+  "publico": "feminino",
+  "produto": "MLB61378377",
+  "preco": 56.0,
+  "cupom": null,
+  "msg": "PspGIk3I0Pfykq4-13wBq53iqHP95g-ApY",
+  "texto": "*Relogio De Quartzo Feminino Retangular Elegante Pulseira Aço Dourado Branco*\n\nDe ~R$79~\nPor *R$56* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2AapZsT\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_865674-MLA111621475140_062026-P.webp"
  }
 }
