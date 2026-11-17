@@ -1,14 +1,55 @@
 [
  {
-  "id": "3220757",
-  "quando": "2026-11-16T20:50:07.081179",
-  "titulo": "Perfume Duha Al Wataniah Edp 100ml Feminino Árabe",
-  "texto": "*Perfume Duha Al Wataniah Edp 100ml feminino Árabe*\n\nDe ~R$254~\nPor *R$134* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2EJpK1j\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_914288-MLA84540602714_052025-P.webp",
-  "link": "https://meli.la/2EJpK1j",
-  "produto": "MLB25978683",
-  "publico": "feminino",
-  "preco": 134.0,
+  "id": "3220772",
+  "quando": "2026-11-16T21:25:09.497547",
+  "titulo": "Perfume Night Caviar Paris Elysees Masculino Intense 100ml",
+  "texto": "*Perfume Night Caviar Paris Elysees Masculino Intense 100ml*\n\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1HR1GeK\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_848455-MLA121208003105_112026-P.webp",
+  "link": "https://meli.la/1HR1GeK",
+  "produto": "MLB49270475",
+  "publico": "masculino",
+  "preco": 78.9,
   "cupom": null
+ },
+ {
+  "id": "3220866",
+  "quando": "2026-11-16T21:25:17.229353",
+  "titulo": "Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino",
+  "texto": "*Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino*\n\nDe ~R$288~\nPor *R$185* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2qTaAXj\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_981007-MLA93957240711_102025-P.webp",
+  "link": "https://meli.la/2qTaAXj",
+  "produto": "MLB23221752",
+  "publico": "feminino",
+  "preco": 185.15,
+  "cupom": null
+ },
+ {
+  "id": "3220655",
+  "quando": "2026-11-16T21:25:22.515014",
+  "titulo": "AOC Mouse Gamer RGB Óptico 7200dpi Preto 85g",
+  "texto": "*Mouse Gamer Aoc Rgb Óptico 7200dpi Usb Preto Ultra Leve 85g Preto*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1XT8PTw\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_999311-MLB117754716901_092026-P.webp",
+  "link": "https://meli.la/1XT8PTw",
+  "produto": "MLB4324947181",
+  "publico": null,
+  "preco": 49.59,
+  "cupom": null
+ },
+ {
+  "id": "3220855",
+  "quando": "2026-11-16T21:25:26.427134",
+  "titulo": "Pré Treino Yeah Buddy Ronnie Coleman 360g Lemon Rush",
+  "texto": "*Pré Treino Yeah Buddy Ronnie Coleman 360g Lemon Rush Limon Rush*\n\nPor *R$50* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1GjD9P3\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879451-MLA96901645466_112025-P.webp",
+  "link": "https://meli.la/1GjD9P3",
+  "produto": "MLB61746363",
+  "publico": null,
+  "preco": 49.9,
+  "cupom": {
+   "codigo": "QUEROPROMO30",
+   "id": "72062",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
+  }
  }
 ]
