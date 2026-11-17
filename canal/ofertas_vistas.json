@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T15:00:32.087405",
+  "quando": "2026-11-17T15:30:27.122615",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12207,7 +12207,7 @@
   "msg": "PsqUQaYT06SfpY4-1ykBq53iqHP95g-Am0",
   "texto": "*Kit 3 Caixas Container Organizadoras 20L Transparente De Plástico Para Brinquedos Roupas Livros*\n\nDe ~R$157~\nPor *R$65* 🔥\n\n🎟️ Cupom: *PEDEN20*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRiR6m19Y",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maabbtszn6uxe7",
-  "conferido": "2026-11-17T12:03:07.873370"
+  "conferido": "2026-11-17T15:33:50.247345"
  },
  "3221587": {
   "quando": "2026-11-17T09:01:53.510064",
@@ -12526,7 +12526,8 @@
   "cupom": null,
   "msg": "PsrKbkpAaMl4cuc-14sBq53iqHP95g-An4",
   "texto": "*Kit 3 Camisas Masculinas 100% Algodão Premium Camiseta Moda Casual Paris Moda Verão Saida de fabrica*\n\nDe ~R$110~\nPor *R$60* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/80EJP49Kgg",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bb-mrrzhou4ak1zbd"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bb-mrrzhou4ak1zbd",
+  "conferido": "2026-11-17T15:33:50.717645"
  },
  "3222149": {
   "quando": "2026-11-17T12:32:43.983970",
@@ -12864,5 +12865,54 @@
   "msg": "PspzUdumx8HbQmQ-14EBq53iqHP95g-Aoo",
   "texto": "*Camisa Polo Masculina Piquet Slim Manga Curta Kit 3 / Preta-off-caqui P*\n\nDe ~R$199~\nPor *R$99* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ndPaj7\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_608870-MLB118856190497_102026-P.webp"
+ },
+ "cupom:HORADOCUPOM25": {
+  "quando": "2026-11-17T15:30:30.297600",
+  "titulo": "25% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72114",
+  "publicado": "2026-11-17T10:16:43-03:00",
+  "ate": "2026-12-17T23:59:59-0300",
+  "msg": "PsoFhgKY0hG7A4o-1yEBq53iqHP95g-Aos",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF, até R$500*\n\nCódigo: *HORADOCUPOM25*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3223498": {
+  "quando": "2026-11-17T15:31:35.645831",
+  "titulo": "Fonte ATX Gamemax 600W GS600 com Cabo PFC Ativo 80 Plus White Preto",
+  "loja": "shopee"
+ },
+ "3220623": {
+  "quando": "2026-11-17T15:31:37.826587",
+  "titulo": "Fonte Carregador Dell DE-08 65W 110-220V",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3g5KRSoRMi",
+  "publico": null,
+  "produto": "shopee:21099599873",
+  "preco": 48.99,
+  "shopee": [
+   1401777129,
+   21099599873
+  ],
+  "cupom": null,
+  "msg": "Psq7HmXmLSirVZ0-16wBq53iqHP95g-Aow",
+  "texto": "*Fonte Carregador Dell 19.5v 3.34a 65w Plug 4.5mm X 3.0mm 110V-220V DE-08*\n\nDe ~R$73~\nPor *R$49* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5KRSoRMi",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5xm05yhbkat40"
+ },
+ "3223113": {
+  "quando": "2026-11-17T15:32:46.225544",
+  "titulo": "Tênis Feminino Questar 3 adidas Tecindsilvmtglopur Liso 35 Br",
+  "link": "https://meli.la/2f7zGok",
+  "publico": "feminino",
+  "produto": "MLB4342608635",
+  "preco": 260.09,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspsyTYL5Nmp3Zw-1w8Bq53iqHP95g-Ao0",
+  "texto": "*Tênis Feminino Questar 3 adidas Tecind/silvmt/glopur Liso 35 Br*\n\nDe ~R$599~\nPor *R$260* 🔥 no pix\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$260*\n\n👉 *Pegar promoção:* https://meli.la/2f7zGok\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_663297-MLA99819680595_112025-P.webp"
  }
 }
