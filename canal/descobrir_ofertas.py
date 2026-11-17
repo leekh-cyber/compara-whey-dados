@@ -640,7 +640,9 @@ def achados_da_fila(vistas, quantos, enviar):
         vistas[i["id"]] = {"quando": datetime.now().isoformat(), "titulo": i["titulo"], "link": i["link"],
                            "publico": i["publico"], "produto": i["produto"], "preco": i.get("preco"),
                            "cupom": i.get("cupom")}
-        publicar(i["texto"], i["imagem"], f"achado da fila | {i['titulo'][:50]}", enviar, registro=vistas[i["id"]])
+        # posts enfileirados antes de 16/11/2026 ainda trazem o aviso de afiliado (agora na descricao do Canal)
+        texto = i["texto"].replace("\n\n_Canal de afiliados: posso ganhar comissão pelos links._", "")
+        publicar(texto, i["imagem"], f"achado da fila | {i['titulo'][:50]}", enviar, registro=vistas[i["id"]])
         feitos += 1
     return feitos
 
