@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-16T21:00:31.835063",
+  "quando": "2026-11-16T21:30:27.723075",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -11595,7 +11595,8 @@
   "cupom": null,
   "msg": "PsrtEejVU9b4yBE-1.4Bq53iqHP95g-AlU",
   "texto": "*Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino*\n\nPor *R$68* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LKzq5CRCm\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mrinmyko7pc401"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mrinmyko7pc401",
+  "conferido": "2026-11-16T21:32:42.639814"
  },
  "3220331": {
   "quando": "2026-11-16T18:31:40.586990",
@@ -11632,7 +11633,8 @@
   "cupom": null,
   "msg": "PsrzjtA1AclvV4k-164Bq53iqHP95g-AlY",
   "texto": "*Jogo 6 Taças de Vidro Resistente Premium Luxo para Vinho e Água 465ml - Design Moderno Drink Coquetel*\n\nDe ~R$80~\nPor *R$57* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3LSSeKWEj2\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mq6s5m6jopvm26"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mq6s5m6jopvm26",
+  "conferido": "2026-11-16T21:32:42.859417"
  },
  "cupom:PESOPESADO": {
   "quando": "2026-11-16T19:00:32.345190",
@@ -11894,5 +11896,34 @@
   "msg": "PsqwCXfI8axsG3k-1xQBq53iqHP95g-AmA",
   "texto": "*Perfume Duha Al Wataniah Edp 100ml feminino Árabe*\n\nDe ~R$254~\nPor *R$134* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2EJpK1j\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_914288-MLA84540602714_052025-P.webp"
+ },
+ "3220894": {
+  "quando": "2026-11-16T21:30:31.437934",
+  "titulo": "Tênis De Corrida Malha Respirável Absorção De Choque Profissional Maratona Treinamento CHUNTA",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qOjRWddk7",
+  "publico": "masculino",
+  "produto": "shopee:46460073095",
+  "preco": 134.99,
+  "shopee": [
+   1783487305,
+   46460073095
+  ],
+  "cupom": null,
+  "msg": "Psp8cHQ5jjVx1Jk-19EBq53iqHP95g-AmE",
+  "texto": "*Tênis De Corrida Malha Respirável Absorção De Choque Profissional Maratona Treinamento CHUNTA*\n\nDe ~R$299~\nA partir de *R$135* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOjRWddk7\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnlce1dqqcjsb7"
+ },
+ "3220866": {
+  "quando": "2026-11-16T21:31:37.910774",
+  "titulo": "Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino",
+  "link": "https://meli.la/2qTaAXj",
+  "publico": "feminino",
+  "produto": "MLB23221752",
+  "preco": 185.15,
+  "cupom": null,
+  "msg": "Psq5GP6n7n9c2Bw-18YBq53iqHP95g-AmI",
+  "texto": "*Perfume para os cabelos Carolina Herrera Good Girl Hair Mist 30 ml feminino*\n\nDe ~R$288~\nPor *R$185* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2qTaAXj\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_981007-MLA93957240711_102025-P.webp"
  }
 }
