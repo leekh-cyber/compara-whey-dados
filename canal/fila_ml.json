@@ -87,23 +87,6 @@
   "cupom": null
  },
  {
-  "id": "3221587",
-  "quando": "2026-11-17T08:35:09.892130",
-  "titulo": "Short Gkd Sem Costura Na Frente Zero Transparência",
-  "texto": "*Short Gkd Sem Costura Na Frente Zero Transparência Original*\n\nDe ~R$39~\nPor *R$30* 🔥\n\n🎟️ Cupom: *EXCLUSIVONOMELI*\n💸 Com o cupom: *R$24*\n\n👉 *Pegar promoção:* https://meli.la/2oUX6pX\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_973907-MLA106721293594_022026-P.webp",
-  "link": "https://meli.la/2oUX6pX",
-  "produto": "MLB6258109596",
-  "publico": "feminino",
-  "preco": 29.6,
-  "cupom": {
-   "codigo": "EXCLUSIVONOMELI",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3221614",
   "quando": "2026-11-17T08:35:18.423431",
   "titulo": "Kit 2 Body Splash Masculino Zahad + Nuit Absolue Cítrico Amadeirado Especiado",
@@ -138,5 +121,46 @@
   "publico": null,
   "preco": 61.2,
   "cupom": null
+ },
+ {
+  "id": "3221704",
+  "quando": "2026-11-17T09:10:05.501418",
+  "titulo": "Combo Feminino Paco Stasczak Camiseta Uv + Top + Short Saia Off White G",
+  "texto": "*Combo Feminino Paco Stasczak Camiseta Uv + Top + Short Saia Off White G*\n\nDe ~R$159~\nPor *R$96* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2QYiJRr",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_958061-MLB118676609093_102026-P.webp",
+  "link": "https://meli.la/2QYiJRr",
+  "produto": "MLB4959726501",
+  "publico": "feminino",
+  "preco": 95.9,
+  "cupom": null
+ },
+ {
+  "id": "3221678",
+  "quando": "2026-11-17T09:10:12.580043",
+  "titulo": "Saltinho Baixo Feminino Sandália Frente X Salto Grosso Festa",
+  "texto": "*Saltinho Baixo Feminino Sandália Frente X Salto Grosso Festa*\n\nDe ~R$78~\nPor *R$60* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2r5jTNJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_778399-MLB81056027703_112024-P.webp",
+  "link": "https://meli.la/2r5jTNJ",
+  "produto": "MLB3921164251",
+  "publico": "feminino",
+  "preco": 59.99,
+  "cupom": null
+ },
+ {
+  "id": "3221734",
+  "quando": "2026-11-17T09:10:22.600307",
+  "titulo": "Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar",
+  "texto": "*Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar*\n\nDe ~R$289~\nPor *R$117* 🔥 no pix\n\n🎟️ Cupom: *MELIGARANTE30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1nhKebB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_699984-MLA119782608699_102026-P.webp",
+  "link": "https://meli.la/1nhKebB",
+  "produto": "MLB24221867",
+  "publico": null,
+  "preco": 117.0,
+  "cupom": {
+   "codigo": "MELIGARANTE30",
+   "id": "72061",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
+  }
  }
 ]
