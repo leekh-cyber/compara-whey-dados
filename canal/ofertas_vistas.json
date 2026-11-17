@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T16:30:24.770824",
+  "quando": "2026-11-17T17:00:28.168096",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12373,7 +12373,7 @@
   "msg": "Psq5pUhaYU_Pr8o-118Bq53iqHP95g-AnQ",
   "texto": "*Vestido Curto Manga Longa em Ribana Com Sobreposição*\n\nDe ~R$199~\nPor *R$140* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/BVRwLs0Fj",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82581-mukogzu28weieb",
-  "conferido": "2026-11-17T13:32:55.394408"
+  "conferido": "2026-11-17T17:03:50.095779"
  },
  "3221978": {
   "quando": "2026-11-17T10:31:36.918977",
@@ -12667,7 +12667,8 @@
   "cupom": null,
   "msg": "PsrKPZnUmkJtHX4-12UBq53iqHP95g-AoU",
   "texto": "*A Bíblia dos Pequeninos | Livro Infantil Histórias Bíblicas Ilustradas para Crianças Capa Dura 0 a 8 anos*\n\nDe ~R$30~\nPor *R$16* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W8IZSsPyK",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mea79zythn2bd5"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mea79zythn2bd5",
+  "conferido": "2026-11-17T17:03:50.512638"
  },
  "3222692": {
   "quando": "2026-11-17T14:02:46.738798",
@@ -12985,5 +12986,44 @@
   "msg": "Psr8brSoTGWNgKU-1wABq53iqHP95g-ApE",
   "texto": "*Tênis Sneeks Feminino Casual Academia Treino Promoção Cinza/rosa Sneeks 37,0 Br*\n\nDe ~R$78~\nPor *R$41* 🔥\n\n🎟️ Cupom: *MELISUPERCLUB*\n💸 Com o cupom: *R$32*\n\n👉 *Pegar promoção:* https://meli.la/1HQAngE\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_869606-MLB111397880865_052026-P.webp"
+ },
+ "cupom:MEUDESCONTOOBRA": {
+  "quando": "2026-11-17T17:00:29.791128",
+  "titulo": "20% OFF em Ferramentas e Construção com cupom Mercado Livre",
+  "id": "72110",
+  "publicado": "2026-11-17T09:17:11-03:00",
+  "ate": "2026-11-17T23:59:59-0300",
+  "msg": "PsqeqhJxcHuSgdA-1.cBq53iqHP95g-ApI",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*20% OFF, até R$80*\nem Ferramentas e Construção com cupom Mercado Livre\n\nCódigo: *MEUDESCONTOOBRA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3223768": {
+  "quando": "2026-11-17T17:01:35.432887",
+  "titulo": "Lanolina EllaMamy 50g",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/60TFJvjeFf",
+  "publico": null,
+  "produto": "shopee:58250622619",
+  "preco": 25.79,
+  "shopee": [
+   1561230028,
+   58250622619
+  ],
+  "cupom": null,
+  "msg": "Psr7xQOkwC2adUU-13QBq53iqHP95g-ApM",
+  "texto": "*Lanolina EllaMamy 50g Creme Amamentação Protege Seios e Previne Rachaduras nos Mamilos*\n\nDe ~R$40~\nPor *R$26* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/60TFJvjeFf",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mteaxnp0pq0x2d"
+ },
+ "3223868": {
+  "quando": "2026-11-17T17:02:45.121295",
+  "titulo": "Kit 2 Camiseta Lupo Masculina Básica Raglan Dry-fit Sport.",
+  "link": "https://meli.la/1a9Sjc2",
+  "publico": "masculino",
+  "produto": "MLB6777317000",
+  "preco": 121.0,
+  "cupom": null,
+  "msg": "Psq0NMz3dpjYY4k-14QBq53iqHP95g-ApQ",
+  "texto": "*Kit 2 Camiseta Lupo Masculina Básica Raglan Dry-fit Sport Azul Marinho/ Preto P*\n\nDe ~R$211~\nPor *R$121* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1a9Sjc2",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_910330-MLB113720051767_062026-P.webp"
  }
 }
