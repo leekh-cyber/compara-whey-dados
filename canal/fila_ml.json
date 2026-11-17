@@ -46,23 +46,6 @@
   }
  },
  {
-  "id": "3220984",
-  "quando": "2026-11-16T22:00:56.462786",
-  "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
-  "texto": "*Capa Protetora Colchão Box Casal Padrão Matelado Impermeável*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2JMq12p\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_706491-MLB83128725973_032025-P.webp",
-  "link": "https://meli.la/2JMq12p",
-  "produto": "MLB4002919471",
-  "publico": null,
-  "preco": 29.99,
-  "cupom": {
-   "codigo": "QUEROPROMO30",
-   "id": "72062",
-   "publicado": "2026-11-16T10:16:41-03:00",
-   "ate": "2026-12-16T23:59:59-0300"
-  }
- },
- {
   "id": "3221464",
   "quando": "2026-11-17T08:00:11.300212",
   "titulo": "Versace Dylan Blue Eau de toilette Masculino 200ml - R$ 591",
@@ -92,18 +75,6 @@
   }
  },
  {
-  "id": "3221301",
-  "quando": "2026-11-17T08:00:36.514146",
-  "titulo": "Kit 2 Camisetas Dry Alpha Masculina - R$ 67,90",
-  "texto": "*Kit 2 Camisetas Dry Alpha Masculina*\n\nDe ~R$99~\nPor *R$68* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1eX8ZWk\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774883-MLB101654709895_122025-P.webp",
-  "link": "https://meli.la/1eX8ZWk",
-  "produto": "MLB5258554906",
-  "publico": "masculino",
-  "preco": 67.9,
-  "cupom": null
- },
- {
   "id": "3221512",
   "quando": "2026-11-17T08:00:48.235076",
   "titulo": "Smartwatch Huawei Band 10",
@@ -113,6 +84,59 @@
   "produto": "MLB46211942",
   "publico": null,
   "preco": 169.15,
+  "cupom": null
+ },
+ {
+  "id": "3221587",
+  "quando": "2026-11-17T08:35:09.892130",
+  "titulo": "Short Gkd Sem Costura Na Frente Zero Transparência",
+  "texto": "*Short Gkd Sem Costura Na Frente Zero Transparência Original*\n\nDe ~R$39~\nPor *R$30* 🔥\n\n🎟️ Cupom: *EXCLUSIVONOMELI*\n💸 Com o cupom: *R$24*\n\n👉 *Pegar promoção:* https://meli.la/2oUX6pX\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_973907-MLA106721293594_022026-P.webp",
+  "link": "https://meli.la/2oUX6pX",
+  "produto": "MLB6258109596",
+  "publico": "feminino",
+  "preco": 29.6,
+  "cupom": {
+   "codigo": "EXCLUSIVONOMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3221614",
+  "quando": "2026-11-17T08:35:18.423431",
+  "titulo": "Kit 2 Body Splash Masculino Zahad + Nuit Absolue Cítrico Amadeirado Especiado",
+  "texto": "*Kit 2 Body Splash Masculino Zahad + Nuit Absolue Cítrico Amadeirado Especiado*\n\nDe ~R$79~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2cSbsSw\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_742801-MLA118694317242_102026-P.webp",
+  "link": "https://meli.la/2cSbsSw",
+  "produto": "MLB79786562",
+  "publico": "masculino",
+  "preco": 34.0,
+  "cupom": null
+ },
+ {
+  "id": "3221602",
+  "quando": "2026-11-17T08:35:22.981016",
+  "titulo": "Kit 4 Camisetas Sandrini Dry-Fit",
+  "texto": "*Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada*\n\nDe ~R$135~\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2pae6io\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-P.webp",
+  "link": "https://meli.la/2pae6io",
+  "produto": "MLB4592320910",
+  "publico": "masculino",
+  "preco": 78.99,
+  "cupom": null
+ },
+ {
+  "id": "3221529",
+  "quando": "2026-11-17T08:35:31.900551",
+  "titulo": "Kit Hidrabene Linha Clareadora Sabonete Serum E Protetor 70",
+  "texto": "*Kit Hidrabene Linha Clareadora Sabonete Serum E Protetor 70*\n\nPor *R$61* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/15dQDor\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_874695-MLB117658328489_092026-P.webp",
+  "link": "https://meli.la/15dQDor",
+  "produto": "MLB2085859759",
+  "publico": null,
+  "preco": 61.2,
   "cupom": null
  }
 ]
