@@ -33,7 +33,11 @@ jobs:
       SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
       SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
     steps:
+      # ref: main = o registro mais recente. Sem isso, uma rodada que esperou a anterior (concurrency)
+      # le o registro de quando foi criada e reposta o que a anterior acabou de postar (16/11/2026).
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
