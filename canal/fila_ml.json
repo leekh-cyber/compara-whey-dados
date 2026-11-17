@@ -1,22 +1,5 @@
 [
  {
-  "id": "3220975",
-  "quando": "2026-11-16T22:00:52.610654",
-  "titulo": "Creatina 1kg Monohidratada 100% Pura Ronnie Coleman",
-  "texto": "*Creatina Monohidratada Ronnie Coleman Neutra 1,050kg Pó*\n\nPor *R$79* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1ju2US1\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_812094-MLA99459850586_112025-P.webp",
-  "link": "https://meli.la/1ju2US1",
-  "produto": "MLB55975735",
-  "publico": null,
-  "preco": 78.9,
-  "cupom": {
-   "codigo": "QUEROPROMO30",
-   "id": "72062",
-   "publicado": "2026-11-16T10:16:41-03:00",
-   "ate": "2026-12-16T23:59:59-0300"
-  }
- },
- {
   "id": "3221464",
   "quando": "2026-11-17T08:00:11.300212",
   "titulo": "Versace Dylan Blue Eau de toilette Masculino 200ml - R$ 591",
@@ -123,23 +106,6 @@
   }
  },
  {
-  "id": "3221956",
-  "quando": "2026-11-17T09:45:05.892027",
-  "titulo": "Perfume Sakeena Lattafa Edp Feminino 100ml Original",
-  "texto": "*Perfume Sakeena Lattafa Edp Feminino 100ml Original*\n\nDe ~R$299~\nPor *R$153* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$137*\n\n👉 *Pegar promoção:* https://meli.la/1vDS17f\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_814211-MLU78977346872_092024-P.webp",
-  "link": "https://meli.la/1vDS17f",
-  "produto": "MLB23793701",
-  "publico": "feminino",
-  "preco": 153.0,
-  "cupom": {
-   "codigo": "OFFHOJENOML",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3221935",
   "quando": "2026-11-17T09:45:14.312858",
   "titulo": "Jaqueta Masculina Reforçado De Nylon Impermeável Estica",
@@ -162,5 +128,39 @@
   "publico": "masculino",
   "preco": 55.69,
   "cupom": null
+ },
+ {
+  "id": "3222149",
+  "quando": "2026-11-17T10:20:06.545467",
+  "titulo": "Polo Feminina Listrada Em Algodão Hering",
+  "texto": "*Polo Feminina Listrada Em Algodão Hering Azul P*\n\nDe ~R$169~\nPor *R$81* 🔥 no pix\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$72*\n\n👉 *Pegar promoção:* https://meli.la/1pyNmBd\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_918888-MLB114828875372_082026-P.webp",
+  "link": "https://meli.la/1pyNmBd",
+  "produto": "MLB7420233754",
+  "publico": "feminino",
+  "preco": 80.74,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3222172",
+  "quando": "2026-11-17T10:20:21.307045",
+  "titulo": "Perfume Versace Bright Crystal Absolu EDP 30ml Feminino Floral Frutado",
+  "texto": "*Perfume Versace Bright Crystal Absolu EDP 30ml Feminino Floral Frutado*\n\nDe ~R$489~\nPor *R$270* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$230*\n\n👉 *Pegar promoção:* https://meli.la/2TeYXW8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_997321-MLU78400131512_082024-P.webp",
+  "link": "https://meli.la/2TeYXW8",
+  "produto": "MLB18939410",
+  "publico": "feminino",
+  "preco": 270.0,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
