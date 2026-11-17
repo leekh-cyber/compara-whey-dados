@@ -142,15 +142,20 @@
   "cupom": null
  },
  {
-  "id": "3223293",
-  "quando": "2026-11-17T15:35:29.560588",
-  "titulo": "Tênis Masculino Rush Olympikus Pewter Liso 43 Br",
-  "texto": "*Tênis Masculino Rush Olympikus Pewter Liso 43 Br*\n\nDe ~R$329~\nPor *R$185* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2ry1Hes\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_751482-MLB111583852817_052026-P.webp",
-  "link": "https://meli.la/2ry1Hes",
-  "produto": "MLB6783054052",
-  "publico": "masculino",
-  "preco": 185.24,
-  "cupom": null
+  "id": "3223757",
+  "quando": "2026-11-17T16:10:07.955612",
+  "titulo": "Tênis Sneeks Feminino Casual Academia Treino Promoção Cinzarosa Sneeks",
+  "texto": "*Tênis Sneeks Feminino Casual Academia Treino Promoção Cinza/rosa Sneeks 37,0 Br*\n\nDe ~R$78~\nPor *R$41* 🔥\n\n🎟️ Cupom: *MELISUPERCLUB*\n💸 Com o cupom: *R$32*\n\n👉 *Pegar promoção:* https://meli.la/1HQAngE\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_869606-MLB111397880865_052026-P.webp",
+  "link": "https://meli.la/1HQAngE",
+  "produto": "MLB4543576963",
+  "publico": "feminino",
+  "preco": 41.16,
+  "cupom": {
+   "codigo": "MELISUPERCLUB",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
