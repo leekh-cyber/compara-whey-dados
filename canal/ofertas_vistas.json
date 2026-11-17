@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T10:00:32.193708",
+  "quando": "2026-11-17T10:30:26.383666",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12347,5 +12347,34 @@
   "msg": "Psp5AKb5FNdTho0-1x4Bq53iqHP95g-AnM",
   "texto": "*Perfume Sakeena Lattafa Edp Feminino 100ml Original*\n\nDe ~R$299~\nPor *R$153* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$137*\n\n👉 *Pegar promoção:* https://meli.la/1vDS17f\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_814211-MLU78977346872_092024-P.webp"
+ },
+ "3222247": {
+  "quando": "2026-11-17T10:30:30.089441",
+  "titulo": "Vestido Curto Manga Longa em Ribana Com Sobreposição",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/BVRwLs0Fj",
+  "publico": "feminino",
+  "produto": "shopee:58221005025",
+  "preco": 139.99,
+  "shopee": [
+   1024179833,
+   58221005025
+  ],
+  "cupom": null,
+  "msg": "Psq5pUhaYU_Pr8o-118Bq53iqHP95g-AnQ",
+  "texto": "*Vestido Curto Manga Longa em Ribana Com Sobreposição*\n\nDe ~R$199~\nPor *R$140* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/BVRwLs0Fj",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82581-mukogzu28weieb"
+ },
+ "3221978": {
+  "quando": "2026-11-17T10:31:36.918977",
+  "titulo": "Mochila Masculina Couro Sintetico Escolar Executiva Grande",
+  "link": "https://meli.la/1ZnbVoT",
+  "publico": "masculino",
+  "produto": "MLB7381665554",
+  "preco": 55.69,
+  "cupom": null,
+  "msg": "PspVV5TO4jvNvQc-138Bq53iqHP95g-AnU",
+  "texto": "*Mochila Masculina Couro Sintetico Escolar Executiva  Grande Preto Liso*\n\nDe ~R$129~\nPor *R$56* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ZnbVoT",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_816567-MLB115907324899_082026-P.webp"
  }
 }
