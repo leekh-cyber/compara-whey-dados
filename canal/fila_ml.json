@@ -1,34 +1,5 @@
 [
  {
-  "id": "3220655",
-  "quando": "2026-11-16T21:25:22.515014",
-  "titulo": "AOC Mouse Gamer RGB Óptico 7200dpi Preto 85g",
-  "texto": "*Mouse Gamer Aoc Rgb Óptico 7200dpi Usb Preto Ultra Leve 85g Preto*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1XT8PTw\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_999311-MLB117754716901_092026-P.webp",
-  "link": "https://meli.la/1XT8PTw",
-  "produto": "MLB4324947181",
-  "publico": null,
-  "preco": 49.59,
-  "cupom": null
- },
- {
-  "id": "3220855",
-  "quando": "2026-11-16T21:25:26.427134",
-  "titulo": "Pré Treino Yeah Buddy Ronnie Coleman 360g Lemon Rush",
-  "texto": "*Pré Treino Yeah Buddy Ronnie Coleman 360g Lemon Rush Limon Rush*\n\nPor *R$50* 🔥\n\n🎟️ Cupom: *QUEROPROMO30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1GjD9P3\n\nLoja oficial no MELI!\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879451-MLA96901645466_112025-P.webp",
-  "link": "https://meli.la/1GjD9P3",
-  "produto": "MLB61746363",
-  "publico": null,
-  "preco": 49.9,
-  "cupom": {
-   "codigo": "QUEROPROMO30",
-   "id": "72062",
-   "publicado": "2026-11-16T10:16:41-03:00",
-   "ate": "2026-12-16T23:59:59-0300"
-  }
- },
- {
   "id": "3220975",
   "quando": "2026-11-16T22:00:52.610654",
   "titulo": "Creatina 1kg Monohidratada 100% Pura Ronnie Coleman",
@@ -99,18 +70,6 @@
   "cupom": null
  },
  {
-  "id": "3221602",
-  "quando": "2026-11-17T08:35:22.981016",
-  "titulo": "Kit 4 Camisetas Sandrini Dry-Fit",
-  "texto": "*Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada*\n\nDe ~R$135~\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2pae6io\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-P.webp",
-  "link": "https://meli.la/2pae6io",
-  "produto": "MLB4592320910",
-  "publico": "masculino",
-  "preco": 78.99,
-  "cupom": null
- },
- {
   "id": "3221529",
   "quando": "2026-11-17T08:35:31.900551",
   "titulo": "Kit Hidrabene Linha Clareadora Sabonete Serum E Protetor 70",
@@ -162,5 +121,46 @@
    "publicado": "2026-11-16T10:16:41-03:00",
    "ate": "2026-12-16T23:59:59-0300"
   }
+ },
+ {
+  "id": "3221956",
+  "quando": "2026-11-17T09:45:05.892027",
+  "titulo": "Perfume Sakeena Lattafa Edp Feminino 100ml Original",
+  "texto": "*Perfume Sakeena Lattafa Edp Feminino 100ml Original*\n\nDe ~R$299~\nPor *R$153* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$137*\n\n👉 *Pegar promoção:* https://meli.la/1vDS17f\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_814211-MLU78977346872_092024-P.webp",
+  "link": "https://meli.la/1vDS17f",
+  "produto": "MLB23793701",
+  "publico": "feminino",
+  "preco": 153.0,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3221935",
+  "quando": "2026-11-17T09:45:14.312858",
+  "titulo": "Jaqueta Masculina Reforçado De Nylon Impermeável Estica",
+  "texto": "*Jaqueta Masculina Reforçado De Nylon Impermeável Estica Verde Militar Corta Vento P*\n\nPor *R$39* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2oqknjX\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902419-MLB114638144779_072026-P.webp",
+  "link": "https://meli.la/2oqknjX",
+  "produto": "MLB4901697117",
+  "publico": "masculino",
+  "preco": 38.7,
+  "cupom": null
+ },
+ {
+  "id": "3221978",
+  "quando": "2026-11-17T09:45:18.744293",
+  "titulo": "Mochila Masculina Couro Sintetico Escolar Executiva Grande",
+  "texto": "*Mochila Masculina Couro Sintetico Escolar Executiva  Grande Preto Liso*\n\nDe ~R$129~\nPor *R$56* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ZnbVoT",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_816567-MLB115907324899_082026-P.webp",
+  "link": "https://meli.la/1ZnbVoT",
+  "produto": "MLB7381665554",
+  "publico": "masculino",
+  "preco": 55.69,
+  "cupom": null
  }
 ]
