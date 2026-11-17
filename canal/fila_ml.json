@@ -118,23 +118,6 @@
   "cupom": null
  },
  {
-  "id": "3222149",
-  "quando": "2026-11-17T10:20:06.545467",
-  "titulo": "Polo Feminina Listrada Em Algodão Hering",
-  "texto": "*Polo Feminina Listrada Em Algodão Hering Azul P*\n\nDe ~R$169~\nPor *R$81* 🔥 no pix\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$72*\n\n👉 *Pegar promoção:* https://meli.la/1pyNmBd\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_918888-MLB114828875372_082026-P.webp",
-  "link": "https://meli.la/1pyNmBd",
-  "produto": "MLB7420233754",
-  "publico": "feminino",
-  "preco": 80.74,
-  "cupom": {
-   "codigo": "OFFHOJENOML",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3222678",
   "quando": "2026-11-17T12:05:05.458862",
   "titulo": "Camiseta Básica Masculina Manga Longa World Hering",
@@ -158,6 +141,23 @@
   "preco": 125.99,
   "cupom": {
    "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3222883",
+  "quando": "2026-11-17T12:40:05.607904",
+  "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+  "texto": "*Tênis Casual Kappa Zenit Masculino Unissex Conforto*\n\nPor *R$90* 🔥\n\n🎟️ Cupom: *OFICIAIS1711*\n💸 Com o cupom: *R$76*\n\n👉 *Pegar promoção:* https://meli.la/2nVUtBx\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_974922-MLB118087970434_102026-P.webp",
+  "link": "https://meli.la/2nVUtBx",
+  "produto": "MLB5408593708",
+  "publico": "masculino",
+  "preco": 89.98,
+  "cupom": {
+   "codigo": "OFICIAIS1711",
    "id": null,
    "publicado": null,
    "ate": null
