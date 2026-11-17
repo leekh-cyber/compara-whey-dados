@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17T00:55-03:00",
+  "atualizado": "2026-11-17T15:35-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -15,6 +15,18 @@
       "publicado": "2026-11-14T16:26-03:00"
     },
     {
+      "codigo": "POUPAAGORA25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Casa, Saúde e mais",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-17T23:59:59-03:00",
+      "publicado": "2026-11-17T10:16-03:00"
+    },
+    {
       "codigo": "QUEROPROMO25",
       "pct": 25,
       "fixo": null,
@@ -27,6 +39,30 @@
       "publicado": "2026-11-12T10:16-03:00"
     },
     {
+      "codigo": "MAISOFERTAS30",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-17T23:59:59-03:00",
+      "publicado": "2026-11-17T10:16-03:00"
+    },
+    {
+      "codigo": "HORADOCUPOM25",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-12-17T23:59:59-03:00",
+      "publicado": "2026-11-17T10:16-03:00"
+    },
+    {
       "codigo": "CHEGOUCUPOM25",
       "pct": 25,
       "fixo": null,
@@ -37,42 +73,6 @@
       "automatico": false,
       "ate": "2026-12-16T23:59:59-03:00",
       "publicado": "2026-11-16T10:16-03:00"
-    },
-    {
-      "codigo": "OFERTASML25",
-      "pct": 25,
-      "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-12-15T23:59:59-03:00",
-      "publicado": "2026-11-15T10:26-03:00"
-    },
-    {
-      "codigo": "",
-      "pct": 20,
-      "fixo": null,
-      "minimo": 79.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-12-16T23:59:59-03:00",
-      "publicado": "2026-11-16T15:39-03:00"
-    },
-    {
-      "codigo": "",
-      "pct": null,
-      "fixo": 200.0,
-      "minimo": 2499.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": true,
-      "ate": "2026-12-16T23:59:59-03:00",
-      "publicado": "2026-11-16T15:38-03:00"
     }
   ]
 }
