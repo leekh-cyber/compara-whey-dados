@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-16T22:00:28.410496",
+  "quando": "2026-11-16T22:30:26.684087",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -11667,7 +11667,8 @@
   "cupom": null,
   "msg": "Psr.tHQXHvjWSdI-144Bq53iqHP95g-Alg",
   "texto": "*NESCAFÉ DOLCE GUSTO Espresso Intenso 10 cápsulas*\n\nDe ~R$27~\nPor *R$16* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8Kr8fYiCrt\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gq-mf1a4g6y9iix56"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gq-mf1a4g6y9iix56",
+  "conferido": "2026-11-16T22:32:46.059998"
  },
  "3220489": {
   "quando": "2026-11-16T19:31:50.282037",
@@ -11684,7 +11685,8 @@
   "cupom": null,
   "msg": "PsopJGNrp92d49g-1zYBq53iqHP95g-Alk",
   "texto": "*Omeleteira Elétrica Agratto Mr Cheff Inox Dupla Prepara 2 Omeletes Sem Óleo Cuba Antiaderente 127V / 220V*\n\nDe ~R$149~\nPor *R$106* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70Ll5C7GFZ\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mmc8h9uyaoee6b"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mmc8h9uyaoee6b",
+  "conferido": "2026-11-16T22:32:46.512514"
  },
  "3220492": {
   "quando": "2026-11-16T19:31:48.077515",
@@ -12025,5 +12027,44 @@
   "msg": "PspmudXQwI26eyc-10IBq53iqHP95g-AmU",
   "texto": "*Perfume Night Caviar Paris Elysees Masculino Intense 100ml*\n\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1HR1GeK\n\n_Canal de afiliados: posso ganhar comissão pelos links._",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_848455-MLA121208003105_112026-P.webp"
+ },
+ "3221067": {
+  "quando": "2026-11-16T22:30:34.689661",
+  "titulo": "Caixa de Som Speaker Philco Extreme 45W PBSE46",
+  "loja": "shopee"
+ },
+ "3221023": {
+  "quando": "2026-11-16T22:30:33.658701",
+  "titulo": "Placa de Vídeo Husky Alpha RTX 3060 Ti 8GB Gddr6 256-bit",
+  "loja": "shopee"
+ },
+ "3220928": {
+  "quando": "2026-11-16T22:30:35.761143",
+  "titulo": "Top Calvin Klein Regata Fitness Cotton Conforto Original",
+  "link": "https://meli.la/1Ln1TK7",
+  "publico": "feminino",
+  "produto": "MLB6646572560",
+  "preco": 49.99,
+  "cupom": null,
+  "msg": "PsoIENOQzeG065U-14IBq53iqHP95g-AmY",
+  "texto": "*Top Calvin Klein Regata Fitness Cotton Conforto Original Preto Liso Gg*\n\nDe ~R$109~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1Ln1TK7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841514-MLB113300671208_072026-P.webp"
+ },
+ "3220996": {
+  "quando": "2026-11-16T22:31:40.553408",
+  "titulo": "Abajur Luminária De Mesa Cabeceira Quarto Sala Escritório Marrom Branco 127220v",
+  "link": "https://meli.la/15JQmZe",
+  "publico": null,
+  "produto": "MLB4790259427",
+  "preco": 29.89,
+  "cupom": {
+   "codigo": "FESTIVALDECUPONS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsraiKJhk9JE9po-10UBq53iqHP95g-Amc",
+  "texto": "*Abajur Luminária De Mesa Cabeceira Quarto Sala Escritório Marrom Branco 127/220v*\n\nDe ~R$54~\nPor *R$30* 🔥\n\n🎟️ Cupom: *FESTIVALDECUPONS*\n💸 Com o cupom: *R$21*\n\n👉 *Pegar promoção:* https://meli.la/15JQmZe",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_752788-MLB112261366694_062026-P.webp"
  }
 }
