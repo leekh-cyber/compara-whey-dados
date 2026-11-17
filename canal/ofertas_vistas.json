@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T13:30:26.271187",
+  "quando": "2026-11-17T14:00:30.537177",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12110,7 +12110,7 @@
   "msg": "PspFt68VfTmEtYs-17sBq53iqHP95g-Amk",
   "texto": "*Kit 10 Cueca Boxer Microfibra Selene Kit Cueca Box Poliamida Sem Costura Cueca Masculina Premium*\n\nDe ~R$249~\nPor *R$110* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7pusuEGBku",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-munhqsibhatd62",
-  "conferido": "2026-11-17T11:03:51.497140"
+  "conferido": "2026-11-17T14:03:51.948134"
  },
  "3220984": {
   "quando": "2026-11-17T08:02:54.955598",
@@ -12409,7 +12409,8 @@
   "cupom": null,
   "msg": "Psr4Z1ThP_toF4M-1.4Bq53iqHP95g-Anc",
   "texto": "*calça infantil masculino jeans  e esporte fino menino varias cores e tamanho*\n\nDe ~R$90~\nA partir de *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9fMXHwzRpj",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mihb9slq4idif0"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mihb9slq4idif0",
+  "conferido": "2026-11-17T14:03:51.530252"
  },
  "3222410": {
   "quando": "2026-11-17T11:02:46.716645",
@@ -12627,5 +12628,54 @@
   "msg": "Psotektjl3D0ha0-13YBq53iqHP95g-AoM",
   "texto": "*O Boticário Glamour Midnight Feminino Colônia desodorante Spray 75ml*\n\nDe ~R$199~\nPor *R$100* 🔥\n\n🎟️ Cupom: *OFICIAIS1711*\n💸 Com o cupom: *R$84*\n\n👉 *Pegar promoção:* https://meli.la/1BCE21k\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_803193-MLA84540272032_052025-P.webp"
+ },
+ "cupom:POUPAAGORA25": {
+  "quando": "2026-11-17T14:00:32.469705",
+  "titulo": "Cupom Mercado Livre: 25% OFF em Casa, Saúde e mais",
+  "id": "72115",
+  "publicado": "2026-11-17T10:16:43-03:00",
+  "ate": "2026-12-17T23:59:59-0300",
+  "msg": "PsqeeJKLEBUCyN8-17ABq53iqHP95g-AoQ",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF, até R$500*\nem Casa, Saúde e mais\n\nCódigo: *POUPAAGORA25*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3222863": {
+  "quando": "2026-11-17T14:01:37.840374",
+  "titulo": "Principia Kit 2 Protetores solares corporal PS-03 FPS60",
+  "loja": "shopee"
+ },
+ "3223007": {
+  "quando": "2026-11-17T14:01:39.069861",
+  "titulo": "A Bíblia dos Pequeninos com Histórias Bíblicas Ilustradas",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/W8IZSsPyK",
+  "publico": null,
+  "produto": "shopee:23197428134",
+  "preco": 15.99,
+  "shopee": [
+   313968882,
+   23197428134
+  ],
+  "cupom": null,
+  "msg": "PsrKPZnUmkJtHX4-12UBq53iqHP95g-AoU",
+  "texto": "*A Bíblia dos Pequeninos | Livro Infantil Histórias Bíblicas Ilustradas para Crianças Capa Dura 0 a 8 anos*\n\nDe ~R$30~\nPor *R$16* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W8IZSsPyK",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mea79zythn2bd5"
+ },
+ "3222692": {
+  "quando": "2026-11-17T14:02:46.738798",
+  "titulo": "Tênis Kappa Pulse Rx (8 cores)",
+  "link": "https://meli.la/1D8ZRKA",
+  "publico": "masculino",
+  "produto": "MLB5532075156",
+  "preco": 125.99,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psr5sYv9MJ2iYGE-160Bq53iqHP95g-AoY",
+  "texto": "*Tênis Kappa Pulse Rx Unissex Corrida Conforto*\n\nDe ~R$289~\nPor *R$126* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$113*\n\n👉 *Pegar promoção:* https://meli.la/1D8ZRKA\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_698189-MLB117166353073_092026-P.webp"
  }
 }
