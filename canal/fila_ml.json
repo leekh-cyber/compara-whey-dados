@@ -142,20 +142,20 @@
   "cupom": null
  },
  {
-  "id": "3224186",
-  "quando": "2026-11-17T17:55:05.988988",
-  "titulo": "Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado",
-  "texto": "*Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado*\n\nPor *R$46* 🔥\n\n🎟️ Cupom: *CLIENTEVIP*\n💸 Com o cupom: *R$32*\n\n👉 *Pegar promoção:* https://meli.la/2kqSE4E",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_991980-MLB113313073566_072026-P.webp",
-  "link": "https://meli.la/2kqSE4E",
-  "produto": "MLB4737899185",
-  "publico": "masculino",
-  "preco": 45.9,
+  "id": "3224350",
+  "quando": "2026-11-17T18:30:07.011522",
+  "titulo": "Penteadeira Camarim Jolie Com LED Espelho E 2 Gavetas Organizadora Maquiagem Para Stu",
+  "texto": "*Penteadeira Camarim Jolie Com LED Espelho E 2 Gavetas Organizadora Maquiagem Para Studio E Quarto Cor Branco*\n\nDe ~R$799~\nPor *R$370* 🔥\n\n🎟️ Cupom: *MELIGARANTE30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/2rrVMhJ",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_614172-MLA96171588448_102025-P.webp",
+  "link": "https://meli.la/2rrVMhJ",
+  "produto": "MLB61373993",
+  "publico": "feminino",
+  "preco": 370.41,
   "cupom": {
-   "codigo": "CLIENTEVIP",
-   "id": null,
-   "publicado": null,
-   "ate": null
+   "codigo": "MELIGARANTE30",
+   "id": "72061",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
   }
  }
 ]
