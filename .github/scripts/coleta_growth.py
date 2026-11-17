@@ -34,6 +34,10 @@ DOSE_MAX = 100       # variacoes menores que isso sao doses avulsas (ex.: 30 g),
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
 
 
+class Bloqueado(RuntimeError):
+    """Pagina de verificacao anti-robo (desde 15/11/2026). Nao contornar: a coleta so pula."""
+
+
 def reais(txt):
     return float(txt.replace(".", "").replace(",", "."))
 
@@ -77,6 +81,8 @@ def ler(url, embalagem):
     with urllib.request.urlopen(req, timeout=30) as r:
         pagina = r.read().decode("utf-8", "replace")
 
+    if "noc_verification" in pagina or "Verifying your browser" in pagina:
+        raise Bloqueado("a loja mostrou a verificacao anti-robo")
     m = re.search(r'"availability":"[^"]*/(\w+)"', pagina)
     if m and m.group(1) == "OutOfStock":
         raise RuntimeError("esgotado")
@@ -141,6 +147,15 @@ def main():
                 print(f"  {k} R${v:.2f}")
                 leituras.append((k, v))
                 break
+            except Bloqueado as e:
+                if leituras:  # bloqueou no meio: conta como falha e segue
+                    print(f"  FALHOU {k}: {e}")
+                    falhas.append((k, str(e)))
+                    break
+                # bloqueio do site inteiro: nao insiste nos outros produtos nem fica vermelho;
+                # o ultimo preco segue no site ate vencer e a coleta volta sozinha quando a loja liberar
+                print(f"::notice::Growth bloqueou acesso automatico ({e}); coleta pulada, nada gravado")
+                return 0
             except Exception as e:
                 erro = str(e)[:200]
                 time.sleep(PAUSA * 3)
