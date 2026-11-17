@@ -62,6 +62,12 @@ DIAS_REPOST = 3             # sem oferta nova: reposta achados publicados ha mai
 DOBRAR_DESDE = "2026-11-08"  # a partir desta data, com --enviar: 2 achados por rodada e ate 10 cupons por dia
 CATEGORIAS_BLOQUEADAS = {"aplicativos-e-software"}  # ex.: {"bebidas"}
 PAUSA_ENTRE_POSTS = 60      # segundos entre posts no Canal (--enviar)
+# Promobit: em 14/11/2026 rajadas de /Redirect/to/ levaram a 429 seguidos por dias neste PC
+PAUSA_PROMOBIT = 8          # segundos entre dois /Redirect/to/ seguidos
+MAX_REDIRECTS_RODADA = 10   # ofertas avaliadas por rodada do PC, no maximo
+PAUSA_APOS_429_MIN = 120    # depois de um 429, o PC fica N minutos sem pedir ao Promobit
+DESCONTO_CUPOM_MAXIMO = 0.40  # cupom sem regras conhecidas: aceita o preco do Promobit ate 40% abaixo do ML
+ARQ_429 = os.path.join(PASTA, "promobit_429.txt")
 # Link dos posts de cupom: o seu perfil social de afiliado (link da pagina inicial do ML nao paga comissao)
 LINK_CUPONS = "https://www.mercadolivre.com.br/social/ferreiradasilvaalex61"
 
@@ -140,10 +146,29 @@ def ofertas_promobit(pp, loja="mercado-livre"):
     return lista
 
 
+_REDIRECTS = {"feitos": 0, "ultimo": 0.0}
+
+
 def link_do_promobit(id_oferta):
-    """A pagina /Redirect/to/<id>/ contem o meli.la (de afiliado do Promobit) do produto."""
+    """A pagina /Redirect/to/<id>/ contem o meli.la (de afiliado do Promobit) do produto.
+    Espera PAUSA_PROMOBIT segundos desde o pedido anterior, para nao disparar o limite do site."""
+    espera = _REDIRECTS["ultimo"] + PAUSA_PROMOBIT - time.time()
+    if espera > 0:
+        time.sleep(espera)
+    _REDIRECTS["feitos"] += 1
+    _REDIRECTS["ultimo"] = time.time()
     m = re.search(r'https://meli\.la/[A-Za-z0-9]+', baixar(f"https://www.promobit.com.br/Redirect/to/{id_oferta}/"))
     return m.group(0) if m else None
+
+
+def promobit_em_pausa():
+    """Minutos que ainda faltam da pausa depois de um 429 do Promobit (0 = liberado)."""
+    try:
+        with open(ARQ_429, encoding="utf-8") as f:
+            quando = datetime.fromisoformat(f.read().strip())
+    except (OSError, ValueError):
+        return 0
+    return max(0, PAUSA_APOS_429_MIN - int((datetime.now() - quando).total_seconds() // 60))
 
 
 def internet_ok():
@@ -160,6 +185,10 @@ def limite_de_pedidos(e):
     if isinstance(e, urllib.error.HTTPError) and e.code == 429:
         site = urllib.parse.urlsplit(e.filename or "").hostname or "site desconhecido"
         print(f"   {site} pediu para esperar (429): rodada encerrada, a proxima tenta de novo")
+        if "promobit" in site and os.name == "nt":  # so o PC pausa; a nuvem tem outro endereco
+            with open(ARQ_429, "w", encoding="utf-8") as f:
+                f.write(datetime.now().isoformat())
+            print(f"   o PC fica {PAUSA_APOS_429_MIN} min sem pedir ao Promobit")
         return True
     return False
 
@@ -440,7 +469,7 @@ def rodada_shopee(vistas, quantos, enviar):
         vistas[o["id"]].update(link=meu_link, publico=publico(o["titulo"], o["categoria"]), produto=d["produto"],
                                preco=d["por"], shopee=[loja, item], cupom=cod and cupons.registro(cod, cdet))
         texto = montar_post(d, meu_link, cupom=cod, cupom_detalhe=cdet and cupons.resumo(cdet),
-                            com_cupom=cupons.com_cupom(cdet, d["por"]))
+                            com_cupom=preco_cupom)
         publicar(texto, d["imagem"], f"achado Shopee | {o['desconto'] * 100:.0f}% OFF | {o['titulo'][:50]}",
                  enviar, registro=vistas[o["id"]])
     return feitos
@@ -462,7 +491,13 @@ def cupom_da_oferta(o, loja, preco):
             print(f"Cupons da {loja}: ERRO ao ler o Promobit: {e}")
             _CUPONS[loja] = {}
     c = _CUPONS[loja].get(cod.upper())
-    return cod, c, cupons.com_cupom(c, preco)
+    if c:
+        return cod, c, cupons.com_cupom(c, preco)
+    # cupom sem regras na pagina de cupons (ex.: R$20 OFF de festival): o preco do Promobit ja e o preco com
+    # cupom; vale se o desconto do cupom for plausivel
+    if preco and preco * (1 - DESCONTO_CUPOM_MAXIMO) <= o["preco"] < preco:
+        return cod, None, o["preco"]
+    return cod, None, None
 
 
 def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
@@ -475,6 +510,9 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
     try:
         for o in fila:
             if feitos >= quantos:
+                break
+            if _REDIRECTS["feitos"] >= MAX_REDIRECTS_RODADA:
+                print(f"Limite de {MAX_REDIRECTS_RODADA} ofertas avaliadas nesta rodada; o resto fica para a proxima.")
                 break
             vistas[o["id"]] = {"quando": datetime.now().isoformat(), "titulo": o["titulo"]}
             try:
@@ -514,7 +552,7 @@ def achados_ml(fila, vistas, tag, lista_cupons, quantos, entregar):
                     cdet = cupons.cupom_para(o, d["por"], lista_cupons)
                     cod = cdet and cdet["codigo"]
                 texto = montar_post(d, meu_link, cupom=cod, cupom_detalhe=cdet and cupons.resumo(cdet),
-                                    com_cupom=preco_cupom and cupons.com_cupom(cdet, d["por"]))
+                                    com_cupom=preco_cupom)
             except BaseException as e:
                 print(f"[{o['id']}] ERRO: {e}")
                 if limite_de_pedidos(e):
@@ -909,6 +947,18 @@ def main():
         fila_ml = fila_valida(fila_antes, postadas)
         a.max = max(0, min(a.max, FILA_ALVO - len(fila_ml)))
         print(f"Fila da nuvem: {len(fila_ml)} post(s) do ML prontos (alvo {FILA_ALVO}); gerando ate {a.max}.")
+        pausa = promobit_em_pausa()
+        if pausa:
+            # o Promobit pediu para esperar: so confere os posts do ML (paginas do ML) e limpa a fila
+            print(f"Promobit em pausa por mais {pausa} min (429); sem ofertas novas nesta rodada.")
+            try:
+                conferir_ml(postadas)
+            except (OSError, RuntimeError, ValueError) as e:
+                print(f"Conferir ofertas do ML: ERRO {e}")
+            if len(fila_ml) != len(fila_antes):
+                repo_gravar(REPO_FILA_ML, json.dumps(fila_ml, ensure_ascii=False, indent=1), sha_fila,
+                            f"Fila do canal: {len(fila_ml)} post(s) do ML")
+            return
     pp = next_data(baixar(FONTE, tentativas=3))
     lista_cupons = cupons.cupons_validos(pp)
     todas = ofertas_promobit(pp)
