@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-17T13:00:44.092004",
+  "quando": "2026-11-17T13:30:26.271187",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -12369,7 +12369,8 @@
   "cupom": null,
   "msg": "Psq5pUhaYU_Pr8o-118Bq53iqHP95g-AnQ",
   "texto": "*Vestido Curto Manga Longa em Ribana Com Sobreposição*\n\nDe ~R$199~\nPor *R$140* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/BVRwLs0Fj",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82581-mukogzu28weieb"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82581-mukogzu28weieb",
+  "conferido": "2026-11-17T13:32:55.394408"
  },
  "3221978": {
   "quando": "2026-11-17T10:31:36.918977",
@@ -12577,5 +12578,54 @@
   "msg": "PsoaKW.MGOlJxOM-1zMBq53iqHP95g-AoE",
   "texto": "*Tênis Casual Kappa Zenit Masculino Unissex Conforto*\n\nPor *R$90* 🔥\n\n🎟️ Cupom: *OFICIAIS1711*\n💸 Com o cupom: *R$76*\n\n👉 *Pegar promoção:* https://meli.la/2nVUtBx\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_974922-MLB118087970434_102026-P.webp"
+ },
+ "3222414": {
+  "quando": "2026-11-17T13:30:29.432761",
+  "titulo": "Aspirador de Pó Vertical Portátil 127V Idali Life",
+  "loja": "shopee"
+ },
+ "3222769": {
+  "quando": "2026-11-17T13:30:30.799748",
+  "titulo": "Piscina Estruturada Circular Steel Pro 4.678 Litros - Bestway",
+  "loja": "shopee"
+ },
+ "3222441": {
+  "quando": "2026-11-17T13:30:31.987195",
+  "titulo": "Caixa de Som JBL Boombox 4",
+  "loja": "shopee"
+ },
+ "3222496": {
+  "quando": "2026-11-17T13:30:33.239612",
+  "titulo": "Tinta para Parede Interna Anti Mofo Acrílica Sem Cheiro 3,6 Litros Peg e Pinte Eucatex",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8Kr9riz4Dj",
+  "publico": null,
+  "produto": "shopee:22697458873",
+  "preco": 45.9,
+  "shopee": [
+   1219384404,
+   22697458873
+  ],
+  "cupom": null,
+  "msg": "PsoDnorlO81enD8-10wBq53iqHP95g-AoI",
+  "texto": "*Tinta para Parede Interna Anti Mofo Acrílica Sem Cheiro 3,6 Litros Peg e Pinte Eucatex*\n\nDe ~R$90~\nA partir de *R$46* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8Kr9riz4Dj",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mpo679ynzrb512"
+ },
+ "3222932": {
+  "quando": "2026-11-17T13:31:49.894780",
+  "titulo": "O Boticário Glamour Midnight Feminino Colônia desodorante Spray 75ml",
+  "link": "https://meli.la/1BCE21k",
+  "publico": "feminino",
+  "produto": "MLB24310715",
+  "preco": 99.9,
+  "cupom": {
+   "codigo": "OFICIAIS1711",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psotektjl3D0ha0-13YBq53iqHP95g-AoM",
+  "texto": "*O Boticário Glamour Midnight Feminino Colônia desodorante Spray 75ml*\n\nDe ~R$199~\nPor *R$100* 🔥\n\n🎟️ Cupom: *OFICIAIS1711*\n💸 Com o cupom: *R$84*\n\n👉 *Pegar promoção:* https://meli.la/1BCE21k\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_803193-MLA84540272032_052025-P.webp"
  }
 }
