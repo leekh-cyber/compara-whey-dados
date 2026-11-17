@@ -142,15 +142,20 @@
   "cupom": null
  },
  {
-  "id": "3224055",
-  "quando": "2026-11-17T17:20:08.772369",
-  "titulo": "Kit Relogio Condor Com Colar E Brinco Dourado Feminino",
-  "texto": "*Relogio De Quartzo Feminino Retangular Elegante Pulseira Aço Dourado Branco*\n\nDe ~R$79~\nPor *R$56* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2AapZsT\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_865674-MLA111621475140_062026-P.webp",
-  "link": "https://meli.la/2AapZsT",
-  "produto": "MLB61378377",
-  "publico": "feminino",
-  "preco": 56.0,
-  "cupom": null
+  "id": "3224186",
+  "quando": "2026-11-17T17:55:05.988988",
+  "titulo": "Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado",
+  "texto": "*Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado*\n\nPor *R$46* 🔥\n\n🎟️ Cupom: *CLIENTEVIP*\n💸 Com o cupom: *R$32*\n\n👉 *Pegar promoção:* https://meli.la/2kqSE4E",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_991980-MLB113313073566_072026-P.webp",
+  "link": "https://meli.la/2kqSE4E",
+  "produto": "MLB4737899185",
+  "publico": "masculino",
+  "preco": 45.9,
+  "cupom": {
+   "codigo": "CLIENTEVIP",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
