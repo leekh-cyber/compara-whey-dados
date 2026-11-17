@@ -204,7 +204,7 @@ def post_cupom(c, link):
         linhas.append("_Aplique no carrinho antes de pagar_")
     else:
         linhas.append("_Desconto aplicado automaticamente nos itens participantes_")
-    linhas += ["", "⚠️ Válido enquanto durar o limite de usos", "", f"👉 *Ver achados:* {link}", "", AVISO_AFILIADO]
+    linhas += ["", "⚠️ Válido enquanto durar o limite de usos", "", f"👉 *Ver achados:* {link}"] + (["", AVISO_AFILIADO] if AVISO_AFILIADO else [])
     return "\n".join(linhas)
 
 
