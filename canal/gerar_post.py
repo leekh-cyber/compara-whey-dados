@@ -73,7 +73,9 @@ def extrair(link):
     }
 
 
-AVISO_AFILIADO = "_Canal de afiliados: posso ganhar comissão pelos links._"
+# Desde 16/11/2026 o aviso de afiliado fica na descricao do Canal, nao em cada post. Para voltar, preencha:
+# AVISO_AFILIADO = "_Canal de afiliados: posso ganhar comissão pelos links._"
+AVISO_AFILIADO = ""
 
 
 def reais(v, arredondar=False):
@@ -100,7 +102,8 @@ def montar_post(d, link, cupom=None, pct=None, titulo=None, cupom_detalhe=None, 
     linhas += ["", f"👉 *Pegar promoção:* {link}"]
     if d["loja_oficial"]:
         linhas += ["", "Loja oficial no MELI!"]
-    linhas += ["", AVISO_AFILIADO]
+    if AVISO_AFILIADO:
+        linhas += ["", AVISO_AFILIADO]
     return "\n".join(linhas)
 
 
