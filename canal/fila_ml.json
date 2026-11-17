@@ -118,18 +118,6 @@
   "cupom": null
  },
  {
-  "id": "3221978",
-  "quando": "2026-11-17T09:45:18.744293",
-  "titulo": "Mochila Masculina Couro Sintetico Escolar Executiva Grande",
-  "texto": "*Mochila Masculina Couro Sintetico Escolar Executiva  Grande Preto Liso*\n\nDe ~R$129~\nPor *R$56* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ZnbVoT",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_816567-MLB115907324899_082026-P.webp",
-  "link": "https://meli.la/1ZnbVoT",
-  "produto": "MLB7381665554",
-  "publico": "masculino",
-  "preco": 55.69,
-  "cupom": null
- },
- {
   "id": "3222149",
   "quando": "2026-11-17T10:20:06.545467",
   "titulo": "Polo Feminina Listrada Em Algodão Hering",
@@ -156,6 +144,23 @@
   "produto": "MLB18939410",
   "publico": "feminino",
   "preco": 270.0,
+  "cupom": {
+   "codigo": "OFFHOJENOML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3222410",
+  "quando": "2026-11-17T10:55:05.234970",
+  "titulo": "Eudora Royal Perfume Feminino Deo Colônia 100ml Lançamento",
+  "texto": "*Eudora Royal Perfume Feminino Deo Colônia 100ml Lançamento*\n\nDe ~R$209~\nPor *R$124* 🔥\n\n🎟️ Cupom: *OFFHOJENOML*\n💸 Com o cupom: *R$111*\n\n👉 *Pegar promoção:* https://meli.la/1zXJ2DC",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879525-MLB111950701567_052026-P.webp",
+  "link": "https://meli.la/1zXJ2DC",
+  "produto": "MLB6796913830",
+  "publico": "feminino",
+  "preco": 123.78,
   "cupom": {
    "codigo": "OFFHOJENOML",
    "id": null,
