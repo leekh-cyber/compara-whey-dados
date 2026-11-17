@@ -142,15 +142,20 @@
   "cupom": null
  },
  {
-  "id": "3224387",
-  "quando": "2026-11-17T19:05:17.912029",
-  "titulo": "Macaquinho Feminino Fitness Academia Zero Transparência Vinho M",
-  "texto": "*Macaquinho Feminino Fitness Academia Zero Transparência Vinho M*\n\nDe ~R$46~\nPor *R$37* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1xdr2Fv\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_711327-MLB117386878707_092026-P.webp",
-  "link": "https://meli.la/1xdr2Fv",
-  "produto": "MLB7609137182",
-  "publico": "feminino",
-  "preco": 36.9,
-  "cupom": null
+  "id": "3224440",
+  "quando": "2026-11-17T19:40:31.530555",
+  "titulo": "Capa Protetora de Colchão Elástico Impermeável",
+  "texto": "*Capa Protetor De Colchão Elástico Queen Impermeável Matelado*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *MELIGARANTE30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1UmVHsY\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902822-MLB113686572268_072026-P.webp",
+  "link": "https://meli.la/1UmVHsY",
+  "produto": "MLB4039471005",
+  "publico": null,
+  "preco": 29.99,
+  "cupom": {
+   "codigo": "MELIGARANTE30",
+   "id": "72061",
+   "publicado": "2026-11-16T10:16:41-03:00",
+   "ate": "2026-12-16T23:59:59-0300"
+  }
  }
 ]
