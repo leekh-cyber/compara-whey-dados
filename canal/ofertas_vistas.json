@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T09:00:35.995814",
+  "quando": "2026-11-18T09:30:27.353277",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13367,5 +13367,44 @@
   "msg": "PspOvh7skP9KU7k-18cBq53iqHP95g-AqY",
   "texto": "*Camiseta Nike Sportswear Just Do It Masculina*\n\nDe ~R$129~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1usnR8E\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_964899-MLB100382159692_122025-P.webp"
+ },
+ "cupom:PARCEIRODAOBRA": {
+  "quando": "2026-11-18T09:30:30.229061",
+  "titulo": "20% OFF em Ferramentas e Construção com cupom Mercado Livre",
+  "id": "72222",
+  "publicado": "2026-11-18T09:17:22-03:00",
+  "ate": "2026-11-18T23:59:59-0300",
+  "msg": "PsoWeT5jngo6RxM-1wsBq53iqHP95g-Aqc",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*20% OFF, até R$80*\nem Ferramentas e Construção com cupom Mercado Livre\n\nCódigo: *PARCEIRODAOBRA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3225744": {
+  "quando": "2026-11-18T09:31:35.519373",
+  "titulo": "SHORTS SAIA VAELA FEMININO ESPORTE PADEL TENIS FITNESS ACADEMIA COM DESCRIÇAO E BELEZA FLEXIBILIDADE",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7fbUOyqUBj",
+  "publico": "feminino",
+  "produto": "shopee:58269884787",
+  "preco": 169.99,
+  "shopee": [
+   1409759902,
+   58269884787
+  ],
+  "cupom": null,
+  "msg": "Psr6CCqY6hUAVzs-1z8Bq53iqHP95g-Aqg",
+  "texto": "*SHORTS SAIA VAELA FEMININO ESPORTE PADEL TENIS FITNESS ACADEMIA COM DESCRIÇAO E BELEZA FLEXIBILIDADE*\n\nDe ~R$298~\nPor *R$170* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7fbUOyqUBj",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b7-mtzoyb50ewhz26"
+ },
+ "3225721": {
+  "quando": "2026-11-18T09:32:57.674728",
+  "titulo": "Birken Masculina Birken Chinelo Em Couro Ecológico Leve",
+  "link": "https://meli.la/2VCHxpP",
+  "publico": "masculino",
+  "produto": "MLB3188524349",
+  "preco": 84.77,
+  "cupom": null,
+  "msg": "PsqDTFN9FzTBwWs-13oBq53iqHP95g-Aqk",
+  "texto": "*Birken Masculina Birken Chinelo Em Couro Ecológico Leve*\n\nDe ~R$112~\nPor *R$85* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2VCHxpP\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_634357-MLB53663395854_022023-P.webp"
  }
 }
