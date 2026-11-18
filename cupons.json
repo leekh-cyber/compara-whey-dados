@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17T23:54-03:00",
+  "atualizado": "2026-11-18T15:06-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -27,16 +27,16 @@
       "publicado": "2026-11-17T10:16-03:00"
     },
     {
-      "codigo": "QUEROPROMO25",
-      "pct": 25,
+      "codigo": "ECONOMIZEI30",
+      "pct": 30,
       "fixo": null,
       "minimo": 1.0,
       "teto": 500.0,
-      "categoria": "Esportes, Saúde e mais",
-      "suplementos": true,
+      "categoria": "Selecionados",
+      "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-12T23:59:59-03:00",
-      "publicado": "2026-11-12T10:16-03:00"
+      "ate": "2026-12-18T23:59:59-03:00",
+      "publicado": "2026-11-18T10:16-03:00"
     },
     {
       "codigo": "MAISOFERTAS30",
@@ -51,7 +51,7 @@
       "publicado": "2026-11-17T10:16-03:00"
     },
     {
-      "codigo": "DESCONTO",
+      "codigo": "MAISOFERTAS25",
       "pct": 25,
       "fixo": null,
       "minimo": 1.0,
@@ -59,11 +59,11 @@
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2027-05-31T23:59:59-03:00",
-      "publicado": "2026-11-17T18:16-03:00"
+      "ate": "2026-12-18T23:59:59-03:00",
+      "publicado": "2026-11-18T10:16-03:00"
     },
     {
-      "codigo": "HORADOCUPOM25",
+      "codigo": "OFERTAJA25",
       "pct": 25,
       "fixo": null,
       "minimo": 1.0,
@@ -71,8 +71,8 @@
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-17T23:59:59-03:00",
-      "publicado": "2026-11-17T10:16-03:00"
+      "ate": "2026-12-18T23:59:59-03:00",
+      "publicado": "2026-11-18T10:16-03:00"
     }
   ]
 }
