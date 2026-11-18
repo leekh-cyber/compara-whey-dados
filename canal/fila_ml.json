@@ -1,34 +1,5 @@
 [
  {
-  "id": "3224423",
-  "quando": "2026-11-17T19:05:07.718902",
-  "titulo": "Kit 5 Vestidos Infantil Regata Temáticos (Tam.2 ao 6 )",
-  "texto": "*Kit 5 Vestidos Infantil Feminino Regata Temáticos 2 À 8 Anos Kit 5 Vestidos Regata Infantil 6*\n\nDe ~R$99~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1z73QeH",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_600748-MLB113675502036_072026-P.webp",
-  "link": "https://meli.la/1z73QeH",
-  "produto": "MLB7221361400",
-  "publico": "feminino",
-  "preco": 49.9,
-  "cupom": null
- },
- {
-  "id": "3224440",
-  "quando": "2026-11-17T19:40:31.530555",
-  "titulo": "Capa Protetora de Colchão Elástico Impermeável",
-  "texto": "*Capa Protetor De Colchão Elástico Queen Impermeável Matelado*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *MELIGARANTE30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1UmVHsY\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902822-MLB113686572268_072026-P.webp",
-  "link": "https://meli.la/1UmVHsY",
-  "produto": "MLB4039471005",
-  "publico": null,
-  "preco": 29.99,
-  "cupom": {
-   "codigo": "MELIGARANTE30",
-   "id": "72061",
-   "publicado": "2026-11-16T10:16:41-03:00",
-   "ate": "2026-12-16T23:59:59-0300"
-  }
- },
- {
   "id": "3224655",
   "quando": "2026-11-17T20:15:08.116085",
   "titulo": "Short Masculino Neon Bermuda Praia Mauricinho Jr Rf. 001",
@@ -167,5 +138,34 @@
    "publicado": "2026-11-17T18:16:18-03:00",
    "ate": "2027-05-31T23:59:59-0300"
   }
+ },
+ {
+  "id": "3225454",
+  "quando": "2026-11-18T08:00:11.221544",
+  "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
+  "texto": "*Tênis Fila Striker Masculino Estilo Esportivo Confortável*\n\nPor *R$199* 🔥\n\n🎟️ Cupom: *FULL1811*\n💸 Com o cupom: *R$160*\n\n👉 *Pegar promoção:* https://meli.la/25E2TUG\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-P.webp",
+  "link": "https://meli.la/25E2TUG",
+  "produto": "MLB4167079497",
+  "publico": "masculino",
+  "preco": 199.49,
+  "cupom": {
+   "codigo": "FULL1811",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3225496",
+  "quando": "2026-11-18T08:00:24.566838",
+  "titulo": "Camiseta Masculina Ess Logo Tee Puma",
+  "texto": "*Camiseta Masculina Ess Logo Tee  Puma Medium Gray Heather Liso P*\n\nPor *R$42* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/19wYuSZ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_909823-MLA83480389052_042025-P.webp",
+  "link": "https://meli.la/19wYuSZ",
+  "produto": "MLB4618730647",
+  "publico": "masculino",
+  "preco": 41.79,
+  "cupom": null
  }
 ]
