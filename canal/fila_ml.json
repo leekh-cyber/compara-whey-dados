@@ -160,23 +160,6 @@
   "cupom": null
  },
  {
-  "id": "3227839",
-  "quando": "2026-11-18T15:35:18.782125",
-  "titulo": "Perfume Árabe Sabah Al Ward Sugar EDP 100ml Feminino",
-  "texto": "*Perfume Árabe Sabah Al ward Sugar Feminino 100ML*\n\nDe ~R$259~\nPor *R$125* 🔥 no pix\n\n🎟️ Cupom: *FULL1811ENTREGAS*\n💸 Com o cupom: *R$106*\n\n👉 *Pegar promoção:* https://meli.la/2Eqe3fh\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_668593-MLA119018590799_102026-P.webp",
-  "link": "https://meli.la/2Eqe3fh",
-  "produto": "MLB80322864",
-  "publico": "feminino",
-  "preco": 124.75,
-  "cupom": {
-   "codigo": "FULL1811ENTREGAS",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3228176",
   "quando": "2026-11-18T16:45:11.281734",
   "titulo": "Óculos De Sol Quadrado Clubmaster Soho Green Black, Da Saint Germain, Em Metal Preto",
@@ -186,6 +169,18 @@
   "produto": "MLB65993627",
   "publico": "masculino",
   "preco": 54.99,
+  "cupom": null
+ },
+ {
+  "id": "3228260",
+  "quando": "2026-11-18T17:20:10.939069",
+  "titulo": "Tênis Nike Air Max Excee Masculino",
+  "texto": "*Tênis Nike Air Max Excee Masculino*\n\nDe ~R$799~\nPor *R$391* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1GvQ5zS\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_905640-MLB100385433552_122025-P.webp",
+  "link": "https://meli.la/1GvQ5zS",
+  "produto": "MLB3485046513",
+  "publico": "masculino",
+  "preco": 391.49,
   "cupom": null
  }
 ]
