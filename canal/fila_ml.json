@@ -165,23 +165,6 @@
   }
  },
  {
-  "id": "3226205",
-  "quando": "2026-11-18T10:20:19.763231",
-  "titulo": "Perfume Carolina Herrera Good Girl Blush Eau De Parfum 30ml Feminino",
-  "texto": "*Perfume para Cabelos Carolina Herrera Good Girl Blush 30ml feminino*\n\nDe ~R$319~\nPor *R$255* 🔥\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$230*\n\n👉 *Pegar promoção:* https://meli.la/2mxAFDs\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_783234-MLU78976097709_092024-P.webp",
-  "link": "https://meli.la/2mxAFDs",
-  "produto": "MLB40303747",
-  "publico": "feminino",
-  "preco": 255.2,
-  "cupom": {
-   "codigo": "CORREHOJEPROML",
-   "id": "72220",
-   "publicado": "2026-11-18T09:17:21-03:00",
-   "ate": "2026-11-18T23:59:59-0300"
-  }
- },
- {
   "id": "3226276",
   "quando": "2026-11-18T10:20:35.747475",
   "titulo": "Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium",
@@ -197,5 +180,17 @@
    "publicado": "2026-11-18T09:17:21-03:00",
    "ate": "2026-11-18T23:59:59-0300"
   }
+ },
+ {
+  "id": "3226511",
+  "quando": "2026-11-18T10:55:10.103945",
+  "titulo": "Kit 6 Cuecas Lupo Am Boxer Esp. 00523-938",
+  "texto": "*Kit 6 Cuecas Lupo Am Boxer Esp. 00523-938 Sortida - 0905 Liso G*\n\nPor *R$54* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1TP1tp3\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_800205-MLB120944039641_112026-P.webp",
+  "link": "https://meli.la/1TP1tp3",
+  "produto": "MLB6887598180",
+  "publico": "masculino",
+  "preco": 53.63,
+  "cupom": null
  }
 ]
