@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T13:30:26.619278",
+  "quando": "2026-11-18T14:00:32.361797",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13583,7 +13583,8 @@
   },
   "msg": "PsrRjFH14HTKNEk-16QBq53iqHP95g-Aq8",
   "texto": "*QCY H6Neo Fones de ouvido Bluetooth sem fio -52dB cancelando ruído 96 horas*\n\nDe ~R$500~\nA partir de *R$215* 🔥\n\n🎟️ Cupom: *QCYOM20*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1gKHM9GbKQ",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrsilwhoxfd4c0"
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrsilwhoxfd4c0",
+  "conferido": "2026-11-18T14:03:57.094138"
  },
  "3226511": {
   "quando": "2026-11-18T11:03:46.826576",
@@ -13871,5 +13872,49 @@
   "msg": "PsqksUb8PGGB_co-13MBq53iqHP95g-Ars",
   "texto": "*Carolina Herrera 212 VIP ROSÉ EDP 80ml para feminino*\n\nDe ~R$911~\nPor *R$506* 🔥 no pix\n\n🎟️ Cupom: *MODA1811*\n💸 Com o cupom: *R$469*\n\n👉 *Pegar promoção:* https://meli.la/1Sdw9rB\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_751962-MLA74652760134_022024-P.webp"
+ },
+ "cupom:OFERTAJA25": {
+  "quando": "2026-11-18T14:00:35.147146",
+  "titulo": "Mercado Livre: cupom de 25% OFF em produtos selecionados",
+  "id": "72228",
+  "publicado": "2026-11-18T10:16:45-03:00",
+  "ate": "2026-12-18T23:59:59-0300",
+  "msg": "Psq3CidK57Pm3oQ-1wkBq53iqHP95g-Arw",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF, até R$500*\n\nCódigo: *OFERTAJA25*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3227340": {
+  "quando": "2026-11-18T14:01:40.572644",
+  "titulo": "Fonte Atx Gamemax 600W Gs600 com Cabo Pfc Ativo 80 Plus White Preto",
+  "loja": "shopee"
+ },
+ "3227434": {
+  "quando": "2026-11-18T14:01:45.099651",
+  "titulo": "Huawei Watch Fit 4 Pro – Smartwatch para Esportes ao Ar Livre, Nível Profissional",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6q2Ni08l0I",
+  "publico": null,
+  "produto": "shopee:21898149418",
+  "preco": 1199.0,
+  "shopee": [
+   1494995608,
+   21898149418
+  ],
+  "cupom": null,
+  "msg": "Psqbo7rrGAk4Rdg-180Bq53iqHP95g-Ar0",
+  "texto": "*HUAWEI WATCH FIT 4 Pro | Smartwatch Relogio | Esportes ao Ar Livre de Nível Profissional*\n\nDe ~R$2497~\nPor *R$1199* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6q2Ni08l0I",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj939tu8m22ra0"
+ },
+ "3227392": {
+  "quando": "2026-11-18T14:02:52.093506",
+  "titulo": "Camiseta Básica Slim Algodão Ogochi",
+  "link": "https://meli.la/2yCEESv",
+  "publico": "masculino",
+  "produto": "MLB4486290011",
+  "preco": 53.82,
+  "cupom": null,
+  "msg": "PspReMEFAzqsPnY-12EBq53iqHP95g-Ar4",
+  "texto": "*Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi*\n\nDe ~R$69~\nPor *R$54* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2yCEESv\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_951368-MLB107638587427_022026-P.webp"
  }
 }
