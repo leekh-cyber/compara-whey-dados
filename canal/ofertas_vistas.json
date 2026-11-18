@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T14:30:24.523109",
+  "quando": "2026-11-18T15:00:28.928262",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13027,7 +13027,7 @@
   "msg": "Psr7xQOkwC2adUU-13QBq53iqHP95g-ApM",
   "texto": "*Lanolina EllaMamy 50g Creme Amamentação Protege Seios e Previne Rachaduras nos Mamilos*\n\nDe ~R$40~\nPor *R$26* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/60TFJvjeFf",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mteaxnp0pq0x2d",
-  "conferido": "2026-11-18T11:32:42.780681"
+  "conferido": "2026-11-18T15:02:50.419022"
  },
  "3223868": {
   "quando": "2026-11-17T17:02:45.121295",
@@ -13654,7 +13654,9 @@
   "cupom": null,
   "msg": "PsoWKSq1h46raQQ-15EBq53iqHP95g-ArM",
   "texto": "*Árvore de Natal 2 Metros Completa com Pisca Pisca Bolinhas Laços Estrela Decoração Natalina*\n\nA partir de *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2VtOPj45WU",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mvdhcxwf9u6a34"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mvdhcxwf9u6a34",
+  "conferido": "2026-11-18T15:02:51.007350",
+  "encerrada": "2026-11-18T15:02:59.144718"
  },
  "3226276": {
   "quando": "2026-11-18T12:01:49.966326",
@@ -13957,5 +13959,49 @@
   "msg": "PspkJQEiMvNXULM-10EBq53iqHP95g-AsA",
   "texto": "*Perfume Masculino Year One Polo Club Parfum Verde Classico*\n\nDe ~R$169~\nPor *R$77* 🔥\n\n🎟️ Cupom: *DESCONTOJUSTO*\n💸 Com o cupom: *R$57*\n\n👉 *Pegar promoção:* https://meli.la/13fG4KB",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_955154-MLA108189092861_032026-P.webp"
+ },
+ "3227617": {
+  "quando": "2026-11-18T15:00:39.074986",
+  "titulo": "Papai Noel Decorativo em Tecido 30cm",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/20x81ADpSN",
+  "publico": null,
+  "produto": "shopee:42623420107",
+  "preco": 59.9,
+  "shopee": [
+   1474606866,
+   42623420107
+  ],
+  "cupom": null,
+  "msg": "Psr_KzykGolWzto-130Bq53iqHP95g-AsE",
+  "texto": "*Papai Noel Decorativo em Tecido 30cm Decoração de Natal Shopsul*\n\nDe ~R$99~\nPor *R$60* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/20x81ADpSN",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mvoixonf5r7m83"
+ },
+ "3227685": {
+  "quando": "2026-11-18T15:00:34.859596",
+  "titulo": "Piscina Inflável 1400 Litros Redonda Compacta PVC Westwave",
+  "loja": "shopee"
+ },
+ "3227691": {
+  "quando": "2026-11-18T15:00:36.621490",
+  "titulo": "Monitor LG Gamer 24\" 100Hz 5ms Full HD - 24MS500-B",
+  "loja": "shopee"
+ },
+ "3227608": {
+  "quando": "2026-11-18T15:00:37.867299",
+  "titulo": "Apple Mac Mini M6 256GB e 515gb 16GB Novo 12x sem juros",
+  "loja": "shopee"
+ },
+ "3227633": {
+  "quando": "2026-11-18T15:01:45.429613",
+  "titulo": "Perfume Maison Alhambra Reyna Pour Femme EDP 100ml Feminino",
+  "link": "https://meli.la/2dX1Uwg",
+  "publico": "feminino",
+  "produto": "MLB6783730624",
+  "preco": 145.36,
+  "cupom": null,
+  "msg": "Pso30LBGhYFHsyw-17cBq53iqHP95g-AsI",
+  "texto": "*Perfume Árabe - Maison Alhambra Reyna Pour Femme Edp 100ml*\n\nDe ~R$249~\nPor *R$145* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2dX1Uwg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_972769-MLB111752758765_052026-P.webp"
  }
 }
