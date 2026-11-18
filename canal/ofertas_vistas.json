@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T16:00:30.391692",
+  "quando": "2026-11-18T16:23:50.990356",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14091,5 +14091,44 @@
   "msg": "Psr6Z368z8VGAgc-15IBq53iqHP95g-Asc",
   "texto": "*Kit 3 Calças Legging Cintura Alta Grossa Academia Treino*\n\nDe ~R$119~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2ggpKBJ\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_732051-MLB116198765985_082026-P.webp"
+ },
+ "3228067": {
+  "quando": "2026-11-18T16:23:54.917585",
+  "titulo": "Monitor Gamer TGT Altay TS6 23.8 Pol IPS FHD 1ms 180Hz HDMIVGA TGT-ATTS6-BL02",
+  "loja": "shopee"
+ },
+ "3227773": {
+  "quando": "2026-11-18T16:23:56.466299",
+  "titulo": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDa50cOQv",
+  "publico": null,
+  "produto": "shopee:14463127889",
+  "preco": 49.25,
+  "shopee": [
+   616222685,
+   14463127889
+  ],
+  "cupom": null,
+  "msg": "Psrrhe26426e5J4-1_kBq53iqHP95g-Asg",
+  "texto": "*Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line*\n\nDe ~R$73~\nPor *R$49* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5LDa50cOQv",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ap-muxl7oc8nytj62"
+ },
+ "3228021": {
+  "quando": "2026-11-18T16:25:03.203778",
+  "titulo": "Tênis Sandrini Aero Spark (8 cores)",
+  "link": "https://meli.la/1zpiKBE",
+  "publico": "masculino",
+  "produto": "MLB4340888693",
+  "preco": 110.39,
+  "cupom": {
+   "codigo": "FULL1811ENTREGAS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psp9FUOYwYCOWis-164Bq53iqHP95g-Ask",
+  "texto": "*Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve*\n\nDe ~R$271~\nPor *R$110* 🔥 no pix\n\n🎟️ Cupom: *FULL1811ENTREGAS*\n💸 Com o cupom: *R$93*\n\n👉 *Pegar promoção:* https://meli.la/1zpiKBE\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_867286-MLB109373136106_042026-P.webp"
  }
 }
