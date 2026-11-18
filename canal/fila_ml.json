@@ -160,18 +160,6 @@
   "cupom": null
  },
  {
-  "id": "3228755",
-  "quando": "2026-11-18T19:05:10.681114",
-  "titulo": "Perfume Feminino Floral Almiscarado Com Baunilha Glaceada, Almíscar Branco E Jasmim Solar, Alta Fixação E Fragrância De Longa Duração, La Vie Es",
-  "texto": "*Perfume Feminino Floral Almiscarado com Baunilha Glaceada, Almíscar Branco e Jasmim Solar, Alta Fixação e Fragrância de Longa Duração, La Vie est Belle Vanille Nude Lancôme, 30ml*\n\nDe ~R$539~\nPor *R$297* 🔥\n\n👉 *Pegar promoção:* https://meli.la/19WEBhX\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_938905-MLA92557855752_092025-P.webp",
-  "link": "https://meli.la/19WEBhX",
-  "produto": "MLB57080574",
-  "publico": "feminino",
-  "preco": 297.33,
-  "cupom": null
- },
- {
   "id": "3228482",
   "quando": "2026-11-18T19:05:17.409898",
   "titulo": "Kit Colcha Buddemeyer Queen Hanna Jacquard 3 Peças Rosa Liso",
@@ -187,5 +175,17 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3228821",
+  "quando": "2026-11-18T19:40:12.685831",
+  "titulo": "Kit com 5 Camisetas Básicas Dry Fit",
+  "texto": "*Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional Cor-1 M*\n\nDe ~R$78~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/16AXPKe\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_996753-MLB89971829846_082025-P.webp",
+  "link": "https://meli.la/16AXPKe",
+  "produto": "MLB4484499503",
+  "publico": "masculino",
+  "preco": 49.7,
+  "cupom": null
  }
 ]
