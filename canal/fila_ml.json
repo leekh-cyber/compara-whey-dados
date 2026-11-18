@@ -148,18 +148,6 @@
   }
  },
  {
-  "id": "3227692",
-  "quando": "2026-11-18T15:00:10.399361",
-  "titulo": "Bolsa Feminina Baguete Espaçosa De Ombro Estilosa Casual",
-  "texto": "*Bolsa Feminina Baguete Espaçosa De Ombro Estilosa Casual*\n\nDe ~R$69~\nPor *R$32* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2jyERvV\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_897147-MLB118581793797_102026-P.webp",
-  "link": "https://meli.la/2jyERvV",
-  "produto": "MLB5996731642",
-  "publico": "feminino",
-  "preco": 32.0,
-  "cupom": null
- },
- {
   "id": "3228176",
   "quando": "2026-11-18T16:45:11.281734",
   "titulo": "Óculos De Sol Quadrado Clubmaster Soho Green Black, Da Saint Germain, Em Metal Preto",
@@ -182,5 +170,22 @@
   "publico": "masculino",
   "preco": 391.49,
   "cupom": null
+ },
+ {
+  "id": "3227768",
+  "quando": "2026-11-18T17:55:49.541718",
+  "titulo": "Calça Jeans Mom Cintura Alta Linda Super Luxo Atacado Moda",
+  "texto": "*Calça Jeans Mom Cintura Alta Linda Super Luxo Atacado Moda*\n\nDe ~R$78~\nPor *R$65* 🔥\n\n🎟️ Cupom: *ESQUENTA*\n💸 Com o cupom: *R$45*\n\n👉 *Pegar promoção:* https://meli.la/2V2tTka",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_696550-MLB95866495686_102025-P.webp",
+  "link": "https://meli.la/2V2tTka",
+  "produto": "MLB2006303845",
+  "publico": "feminino",
+  "preco": 64.99,
+  "cupom": {
+   "codigo": "ESQUENTA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
