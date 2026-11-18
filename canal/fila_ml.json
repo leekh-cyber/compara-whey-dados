@@ -1,46 +1,5 @@
 [
  {
-  "id": "3221704",
-  "quando": "2026-11-17T09:10:05.501418",
-  "titulo": "Combo Feminino Paco Stasczak Camiseta Uv + Top + Short Saia Off White G",
-  "texto": "*Combo Feminino Paco Stasczak Camiseta Uv + Top + Short Saia Off White G*\n\nDe ~R$159~\nPor *R$96* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2QYiJRr",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_958061-MLB118676609093_102026-P.webp",
-  "link": "https://meli.la/2QYiJRr",
-  "produto": "MLB4959726501",
-  "publico": "feminino",
-  "preco": 95.9,
-  "cupom": null
- },
- {
-  "id": "3221678",
-  "quando": "2026-11-17T09:10:12.580043",
-  "titulo": "Saltinho Baixo Feminino Sandália Frente X Salto Grosso Festa",
-  "texto": "*Saltinho Baixo Feminino Sandália Frente X Salto Grosso Festa*\n\nDe ~R$78~\nPor *R$60* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2r5jTNJ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_778399-MLB81056027703_112024-P.webp",
-  "link": "https://meli.la/2r5jTNJ",
-  "produto": "MLB3921164251",
-  "publico": "feminino",
-  "preco": 59.99,
-  "cupom": null
- },
- {
-  "id": "3221734",
-  "quando": "2026-11-17T09:10:22.600307",
-  "titulo": "Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar",
-  "texto": "*Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar*\n\nDe ~R$289~\nPor *R$117* 🔥 no pix\n\n🎟️ Cupom: *MELIGARANTE30* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1nhKebB\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_699984-MLA119782608699_102026-P.webp",
-  "link": "https://meli.la/1nhKebB",
-  "produto": "MLB24221867",
-  "publico": null,
-  "preco": 117.0,
-  "cupom": {
-   "codigo": "MELIGARANTE30",
-   "id": "72061",
-   "publicado": "2026-11-16T10:16:41-03:00",
-   "ate": "2026-12-16T23:59:59-0300"
-  }
- },
- {
   "id": "3221935",
   "quando": "2026-11-17T09:45:14.312858",
   "titulo": "Jaqueta Masculina Reforçado De Nylon Impermeável Estica",
@@ -166,6 +125,42 @@
   "produto": "MLB4589990049",
   "publico": "masculino",
   "preco": 53.99,
+  "cupom": null
+ },
+ {
+  "id": "3224849",
+  "quando": "2026-11-17T21:26:06.301299",
+  "titulo": "Kit Pincel De Maquiagem Com 13 Unidades Sombra Blush Cor Marrom",
+  "texto": "*Kit Pincel De Maquiagem Com 13 Unidades Sombra Blush Cor Marrom*\n\nDe ~R$29~\nPor *R$19* 🔥\n\n👉 *Pegar promoção:* https://meli.la/23DSVYq",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_672781-MLA92082962837_092025-P.webp",
+  "link": "https://meli.la/23DSVYq",
+  "produto": "MLB55458883",
+  "publico": "feminino",
+  "preco": 19.0,
+  "cupom": null
+ },
+ {
+  "id": "3224869",
+  "quando": "2026-11-17T21:26:34.710196",
+  "titulo": "Chinelo Havaianas Top",
+  "texto": "*Havaianas Top Branca Original Em Promoção*\n\nDe ~R$64~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ScNKsP",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_832301-MLB117752975512_102026-P.webp",
+  "link": "https://meli.la/1ScNKsP",
+  "produto": "MLB1971552076",
+  "publico": "masculino",
+  "preco": 33.89,
+  "cupom": null
+ },
+ {
+  "id": "3224822",
+  "quando": "2026-11-17T21:26:51.659167",
+  "titulo": "Pista de Carrinhos Maxi Toys Polícia com 5 Veículos e Acessórios 48x36cm",
+  "texto": "*Pista de Carrinhos Maxi Toys Polícia com 5 Veículos e Acessórios 48x36cm*\n\nPor *R$46* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1SGKWSW\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_827668-MLA100073963889_122025-P.webp",
+  "link": "https://meli.la/1SGKWSW",
+  "produto": "MLB53026876",
+  "publico": null,
+  "preco": 46.06,
   "cupom": null
  }
 ]
