@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T12:30:38.686812",
+  "quando": "2026-11-18T13:00:30.025310",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13433,7 +13433,8 @@
   "cupom": null,
   "msg": "Pspf9gC038MHRO8-124Bq53iqHP95g-Aqo",
   "texto": "*Cadeira de Escritório  Zinnia Montreal SL, Cinza, Tecido Respirável Mesh, ZNO-MNTSL-BL03*\n\nDe ~R$1999~\nPor *R$900* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4qHJ3mzAwO",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqgphukh3coy48"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqgphukh3coy48",
+  "conferido": "2026-11-18T13:02:48.848841"
  },
  "3226021": {
   "quando": "2026-11-18T10:00:39.681306",
@@ -13746,5 +13747,39 @@
   "msg": "Psp8dO45Efa6dCQ-1zIBq53iqHP95g-Arc",
   "texto": "*Blazer Feminino Alfaiataria Terninho Social Com Botões*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2PEZjhZ\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_706812-MLB112196511415_052026-P.webp"
+ },
+ "3227196": {
+  "quando": "2026-11-18T13:00:35.899554",
+  "titulo": "Tênis QIAODAN LEILI 2.0 masculino",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDZr2ryDc",
+  "publico": "masculino",
+  "produto": "shopee:53064516146",
+  "preco": 297.99,
+  "shopee": [
+   1535859203,
+   53064516146
+  ],
+  "cupom": null,
+  "msg": "Pso6kTy.7vtM.v8-148Bq53iqHP95g-Arg",
+  "texto": "*Tênis De Corrida Masculino Qiaodan TG 2.0 SE Almofada Rocker Grossa Leve Treinamento De Longa Distância LEILI*\n\nDe ~R$620~\nA partir de *R$298* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5LDZr2ryDc",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlg06wm60w3ec"
+ },
+ "3227043": {
+  "quando": "2026-11-18T13:01:42.329010",
+  "titulo": "Perfume Mercedes-benz Club Black Eau De Toilette Masculino 100 Ml",
+  "link": "https://meli.la/1kgSGuV",
+  "publico": "masculino",
+  "produto": "MLB42420820",
+  "preco": 286.0,
+  "cupom": {
+   "codigo": "MODA1811",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqnoPgKJufT9Nc-11IBq53iqHP95g-Ark",
+  "texto": "*Perfume Mercedes-Benz Club Black Eau de Toilette Masculino 100 ml*\n\nPor *R$286* 🔥\n\n🎟️ Cupom: *MODA1811*\n💸 Com o cupom: *R$246*\n\n👉 *Pegar promoção:* https://meli.la/1kgSGuV",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_720915-MLA80300682687_102024-P.webp"
  }
 }
