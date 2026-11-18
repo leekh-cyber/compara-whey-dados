@@ -1,22 +1,5 @@
 [
  {
-  "id": "3225454",
-  "quando": "2026-11-18T08:00:11.221544",
-  "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
-  "texto": "*Tênis Fila Striker Masculino Estilo Esportivo Confortável*\n\nPor *R$199* 🔥\n\n🎟️ Cupom: *FULL1811*\n💸 Com o cupom: *R$160*\n\n👉 *Pegar promoção:* https://meli.la/25E2TUG\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-P.webp",
-  "link": "https://meli.la/25E2TUG",
-  "produto": "MLB4167079497",
-  "publico": "masculino",
-  "preco": 199.49,
-  "cupom": {
-   "codigo": "FULL1811",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3225585",
   "quando": "2026-11-18T08:35:23.244758",
   "titulo": "EIétrico VLX Maozinha Deep 3D Recarregável Ombros com Calor",
@@ -177,15 +160,32 @@
   }
  },
  {
-  "id": "3228821",
-  "quando": "2026-11-18T19:40:12.685831",
-  "titulo": "Kit com 5 Camisetas Básicas Dry Fit",
-  "texto": "*Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional Cor-1 M*\n\nDe ~R$78~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/16AXPKe\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_996753-MLB89971829846_082025-P.webp",
-  "link": "https://meli.la/16AXPKe",
-  "produto": "MLB4484499503",
-  "publico": "masculino",
-  "preco": 49.7,
+  "id": "3228940",
+  "quando": "2026-11-18T20:15:11.761844",
+  "titulo": "Perfume Armani Si Passione EDP 50ml Feminino",
+  "texto": "*Armani Beauty Perfume Feminino Sì Passione Eau de Parfum 50ml*\n\nDe ~R$909~\nPor *R$438* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2VVuGG2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_993843-MLA114452958753_072026-P.webp",
+  "link": "https://meli.la/2VVuGG2",
+  "produto": "MLB18965803",
+  "publico": "feminino",
+  "preco": 437.64,
   "cupom": null
+ },
+ {
+  "id": "3228935",
+  "quando": "2026-11-18T20:15:18.558672",
+  "titulo": "Calça Cargo Premium Masculina Sarja Skate Larga Streetwear",
+  "texto": "*Calça Cargo Premium Masculina Sarja Skate Larga Streetwear*\n\nDe ~R$83~\nPor *R$61* 🔥\n\n🎟️ Cupom: *ESPECIAL*\n💸 Com o cupom: *R$43*\n\n👉 *Pegar promoção:* https://meli.la/22C4Txj\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_707572-MLB105826225755_012026-P.webp",
+  "link": "https://meli.la/22C4Txj",
+  "produto": "MLB6182410896",
+  "publico": "masculino",
+  "preco": 61.0,
+  "cupom": {
+   "codigo": "ESPECIAL",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
