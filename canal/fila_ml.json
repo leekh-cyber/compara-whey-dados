@@ -165,18 +165,6 @@
   }
  },
  {
-  "id": "3226916",
-  "quando": "2026-11-18T12:05:06.770504",
-  "titulo": "Blazer Feminino Alfaiataria Terninho Social Com Botões",
-  "texto": "*Blazer Feminino Alfaiataria Terninho Social Com Botões*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2PEZjhZ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_706812-MLB112196511415_052026-P.webp",
-  "link": "https://meli.la/2PEZjhZ",
-  "produto": "MLB3383765063",
-  "publico": "feminino",
-  "preco": 50.4,
-  "cupom": null
- },
- {
   "id": "3226855",
   "quando": "2026-11-18T12:05:15.954642",
   "titulo": "Perfume Masculino Year One Polo Club Parfum Verde Classico",
@@ -188,6 +176,23 @@
   "preco": 77.12,
   "cupom": {
    "codigo": "DESCONTOJUSTO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3227043",
+  "quando": "2026-11-18T12:40:13.824835",
+  "titulo": "Perfume Mercedes-benz Club Black Eau De Toilette Masculino 100 Ml",
+  "texto": "*Perfume Mercedes-Benz Club Black Eau de Toilette Masculino 100 ml*\n\nPor *R$286* 🔥\n\n🎟️ Cupom: *MODA1811*\n💸 Com o cupom: *R$246*\n\n👉 *Pegar promoção:* https://meli.la/1kgSGuV",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_720915-MLA80300682687_102024-P.webp",
+  "link": "https://meli.la/1kgSGuV",
+  "produto": "MLB42420820",
+  "publico": "masculino",
+  "preco": 286.0,
+  "cupom": {
+   "codigo": "MODA1811",
    "id": null,
    "publicado": null,
    "ate": null
