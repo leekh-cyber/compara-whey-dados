@@ -1,22 +1,5 @@
 [
  {
-  "id": "3224906",
-  "quando": "2026-11-17T22:00:10.975815",
-  "titulo": "Camiseta Básica Masculina Algodão Slim Blusa Premium Lisa Vermelho M Liso",
-  "texto": "*Camiseta Básica Masculina Algodão Slim Blusa Premium Lisa Vermelho M Liso*\n\nDe ~R$55~\nPor *R$30* 🔥\n\n🎟️ Cupom: *DESCONTO* (25% OFF, até R$500)\n💸 Com o cupom: *R$22*\n\n👉 *Pegar promoção:* https://meli.la/2CbURxx",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_740005-MLB112506700520_062026-P.webp",
-  "link": "https://meli.la/2CbURxx",
-  "produto": "MLB6034824988",
-  "publico": "masculino",
-  "preco": 29.9,
-  "cupom": {
-   "codigo": "DESCONTO",
-   "id": "72214",
-   "publicado": "2026-11-17T18:16:18-03:00",
-   "ate": "2027-05-31T23:59:59-0300"
-  }
- },
- {
   "id": "3225454",
   "quando": "2026-11-18T08:00:11.221544",
   "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
@@ -131,23 +114,6 @@
   "cupom": null
  },
  {
-  "id": "3226009",
-  "quando": "2026-11-18T09:45:19.846939",
-  "titulo": "Kit 2 Camisetas Aramis Basic Lisa",
-  "texto": "*Kit Camisetas Aramis Basic Lisa Cinza Grafite/cinza Cinza S/p Lisa*\n\nPor *R$190* 🔥 no pix\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$171*\n\n👉 *Pegar promoção:* https://meli.la/2ZYnqY2\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_919057-MLB118501814873_092026-P.webp",
-  "link": "https://meli.la/2ZYnqY2",
-  "produto": "MLB5315101691",
-  "publico": "masculino",
-  "preco": 189.99,
-  "cupom": {
-   "codigo": "CORREHOJEPROML",
-   "id": "72220",
-   "publicado": "2026-11-18T09:17:21-03:00",
-   "ate": "2026-11-18T23:59:59-0300"
-  }
- },
- {
   "id": "3226038",
   "quando": "2026-11-18T09:45:37.983692",
   "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
@@ -196,6 +162,40 @@
    "id": null,
    "publicado": null,
    "ate": null
+  }
+ },
+ {
+  "id": "3226205",
+  "quando": "2026-11-18T10:20:19.763231",
+  "titulo": "Perfume Carolina Herrera Good Girl Blush Eau De Parfum 30ml Feminino",
+  "texto": "*Perfume para Cabelos Carolina Herrera Good Girl Blush 30ml feminino*\n\nDe ~R$319~\nPor *R$255* 🔥\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$230*\n\n👉 *Pegar promoção:* https://meli.la/2mxAFDs\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_783234-MLU78976097709_092024-P.webp",
+  "link": "https://meli.la/2mxAFDs",
+  "produto": "MLB40303747",
+  "publico": "feminino",
+  "preco": 255.2,
+  "cupom": {
+   "codigo": "CORREHOJEPROML",
+   "id": "72220",
+   "publicado": "2026-11-18T09:17:21-03:00",
+   "ate": "2026-11-18T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3226276",
+  "quando": "2026-11-18T10:20:35.747475",
+  "titulo": "Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium",
+  "texto": "*Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium Verde | Preto | Chumbo Lisa G*\n\nDe ~R$169~\nPor *R$80* 🔥\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$72*\n\n👉 *Pegar promoção:* https://meli.la/245GRxD\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_769658-MLB115845532507_082026-P.webp",
+  "link": "https://meli.la/245GRxD",
+  "produto": "MLB5024787607",
+  "publico": "masculino",
+  "preco": 79.9,
+  "cupom": {
+   "codigo": "CORREHOJEPROML",
+   "id": "72220",
+   "publicado": "2026-11-18T09:17:21-03:00",
+   "ate": "2026-11-18T23:59:59-0300"
   }
  }
 ]
