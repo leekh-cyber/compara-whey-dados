@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T10:00:31.047303",
+  "quando": "2026-11-18T10:30:36.164717",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13510,5 +13510,39 @@
   "msg": "PspSjJkNwv_jbBw-1.8Bq53iqHP95g-Aqs",
   "texto": "*Kit Camisetas Aramis Basic Lisa Cinza Grafite/cinza Cinza S/p Lisa*\n\nPor *R$190* 🔥 no pix\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$171*\n\n👉 *Pegar promoção:* https://meli.la/2ZYnqY2\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_919057-MLB118501814873_092026-P.webp"
+ },
+ "3226320": {
+  "quando": "2026-11-18T10:30:39.982870",
+  "titulo": "Camisa Masculina Algodão Placa Preta Camiseta Premium Edição exclusiva",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7fbUT2L9fx",
+  "publico": "masculino",
+  "produto": "shopee:58267150657",
+  "preco": 31.75,
+  "shopee": [
+   1593075852,
+   58267150657
+  ],
+  "cupom": null,
+  "msg": "PsqNvl5XA.9P1Z8-15kBq53iqHP95g-Aqw",
+  "texto": "*Camisa Masculina Algodao Placa Preta Camiseta Premium Edição exclusiva Envio Rapido*\n\nDe ~R$59~\nA partir de *R$32* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7fbUT2L9fx",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ak-msfnrvsh2d5310"
+ },
+ "3226205": {
+  "quando": "2026-11-18T10:32:31.802611",
+  "titulo": "Perfume Carolina Herrera Good Girl Blush Eau De Parfum 30ml Feminino",
+  "link": "https://meli.la/2mxAFDs",
+  "publico": "feminino",
+  "produto": "MLB40303747",
+  "preco": 255.2,
+  "cupom": {
+   "codigo": "CORREHOJEPROML",
+   "id": "72220",
+   "publicado": "2026-11-18T09:17:21-03:00",
+   "ate": "2026-11-18T23:59:59-0300"
+  },
+  "msg": "PsoayLhYk316d0I-1_oBq53iqHP95g-Aq0",
+  "texto": "*Perfume para Cabelos Carolina Herrera Good Girl Blush 30ml feminino*\n\nDe ~R$319~\nPor *R$255* 🔥\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$230*\n\n👉 *Pegar promoção:* https://meli.la/2mxAFDs\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_783234-MLU78976097709_092024-P.webp"
  }
 }
