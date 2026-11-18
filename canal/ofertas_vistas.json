@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T19:30:25.795924",
+  "quando": "2026-11-18T20:00:29.713460",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13676,7 +13676,8 @@
   },
   "msg": "PspfkHmSB1ApT0E-13IBq53iqHP95g-ArQ",
   "texto": "*Kit 3 Calças Masculina Tactel Leve Bolso Zíper Premium Verde | Preto | Chumbo Lisa G*\n\nDe ~R$169~\nPor *R$80* 🔥\n\n🎟️ Cupom: *CORREHOJEPROML* (10% OFF acima de R$79, até R$100)\n💸 Com o cupom: *R$72*\n\n👉 *Pegar promoção:* https://meli.la/245GRxD\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_769658-MLB115845532507_082026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_769658-MLB115845532507_082026-P.webp",
+  "encerrada": "2026-11-18T20:02:56.592188"
  },
  "cupom:MAISOFERTAS25": {
   "quando": "2026-11-18T12:30:46.448921",
@@ -14163,7 +14164,8 @@
   "cupom": null,
   "msg": "PsqYSsWQxeLK3dI-1zEBq53iqHP95g-Ass",
   "texto": "*Bolinha de Natal personalizadas*\n\nA partir de *R$17* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4B1cjSH3JH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lw-mtpzvddqt6gw8a"
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lw-mtpzvddqt6gw8a",
+  "conferido": "2026-11-18T20:02:47.854758"
  },
  "3227839": {
   "quando": "2026-11-18T17:02:45.840160",
@@ -14346,5 +14348,34 @@
   "msg": "PspWPuBtWtVrX0Y-1ykBq53iqHP95g-AtY",
   "texto": "*Perfume Feminino Floral Almiscarado com Baunilha Glaceada, Almíscar Branco e Jasmim Solar, Alta Fixação e Fragrância de Longa Duração, La Vie est Belle Vanille Nude Lancôme, 30ml*\n\nDe ~R$539~\nPor *R$297* 🔥\n\n👉 *Pegar promoção:* https://meli.la/19WEBhX\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_938905-MLA92557855752_092025-P.webp"
+ },
+ "3228928": {
+  "quando": "2026-11-18T20:00:35.051209",
+  "titulo": "Suporte Base Controle PS5 GTA 6 GTA VI DualSense Gamer e PlayStation 5 Premium",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qOmX89h7U",
+  "publico": null,
+  "produto": "shopee:58215941936",
+  "preco": 17.49,
+  "shopee": [
+   1799015189,
+   58215941936
+  ],
+  "cupom": null,
+  "msg": "Psp8_70cyuyTfr0-18EBq53iqHP95g-Atc",
+  "texto": "*Suporte Base Controle PS5 GTA 6 GTA VI DualSense Gamer e PlayStation 5 Premium*\n\nA partir de *R$17* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOmX89h7U",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mruf4xc9lx5327"
+ },
+ "3228821": {
+  "quando": "2026-11-18T20:01:43.455538",
+  "titulo": "Kit com 5 Camisetas Básicas Dry Fit",
+  "link": "https://meli.la/16AXPKe",
+  "publico": "masculino",
+  "produto": "MLB4484499503",
+  "preco": 49.7,
+  "cupom": null,
+  "msg": "PsoSTnJ92Y.lNuQ-1x0Bq53iqHP95g-Atg",
+  "texto": "*Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional Cor-1 M*\n\nDe ~R$78~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://meli.la/16AXPKe\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_996753-MLB89971829846_082025-P.webp"
  }
 }
