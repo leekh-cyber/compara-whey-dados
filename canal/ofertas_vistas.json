@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T13:00:30.025310",
+  "quando": "2026-11-18T13:30:26.619278",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -13533,7 +13533,8 @@
   "cupom": null,
   "msg": "PsqNvl5XA.9P1Z8-15kBq53iqHP95g-Aqw",
   "texto": "*Camisa Masculina Algodao Placa Preta Camiseta Premium Edição exclusiva Envio Rapido*\n\nDe ~R$59~\nA partir de *R$32* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7fbUT2L9fx",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ak-msfnrvsh2d5310"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ak-msfnrvsh2d5310",
+  "conferido": "2026-11-18T13:33:02.401002"
  },
  "3226205": {
   "quando": "2026-11-18T10:32:31.802611",
@@ -13781,5 +13782,94 @@
   "msg": "PsqnoPgKJufT9Nc-11IBq53iqHP95g-Ark",
   "texto": "*Perfume Mercedes-Benz Club Black Eau de Toilette Masculino 100 ml*\n\nPor *R$286* 🔥\n\n🎟️ Cupom: *MODA1811*\n💸 Com o cupom: *R$246*\n\n👉 *Pegar promoção:* https://meli.la/1kgSGuV",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_720915-MLA80300682687_102024-P.webp"
+ },
+ "3227249": {
+  "quando": "2026-11-18T13:30:51.595182",
+  "titulo": "Máscara Fusion Wella 500ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LnsBdVsv",
+  "publico": null,
+  "produto": "shopee:58263552159",
+  "preco": 178.0,
+  "shopee": [
+   1634932891,
+   58263552159
+  ],
+  "cupom": null,
+  "msg": "PsqSQ9AU9tvSLy8-1wgBq53iqHP95g-Aro",
+  "texto": "*Máscara Fusion Wella 500ml*\n\nDe ~R$301~\nPor *R$178* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70LnsBdVsv",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258o-mq69hhug4tu79b"
+ },
+ "3227123": {
+  "quando": "2026-11-18T13:30:33.674243",
+  "titulo": "Placa Mãe Maxsun Challenger B650M WiFi Ice V2 Chipset B650 AMD AM5 mATX DDR5",
+  "loja": "shopee"
+ },
+ "3227170": {
+  "quando": "2026-11-18T13:30:35.329811",
+  "titulo": "Console Nintendo Switch Oled Nintendo Bundle Super Mario Bros Wonder - 3 Meses Nintendo",
+  "loja": "shopee"
+ },
+ "3227154": {
+  "quando": "2026-11-18T13:30:37.678440",
+  "titulo": "Fralda Pampers Confort Sec G 128 unidades",
+  "loja": "shopee"
+ },
+ "3227100": {
+  "quando": "2026-11-18T13:30:39.356314",
+  "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 576 Unidades",
+  "loja": "shopee"
+ },
+ "3227116": {
+  "quando": "2026-11-18T13:30:40.255383",
+  "titulo": "Huggies Fralda Máxima Proteção M 172 Unidades",
+  "loja": "shopee"
+ },
+ "3227233": {
+  "quando": "2026-11-18T13:30:41.166790",
+  "titulo": "Kit Starlink Mini Internet Via Satélite Antena Roteador Wi-Fi Bivolt Branco",
+  "loja": "shopee"
+ },
+ "3227129": {
+  "quando": "2026-11-18T13:30:44.822580",
+  "titulo": "Lava Roupas Hipoalergênico Baby Soft Max Cuidado 3L",
+  "loja": "shopee"
+ },
+ "3227147": {
+  "quando": "2026-11-18T13:30:46.419874",
+  "titulo": "Fralda Pampers Pants Premium Care Jumbo M 78 Unidades",
+  "loja": "shopee"
+ },
+ "3227078": {
+  "quando": "2026-11-18T13:30:47.452384",
+  "titulo": "Smart TV LG 60 Polegadas AI 4K UHD webOS Google Alexa HDR 60UA8550PSA",
+  "loja": "shopee"
+ },
+ "3227082": {
+  "quando": "2026-11-18T13:30:49.105977",
+  "titulo": "Smart TV LG 60 Polegadas AI 4K UHD webOS Google Alexa HDR 60UA8550PSA",
+  "loja": "shopee"
+ },
+ "3227215": {
+  "quando": "2026-11-18T13:30:50.272815",
+  "titulo": "Apple iPhone 16e 6 1\" 48MP iOS 5G",
+  "loja": "shopee"
+ },
+ "3227149": {
+  "quando": "2026-11-18T13:31:57.822853",
+  "titulo": "Carolina Herrera 212 VIP ROSÉ EDP 80ml para feminino",
+  "link": "https://meli.la/1Sdw9rB",
+  "publico": "feminino",
+  "produto": "MLB6137685",
+  "preco": 505.91,
+  "cupom": {
+   "codigo": "MODA1811",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqksUb8PGGB_co-13MBq53iqHP95g-Ars",
+  "texto": "*Carolina Herrera 212 VIP ROSÉ EDP 80ml para feminino*\n\nDe ~R$911~\nPor *R$506* 🔥 no pix\n\n🎟️ Cupom: *MODA1811*\n💸 Com o cupom: *R$469*\n\n👉 *Pegar promoção:* https://meli.la/1Sdw9rB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_751962-MLA74652760134_022024-P.webp"
  }
 }
