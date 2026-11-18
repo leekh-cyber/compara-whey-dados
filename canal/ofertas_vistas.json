@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-18T18:00:36.563118",
+  "quando": "2026-11-18T18:30:24.521321",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14043,7 +14043,8 @@
   "cupom": null,
   "msg": "PsqZ9ruVCOuP0o8-1.EBq53iqHP95g-AsQ",
   "texto": "*Kit Body Splash  My Sweet Delight e Very Sexy Barbour's 200ml*\n\nDe ~R$112~\nPor *R$64* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AKcFybPyvA",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrg9br9jrwg4bb"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrg9br9jrwg4bb",
+  "conferido": "2026-11-18T18:32:43.829110"
  },
  "3225671": {
   "quando": "2026-11-18T15:32:55.651415",
@@ -14246,5 +14247,34 @@
   "msg": "Pso0WOVCTXJK3Dw-144Bq53iqHP95g-AtA",
   "texto": "*Calça Jeans Mom Cintura Alta Linda Super Luxo Atacado Moda*\n\nDe ~R$78~\nPor *R$65* 🔥\n\n🎟️ Cupom: *ESQUENTA*\n💸 Com o cupom: *R$45*\n\n👉 *Pegar promoção:* https://meli.la/2V2tTka",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_696550-MLB95866495686_102025-P.webp"
+ },
+ "3228460": {
+  "quando": "2026-11-18T18:30:29.686483",
+  "titulo": "Blusa Moletom Canguru Verde Militar OFERTA",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4LL31reCCA",
+  "publico": "masculino",
+  "produto": "shopee:58223286677",
+  "preco": 19.96,
+  "shopee": [
+   300725271,
+   58223286677
+  ],
+  "cupom": null,
+  "msg": "Psr3ls6zH1lbntc-194Bq53iqHP95g-AtE",
+  "texto": "*Blusa Moletom Canguru Verde Militar OFERTA*\n\nDe ~R$49~\nPor *R$20* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LL31reCCA",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mvnh31tz52pu7e"
+ },
+ "3228509": {
+  "quando": "2026-11-18T18:31:38.675446",
+  "titulo": "Perfume Masculino Azzaro Wanted Edt 100ml",
+  "link": "https://meli.la/2T3WVV4",
+  "publico": "masculino",
+  "produto": "MLB6279691",
+  "preco": 387.9,
+  "cupom": null,
+  "msg": "Psqp9QbYY9AIaY8-14gBq53iqHP95g-AtI",
+  "texto": "*Perfume Masculino Azzaro Wanted Edt 100ml*\n\nDe ~R$829~\nPor *R$388* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2T3WVV4\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970371-MLA114307069732_082026-P.webp"
  }
 }
