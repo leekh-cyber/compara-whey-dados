@@ -177,15 +177,20 @@
   }
  },
  {
-  "id": "3227837",
-  "quando": "2026-11-18T15:35:24.335596",
-  "titulo": "Kit 3 Calças Legging Cintura Alta Grossa",
-  "texto": "*Kit 3 Calças Legging Cintura Alta Grossa Academia Treino*\n\nDe ~R$119~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2ggpKBJ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_732051-MLB116198765985_082026-P.webp",
-  "link": "https://meli.la/2ggpKBJ",
-  "produto": "MLB4067115699",
-  "publico": "feminino",
-  "preco": 69.54,
-  "cupom": null
+  "id": "3228021",
+  "quando": "2026-11-18T16:10:09.722497",
+  "titulo": "Tênis Sandrini Aero Spark (8 cores)",
+  "texto": "*Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve*\n\nDe ~R$271~\nPor *R$110* 🔥 no pix\n\n🎟️ Cupom: *FULL1811ENTREGAS*\n💸 Com o cupom: *R$93*\n\n👉 *Pegar promoção:* https://meli.la/1zpiKBE\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_867286-MLB109373136106_042026-P.webp",
+  "link": "https://meli.la/1zpiKBE",
+  "produto": "MLB4340888693",
+  "publico": "masculino",
+  "preco": 110.39,
+  "cupom": {
+   "codigo": "FULL1811ENTREGAS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
