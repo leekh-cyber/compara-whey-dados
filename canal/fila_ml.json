@@ -1,17 +1,5 @@
 [
  {
-  "id": "3221935",
-  "quando": "2026-11-17T09:45:14.312858",
-  "titulo": "Jaqueta Masculina Reforçado De Nylon Impermeável Estica",
-  "texto": "*Jaqueta Masculina Reforçado De Nylon Impermeável Estica Verde Militar Corta Vento P*\n\nPor *R$39* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2oqknjX\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902419-MLB114638144779_072026-P.webp",
-  "link": "https://meli.la/2oqknjX",
-  "produto": "MLB4901697117",
-  "publico": "masculino",
-  "preco": 38.7,
-  "cupom": null
- },
- {
   "id": "3224423",
   "quando": "2026-11-17T19:05:07.718902",
   "titulo": "Kit 5 Vestidos Infantil Regata Temáticos (Tam.2 ao 6 )",
@@ -162,5 +150,22 @@
   "publico": null,
   "preco": 46.06,
   "cupom": null
+ },
+ {
+  "id": "3224906",
+  "quando": "2026-11-17T22:00:10.975815",
+  "titulo": "Camiseta Básica Masculina Algodão Slim Blusa Premium Lisa Vermelho M Liso",
+  "texto": "*Camiseta Básica Masculina Algodão Slim Blusa Premium Lisa Vermelho M Liso*\n\nDe ~R$55~\nPor *R$30* 🔥\n\n🎟️ Cupom: *DESCONTO* (25% OFF, até R$500)\n💸 Com o cupom: *R$22*\n\n👉 *Pegar promoção:* https://meli.la/2CbURxx",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_740005-MLB112506700520_062026-P.webp",
+  "link": "https://meli.la/2CbURxx",
+  "produto": "MLB6034824988",
+  "publico": "masculino",
+  "preco": 29.9,
+  "cupom": {
+   "codigo": "DESCONTO",
+   "id": "72214",
+   "publicado": "2026-11-17T18:16:18-03:00",
+   "ate": "2027-05-31T23:59:59-0300"
+  }
  }
 ]
