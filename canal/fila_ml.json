@@ -72,23 +72,6 @@
   "cupom": null
  },
  {
-  "id": "3233394",
-  "quando": "2026-11-19T18:22:31.262004",
-  "titulo": "Tênis Vizzano Branco Feminino Flatform Confortável Sola Alta",
-  "texto": "*Tênis Vizzano Branco Feminino Flatform Confortável Sola Alta*\n\nDe ~R$135~\nPor *R$109* 🔥\n\n🎟️ Cupom: *QUEIMA1911*\n💸 Com o cupom: *R$84*\n\n👉 *Pegar promoção:* https://meli.la/1xtDNXj",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_614469-MLB74182326179_012024-P.webp",
-  "link": "https://meli.la/1xtDNXj",
-  "produto": "MLB3577071659",
-  "publico": "feminino",
-  "preco": 109.0,
-  "cupom": {
-   "codigo": "QUEIMA1911",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3233402",
   "quando": "2026-11-19T18:22:47.633637",
   "titulo": "Tênis Masculino E Feminino Club Ii Puma - Tam 42",
@@ -99,5 +82,63 @@
   "publico": null,
   "preco": 134.99,
   "cupom": null
+ },
+ {
+  "id": "3233468",
+  "quando": "2026-11-19T18:57:22.005954",
+  "titulo": "Tenis Anacapri Mist Branco Feminino Casual Slim",
+  "texto": "*Tenis Anacapri Mist Branco Feminino Casual Slim*\n\nDe ~R$167~\nPor *R$75* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2gtFBAT\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_864938-MLB80021309334_102024-P.webp",
+  "link": "https://meli.la/2gtFBAT",
+  "produto": "MLB5144136704",
+  "publico": "feminino",
+  "preco": 75.04,
+  "cupom": null
+ },
+ {
+  "id": "3233314",
+  "quando": "2026-11-19T18:57:33.876160",
+  "titulo": "Aquecedor Britânia 2 Em 1 Ab1500p 3 Níveis De Potência 127v 1500w Preto Preto",
+  "texto": "*Aquecedor Britânia 2 Em 1 Ab1500p 3 Níveis De Potência 127v 1500w Preto Preto*\n\nPor *R$72* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2W77SGg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_823789-MLA99986445231_112025-P.webp",
+  "link": "https://meli.la/2W77SGg",
+  "produto": "MLB4125212235",
+  "publico": null,
+  "preco": 72.1,
+  "cupom": null
+ },
+ {
+  "id": "3233521",
+  "quando": "2026-11-19T18:57:42.296905",
+  "titulo": "Jogo De Panelas Cerâmico Triplo Indução Tuut Ecoglid 8 Peças Cor Baunilha",
+  "texto": "*Jogo De Panelas Cerâmico Triplo Indução Tuut Ecoglid 8 Peças Cor Baunilha*\n\nDe ~R$589~\nPor *R$285* 🔥 no pix\n\n🎟️ Cupom: *SEMPREOFF*\n💸 Com o cupom: *R$234*\n\n👉 *Pegar promoção:* https://meli.la/32XR34B",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_775418-MLA96139995563_102025-P.webp",
+  "link": "https://meli.la/32XR34B",
+  "produto": "MLB58369191",
+  "publico": null,
+  "preco": 284.99,
+  "cupom": {
+   "codigo": "SEMPREOFF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3233581",
+  "quando": "2026-11-19T18:57:50.136937",
+  "titulo": "Colchão Queen Luuna Original Espuma 24cm com Bloqueio de Movimento 10 Anos de Garant",
+  "texto": "*Colchão Queen Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de Garantia*\n\nDe ~R$5000~\nPor *R$2179* 🔥\n\n🎟️ Cupom: *SEMPREOFF*\n💸 Com o cupom: *R$2109*\n\n👉 *Pegar promoção:* https://meli.la/2BeCRfi\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_882067-MLA112591855036_062026-P.webp",
+  "link": "https://meli.la/2BeCRfi",
+  "produto": "MLB26697820",
+  "publico": null,
+  "preco": 2179.0,
+  "cupom": {
+   "codigo": "SEMPREOFF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
