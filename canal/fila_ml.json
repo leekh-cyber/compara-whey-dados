@@ -1,34 +1,5 @@
 [
  {
-  "id": "3225714",
-  "quando": "2026-11-18T09:10:11.672045",
-  "titulo": "Calça Social Bolso Faca Embutido Lycra Sarja Slim",
-  "texto": "*Calça Masculina Social Bolso Faca Embutido Lycra Sarja Slim*\n\nDe ~R$129~\nPor *R$73* 🔥\n\n🎟️ Cupom: *POUPAMAIS*\n💸 Com o cupom: *R$52*\n\n👉 *Pegar promoção:* https://meli.la/2HuKcVN\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_648695-MLB86118941158_062025-P.webp",
-  "link": "https://meli.la/2HuKcVN",
-  "produto": "MLB3967639677",
-  "publico": "masculino",
-  "preco": 73.0,
-  "cupom": {
-   "codigo": "POUPAMAIS",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3225711",
-  "quando": "2026-11-18T09:10:47.702848",
-  "titulo": "Kit Skincare 2 Unidades Água Micelar Melu 200ml - Ruby Rose",
-  "texto": "*Kit Skincare 2 Unidades Água Micelar Melu 200ml - Ruby Rose*\n\nPor *R$21* 🔥\n\n👉 *Pegar promoção:* https://meli.la/24Kg229\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_764915-MLB118708991561_102026-P.webp",
-  "link": "https://meli.la/24Kg229",
-  "produto": "MLB7723904680",
-  "publico": null,
-  "preco": 20.89,
-  "cupom": null
- },
- {
   "id": "3226038",
   "quando": "2026-11-18T09:45:37.983692",
   "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
@@ -187,5 +158,29 @@
    "publicado": "2026-11-18T09:17:22-03:00",
    "ate": "2026-11-18T23:59:59-0300"
   }
+ },
+ {
+  "id": "3229169",
+  "quando": "2026-11-18T21:25:12.119572",
+  "titulo": "Relógio Feminino Popsy De Pulso Quartzo Com Kit De Semijoias Folheadas 18k Rose",
+  "texto": "*Relógio Feminino Popsy de Pulso Quartzo com Kit de Semijoias Folheadas 18k Rose*\n\nDe ~R$69~\nPor *R$40* 🔥\n\n👉 *Pegar promoção:* https://meli.la/248yTSJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_713860-MLA98184523866_112025-P.webp",
+  "link": "https://meli.la/248yTSJ",
+  "produto": "MLB62258087",
+  "publico": "feminino",
+  "preco": 39.9,
+  "cupom": null
+ },
+ {
+  "id": "3229168",
+  "quando": "2026-11-18T21:25:19.483309",
+  "titulo": "Relógio Mondaine Masculino Analógico A Prova D'água Original Preto Prateado",
+  "texto": "*Relógio Mondaine Masculino Analógico A Prova D'água Original Preto Prateado*\n\nPor *R$129* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/25tyHad\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_794307-MLA119562090643_102026-P.webp",
+  "link": "https://meli.la/25tyHad",
+  "produto": "MLB77289411",
+  "publico": "masculino",
+  "preco": 129.26,
+  "cupom": null
  }
 ]
