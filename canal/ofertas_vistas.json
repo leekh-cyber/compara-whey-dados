@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T10:00:45.054175",
+  "quando": "2026-11-19T10:30:25.495621",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14633,5 +14633,39 @@
   "msg": "PsokHsfcS.4qp90-19IBq53iqHP95g-AuI",
   "texto": "*Kit 2 Macacão Romper Bebê Menina Verão 100% Algodão Banho de Sol Manga Curta RN P M G GG Girafa Confortável Fresquinho*\n\nDe ~R$65~\nPor *R$51* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5NGcAu80",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msbnon661clh3d"
+ },
+ "3230917": {
+  "quando": "2026-11-19T10:30:33.292131",
+  "titulo": "Kit 6 Faixinhas para Bebê",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7puwGE7lD6",
+  "publico": null,
+  "produto": "shopee:22998922265",
+  "preco": 24.53,
+  "shopee": [
+   958550582,
+   22998922265
+  ],
+  "cupom": null,
+  "msg": "PsqVwCFgPk2lQ.A-15YBq53iqHP95g-AuM",
+  "texto": "*Kit 6 Faixinhas para Bebê | Laços para Recém-Nascida | Saída de Maternidade*\n\nPor *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7puwGE7lD6",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820md-mqy279fiqdc7c7"
+ },
+ "3230894": {
+  "quando": "2026-11-19T10:31:44.056975",
+  "titulo": "Fone Bluetooth Sem Fio De Ouvido P9 TWS Macaron Headphone Fone de Ouvido Envio Imediato",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9pg0dyy3fn",
+  "publico": null,
+  "produto": "shopee:22491618254",
+  "preco": 22.99,
+  "shopee": [
+   872424585,
+   22491618254
+  ],
+  "cupom": null,
+  "msg": "PspAJOc2XpIPFBM-1wkBq53iqHP95g-AuQ",
+  "texto": "*Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato*\n\nA partir de *R$23* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9pg0dyy3fn",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc"
  }
 }
