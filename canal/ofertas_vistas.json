@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T16:00:27.293931",
+  "quando": "2026-11-19T16:28:30.295575",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14598,7 +14598,7 @@
   "msg": "PsouapbU0K_p5Ew-1.wBq53iqHP95g-AuE",
   "texto": "*Kit com 10 Cuecas Boxer Masculina Microfibra com Forro 100% Algodão ou 5 Cueca Masculino*\n\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5q9rqVR4ur",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5iowdvdol7b",
-  "conferido": "2026-11-19T13:02:59.020893"
+  "conferido": "2026-11-19T16:30:54.629280"
  },
  "3230720": {
   "quando": "2026-11-19T10:01:59.189360",
@@ -14641,7 +14641,7 @@
   "msg": "PsokHsfcS.4qp90-19IBq53iqHP95g-AuI",
   "texto": "*Kit 2 Macacão Romper Bebê Menina Verão 100% Algodão Banho de Sol Manga Curta RN P M G GG Girafa Confortável Fresquinho*\n\nDe ~R$65~\nPor *R$51* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5NGcAu80",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msbnon661clh3d",
-  "conferido": "2026-11-19T13:02:59.569379"
+  "conferido": "2026-11-19T16:30:54.873036"
  },
  "3230917": {
   "quando": "2026-11-19T10:30:33.292131",
@@ -14951,7 +14951,8 @@
   },
   "msg": "PsrVjxpTomyo9PQ-13UBq53iqHP95g-Au4",
   "texto": "*Placa de Vídeo PCI EXP. 8GB/128BITS RTX4060 PELADN LOONGSCALE RTX4060-8GD6 BOX*\n\nDe ~R$4374~\nPor *R$2800* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$2483*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5NUw4B0l",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259p-mvm756flc2di0f"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259p-mvm756flc2di0f",
+  "conferido": "2026-11-19T16:30:55.084983"
  },
  "3231584": {
   "quando": "2026-11-19T13:31:48.321205",
@@ -15204,5 +15205,47 @@
   "msg": "PspoYZmCTn69oXU-1_QBq53iqHP95g-Avo",
   "texto": "*Kit Morango com Shampoo + Condicionador e Creme de Pentear Kids*\n\nDe ~R$73~\nPor *R$59* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8fU3cVKFlI",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzv8ko2l98j88"
+ },
+ "cupom:GANHEDESCONTO": {
+  "quando": "2026-11-19T16:28:32.786571",
+  "titulo": "Use o cupom Mercado Livre e ganhe 25% OFF em selecionados",
+  "id": "72340",
+  "publicado": "2026-11-19T15:03:43-03:00",
+  "ate": "2026-12-31T23:59:59-0300",
+  "msg": "PsoBGj2Wd4Gjld0-19sBq53iqHP95g-Avs",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF*\n\nCódigo: *GANHEDESCONTO*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3232792": {
+  "quando": "2026-11-19T16:29:39.002002",
+  "titulo": "Xiaomi Redmi Note 17 PRO 5G, Bateria 8340mAh, Versão Global, Snapdragon 6s de 4ª gen, 128-512GB + 6-8GB RAM",
+  "loja": "shopee"
+ },
+ "3232782": {
+  "quando": "2026-11-19T16:29:40.492386",
+  "titulo": "Xiaomi Redmi Note 17 PRO 5G Bateria 8340mAh Versão Global Snapdragon 6s de 4ª gen 1",
+  "loja": "shopee"
+ },
+ "3232242": {
+  "quando": "2026-11-19T16:29:41.685063",
+  "titulo": "Capa Para Transporte De Pets Couro Impermeavel",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1C5KUnAqf",
+  "publico": null,
+  "produto": "shopee:22118399105",
+  "preco": 20.99,
+  "shopee": [
+   929113911,
+   22118399105
+  ],
+  "cupom": null,
+  "msg": "PspVgGm85XjhGB0-158Bq53iqHP95g-Avw",
+  "texto": "*Capa Para Transporte De Pets Couro Impermeavel*\n\nDe ~R$24~\nPor *R$21* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1C5KUnAqf",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-23010-me3thdc9irmv39"
+ },
+ "3232866": {
+  "quando": "2026-11-19T16:30:52.047399",
+  "titulo": "Xiaomi Poco F8 Ultra 512GB  256GB 5g Nfc Versão Global",
+  "loja": "shopee"
  }
 }
