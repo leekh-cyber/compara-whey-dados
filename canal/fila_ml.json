@@ -46,5 +46,58 @@
   "publico": null,
   "preco": 20.99,
   "cupom": null
+ },
+ {
+  "id": "3233399",
+  "quando": "2026-11-19T18:22:18.791311",
+  "titulo": "Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50m",
+  "texto": "*Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50m*\n\nDe ~R$511~\nPor *R$213* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1Qo2rb1\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_950341-MLA99985812753_112025-P.webp",
+  "link": "https://meli.la/1Qo2rb1",
+  "produto": "MLB44436630",
+  "publico": "masculino",
+  "preco": 213.39,
+  "cupom": null
+ },
+ {
+  "id": "3233343",
+  "quando": "2026-11-19T18:22:26.323524",
+  "titulo": "Camiseta Nike Sportswear Essentials Feminina",
+  "texto": "*Camiseta Nike Sportswear Essentials Feminina*\n\nDe ~R$129~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1bS3m4b\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_685218-MLB113102317797_062026-P.webp",
+  "link": "https://meli.la/1bS3m4b",
+  "produto": "MLB3518459897",
+  "publico": "feminino",
+  "preco": 69.99,
+  "cupom": null
+ },
+ {
+  "id": "3233394",
+  "quando": "2026-11-19T18:22:31.262004",
+  "titulo": "Tênis Vizzano Branco Feminino Flatform Confortável Sola Alta",
+  "texto": "*Tênis Vizzano Branco Feminino Flatform Confortável Sola Alta*\n\nDe ~R$135~\nPor *R$109* 🔥\n\n🎟️ Cupom: *QUEIMA1911*\n💸 Com o cupom: *R$84*\n\n👉 *Pegar promoção:* https://meli.la/1xtDNXj",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_614469-MLB74182326179_012024-P.webp",
+  "link": "https://meli.la/1xtDNXj",
+  "produto": "MLB3577071659",
+  "publico": "feminino",
+  "preco": 109.0,
+  "cupom": {
+   "codigo": "QUEIMA1911",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3233402",
+  "quando": "2026-11-19T18:22:47.633637",
+  "titulo": "Tênis Masculino E Feminino Club Ii Puma - Tam 42",
+  "texto": "*Tênis Masculino E Feminino Club Ii Puma Intense Red-puma White-puma Gold Geométrico 42 Br*\n\nPor *R$135* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1dtjSiJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_825691-MLB83377678148_042025-P.webp",
+  "link": "https://meli.la/1dtjSiJ",
+  "produto": "MLB6433766220",
+  "publico": null,
+  "preco": 134.99,
+  "cupom": null
  }
 ]
