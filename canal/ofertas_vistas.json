@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T10:30:25.495621",
+  "quando": "2026-11-19T11:00:29.871802",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14409,7 +14409,8 @@
   "cupom": null,
   "msg": "PsonMoG9p.4XcC0-11ABq53iqHP95g-Atk",
   "texto": "*CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM*\n\nDe ~R$61~\nA partir de *R$34* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOnKZlrDV",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
+  "conferido": "2026-11-19T11:01:46.650239"
  },
  "3229168": {
   "quando": "2026-11-19T08:01:42.184589",
@@ -14667,5 +14668,37 @@
   "msg": "PspAJOc2XpIPFBM-1wkBq53iqHP95g-AuQ",
   "texto": "*Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato*\n\nA partir de *R$23* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9pg0dyy3fn",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc"
+ },
+ "3231051": {
+  "quando": "2026-11-19T11:00:33.620344",
+  "titulo": "Fonte ATX Gamemax 600W GS600 com Cabo PFC Ativo 80 Plus White Preto",
+  "loja": "shopee"
+ },
+ "3230808": {
+  "quando": "2026-11-19T11:00:38.377229",
+  "titulo": "JBL Partybox Stage 320",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/gRll7aChi",
+  "publico": null,
+  "produto": "shopee:58253113112",
+  "preco": 2285.1,
+  "shopee": [
+   898761179,
+   58253113112
+  ],
+  "cupom": null,
+  "msg": "PspzGu4bk4bJCTg-170Bq53iqHP95g-AuU",
+  "texto": "*Jbl Partybox Stage 320 240w Bluetooth  Preta - Bivolt*\n\nDe ~R$4861~\nPor *R$2285* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRll7aChi",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262e-mje8je5hajus64"
+ },
+ "3231105": {
+  "quando": "2026-11-19T11:00:36.061181",
+  "titulo": "Monitor Gamer HQ 34\" Branco Curvo 1ms 180Hz UltraWide (QHD) - 3440x1440 AMD FreeSync,",
+  "loja": "shopee"
+ },
+ "3231111": {
+  "quando": "2026-11-19T11:00:37.250363",
+  "titulo": "Monitor Gamer HQ 34\" Branco Curvo 1ms, 180Hz, UltraWide (QHD) - 3440x1440 AMD FreeSync, HDMI, DP HQW34C180",
+  "loja": "shopee"
  }
 }
