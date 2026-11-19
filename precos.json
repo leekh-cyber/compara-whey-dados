@@ -266,7 +266,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/904040298/18065573844",
           "valor": 189.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -316,9 +316,12 @@
             {
               "data": "2026-11-18",
               "valor": 189.99
+            },
+            {
+              "data": "2026-11-19",
+              "valor": 189.99
             }
-          ],
-          "aPartir": true
+          ]
         },
         {
           "loja": "Extrafarma",
@@ -693,7 +696,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1078998166/58215018767",
           "valor": 196.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -742,6 +745,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 196.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 196.9
             }
           ]
@@ -1372,7 +1379,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1876581966/58216712765",
           "valor": 443.1,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -1421,6 +1428,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 443.1
+            },
+            {
+              "data": "2026-11-19",
               "valor": 443.1
             }
           ]
@@ -1711,7 +1722,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/353906453/23593563829",
           "valor": 319.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 907,
           "historico": [
             {
@@ -1760,6 +1771,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 319.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 319.9
             }
           ]
@@ -2269,7 +2284,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/254016555/5382027742",
           "valor": 297.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 375,
           "historico": [
             {
@@ -2318,6 +2333,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 297.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 297.99
             }
           ]
@@ -2771,7 +2790,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/233050717/20896854131",
           "valor": 239.89,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -2820,6 +2839,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 239.89
+            },
+            {
+              "data": "2026-11-19",
               "valor": 239.89
             }
           ]
@@ -3122,7 +3145,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1648150131/58205814016",
           "valor": 279.69,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -3171,6 +3194,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 279.69
+            },
+            {
+              "data": "2026-11-19",
               "valor": 279.69
             }
           ]
@@ -3717,7 +3744,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1530996761/58264398949",
           "valor": 268.76,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -3766,6 +3793,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 268.76
+            },
+            {
+              "data": "2026-11-19",
               "valor": 268.76
             }
           ]
@@ -4254,7 +4285,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/867367204/22393959573",
           "valor": 235.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -4303,6 +4334,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 235.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 235.9
             }
           ]
@@ -4755,7 +4790,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/904040298/22892964388",
           "valor": 319.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -4804,6 +4839,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 319.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 319.99
             }
           ]
@@ -5098,7 +5137,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/301579862/12794402142",
           "valor": 395.78,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 912,
           "historico": [
             {
@@ -5147,6 +5186,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 395.78
+            },
+            {
+              "data": "2026-11-19",
               "valor": 395.78
             }
           ]
@@ -5878,7 +5921,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/662618933/23293547850",
           "valor": 136.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -5927,6 +5970,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 136.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 136.9
             }
           ],
@@ -6417,7 +6464,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/904040298/22193878107",
           "valor": 259.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 907,
           "historico": [
             {
@@ -6466,6 +6513,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 259.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 259.99
             }
           ],
@@ -7308,7 +7359,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/374144694/19497111984",
           "valor": 389.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -7357,6 +7408,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 389.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 389.99
             }
           ]
@@ -7629,7 +7684,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1217925525/49262706411",
           "valor": 359.26,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -7678,6 +7733,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 359.26
+            },
+            {
+              "data": "2026-11-19",
               "valor": 359.26
             }
           ]
@@ -8070,7 +8129,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/444333071/20810556296",
           "valor": 132.0,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -8119,6 +8178,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 132.0
+            },
+            {
+              "data": "2026-11-19",
               "valor": 132.0
             }
           ],
@@ -8586,7 +8649,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/904040298/17491608942",
           "valor": 399.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -8635,6 +8698,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 399.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 399.99
             }
           ]
@@ -9132,7 +9199,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/510427498/58260926661",
           "valor": 699.0,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -9181,6 +9248,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 699.0
+            },
+            {
+              "data": "2026-11-19",
               "valor": 699.0
             }
           ]
@@ -9440,7 +9511,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/422783358/23594250107",
           "valor": 159.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -9489,6 +9560,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 159.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 159.9
             }
           ],
@@ -9981,7 +10056,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/422783358/23698746811",
           "valor": 444.14,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -10030,6 +10105,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 444.14
+            },
+            {
+              "data": "2026-11-19",
               "valor": 444.14
             }
           ]
@@ -10520,7 +10599,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/341594708/22397773295",
           "valor": 419.33,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -10569,6 +10648,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 419.33
+            },
+            {
+              "data": "2026-11-19",
               "valor": 419.33
             }
           ]
@@ -10828,7 +10911,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/904040298/22694253400",
           "valor": 224.99,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -10877,6 +10960,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 224.99
+            },
+            {
+              "data": "2026-11-19",
               "valor": 224.99
             }
           ]
@@ -12035,7 +12122,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/338537405/8658711360",
           "valor": 217.6,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 900,
           "historico": [
             {
@@ -12084,6 +12171,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 217.6
+            },
+            {
+              "data": "2026-11-19",
               "valor": 217.6
             }
           ],
@@ -12915,7 +13006,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1876581966/58266708950",
           "valor": 178.84,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -12964,6 +13055,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 178.84
+            },
+            {
+              "data": "2026-11-19",
               "valor": 178.84
             }
           ],
@@ -13157,7 +13252,7 @@
           "loja": "Shopee",
           "url": "https://shopee.com.br/product/1876581966/58216707824",
           "valor": 168.31,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -13206,6 +13301,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 168.31
+            },
+            {
+              "data": "2026-11-19",
               "valor": 168.31
             }
           ]
