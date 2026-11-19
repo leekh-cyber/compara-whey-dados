@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T15:00:31.319222",
+  "quando": "2026-11-19T15:30:25.981781",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14839,7 +14839,8 @@
   },
   "msg": "Pso5liPXtruCFQ4-15EBq53iqHP95g-Auo",
   "texto": "*Cadeira de Escritório Diretor Dr.Office Giratória Ergo, Mesh Respirável, Regulagem de Altura*\n\nPor *R$740* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$579*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2LZzqMSejD",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mo4e6cw33cao42"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mo4e6cw33cao42",
+  "conferido": "2026-11-19T15:32:48.222314"
  },
  "3231588": {
   "quando": "2026-11-19T12:31:44.235462",
@@ -14866,7 +14867,8 @@
   },
   "msg": "PsqHYhkI1xqhXrw-1x0Bq53iqHP95g-Aus",
   "texto": "*YESOP Cadeira De Escritório Ergonômica Com Apoio Lombar E De Pernas Assento Zero Gravity Cor Preto*\n\nDe ~R$1997~\nA partir de *R$879* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$716*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7puwOYARQq",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mp1myzowcef76f"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mp1myzowcef76f",
+  "conferido": "2026-11-19T15:32:48.577688"
  },
  "3231618": {
   "quando": "2026-11-19T13:00:34.169525",
@@ -15112,5 +15114,39 @@
   "msg": "PsqLvALklGOPAIk-15sBq53iqHP95g-AvY",
   "texto": "*bikini feminino assa delta forrado possui bojo calcinha hot peint forrada moda praia e piscina*\n\nDe ~R$66~\nPor *R$36* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gCqPR39Zd",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mtisiv9h5se890"
+ },
+ "3232389": {
+  "quando": "2026-11-19T15:30:31.546677",
+  "titulo": "Espelho Verona Oval Base Reta Corpo Inteiro Com Moldura em Couro Premium 120x50 Sala Quarto",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LpbIN7yQ",
+  "publico": null,
+  "produto": "shopee:58206209035",
+  "preco": 79.9,
+  "shopee": [
+   1579353989,
+   58206209035
+  ],
+  "cupom": null,
+  "msg": "PsrGnYxNJMkAR7k-10gBq53iqHP95g-Avc",
+  "texto": "*Espelho Verona Oval Base Reta Corpo Inteiro Com Moldura em Couro Premium 120x50 Sala Quarto*\n\nA partir de *R$80* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70LpbIN7yQ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mvme80xdc74342"
+ },
+ "3232500": {
+  "quando": "2026-11-19T15:31:41.209141",
+  "titulo": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VI6CIJCgY",
+  "publico": null,
+  "produto": "shopee:54261362044",
+  "preco": 40.99,
+  "shopee": [
+   1232299933,
+   54261362044
+  ],
+  "cupom": null,
+  "msg": "Pso2M1lLG8jF56Q-13UBq53iqHP95g-Avg",
+  "texto": "*Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync*\n\nPor *R$41* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VI6CIJCgY",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11"
  }
 }
