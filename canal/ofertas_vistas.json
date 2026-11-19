@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T09:00:29.228559",
+  "quando": "2026-11-19T09:30:35.858736",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14505,5 +14505,74 @@
   "msg": "Psor98CWdFddyKA-1_IBq53iqHP95g-At4",
   "texto": "*Bicicleta  Aro 29 GT Sprint MX7 24V index Freio Disco Alumínio Suspensão Aero MTB*\n\nDe ~R$1288~\nPor *R$799* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3LSWnrWSkN",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me910y70d7nmf6"
+ },
+ "3230439": {
+  "quando": "2026-11-19T09:30:36.899904",
+  "titulo": "Escada em Alumínio Articulada Dobrável 16 Degraus 4X4 13 Posições 150kg Profissional Erb Maquinas",
+  "loja": "shopee"
+ },
+ "3230432": {
+  "quando": "2026-11-19T09:30:37.692600",
+  "titulo": "Controle Sem Fio Microsoft Xbox Wireless Series X|s Cor Carbon Black Preto",
+  "loja": "shopee"
+ },
+ "3230127": {
+  "quando": "2026-11-19T09:30:38.726891",
+  "titulo": "EZ Vip Rose - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AAIqyOnUZ4",
+  "publico": null,
+  "produto": "shopee:58203770266",
+  "preco": 44.9,
+  "shopee": [
+   1482776546,
+   58203770266
+  ],
+  "cupom": null,
+  "msg": "PsrHE2exwcQdToA-12gBq53iqHP95g-At8",
+  "texto": "*EZ Vip Rose - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO*\n\nDe ~R$69~\nPor *R$45* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AAIqyOnUZ4",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybqujghc2"
+ },
+ "3229959": {
+  "quando": "2026-11-19T09:31:45.404909",
+  "titulo": "Lavadora De Alta Pressão Com Trava De Segurança Ágil 1800 1300psi 1400w Wap",
+  "loja": "shopee"
+ },
+ "3229918": {
+  "quando": "2026-11-19T09:31:48.034393",
+  "titulo": "Escova Secadora Britânia Bec07r Cabo Giratório 1300w Bivolt",
+  "loja": "shopee"
+ },
+ "3229989": {
+  "quando": "2026-11-19T09:31:48.723331",
+  "titulo": "Console Nintendo Switch Oled Nintendo Bundle Super Mario Bros Wonder 3 Meses Nintendo Switch Online 64gb Branco",
+  "loja": "shopee"
+ },
+ "3229902": {
+  "quando": "2026-11-19T09:31:49.761386",
+  "titulo": "Esmerilhadeira Profissional Elétrica 720W 115mm (4.5”) 11.500 RPM – Pró Euro",
+  "loja": "shopee"
+ },
+ "3229909": {
+  "quando": "2026-11-19T09:31:50.516851",
+  "titulo": "Monitor Lg Fhd Gamer & Office com telaIPS 24”, 1ms (Mbr), 144Hz nativo, FreeSync, Hdr10, sRGB",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LpCfEiIf",
+  "publico": null,
+  "produto": "shopee:56821195744",
+  "preco": 599.0,
+  "shopee": [
+   1509845472,
+   56821195744
+  ],
+  "cupom": {
+   "codigo": "SHO1170",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrnwgMTQCaOFQ8-19EBq53iqHP95g-AuA",
+  "texto": "*Monitor Gamer LG 24 Full HD IPS 144Hz 24U411B-B*\n\nDe ~R$894~\nPor *R$599* 🔥\n\n🎟️ Cupom: *SHO1170*\n💸 Com o cupom: *R$486*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70LpCfEiIf",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82595-mv7k529ot7ntf1"
  }
 }
