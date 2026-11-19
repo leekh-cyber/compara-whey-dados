@@ -1135,10 +1135,10 @@
     },
     "growth-isolado": {
       "oferta": {
-        "valor": 349.9,
-        "loja": "Mercado Livre",
+        "valor": 339.9,
+        "loja": "Growth (oficial)",
         "data": "2026-11-19",
-        "url": "https://www.mercadolivre.com.br/whey-protein-isolado-1kg-growth-supplements-chocolate/p/MLB26879184",
+        "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
         "afiliado": ""
       },
       "historico": [
@@ -1189,8 +1189,8 @@
         },
         {
           "data": "2026-11-19",
-          "valor": 349.9,
-          "loja": "Mercado Livre"
+          "valor": 339.9,
+          "loja": "Growth (oficial)"
         }
       ],
       "lojas": [
@@ -1299,7 +1299,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
           "valor": 339.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -1360,6 +1360,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 339.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 339.9
             }
           ]
@@ -12553,7 +12557,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
           "valor": 244.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -12615,6 +12619,10 @@
             {
               "data": "2026-11-18",
               "valor": 244.9
+            },
+            {
+              "data": "2026-11-19",
+              "valor": 244.9
             }
           ]
         }
@@ -12650,7 +12658,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
           "valor": 429.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -12712,6 +12720,10 @@
             {
               "data": "2026-11-18",
               "valor": 429.9
+            },
+            {
+              "data": "2026-11-19",
+              "valor": 429.9
             }
           ]
         }
@@ -12737,7 +12749,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
           "valor": 259.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -12798,6 +12810,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 259.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 259.9
             }
           ]
@@ -12975,7 +12991,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
           "valor": 129.9,
-          "data": "2026-11-18",
+          "data": "2026-11-19",
           "embalagem": 1000,
           "historico": [
             {
@@ -13036,6 +13052,10 @@
             },
             {
               "data": "2026-11-18",
+              "valor": 129.9
+            },
+            {
+              "data": "2026-11-19",
               "valor": 129.9
             }
           ]
