@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T13:00:29.079645",
+  "quando": "2026-11-19T13:30:27.647229",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14658,7 +14658,8 @@
   "cupom": null,
   "msg": "PsqVwCFgPk2lQ.A-15YBq53iqHP95g-AuM",
   "texto": "*Kit 6 Faixinhas para Bebê | Laços para Recém-Nascida | Saída de Maternidade*\n\nPor *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7puwGE7lD6",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820md-mqy279fiqdc7c7"
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820md-mqy279fiqdc7c7",
+  "conferido": "2026-11-19T13:32:54.908088"
  },
  "3230894": {
   "quando": "2026-11-19T10:31:44.056975",
@@ -14675,7 +14676,8 @@
   "cupom": null,
   "msg": "PspAJOc2XpIPFBM-1wkBq53iqHP95g-AuQ",
   "texto": "*Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato*\n\nA partir de *R$23* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9pg0dyy3fn",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
+  "conferido": "2026-11-19T13:32:55.244380"
  },
  "3231051": {
   "quando": "2026-11-19T11:00:33.620344",
@@ -14914,5 +14916,54 @@
   "msg": "PsotMEKd3hl55IY-13IBq53iqHP95g-Au0",
   "texto": "*Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta*\n\nDe ~R$1894~\nPor *R$1099* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$916*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWGTQdVLP",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv3hwxo5k9vk0b"
+ },
+ "3231781": {
+  "quando": "2026-11-19T13:30:33.694344",
+  "titulo": "Gabinete Gamer Mancer CV700B Mini-Tower Lateral de Vidro Com 2 Fans Preto MCR-CV70",
+  "loja": "shopee"
+ },
+ "3231553": {
+  "quando": "2026-11-19T13:30:35.792566",
+  "titulo": "Placa de Vídeo PCI EXP 8GB128BITS RTX 4060 PELADN LOONGSCALE RTX 4060-8GD6 BOX",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3g5NUw4B0l",
+  "publico": null,
+  "produto": "shopee:50671771892",
+  "preco": 2799.9,
+  "shopee": [
+   1051446617,
+   50671771892
+  ],
+  "cupom": {
+   "codigo": "P1XDAY15AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrVjxpTomyo9PQ-13UBq53iqHP95g-Au4",
+  "texto": "*Placa de Vídeo PCI EXP. 8GB/128BITS RTX4060 PELADN LOONGSCALE RTX4060-8GD6 BOX*\n\nDe ~R$4374~\nPor *R$2800* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$2483*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5NUw4B0l",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259p-mvm756flc2di0f"
+ },
+ "3231584": {
+  "quando": "2026-11-19T13:31:48.321205",
+  "titulo": "Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/60TIHIxbYD",
+  "publico": null,
+  "produto": "shopee:58210633027",
+  "preco": 1488.9,
+  "shopee": [
+   811034337,
+   58210633027
+  ],
+  "cupom": {
+   "codigo": "P1XDAY15AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqXnO7.pJhjZ10-11cBq53iqHP95g-Au8",
+  "texto": "*Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB*\n\nDe ~R$2222~\nPor *R$1489* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$1278*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/60TIHIxbYD",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mvp0wt63vjls71"
  }
 }
