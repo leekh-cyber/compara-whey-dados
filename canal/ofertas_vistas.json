@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T13:30:27.647229",
+  "quando": "2026-11-19T14:00:31.783017",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14411,7 +14411,7 @@
   "msg": "PsonMoG9p.4XcC0-11ABq53iqHP95g-Atk",
   "texto": "*CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM*\n\nDe ~R$61~\nA partir de *R$34* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOnKZlrDV",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6evx62ti3ao10",
-  "conferido": "2026-11-19T11:01:46.650239"
+  "conferido": "2026-11-19T14:03:02.746321"
  },
  "3229168": {
   "quando": "2026-11-19T08:01:42.184589",
@@ -14699,7 +14699,8 @@
   "cupom": null,
   "msg": "PspzGu4bk4bJCTg-170Bq53iqHP95g-AuU",
   "texto": "*Jbl Partybox Stage 320 240w Bluetooth  Preta - Bivolt*\n\nDe ~R$4861~\nPor *R$2285* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRll7aChi",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262e-mje8je5hajus64"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262e-mje8je5hajus64",
+  "conferido": "2026-11-19T14:03:02.005757"
  },
  "3231105": {
   "quando": "2026-11-19T11:00:36.061181",
@@ -14965,5 +14966,49 @@
   "msg": "PsqXnO7.pJhjZ10-11cBq53iqHP95g-Au8",
   "texto": "*Smart TV 43\" Philco QLED HDR10 Roku TV P43KRB*\n\nDe ~R$2222~\nPor *R$1489* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$1278*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/60TIHIxbYD",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mvp0wt63vjls71"
+ },
+ "3232073": {
+  "quando": "2026-11-19T14:00:37.290344",
+  "titulo": "Lavadora De Alta Pressão Com Trava De Segurança Ágil 1800 1300psi 1400w Wap",
+  "loja": "shopee"
+ },
+ "3232095": {
+  "quando": "2026-11-19T14:00:39.335238",
+  "titulo": "Quadriciclo para Criança Totokinha Sport com Encaixe Geométrico",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7AfFhQj4im",
+  "publico": null,
+  "produto": "shopee:23894175569",
+  "preco": 78.99,
+  "shopee": [
+   1728407344,
+   23894175569
+  ],
+  "cupom": null,
+  "msg": "Psq5Wzsl4Wc1SNA-17cBq53iqHP95g-AvA",
+  "texto": "*Totoka Infantil Bebê Tipo Motoca Quadriciculo para Criança Totokinha Sport com Encaixe Geométrico*\n\nDe ~R$133~\nA partir de *R$79* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7AfFhQj4im",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82611-mmgoz6tdwirl46"
+ },
+ "3232142": {
+  "quando": "2026-11-19T14:01:50.091530",
+  "titulo": "Kit Upgrade Gamer AMD Ryzen 5 3400G A520M",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7AfFhW33Pj",
+  "publico": null,
+  "produto": "shopee:58214717915",
+  "preco": 949.9,
+  "shopee": [
+   627750190,
+   58214717915
+  ],
+  "cupom": {
+   "codigo": "P1XDAY15AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqnFDem2Tb20S0-15kBq53iqHP95g-AvE",
+  "texto": "*Kit Upgrade Gamer, AMD Ryzen 5 3400G, A520M*\n\nDe ~R$1507~\nPor *R$950* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$781*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7AfFhW33Pj",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259m-mqxr350kofeuc8"
  }
 }
