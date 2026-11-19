@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T12:30:27.623417",
+  "quando": "2026-11-19T13:00:29.079645",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14597,7 +14597,8 @@
   "cupom": null,
   "msg": "PsouapbU0K_p5Ew-1.wBq53iqHP95g-AuE",
   "texto": "*Kit com 10 Cuecas Boxer Masculina Microfibra com Forro 100% Algodão ou 5 Cueca Masculino*\n\nA partir de *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5q9rqVR4ur",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5iowdvdol7b"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5iowdvdol7b",
+  "conferido": "2026-11-19T13:02:59.020893"
  },
  "3230720": {
   "quando": "2026-11-19T10:01:59.189360",
@@ -14639,7 +14640,8 @@
   "cupom": null,
   "msg": "PsokHsfcS.4qp90-19IBq53iqHP95g-AuI",
   "texto": "*Kit 2 Macacão Romper Bebê Menina Verão 100% Algodão Banho de Sol Manga Curta RN P M G GG Girafa Confortável Fresquinho*\n\nDe ~R$65~\nPor *R$51* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3g5NGcAu80",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msbnon661clh3d"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msbnon661clh3d",
+  "conferido": "2026-11-19T13:02:59.569379"
  },
  "3230917": {
   "quando": "2026-11-19T10:30:33.292131",
@@ -14858,5 +14860,59 @@
   "msg": "PsqHYhkI1xqhXrw-1x0Bq53iqHP95g-Aus",
   "texto": "*YESOP Cadeira De Escritório Ergonômica Com Apoio Lombar E De Pernas Assento Zero Gravity Cor Preto*\n\nDe ~R$1997~\nA partir de *R$879* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$716*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7puwOYARQq",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mp1myzowcef76f"
+ },
+ "3231618": {
+  "quando": "2026-11-19T13:00:34.169525",
+  "titulo": "Monitor Gamer Duex Pro 27 QHD 180Hz 05ms 2HDMI 2DP Preto",
+  "loja": "shopee"
+ },
+ "3231599": {
+  "quando": "2026-11-19T13:00:38.805931",
+  "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 27G50F",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qOnfBONe1",
+  "publico": null,
+  "produto": "shopee:48950769608",
+  "preco": 729.0,
+  "shopee": [
+   564780452,
+   48950769608
+  ],
+  "cupom": {
+   "codigo": "P1XDAY15AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrwrYu.9YTvmyI-19oBq53iqHP95g-Auw",
+  "texto": "*Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F*\n\nDe ~R$1278~\nPor *R$729* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$578*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qOnfBONe1",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821f9-mgmb619lvk098d"
+ },
+ "3231869": {
+  "quando": "2026-11-19T13:01:49.841889",
+  "titulo": "Placa Mãe Gigabyte B850M DS3H ICE Chipset B850 AMD AM5 M-ATX DDR5",
+  "loja": "shopee"
+ },
+ "3231611": {
+  "quando": "2026-11-19T13:01:50.980183",
+  "titulo": "Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2qWGTQdVLP",
+  "publico": null,
+  "produto": "shopee:23999162333",
+  "preco": 1099.0,
+  "shopee": [
+   898761179,
+   23999162333
+  ],
+  "cupom": {
+   "codigo": "P1XDAY15AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsotMEKd3hl55IY-13IBq53iqHP95g-Au0",
+  "texto": "*Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta*\n\nDe ~R$1894~\nPor *R$1099* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$916*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWGTQdVLP",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv3hwxo5k9vk0b"
  }
 }
