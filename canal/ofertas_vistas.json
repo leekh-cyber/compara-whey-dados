@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-20T10:00:29.560867",
+  "quando": "2026-11-20T10:30:23.709694",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -15852,5 +15852,34 @@
   "msg": "PsrxnqQvI8gSMo0-17cBq53iqHP95g-Ax0",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camiseta Tech Light  Insider Masculino*\n\nPor *R$57* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1JoQFn4\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_914288-MLB119935520173_102026-P.webp"
+ },
+ "3235062": {
+  "quando": "2026-11-20T10:30:27.215399",
+  "titulo": "Vestido Tubinho Ciganinha Manga Longa Feminino",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AAIsdOhJ1O",
+  "publico": "feminino",
+  "produto": "shopee:23393905122",
+  "preco": 26.59,
+  "shopee": [
+   1246538462,
+   23393905122
+  ],
+  "cupom": null,
+  "msg": "PsrRwtHva766EI4-1wABq53iqHP95g-Ax4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Vestido Tubinho Ciganinha Tomara que Caia Colado com Manga Longa Feminino Outono/Inverno*\n\nDe ~R$42~\nA partir de *R$27* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AAIsdOhJ1O",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8veu1thtrwx6d"
+ },
+ "3235052": {
+  "quando": "2026-11-20T10:31:34.104963",
+  "titulo": "Kit Relógio Dumont Lady Feminino Dourado Com Pulseira E Brincos",
+  "link": "https://meli.la/2cwfP4x",
+  "publico": "feminino",
+  "produto": "MLB25354781",
+  "preco": 164.68,
+  "cupom": null,
+  "msg": "PsqOQtIQxFUCS9g-1z4Bq53iqHP95g-Ax8",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Relógio Dumont Lady Feminino Dourado com Pulseira e Brincos*\n\nDe ~R$299~\nPor *R$165* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2cwfP4x\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_884965-MLA110864601388_052026-P.webp"
  }
 }
