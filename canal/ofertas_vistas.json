@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-19T22:00:27.304487",
+  "quando": "2026-11-19T22:27:02.632083",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -14844,7 +14844,7 @@
   "msg": "Pso5liPXtruCFQ4-15EBq53iqHP95g-Auo",
   "texto": "*Cadeira de Escritório Diretor Dr.Office Giratória Ergo, Mesh Respirável, Regulagem de Altura*\n\nPor *R$740* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$579*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2LZzqMSejD",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mo4e6cw33cao42",
-  "conferido": "2026-11-19T19:02:48.380618"
+  "conferido": "2026-11-19T22:28:08.720831"
  },
  "3231588": {
   "quando": "2026-11-19T12:31:44.235462",
@@ -14872,7 +14872,7 @@
   "msg": "PsqHYhkI1xqhXrw-1x0Bq53iqHP95g-Aus",
   "texto": "*YESOP Cadeira De Escritório Ergonômica Com Apoio Lombar E De Pernas Assento Zero Gravity Cor Preto*\n\nDe ~R$1997~\nA partir de *R$879* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$716*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7puwOYARQq",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mp1myzowcef76f",
-  "conferido": "2026-11-19T19:02:48.759870"
+  "conferido": "2026-11-19T22:28:09.000965"
  },
  "3231618": {
   "quando": "2026-11-19T13:00:34.169525",
@@ -15197,7 +15197,7 @@
   "msg": "Pso9NScLEbjMnu4-1_4Bq53iqHP95g-Avk",
   "texto": "*Toalha de Banho Extra Grande 90x170cm Felpuda Macia Alta Absorção Secagem Rápida Toalha de Praia*\n\nDe ~R$120~\nA partir de *R$58* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1W0t5Fegj6",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mtdlop9e6uww53",
-  "conferido": "2026-11-19T19:02:49.043910"
+  "conferido": "2026-11-19T22:28:09.257907"
  },
  "3232290": {
   "quando": "2026-11-19T16:01:44.569268",
@@ -15220,7 +15220,7 @@
   "msg": "PspoYZmCTn69oXU-1_QBq53iqHP95g-Avo",
   "texto": "*Kit Morango com Shampoo + Condicionador e Creme de Pentear Kids*\n\nDe ~R$73~\nPor *R$59* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8fU3cVKFlI",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzv8ko2l98j88",
-  "conferido": "2026-11-19T19:02:49.262840"
+  "conferido": "2026-11-19T22:28:09.526863"
  },
  "cupom:GANHEDESCONTO": {
   "quando": "2026-11-19T16:28:32.786571",
@@ -15479,7 +15479,8 @@
   "cupom": null,
   "msg": "PsqVLXPOeRt6ewY-14QBq53iqHP95g-AwY",
   "texto": "*Controle Sem Fio Microsoft Xbox Wireless Series X|s Cor Carbon Black Preto*\n\nDe ~R$499~\nPor *R$360* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LL4eosrAC",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6uhvgr4n4o72b"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6uhvgr4n4o72b",
+  "conferido": "2026-11-19T22:28:08.239883"
  },
  "3233399": {
   "quando": "2026-11-19T19:01:43.069798",
@@ -15613,6 +15614,16 @@
   "ate": "2026-12-19T23:59:59-0300",
   "msg": "PsqNc91vC3OjnNQ-1ygBq53iqHP95g-Aw8",
   "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*R$150 OFF acima de R$1100*\n\n_Desconto aplicado automaticamente nos itens participantes_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "cupom:72339": {
+  "quando": "2026-11-19T22:27:05.147541",
+  "titulo": "Use o cupom Mercado Livre e ganhe R$ 100 OFF em Kérastase",
+  "id": "72339",
+  "publicado": "2026-11-19T15:00:01-03:00",
+  "ate": "2026-12-19T23:59:59-0300",
+  "msg": "PspZHaTE.r2QyY4-19cBq53iqHP95g-AxA",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*R$100 OFF acima de R$799*\nem Kérastase\n\n_Desconto aplicado automaticamente nos itens participantes_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
   "imagem": null
  }
 }
