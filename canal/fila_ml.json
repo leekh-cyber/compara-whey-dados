@@ -89,18 +89,6 @@
   "cupom": null
  },
  {
-  "id": "3234673",
-  "quando": "2026-11-20T09:10:23.584274",
-  "titulo": "Camisa Polo Tricot Masculina Elegante Clássica Old Money",
-  "texto": "*Camisa Polo Tricot Masculina Elegante Clássica Old Money*\n\nDe ~R$78~\nPor *R$46* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2kojk7w",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_685908-MLB119044485164_112026-P.webp",
-  "link": "https://meli.la/2kojk7w",
-  "produto": "MLB4187581129",
-  "publico": "masculino",
-  "preco": 45.9,
-  "cupom": null
- },
- {
   "id": "3234751",
   "quando": "2026-11-20T09:10:31.343874",
   "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
@@ -128,5 +116,56 @@
   "publico": null,
   "preco": 36.98,
   "cupom": null
+ },
+ {
+  "id": "3234905",
+  "quando": "2026-11-20T09:45:10.189009",
+  "titulo": "Monitor Tcl 24 Mini Led 24g54 Fhd 100hz branco",
+  "texto": "*Monitor Tcl 24 Mini Led 24g54 Fhd 100hz branco*\n\nDe ~R$1899~\nPor *R$809* 🔥\n\n🎟️ Cupom: *INOVATECHML* (10% OFF acima de R$199, até R$200)\n💸 Com o cupom: *R$728*\n\n👉 *Pegar promoção:* https://meli.la/1KUhr6P\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_655276-MLA107340950895_022026-P.webp",
+  "link": "https://meli.la/1KUhr6P",
+  "produto": "MLB65696243",
+  "publico": null,
+  "preco": 809.0,
+  "cupom": {
+   "codigo": "INOVATECHML",
+   "id": "72403",
+   "publicado": "2026-11-20T09:06:19-03:00",
+   "ate": "2026-11-20T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3234901",
+  "quando": "2026-11-20T09:45:17.277121",
+  "titulo": "Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l",
+  "texto": "*Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l*\n\nDe ~R$600~\nPor *R$248* 🔥 no pix\n\n🎟️ Cupom: *TODOSITE2011*\n💸 Com o cupom: *R$230*\n\n👉 *Pegar promoção:* https://meli.la/2M7mtB5",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_652495-MLA97031196806_112025-P.webp",
+  "link": "https://meli.la/2M7mtB5",
+  "produto": "MLB61812355",
+  "publico": null,
+  "preco": 248.4,
+  "cupom": {
+   "codigo": "TODOSITE2011",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3234913",
+  "quando": "2026-11-20T09:45:30.020087",
+  "titulo": "Armário De Cozinha Completa Aéreo 7 Portas E 2 Gavetas Planejada Suspenso Branco Off White Ripado 3d Carvalho Nature Amadeirado Juliana",
+  "texto": "*Armário de Cozinha Completa Aéreo 7 Portas e 2 Gavetas Planejada Suspenso Branco Off White Ripado 3D Carvalho Nature Amadeirado Juliana*\n\nDe ~R$799~\nPor *R$380* 🔥 no pix\n\n🎟️ Cupom: *SITETODO2011*\n💸 Com o cupom: *R$342*\n\n👉 *Pegar promoção:* https://meli.la/1t9mVv4",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_720684-MLA99386192146_112025-P.webp",
+  "link": "https://meli.la/1t9mVv4",
+  "produto": "MLB47436166",
+  "publico": null,
+  "preco": 380.33,
+  "cupom": {
+   "codigo": "SITETODO2011",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
