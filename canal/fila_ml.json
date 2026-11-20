@@ -17,23 +17,6 @@
   }
  },
  {
-  "id": "3234420",
-  "quando": "2026-11-20T08:00:45.720447",
-  "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-  "texto": "*Tênis Flyer Runner Mesh Bdp Puma*\n\nDe ~R$349~\nPor *R$190* 🔥 no pix\n\n🎟️ Cupom: *FULL2011*\n💸 Com o cupom: *R$160*\n\n👉 *Pegar promoção:* https://meli.la/2Soc8Qy\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-P.webp",
-  "link": "https://meli.la/2Soc8Qy",
-  "produto": "MLB3806655487",
-  "publico": "masculino",
-  "preco": 189.99,
-  "cupom": {
-   "codigo": "FULL2011",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3234515",
   "quando": "2026-11-20T08:00:53.440127",
   "titulo": "Chaleira Elétrica Rosa Britânia 1,9l Inox Bch12rs Rosa",
@@ -56,5 +39,58 @@
   "publico": null,
   "preco": 28.99,
   "cupom": null
+ },
+ {
+  "id": "3234574",
+  "quando": "2026-11-20T08:35:11.694813",
+  "titulo": "Loção Hidratante Advanced Cetaphil 473ml",
+  "texto": "*Cetaphil Loção Advanced Hidratante Corporal para Pele Seca e Sensível 473ml - Hidratação 48h*\n\nPor *R$56* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JdBxb8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_824819-MLA116564958030_092026-P.webp",
+  "link": "https://meli.la/1JdBxb8",
+  "produto": "MLB19918914",
+  "publico": null,
+  "preco": 55.92,
+  "cupom": null
+ },
+ {
+  "id": "3234621",
+  "quando": "2026-11-20T08:35:19.385759",
+  "titulo": "Carregador de Bateria 12V 6A Bivolt Inteligente",
+  "texto": "*Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão Automotivo 4Ah a 100Ah Com Função Reparo Display Digital Proteção Carga Emergencia Portátil Resistente Eficiente Multifuncional*\n\nDe ~R$89~\nPor *R$39* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1Bn58w8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_619774-MLA121790428851_112026-P.webp",
+  "link": "https://meli.la/1Bn58w8",
+  "produto": "MLB62564330",
+  "publico": null,
+  "preco": 39.01,
+  "cupom": null
+ },
+ {
+  "id": "3234532",
+  "quando": "2026-11-20T08:35:28.684243",
+  "titulo": "Hidrante Corporal Epidrat 450ml Mantecorp",
+  "texto": "*Hidrante Corporal Epidrat Corpo Intensivo Com 450ml Mantecorp*\n\nDe ~R$129~\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1e3E5Ju\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_998571-MLA92796870625_092025-P.webp",
+  "link": "https://meli.la/1e3E5Ju",
+  "produto": "MLB19170804",
+  "publico": null,
+  "preco": 79.0,
+  "cupom": null
+ },
+ {
+  "id": "3234428",
+  "quando": "2026-11-20T08:35:39.755438",
+  "titulo": "Mixer Arno Turbomix Pro 3 Em 1 Cor Preto 127v MX31",
+  "texto": "*Mixer Arno Turbomix Pro 3 Em 1 Cor Preto 127v MX31*\n\nPor *R$159* 🔥\n\n🎟️ Cupom: *FULL2011*\n💸 Com o cupom: *R$127*\n\n👉 *Pegar promoção:* https://meli.la/1cqTXvg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_756207-MLA99481244492_112025-P.webp",
+  "link": "https://meli.la/1cqTXvg",
+  "produto": "MLB15138036",
+  "publico": null,
+  "preco": 159.0,
+  "cupom": {
+   "codigo": "FULL2011",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
