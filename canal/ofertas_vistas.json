@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-20T10:30:23.709694",
+  "quando": "2026-11-20T11:00:28.368556",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -15547,7 +15547,8 @@
   "cupom": null,
   "msg": "PsoKXyJDtMMthwg-1zgBq53iqHP95g-Awo",
   "texto": "*Tenis Anacapri Mist Branco Feminino Casual Slim*\n\nDe ~R$167~\nPor *R$75* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2gtFBAT\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_864938-MLB80021309334_102024-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_864938-MLB80021309334_102024-P.webp",
+  "encerrada": "2026-11-20T11:03:57.644939"
  },
  "3233771": {
   "quando": "2026-11-19T20:00:32.327656",
@@ -15664,7 +15665,8 @@
   "cupom": null,
   "msg": "Pso7uDu_yL2ZJXk-18EBq53iqHP95g-AxI",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*UGREEN PD 20W 30W PPS 25W GaN Carregador Rápido USB Tipo C PD3.0 QC3.0 Carregamento Para iPhone11-17 Samsung S26 Huawei*\n\nDe ~R$119~\nA partir de *R$48* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AUvirnh26E",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m67yv0u4q0whc3"
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m67yv0u4q0whc3",
+  "conferido": "2026-11-20T11:03:49.709067"
  },
  "3234001": {
   "quando": "2026-11-20T08:02:54.058948",
@@ -15686,7 +15688,8 @@
   },
   "msg": "PsqczSuX2bzLqLU-1zMBq53iqHP95g-AxM",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P*\n\nDe ~R$1903~\nPor *R$1009* 🔥\n\n🎟️ Cupom: *P1XDAY15AF*\n💸 Com o cupom: *R$836*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3B988Otatb",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821g3-mgmjwryd4pop83"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821g3-mgmjwryd4pop83",
+  "conferido": "2026-11-20T11:03:50.090712"
  },
  "3234577": {
   "quando": "2026-11-20T08:30:30.211275",
@@ -15881,5 +15884,54 @@
   "msg": "PsqOQtIQxFUCS9g-1z4Bq53iqHP95g-Ax8",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Relógio Dumont Lady Feminino Dourado com Pulseira e Brincos*\n\nDe ~R$299~\nPor *R$165* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2cwfP4x\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_884965-MLA110864601388_052026-P.webp"
+ },
+ "cupom:72332": {
+  "quando": "2026-11-20T11:00:30.484487",
+  "titulo": "Economize R$ 80 em seus pedidos aplicando cupom Mercado Livre",
+  "id": "72332",
+  "publicado": "2026-11-19T14:56:53-03:00",
+  "ate": "2026-12-16T23:59:59-0300",
+  "msg": "PspQGPX5gG_5WqQ-12cBq53iqHP95g-AyA",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*R$80 OFF acima de R$395*\n\n_Desconto aplicado automaticamente nos itens participantes_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3235138": {
+  "quando": "2026-11-20T11:01:35.490741",
+  "titulo": "Grade De Cama Com Tela De Segurança Para Bebês",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/LowxT4c3g",
+  "publico": null,
+  "produto": "shopee:58202648155",
+  "preco": 58.9,
+  "shopee": [
+   1315857028,
+   58202648155
+  ],
+  "cupom": {
+   "codigo": "PR4BL4CKFR1D4Y",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsptaSPmr4vLwa4-15QBq53iqHP95g-AyE",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Grade De Cama Com Tela De Segurança Para Bebês*\n\nDe ~R$98~\nA partir de *R$59* 🔥\n\n🎟️ Cupom: *PR4BL4CKFR1D4Y*\n💸 Com o cupom: *R$50*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/LowxT4c3g",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mpto5a8tgirl1e"
+ },
+ "3235173": {
+  "quando": "2026-11-20T11:02:45.006583",
+  "titulo": "Versace Eros Flame Original Edp 200ml Para Masculino",
+  "link": "https://meli.la/2tCHTzU",
+  "publico": "masculino",
+  "produto": "MLB17892343",
+  "preco": 512.0,
+  "cupom": {
+   "codigo": "SITETODO2011",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspEayZ.aiv43No-1_wBq53iqHP95g-AyI",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Versace Eros Flame Original EDP 200ml para masculino*\n\nDe ~R$999~\nPor *R$512* 🔥\n\n🎟️ Cupom: *SITETODO2011*\n💸 Com o cupom: *R$472*\n\n👉 *Pegar promoção:* https://meli.la/2tCHTzU",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_948958-MLA89551943827_082025-P.webp"
  }
 }
