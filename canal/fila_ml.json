@@ -77,18 +77,6 @@
   }
  },
  {
-  "id": "3234661",
-  "quando": "2026-11-20T09:10:18.205749",
-  "titulo": "Camiseta Tech Light Insider Masculino",
-  "texto": "*Camiseta Tech Light  Insider Masculino*\n\nPor *R$57* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1JoQFn4\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_914288-MLB119935520173_102026-P.webp",
-  "link": "https://meli.la/1JoQFn4",
-  "produto": "MLB4232914111",
-  "publico": "masculino",
-  "preco": 56.7,
-  "cupom": null
- },
- {
   "id": "3234751",
   "quando": "2026-11-20T09:10:31.343874",
   "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
@@ -167,5 +155,17 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3235052",
+  "quando": "2026-11-20T10:20:10.538398",
+  "titulo": "Kit Relógio Dumont Lady Feminino Dourado Com Pulseira E Brincos",
+  "texto": "*Kit Relógio Dumont Lady Feminino Dourado com Pulseira e Brincos*\n\nDe ~R$299~\nPor *R$165* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2cwfP4x\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_884965-MLA110864601388_052026-P.webp",
+  "link": "https://meli.la/2cwfP4x",
+  "produto": "MLB25354781",
+  "publico": "feminino",
+  "preco": 164.68,
+  "cupom": null
  }
 ]
