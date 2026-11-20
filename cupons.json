@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-19T21:41-03:00",
+  "atualizado": "2026-11-20T14:50-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -15,23 +15,23 @@
       "publicado": "2026-11-17T10:16-03:00"
     },
     {
-      "codigo": "ECONOMIZEI30",
-      "pct": 30,
+      "codigo": "DESCONTO",
+      "pct": 25,
       "fixo": null,
       "minimo": 1.0,
       "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-18T23:59:59-03:00",
-      "publicado": "2026-11-18T10:16-03:00"
+      "ate": "2027-05-31T23:59:59-03:00",
+      "publicado": "2026-11-20T09:26-03:00"
     },
     {
       "codigo": "GANHEDESCONTO",
       "pct": 25,
       "fixo": null,
-      "minimo": 0.0,
-      "teto": null,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
@@ -39,40 +39,40 @@
       "publicado": "2026-11-19T15:03-03:00"
     },
     {
-      "codigo": "MAISOFERTAS25",
-      "pct": 25,
+      "codigo": "OFERTAPARASAUDE",
+      "pct": 10,
       "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
+      "minimo": 0.0,
+      "teto": 30.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-18T23:59:59-03:00",
-      "publicado": "2026-11-18T10:16-03:00"
+      "ate": "2026-11-20T23:59:59-03:00",
+      "publicado": "2026-11-20T09:06-03:00"
     },
     {
-      "codigo": "OFERTAJA25",
-      "pct": 25,
+      "codigo": "INOVATECHML",
+      "pct": 10,
       "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
+      "minimo": 199.0,
+      "teto": 200.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-18T23:59:59-03:00",
-      "publicado": "2026-11-18T10:16-03:00"
+      "ate": "2026-11-20T23:59:59-03:00",
+      "publicado": "2026-11-20T09:06-03:00"
     },
     {
-      "codigo": "LEVEAGORA22",
-      "pct": 22,
+      "codigo": "PLAYER1",
+      "pct": 8,
       "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
+      "minimo": 99.0,
+      "teto": null,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-12-18T23:59:59-03:00",
-      "publicado": "2026-11-18T10:16-03:00"
+      "ate": null,
+      "publicado": "2026-11-18T18:19-03:00"
     }
   ]
 }
