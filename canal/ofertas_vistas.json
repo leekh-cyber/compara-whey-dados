@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-20T16:30:31.137542",
+  "quando": "2026-11-20T17:00:41.390214",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -15876,7 +15876,7 @@
   "msg": "PsrRwtHva766EI4-1wABq53iqHP95g-Ax4",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Vestido Tubinho Ciganinha Tomara que Caia Colado com Manga Longa Feminino Outono/Inverno*\n\nDe ~R$42~\nA partir de *R$27* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AAIsdOhJ1O",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8veu1thtrwx6d",
-  "conferido": "2026-11-20T13:32:47.086071"
+  "conferido": "2026-11-20T17:02:54.314587"
  },
  "3235052": {
   "quando": "2026-11-20T10:31:34.104963",
@@ -15921,7 +15921,7 @@
   "msg": "PsptaSPmr4vLwa4-15QBq53iqHP95g-AyE",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Grade De Cama Com Tela De Segurança Para Bebês*\n\nDe ~R$98~\nA partir de *R$59* 🔥\n\n🎟️ Cupom: *PR4BL4CKFR1D4Y*\n💸 Com o cupom: *R$50*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/LowxT4c3g",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mpto5a8tgirl1e",
-  "conferido": "2026-11-20T14:02:53.664403"
+  "conferido": "2026-11-20T17:02:54.806265"
  },
  "3235173": {
   "quando": "2026-11-20T11:02:45.006583",
@@ -16139,7 +16139,8 @@
   "cupom": null,
   "msg": "PsqMxewxJun7JMU-164Bq53iqHP95g-Ay4",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Senbenbao F88 Fones De Ouvido Kitty Cat TWS Sem Fio Bluetooth 6.0 Redução Ruído Esportes Estéreo Jogos Alta Fidelidade*\n\nPor *R$30* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VX3JG3CEf",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iq-mq1n2b7qmhhc0b"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iq-mq1n2b7qmhhc0b",
+  "conferido": "2026-11-20T17:02:54.584629"
  },
  "3235513": {
   "quando": "2026-11-20T14:01:49.097854",
@@ -16332,5 +16333,34 @@
   "msg": "PsoFnQ2SCiyvGEU-1_UBq53iqHP95g-Azk",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Maleta Completa para Manutenção Bits Ponteiras Chaves Torx Allen Phillips Fenda Extensor Adaptador Para Mecânica Automotiva Moto Carro Oficina*\n\nPor *R$22* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1dftGtz\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_719316-MLA121226300539_112026-P.webp"
+ },
+ "3236047": {
+  "quando": "2026-11-20T17:00:43.607330",
+  "titulo": "Brinquedo Peixe Elétrico Recarregável para Gato e Pets",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/gRnkjxkZr",
+  "publico": null,
+  "produto": "shopee:22699171765",
+  "preco": 19.98,
+  "shopee": [
+   1654794100,
+   22699171765
+  ],
+  "cupom": null,
+  "msg": "PspaCqR_wrlpdXc-1xgBq53iqHP95g-Azo",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Brinquedo Peixe Elétrico Recarregável para Gato e Pets*\n\nPor *R$20* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRnkjxkZr",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821eb-mgqidbfzrcp927"
+ },
+ "3235428": {
+  "quando": "2026-11-20T17:01:50.046833",
+  "titulo": "Extensão 5 Tomadas 4 Usb E Tipo C Proteção Sobrecarga Bivolt Branco 127220v - R$ 41",
+  "link": "https://meli.la/23pb3zQ",
+  "publico": null,
+  "produto": "MLB7424711400",
+  "preco": 41.0,
+  "cupom": null,
+  "msg": "PsrmvpbocsZYypw-160Bq53iqHP95g-Azs",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Extensão 5 Tomadas 4 Usb E Tipo C Proteção Sobrecarga Bivolt Branco 127/220v*\n\nPor *R$41* 🔥\n\n👉 *Pegar promoção:* https://meli.la/23pb3zQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_628073-MLB115156254766_082026-P.webp"
  }
 }
