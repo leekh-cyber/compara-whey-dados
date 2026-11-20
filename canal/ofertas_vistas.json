@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-20T17:30:32.515376",
+  "quando": "2026-11-20T18:00:30.953961",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -16219,7 +16219,8 @@
   "cupom": null,
   "msg": "Pso2SkUoXVmPrVg-12wBq53iqHP95g-AzI",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Celular POCO X8 5G NFC Dual Sim 8GB RAM 256GB / 12GB RAM 256GB Versão Global Lançamento 2026*\n\nDe ~R$3393~\nA partir de *R$2070* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1BO4DQD0V4",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mtizr7lm3ke8b0"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mtizr7lm3ke8b0",
+  "conferido": "2026-11-20T18:02:57.027682"
  },
  "3235692": {
   "quando": "2026-11-20T15:00:43.609340",
@@ -16397,5 +16398,49 @@
   "msg": "PsrmmFlS6PJ0Ty8-1.YBq53iqHP95g-Az0",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Caixa De Som LG Xboom Rnc5 Preta Preto 127/220v*\n\nPor *R$678* 🔥 no pix\n\n🎟️ Cupom: *ELETRO2011*\n💸 Com o cupom: *R$608*\n\n👉 *Pegar promoção:* https://meli.la/25kBZsY\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_695588-MLB110362374395_042026-P.webp"
+ },
+ "3236301": {
+  "quando": "2026-11-20T18:00:36.526498",
+  "titulo": "Tênis de Academia Tribase Cross 2 SE Treino Unissex - Under Armour",
+  "loja": "shopee"
+ },
+ "3236097": {
+  "quando": "2026-11-20T18:00:39.731101",
+  "titulo": "Ar Condicionado Split Agratto Hi Wall Zen Top Inverter 9.000 Btuh Frio Monofásico Branco ZICST9F-02 220V",
+  "loja": "shopee"
+ },
+ "3236203": {
+  "quando": "2026-11-20T18:00:42.393188",
+  "titulo": "Kit 4 Sacos de Lixo Perfumados Lavanda 10 Litros 160 Saquinhos Pia e Banheiro",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LrMV2YW1",
+  "publico": null,
+  "produto": "shopee:23294540537",
+  "preco": 24.9,
+  "shopee": [
+   1626437729,
+   23294540537
+  ],
+  "cupom": null,
+  "msg": "Psr.3_ky2MOHcH0-19MBq53iqHP95g-Az4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 4 Sacos de Lixo Perfumados Lavanda  10 Litros 160 Saquinhos Pia e Banheiro Neutraliza Odores*\n\nDe ~R$48~\nPor *R$25* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70LrMV2YW1",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-muwrdyvbrvnn51"
+ },
+ "3235469": {
+  "quando": "2026-11-20T18:01:52.546021",
+  "titulo": "Torre de Som LG XBOOM RNC5 Bluetooth, Som Potente, Função DJ, Iluminação LED e Party Mode",
+  "link": "https://meli.la/2j3v4co",
+  "publico": null,
+  "produto": "MLB25238701",
+  "preco": 677.73,
+  "cupom": {
+   "codigo": "ELETRO2011",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrxzKhPJ1fxjCk-1z4Bq53iqHP95g-Az8",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Torre de Som LG XBOOM RNC5 Bluetooth, Som Potente, Função DJ, Iluminação LED e Party Mode*\n\nPor *R$678* 🔥 no pix\n\n🎟️ Cupom: *ELETRO2011*\n💸 Com o cupom: *R$596*\n\n👉 *Pegar promoção:* https://meli.la/2j3v4co\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_985406-MLA84552029738_052025-P.webp"
  }
 }
