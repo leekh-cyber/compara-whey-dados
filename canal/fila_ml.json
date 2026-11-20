@@ -77,18 +77,6 @@
   }
  },
  {
-  "id": "3235513",
-  "quando": "2026-11-20T13:31:36.757935",
-  "titulo": "Eau De Parfum Calvin Klein My Euphoria Feminino 50 Ml",
-  "texto": "*Eau de Parfum Calvin Klein My Euphoria Feminino 50 mL*\n\nPor *R$176* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1UiKNaQ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_897297-MLU75261284763_032024-P.webp",
-  "link": "https://meli.la/1UiKNaQ",
-  "produto": "MLB34562961",
-  "publico": "feminino",
-  "preco": 176.0,
-  "cupom": null
- },
- {
   "id": "3235469",
   "quando": "2026-11-20T13:31:45.961302",
   "titulo": "Torre de Som LG XBOOM RNC5 Bluetooth, Som Potente, Função DJ, Iluminação LED e Party Mode",
@@ -162,5 +150,22 @@
   "publico": null,
   "preco": 21.74,
   "cupom": null
+ },
+ {
+  "id": "3235598",
+  "quando": "2026-11-20T14:25:08.978804",
+  "titulo": "Tênis Masculino 500v2 New Balance Incense Navy Liso 39 Br",
+  "texto": "*Tênis Masculino 500v2 New Balance  Incense Navy Liso 39 Br*\n\nDe ~R$449~\nPor *R$298* 🔥\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$237*\n\n👉 *Pegar promoção:* https://meli.la/1Z8TfW4\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_668208-MLB81238369970_122024-P.webp",
+  "link": "https://meli.la/1Z8TfW4",
+  "produto": "MLB6415389232",
+  "publico": "masculino",
+  "preco": 297.99,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
