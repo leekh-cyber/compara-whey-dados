@@ -41,23 +41,6 @@
   "cupom": null
  },
  {
-  "id": "3238237",
-  "quando": "2026-11-21T14:48:47.158194",
-  "titulo": "Kit 3 Sutiã Premium Tomara Que Caia Sem Costura Top Faixa Sortidas Gg-46 - R$ 41,99",
-  "texto": "*Kit 3 Sutiã Premium Tomara Que Caia Sem Costura Top Faixa Sortidas Gg-46*\n\nDe ~R$59~\nPor *R$42* 🔥\n\n🎟️ Cupom: *MAISDESCONTO*\n💸 Com o cupom: *R$30*\n\n👉 *Pegar promoção:* https://meli.la/1krZV5k",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_901820-MLB112012072085_052026-P.webp",
-  "link": "https://meli.la/1krZV5k",
-  "produto": "MLB4699532789",
-  "publico": "feminino",
-  "preco": 41.99,
-  "cupom": {
-   "codigo": "MAISDESCONTO",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3238282",
   "quando": "2026-11-21T14:48:57.315414",
   "titulo": "Polo Piquet Classica Reserva Masculina Marinho Na P Liso",
@@ -102,5 +85,73 @@
   "publico": "masculino",
   "preco": 57.9,
   "cupom": null
+ },
+ {
+  "id": "3238417",
+  "quando": "2026-11-21T15:23:47.243910",
+  "titulo": "Kit com 10 Cuecas Boxer Algodão Polo Wear",
+  "texto": "*Kit 10 Cuecas Algodão Polo Wear Sortido*\n\nDe ~R$299~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *LOJASOFICIAIS2111*\n💸 Com o cupom: *R$128*\n\n👉 *Pegar promoção:* https://meli.la/1Yew5PJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-P.webp",
+  "link": "https://meli.la/1Yew5PJ",
+  "produto": "MLB5943120120",
+  "publico": "masculino",
+  "preco": 142.49,
+  "cupom": {
+   "codigo": "LOJASOFICIAIS2111",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238409",
+  "quando": "2026-11-21T15:24:00.973881",
+  "titulo": "Sapatenis Pegada Masculino 112504 Preto Lisa 39 Br",
+  "texto": "*Sapatenis Pegada Masculino 112504 Preto Lisa 39 Br*\n\nDe ~R$329~\nPor *R$212* 🔥\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$169*\n\n👉 *Pegar promoção:* https://meli.la/25Vdm1s\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_991341-MLB113710157443_062026-P.webp",
+  "link": "https://meli.la/25Vdm1s",
+  "produto": "MLB4602115061",
+  "publico": "masculino",
+  "preco": 211.99,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238421",
+  "quando": "2026-11-21T15:24:08.384533",
+  "titulo": "Casaquinho Corta Vento Feminino Leve Prot Uv Academia Preto Gg Liso",
+  "texto": "*Casaquinho Corta Vento Feminino Leve Prot Uv Academia Preto Gg Liso*\n\nPor *R$43* 🔥\n\n🎟️ Cupom: *CLIENTEVIP*\n💸 Com o cupom: *R$30*\n\n👉 *Pegar promoção:* https://meli.la/1dzy7FZ",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_837174-MLB115511745706_082026-P.webp",
+  "link": "https://meli.la/1dzy7FZ",
+  "produto": "MLB4554433471",
+  "publico": "feminino",
+  "preco": 43.49,
+  "cupom": {
+   "codigo": "CLIENTEVIP",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238415",
+  "quando": "2026-11-21T15:24:59.147479",
+  "titulo": "Fones De Ouvido Baseus Eli Sport 2 Open-ear Sem Fio Ip57 Preto",
+  "texto": "*Fones De Ouvido Baseus Eli Sport 2 Open-ear Sem Fio Ip57 Preto*\n\nDe ~R$549~\nPor *R$236* 🔥\n\n🎟️ Cupom: *MUITOBARATO*\n💸 Com o cupom: *R$178*\n\n👉 *Pegar promoção:* https://meli.la/2XNZjd2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_703163-MLA116704417129_082026-P.webp",
+  "link": "https://meli.la/2XNZjd2",
+  "produto": "MLB78280205",
+  "publico": null,
+  "preco": 236.45,
+  "cupom": {
+   "codigo": "MUITOBARATO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
