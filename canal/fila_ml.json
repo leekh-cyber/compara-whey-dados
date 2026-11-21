@@ -145,15 +145,32 @@
   "cupom": null
  },
  {
-  "id": "3238624",
-  "quando": "2026-11-21T16:40:30.453356",
-  "titulo": "Tênis Masculino Couro Democrata Conforto Original Lançamento",
-  "texto": "*Tênis Masculino Couro Democrata Conforto Original Lançamento Bege Liso 38 Br*\n\nDe ~R$269~\nPor *R$189* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1J5Muhd",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_938296-MLB117658116947_092026-P.webp",
-  "link": "https://meli.la/1J5Muhd",
-  "produto": "MLB5233873679",
-  "publico": "masculino",
-  "preco": 188.92,
+  "id": "3238752",
+  "quando": "2026-11-21T17:08:47.571075",
+  "titulo": "Calça Feminina Alfaiataria Wide Leg Social Pantalona",
+  "texto": "*Calça Feminina Alfaiataria Wide Leg Social Pantalona Preta Gg*\n\nDe ~R$49~\nPor *R$26* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2NPqf7f\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_965013-MLB86293986380_062025-P.webp",
+  "link": "https://meli.la/2NPqf7f",
+  "produto": "MLB4468729645",
+  "publico": "feminino",
+  "preco": 25.69,
   "cupom": null
+ },
+ {
+  "id": "3238760",
+  "quando": "2026-11-21T17:08:56.079108",
+  "titulo": "Tênis Ramarim 25-88206 Branco Liso 36 Br",
+  "texto": "*Tênis Ramarim 25-88206 Branco Liso 36 Br*\n\nDe ~R$199~\nPor *R$136* 🔥 no pix\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$104*\n\n👉 *Pegar promoção:* https://meli.la/2rJtiij\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_626082-MLB116812994257_082026-P.webp",
+  "link": "https://meli.la/2rJtiij",
+  "produto": "MLB6258649412",
+  "publico": "feminino",
+  "preco": 136.0,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
