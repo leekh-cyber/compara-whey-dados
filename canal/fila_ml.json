@@ -133,18 +133,6 @@
   "cupom": null
  },
  {
-  "id": "3238632",
-  "quando": "2026-11-21T16:40:23.672365",
-  "titulo": "Tênis Couro Democrata Masculino Denim Joe Ultra Light Casual",
-  "texto": "*Tênis Couro Democrata Masculino Denim Joe Ultra Light Casual Marrom 37 Br*\n\nDe ~R$309~\nPor *R$177* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2EU7mcM\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_864929-MLB84028818424_052025-P.webp",
-  "link": "https://meli.la/2EU7mcM",
-  "produto": "MLB7038976670",
-  "publico": "masculino",
-  "preco": 176.9,
-  "cupom": null
- },
- {
   "id": "3238752",
   "quando": "2026-11-21T17:08:47.571075",
   "titulo": "Calça Feminina Alfaiataria Wide Leg Social Pantalona",
@@ -172,5 +160,17 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3238799",
+  "quando": "2026-11-21T17:43:55.724206",
+  "titulo": "Kit 3 Calças Jeans Masculina Skinny Lycra Elastano Premium - R$ 136,72",
+  "texto": "*Kit 3 Calças Jeans Masculina Skinny Lycra Elastano Premium*\n\nDe ~R$189~\nPor *R$137* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1CwsTov",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_936344-MLB85716892749_062025-P.webp",
+  "link": "https://meli.la/1CwsTov",
+  "produto": "MLB5369198668",
+  "publico": "masculino",
+  "preco": 136.72,
+  "cupom": null
  }
 ]
