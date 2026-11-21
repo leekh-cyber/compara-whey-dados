@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-21T16:30:25.365775",
+  "quando": "2026-11-21T17:00:28.098342",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -16347,7 +16347,8 @@
   "cupom": null,
   "msg": "PsoFnQ2SCiyvGEU-1_UBq53iqHP95g-Azk",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Maleta Completa para Manutenção Bits Ponteiras Chaves Torx Allen Phillips Fenda Extensor Adaptador Para Mecânica Automotiva Moto Carro Oficina*\n\nPor *R$22* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1dftGtz\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_719316-MLA121226300539_112026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_719316-MLA121226300539_112026-P.webp",
+  "encerrada": "2026-11-21T17:02:54.594001"
  },
  "3236047": {
   "quando": "2026-11-20T17:00:43.607330",
@@ -16968,5 +16969,34 @@
   "msg": "PsqAakVtO3WE.MA-13gBq53iqHP95g-A1k",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 10 Cuecas Algodão Polo Wear Sortido*\n\nDe ~R$299~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *LOJASOFICIAIS2111*\n💸 Com o cupom: *R$128*\n\n👉 *Pegar promoção:* https://meli.la/1Yew5PJ\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-P.webp"
+ },
+ "3238761": {
+  "quando": "2026-11-21T17:00:31.964331",
+  "titulo": "Kit 4 Camiseta Feminina Dray Fit Furadinha Anti Suor Anti Odor Academia Dia a Dia Esporte",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4qHOJHDWrB",
+  "publico": "feminino",
+  "produto": "shopee:22593896158",
+  "preco": 64.9,
+  "shopee": [
+   1498870744,
+   22593896158
+  ],
+  "cupom": null,
+  "msg": "PsohwKjv8tMgzzY-1_YBq53iqHP95g-A1o",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 4 Camiseta Feminina Dray Fit Furadinha Anti Suor Anti Odor Academia Dia a Dia Esporte*\n\nPor *R$65* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4qHOJHDWrB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8cbuaq3lkvlf5"
+ },
+ "3238624": {
+  "quando": "2026-11-21T17:01:41.445257",
+  "titulo": "Tênis Masculino Couro Democrata Conforto Original Lançamento",
+  "link": "https://meli.la/1J5Muhd",
+  "publico": "masculino",
+  "produto": "MLB5233873679",
+  "preco": 188.92,
+  "cupom": null,
+  "msg": "Psp6fT8fjA2G.MQ-124Bq53iqHP95g-A1s",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Masculino Couro Democrata Conforto Original Lançamento Bege Liso 38 Br*\n\nDe ~R$269~\nPor *R$189* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1J5Muhd",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_938296-MLB117658116947_092026-P.webp"
  }
 }
