@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-21T20:00:31.909506",
+  "quando": "2026-11-21T20:30:23.697124",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -17021,7 +17021,8 @@
   "cupom": null,
   "msg": "PspJfUNHzSYViAM-1zoBq53iqHP95g-A1w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Conjunto Pijama Cirurgico Feminino Hospitalar Nao Amassa Blusa E Calça Unissex Confortavel Liso*\n\nDe ~R$79~\nA partir de *R$43* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5q9vXAkPmr",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mqp6jvlul2wzb5"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mqp6jvlul2wzb5",
+  "conferido": "2026-11-21T20:32:37.232944"
  },
  "3238632": {
   "quando": "2026-11-21T17:31:37.384029",
@@ -17209,5 +17210,34 @@
   "msg": "PsphhEAFKaK_grg-14cBq53iqHP95g-A2c",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis De Treino Feminino Glide Step Vortex Skechers Azul-claro Liso 34 Br*\n\nDe ~R$479~\nPor *R$332* 🔥 no pix\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$262*\n\n👉 *Pegar promoção:* https://meli.la/2xr8FqA\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_925191-MLA103749801798_012026-P.webp"
+ },
+ "3238282": {
+  "quando": "2026-11-21T20:30:27.922406",
+  "titulo": "Polo Piquet Classica Reserva Masculina Marinho Na P Liso",
+  "link": "https://meli.la/2oQE4v8",
+  "publico": "masculino",
+  "produto": "MLB6241365846",
+  "preco": 121.82,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psr9xBqRtpSNMCg-12QBq53iqHP95g-A2g",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Polo Piquet Classica Reserva Masculina Marinho N/a P Liso*\n\nDe ~R$299~\nPor *R$122* 🔥 no pix\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$95*\n\n👉 *Pegar promoção:* https://meli.la/2oQE4v8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_804897-MLB96292266604_102025-P.webp"
+ },
+ "3230102": {
+  "quando": "2026-11-21T20:31:32.976378",
+  "titulo": "Kit 6 Cuecas Boxer Sem Costura Polo Wear Microfibra - R$ 59,99",
+  "link": "https://meli.la/26C9cKK",
+  "publico": "masculino",
+  "produto": "MLB4689433023",
+  "preco": 59.99,
+  "cupom": null,
+  "msg": "PsrrYWsSLfWl.3k-19IBq53iqHP95g-A2k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 6 Cuecas Boxer Sem Costura Polo Wear Microfibra*\n\nDe ~R$99~\nPor *R$60* 🔥\n\n👉 *Pegar promoção:* https://meli.la/26C9cKK",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_811713-MLB111942331663_052026-P.webp"
  }
 }
