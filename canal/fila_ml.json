@@ -41,15 +41,66 @@
   "cupom": null
  },
  {
-  "id": "3238090",
-  "quando": "2026-11-21T14:14:16.917074",
-  "titulo": "Kit 5 Camisetas Básica Hering Algodão Masculina Original",
-  "texto": "*Kit 5 Camisetas Básica Hering Algodão Masculina Original*\n\nDe ~R$154~\nPor *R$124* 🔥\n\n👉 *Pegar promoção:* https://meli.la/15L11uA",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_786486-MLB111643121629_052026-P.webp",
-  "link": "https://meli.la/15L11uA",
-  "produto": "MLB6448442404",
+  "id": "3238237",
+  "quando": "2026-11-21T14:48:47.158194",
+  "titulo": "Kit 3 Sutiã Premium Tomara Que Caia Sem Costura Top Faixa Sortidas Gg-46 - R$ 41,99",
+  "texto": "*Kit 3 Sutiã Premium Tomara Que Caia Sem Costura Top Faixa Sortidas Gg-46*\n\nDe ~R$59~\nPor *R$42* 🔥\n\n🎟️ Cupom: *MAISDESCONTO*\n💸 Com o cupom: *R$30*\n\n👉 *Pegar promoção:* https://meli.la/1krZV5k",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_901820-MLB112012072085_052026-P.webp",
+  "link": "https://meli.la/1krZV5k",
+  "produto": "MLB4699532789",
+  "publico": "feminino",
+  "preco": 41.99,
+  "cupom": {
+   "codigo": "MAISDESCONTO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238282",
+  "quando": "2026-11-21T14:48:57.315414",
+  "titulo": "Polo Piquet Classica Reserva Masculina Marinho Na P Liso",
+  "texto": "*Polo Piquet Classica Reserva Masculina Marinho N/a P Liso*\n\nDe ~R$299~\nPor *R$122* 🔥 no pix\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$95*\n\n👉 *Pegar promoção:* https://meli.la/2oQE4v8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_804897-MLB96292266604_102025-P.webp",
+  "link": "https://meli.la/2oQE4v8",
+  "produto": "MLB6241365846",
   "publico": "masculino",
-  "preco": 123.99,
+  "preco": 121.82,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238257",
+  "quando": "2026-11-21T14:49:01.760293",
+  "titulo": "Corrente Cordão Masculina 3mm Cor Prata Aço Inox - R$ 25,21",
+  "texto": "*Corrente Cordão Masculina 3mm Cor Prata Aço Inox*\n\nDe ~R$39~\nPor *R$25* 🔥\n\n🎟️ Cupom: *MAISDESCONTO*\n💸 Com o cupom: *R$18*\n\n👉 *Pegar promoção:* https://meli.la/1FqnVq7",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_980042-MLB90175874630_082025-P.webp",
+  "link": "https://meli.la/1FqnVq7",
+  "produto": "MLB4132166459",
+  "publico": "masculino",
+  "preco": 25.21,
+  "cupom": {
+   "codigo": "MAISDESCONTO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3238242",
+  "quando": "2026-11-21T14:49:09.774432",
+  "titulo": "Kit 6 Cuecas Boxer Box Classic Microfibra Reebok",
+  "texto": "*Kit 6 Cuecas Boxer Box Classic Microfibra Original Reebok*\n\nDe ~R$99~\nPor *R$58* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2cFWjs5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_913399-MLB98192946976_112025-P.webp",
+  "link": "https://meli.la/2cFWjs5",
+  "produto": "MLB5874026738",
+  "publico": "masculino",
+  "preco": 57.9,
   "cupom": null
  }
 ]
