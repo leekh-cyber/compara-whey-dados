@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-21T10:30:26.070698",
+  "quando": "2026-11-21T11:00:28.464138",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -16607,7 +16607,8 @@
   "cupom": null,
   "msg": "PsoBa25VBRKWCI0-120Bq53iqHP95g-A0g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Masculino Spot Sunset Hinode Deo Colônia HINODE 75ml*\n\nPor *R$64* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2BGcXIJ8Q3",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mspk5rklqrrbf5"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mspk5rklqrrbf5",
+  "conferido": "2026-11-21T11:00:35.993333"
  },
  "3237213": {
   "quando": "2026-11-21T08:01:45.583604",
@@ -16707,6 +16708,21 @@
  "3237664": {
   "quando": "2026-11-21T10:30:35.538564",
   "titulo": "Ar Condicionado Split HQ Hi Wall Inverter 12.000 BTUh Frio Monofásico Branco VIHT12CO3S2S713 220V",
+  "loja": "shopee"
+ },
+ "3237815": {
+  "quando": "2026-11-21T11:00:31.523901",
+  "titulo": "QIAODAN LEILI 2.0 GT masc.",
+  "loja": "shopee"
+ },
+ "3237828": {
+  "quando": "2026-11-21T11:00:33.086735",
+  "titulo": "Tênis QIAODAN LEILI 2.0 masc.",
+  "loja": "shopee"
+ },
+ "3237806": {
+  "quando": "2026-11-21T11:00:34.120952",
+  "titulo": "Monitor Gamer TCL 25G64 25\" Full HD Preto",
   "loja": "shopee"
  }
 }
