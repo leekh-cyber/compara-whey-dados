@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-22T09:00:26.895347",
+  "quando": "2026-11-22T09:30:24.158741",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -17415,5 +17415,22 @@
  "aviso:Black Friday:2026-11-22": {
   "quando": "2026-11-22T09:00:26.895347",
   "titulo": "aviso:Black Friday:2026-11-22"
+ },
+ "3239622": {
+  "quando": "2026-11-22T09:30:28.698131",
+  "titulo": "Chinelo Kenner Rakka U1 Original Masculino",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AUvm9fnTJA",
+  "publico": "masculino",
+  "produto": "shopee:23197629302",
+  "preco": 148.99,
+  "shopee": [
+   1178125772,
+   23197629302
+  ],
+  "cupom": null,
+  "msg": "PsoadHJ3DU.Hyt4-124Bq53iqHP95g-A3M",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Chinelo Kenner Rakka U1 Original Masculino*\n\nDe ~R$248~\nPor *R$149* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AUvm9fnTJA",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-moioap6z75s00d"
  }
 }
