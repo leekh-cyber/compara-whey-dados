@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-22T18:00:29.341822",
+  "quando": "2026-11-22T18:30:30.396567",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -17622,5 +17622,82 @@
    58214166986
   ],
   "cupom": null
+ },
+ "3241129": {
+  "quando": "2026-11-22T18:30:35.623629",
+  "titulo": "GenaiSank Furadeira Parafusadeira 3 em 1 21V 2 Baterias + Maleta + Kit Brocas",
+  "loja": "shopee"
+ },
+ "3241125": {
+  "quando": "2026-11-22T18:30:46.994068",
+  "titulo": "Caixa De Som Bluetooth Lg 200w Xl5t",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4VeZbka6vv",
+  "publico": null,
+  "produto": "shopee:22899031863",
+  "preco": 1055.0,
+  "shopee": [
+   1509845472,
+   22899031863
+  ],
+  "cupom": null,
+  "msg": "PspJpnCOr2GiDZo-11gBq53iqHP95g-A34",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Caixa De Som Bluetooth Lg 200w Xl5t*\n\nDe ~R$2110~\nPor *R$1055* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4VeZbka6vv",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82592-mfy2havt4aocc3"
+ },
+ "3241122": {
+  "quando": "2026-11-22T18:30:37.574924",
+  "titulo": "Projetor AOC 4K Lente selada 12.000 lúmens resolução 1080p foco automático e correção trapezoidal Wi-FiBluetoo",
+  "loja": "shopee"
+ },
+ "3241138": {
+  "quando": "2026-11-22T18:30:38.425706",
+  "titulo": "Caixa de Som Jbl Boombox 4 a Prova de Água - Marrom",
+  "loja": "shopee"
+ },
+ "3241124": {
+  "quando": "2026-11-22T18:30:39.267928",
+  "titulo": "Smart Tv Toshiba 50\" Qled Full Hd 60hz Vidaa com Wi-fi Dual Band e Bluetooth 50V45SS Bivolt",
+  "loja": "shopee"
+ },
+ "3241128": {
+  "quando": "2026-11-22T18:30:40.160041",
+  "titulo": "Patinete Elétrico Adulto 350W Alta Velocidade Bateria Longa e Suporta Até 150kg",
+  "loja": "shopee"
+ },
+ "3241137": {
+  "quando": "2026-11-22T18:30:41.003656",
+  "titulo": "TCL TABLET TAB 10L GEN3 64GB ROM 4GB RAM Octacore 2.2Ghz - 10.1\" 4G LTE",
+  "loja": "shopee"
+ },
+ "3241123": {
+  "quando": "2026-11-22T18:30:41.865362",
+  "titulo": "Bicicleta Elétrica Dobrável 48V Urbana Econômica | Ideal para Transporte Diário | + Cesta Grátis",
+  "loja": "shopee"
+ },
+ "3241131": {
+  "quando": "2026-11-22T18:30:42.759542",
+  "titulo": "Caixa de Som Britânia BCX4601 350W Bluetooth",
+  "loja": "shopee"
+ },
+ "3241136": {
+  "quando": "2026-11-22T18:30:43.572841",
+  "titulo": "Cama Box Casal Colchão Molas Ensacadas Pillow Maximus 138x188x62cm Cinza Preto Gazin",
+  "loja": "shopee"
+ },
+ "3241126": {
+  "quando": "2026-11-22T18:30:44.392021",
+  "titulo": "Geladeira Inverse Frost Free 401 Litros HQ Inverter Multi Airflow Flex Zone Black Inox HQ-401BMFFFS",
+  "loja": "shopee"
+ },
+ "3241121": {
+  "quando": "2026-11-22T18:30:45.242190",
+  "titulo": "XBOX ONE S 500GB1TB + CONTROLE + JOGO (ENVIO COM NOTA FISCAL)",
+  "loja": "shopee"
+ },
+ "3241135": {
+  "quando": "2026-11-22T18:30:46.114844",
+  "titulo": "Geladeira Electrolux Frost Free Inverter 484L Efficient AutoSense 3 Portas Branca (IM7)",
+  "loja": "shopee"
  }
 }
