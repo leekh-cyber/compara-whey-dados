@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-21T22:00:37.915917",
+  "quando": "2026-11-21T22:30:23.400491",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -16912,7 +16912,7 @@
   "msg": "PspH.6fQPa7tlto-14QBq53iqHP95g-A1Y",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção*\n\nDe ~R$49~\nA partir de *R$26* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7AfJ1S6OIV",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
-  "conferido": "2026-11-21T19:02:47.669169"
+  "conferido": "2026-11-21T22:31:36.981393"
  },
  "3238409": {
   "quando": "2026-11-21T16:01:46.848526",
@@ -17327,5 +17327,22 @@
   "msg": "PspT5nrHlCftVpo-12oBq53iqHP95g-A24",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Fones De Ouvido Baseus Eli Sport 2 Open-ear Sem Fio Ip57 Preto*\n\nDe ~R$549~\nPor *R$236* 🔥\n\n🎟️ Cupom: *MUITOBARATO*\n💸 Com o cupom: *R$178*\n\n👉 *Pegar promoção:* https://meli.la/2XNZjd2\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_703163-MLA116704417129_082026-P.webp"
+ },
+ "3239431": {
+  "quando": "2026-11-21T22:30:27.592872",
+  "titulo": "Kit 2 Abajur La Finesse Cúpula Decoração",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5LDfGqu2mf",
+  "publico": null,
+  "produto": "shopee:20452224775",
+  "preco": 56.8,
+  "shopee": [
+   699143044,
+   20452224775
+  ],
+  "cupom": null,
+  "msg": "PspZLIw40w_nin4-12cBq53iqHP95g-A28",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 2 unidades Abajur La Finesse Cupula - Luminária Para Decoração Quarto e Sala*\n\nDe ~R$120~\nA partir de *R$57* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5LDfGqu2mf",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mkcfopp4p5hc85"
  }
 }
