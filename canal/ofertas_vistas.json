@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-22T16:30:29.865190",
+  "quando": "2026-11-22T17:00:26.662105",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -17534,5 +17534,22 @@
   "msg": "PsoFUV0tGyoyRQc-1.8Bq53iqHP95g-A3g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 06 Cervejas Roleta Russa Easy IPA 350ml*\n\nDe ~R$59~\nPor *R$28* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7fbb74NeSd",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mn2seu9hzdhgde"
+ },
+ "3240867": {
+  "quando": "2026-11-22T17:00:31.522141",
+  "titulo": "Kit 2 Camisetas Lisa Dry Fit",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6VPdtEFwQr",
+  "publico": "masculino",
+  "produto": "shopee:58204749507",
+  "preco": 28.5,
+  "shopee": [
+   1469358588,
+   58204749507
+  ],
+  "cupom": null,
+  "msg": "PsokcfxGFTXy3fs-1.gBq53iqHP95g-A3k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 2 Camisetas Básicas Masculina Lisa Dry Fit Tradicional Academia Fitness Corrida Treino*\n\nDe ~R$59~\nPor *R$28* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6VPdtEFwQr",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkd0hu81l9fmf1"
  }
 }
