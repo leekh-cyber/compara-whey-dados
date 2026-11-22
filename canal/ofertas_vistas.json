@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-22T20:00:28.038472",
+  "quando": "2026-11-22T20:30:27.126237",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -17569,7 +17569,8 @@
   "cupom": null,
   "msg": "PsqkKHai6Py_o50-144Bq53iqHP95g-A3o",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT 3: Baby Tee Feminina - Blusa Slim Fit Manga Curta - Blusa de Compressão*\n\nDe ~R$89~\nA partir de *R$39* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3Vm2LmFfPE",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0ygzazro8cg77"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0ygzazro8cg77",
+  "conferido": "2026-11-22T20:32:48.023746"
  },
  "3240936": {
   "quando": "2026-11-22T17:31:44.807476",
@@ -17586,7 +17587,8 @@
   "cupom": null,
   "msg": "Psruwvv5Xokv6ek-14cBq53iqHP95g-A3s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis De Corrida Masculino Qiaodan TG 2.0 SE Almofada Rocker Grossa Leve Treinamento De Longa Distância LEILI*\n\nDe ~R$618~\nPor *R$328* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3LSc9YRY8b",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlg06wm60w3ec"
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlg06wm60w3ec",
+  "conferido": "2026-11-22T20:32:48.610627"
  },
  "3240982": {
   "quando": "2026-11-22T18:00:34.234191",
@@ -17734,5 +17736,34 @@
   "msg": "PsqW_qwEfYvcS2k-1w8Bq53iqHP95g-A4A",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Inova Cabo Tipo-C 3.4A Reforçado para Dados e Carregamento Rápido com 2 Metros CBO-11005*\n\nDe ~R$29~\nPor *R$17* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWLgn0uIG",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mvuhnnqp68zm4f"
+ },
+ "3241439": {
+  "quando": "2026-11-22T20:30:33.923371",
+  "titulo": "Guirlanda Natalina Decorada 32cm",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VIBJUXmT6",
+  "publico": null,
+  "produto": "shopee:23093333439",
+  "preco": 48.99,
+  "shopee": [
+   1274410077,
+   23093333439
+  ],
+  "cupom": null,
+  "msg": "PsrcULSLoc_xobY-13kBq53iqHP95g-A4E",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Guirlanda Natalina Decorada de Luxo 32cm - Enfeite de Natal Completo para Porta e Decoração*\n\nPor *R$49* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VIBJUXmT6",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-m0e9xg6kbpmie4"
+ },
+ "3241383": {
+  "quando": "2026-11-22T20:31:42.272754",
+  "titulo": "Perfume Maison Alhambra Reyna Pour Femme EDP 100ml Feminino",
+  "link": "https://meli.la/2dX1Uwg",
+  "publico": "feminino",
+  "produto": "MLB6783730624",
+  "preco": 145.36,
+  "cupom": null,
+  "msg": "PsqbacHHYwkIx7s-1_EBq53iqHP95g-A4I",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe - Maison Alhambra Reyna Pour Femme Edp 100ml*\n\nDe ~R$249~\nPor *R$145* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2dX1Uwg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_972769-MLB111752758765_052026-P.webp"
  }
 }
