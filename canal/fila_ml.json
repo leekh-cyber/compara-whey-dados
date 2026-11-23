@@ -53,18 +53,6 @@
   "cupom": null
  },
  {
-  "id": "3241873",
-  "quando": "2026-11-23T08:00:23.708148",
-  "titulo": "Camisa Polo Masculina Casual Slim Algodão - R$ 36,49",
-  "texto": "*Camisa Polo Masculina Casual Slim Algodão*\n\nDe ~R$49~\nPor *R$36* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1LRMh4Y",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_901835-MLB113629446713_062026-P.webp",
-  "link": "https://meli.la/1LRMh4Y",
-  "produto": "MLB5518067030",
-  "publico": "masculino",
-  "preco": 36.49,
-  "cupom": null
- },
- {
   "id": "3241948",
   "quando": "2026-11-23T08:00:31.670830",
   "titulo": "Perfume Eternity 100ml Calvin Klein",
@@ -146,6 +134,18 @@
   "produto": "MLB69628935",
   "publico": null,
   "preco": 64.89,
+  "cupom": null
+ },
+ {
+  "id": "3242106",
+  "quando": "2026-11-23T09:10:05.886328",
+  "titulo": "Kit 5 Camisetas Masculinas Slim Básicas Coloridas Premium",
+  "texto": "*Kit 5 Camisetas Masculinas Slim Básicas Coloridas Premium*\n\nPor *R$90* 🔥\n\n👉 *Pegar promoção:* https://meli.la/12tBdcY\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_955736-MLB109991929022_042026-P.webp",
+  "link": "https://meli.la/12tBdcY",
+  "produto": "MLB1894079521",
+  "publico": "masculino",
+  "preco": 89.9,
   "cupom": null
  }
 ]
