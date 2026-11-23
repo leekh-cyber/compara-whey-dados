@@ -1,41 +1,5 @@
 [
  {
-  "id": "3241948",
-  "quando": "2026-11-23T08:00:31.670830",
-  "titulo": "Perfume Eternity 100ml Calvin Klein",
-  "texto": "*Perfume Eternity Feminino 100ml Calvin Klein*\n\nPor *R$213* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2tPnF1k\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_929363-MLA84552014276_052025-P.webp",
-  "link": "https://meli.la/2tPnF1k",
-  "produto": "MLB6140405",
-  "publico": null,
-  "preco": 212.72,
-  "cupom": null
- },
- {
-  "id": "3241887",
-  "quando": "2026-11-23T08:03:10.028620",
-  "titulo": "Cadeira Gamer Lancer Preta Healer - R$ 398,34",
-  "texto": "*Cadeira Gamer Lancer Preta Healer*\n\nPor *R$398* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1Eo5ZZ5",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_986648-MLA105118436464_012026-P.webp",
-  "link": "https://meli.la/1Eo5ZZ5",
-  "produto": "MLB18628781",
-  "publico": null,
-  "preco": 398.34,
-  "cupom": null
- },
- {
-  "id": "3241902",
-  "quando": "2026-11-23T08:03:18.038618",
-  "titulo": "Tablet Pad S7 12gb+128gb Android15 8000mah Wifi Case Teclado Cinza-claro - R$ 785",
-  "texto": "*Tablet Pad S7 12gb+128gb Android15 8000mah Wifi Case Teclado Cinza-claro*\n\nPor *R$785* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1WLvysv",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862161-MLB117741665205_092026-P.webp",
-  "link": "https://meli.la/1WLvysv",
-  "produto": "MLB5242400647",
-  "publico": null,
-  "preco": 785.0,
-  "cupom": null
- },
- {
   "id": "3244022",
   "quando": "2026-11-23T15:00:38.295090",
   "titulo": "Liquidificador Portátil Wap Blender Go Wbg600 700ml Com 4 Lâminas Em Inox E Trava De Segurança",
@@ -133,18 +97,6 @@
   "cupom": null
  },
  {
-  "id": "3245058",
-  "quando": "2026-11-23T19:05:16.551164",
-  "titulo": "Kit 2 Regatas Femininas Em Ribana Canelada Hering Azul P - R$ 69,99",
-  "texto": "*Kit 2 Regatas Femininas Em Ribana Canelada Hering Azul P*\n\nDe ~R$129~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1cDEFBw\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_977322-MLB119659075082_112026-P.webp",
-  "link": "https://meli.la/1cDEFBw",
-  "produto": "MLB7984988982",
-  "publico": "feminino",
-  "preco": 69.99,
-  "cupom": null
- },
- {
   "id": "3245073",
   "quando": "2026-11-23T19:05:33.647989",
   "titulo": "Caixa De Som Bluetooth Portátil 6,5 3000mah Karaokê Rgb",
@@ -171,6 +123,69 @@
   "produto": "MLB4278235683",
   "publico": "masculino",
   "preco": 117.8,
+  "cupom": null
+ },
+ {
+  "id": "3245307",
+  "quando": "2026-11-23T20:15:07.663440",
+  "titulo": "Tênis Masculino Caven 2.0 Puma Puma Black-puma White-gold Liso 39",
+  "texto": "*Tênis Masculino Caven 2.0 Puma Puma Black-puma White-gold Liso 39*\n\nDe ~R$449~\nPor *R$275* 🔥 no pix\n\n🎟️ Cupom: *LIQUIDA*\n💸 Com o cupom: *R$219*\n\n👉 *Pegar promoção:* https://meli.la/2XwxSPq\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_805307-MLB76703441033_052024-P.webp",
+  "link": "https://meli.la/2XwxSPq",
+  "produto": "MLB4519183557",
+  "publico": "masculino",
+  "preco": 274.72,
+  "cupom": {
+   "codigo": "LIQUIDA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3245299",
+  "quando": "2026-11-23T20:15:14.925723",
+  "titulo": "Samsung Galaxy Watch8 46mm LTE",
+  "texto": "*Samsung Galaxy Watch8 Classic Smartwatch 46mm LTE, Galaxy AI, Tela em Cristal de Safira Branco*\n\nPor *R$1709* 🔥 no pix\n\n🎟️ Cupom: *MELIGARANTE*\n💸 Com o cupom: *R$1538*\n\n👉 *Pegar promoção:* https://meli.la/32sviYB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_638923-MLA99487013762_112025-P.webp",
+  "link": "https://meli.la/32sviYB",
+  "produto": "MLB57726898",
+  "publico": null,
+  "preco": 1709.0,
+  "cupom": {
+   "codigo": "MELIGARANTE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3245245",
+  "quando": "2026-11-23T20:15:19.907357",
+  "titulo": "Monitor Tcl 24 Mini Led 24g54 Fhd 100hz Branco",
+  "texto": "*Monitor Tcl 24 Mini Led 24g54 Fhd 100hz branco*\n\nDe ~R$1899~\nPor *R$808* 🔥\n\n🎟️ Cupom: *MELIGARANTE*\n💸 Com o cupom: *R$727*\n\n👉 *Pegar promoção:* https://meli.la/1KUhr6P\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_655276-MLA107340950895_022026-P.webp",
+  "link": "https://meli.la/1KUhr6P",
+  "produto": "MLB65696243",
+  "publico": null,
+  "preco": 808.27,
+  "cupom": {
+   "codigo": "MELIGARANTE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3244780",
+  "quando": "2026-11-23T20:15:27.484805",
+  "titulo": "Batedeira Planetária, Mondial, 700w - Bp-03-p",
+  "texto": "*Batedeira Planetária, Mondial, 700W - BP-03-P*\n\nDe ~R$489~\nPor *R$237* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2EuVcQB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_728880-MLA99495345066_112025-P.webp",
+  "link": "https://meli.la/2EuVcQB",
+  "produto": "MLB18623993",
+  "publico": null,
+  "preco": 236.7,
   "cupom": null
  }
 ]
