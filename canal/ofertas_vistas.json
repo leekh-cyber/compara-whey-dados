@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T17:00:30.655413",
+  "quando": "2026-11-23T17:30:34.973105",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18640,5 +18640,34 @@
   "msg": "PsqKE_L33HQTHZU-1zgBq53iqHP95g-A7E",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Idôle Lancôme, Perfume Feminino Eau de Parfum Chipre Floral com Rosas Centifolia, Damascena e Jasmim, 25ml*\n\nDe ~R$519~\nPor *R$278* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2a4exTt\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_662803-MLA118139441258_102026-P.webp"
+ },
+ "3244684": {
+  "quando": "2026-11-23T17:30:37.580714",
+  "titulo": "Almofada Interativa Com Acessórios Conforto Bebê Chocalho Infantil",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1BO9ANtNIF",
+  "publico": null,
+  "produto": "shopee:49854365514",
+  "preco": 55.9,
+  "shopee": [
+   1384111782,
+   49854365514
+  ],
+  "cupom": null,
+  "msg": "PsqncswxMOHY8U8-17kBq53iqHP95g-A7I",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Almofada Interativa Com Acessórios Conforto Bebê Chocalho Infantil Brinquedo com Som*\n\nDe ~R$130~\nA partir de *R$56* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1BO9ANtNIF",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8eed4p90jm51"
+ },
+ "3244586": {
+  "quando": "2026-11-23T17:31:43.637238",
+  "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
+  "link": "https://meli.la/1f6z18C",
+  "publico": "masculino",
+  "produto": "MLB4113792113",
+  "preco": 39.99,
+  "cupom": null,
+  "msg": "PsrDiWq0c54KDKQ-18cBq53iqHP95g-A7M",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Sandrini Aero Run Academia Caminhada Treino*\n\nPor *R$40* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1f6z18C\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902579-MLB112990939108_072026-P.webp"
  }
 }
