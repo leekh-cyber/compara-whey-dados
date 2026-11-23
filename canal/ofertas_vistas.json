@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T18:30:25.125968",
+  "quando": "2026-11-23T19:00:29.867510",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18539,7 +18539,8 @@
   "cupom": null,
   "msg": "Pso5mj1V5EdVB6s-18IBq53iqHP95g-A6s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Sabonete Líquido Johnson's Recém Nascido 200ml*\n\nDe ~R$40~\nPor *R$27* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4B1kdiN5aL",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ab-mtu8lhjjopvm56"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ab-mtu8lhjjopvm56",
+  "conferido": "2026-11-23T19:02:44.582449"
  },
  "3244159": {
   "quando": "2026-11-23T16:01:41.275429",
@@ -18757,5 +18758,39 @@
   "msg": "PsooZIyHN1AUdKE-1wIBq53iqHP95g-A7g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Short Masculino Neon Bermuda Praia Mauricinho Jr Rf. 001 Preto M*\n\nDe ~R$57~\nPor *R$32* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2JAhcsV",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_675874-MLB115002843958_082026-P.webp"
+ },
+ "3245028": {
+  "quando": "2026-11-23T19:00:33.661893",
+  "titulo": "Lovito Vestido Feminino Midi Romântico Estampado DRB5BR180",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2gCx3JnHoI",
+  "publico": "feminino",
+  "produto": "shopee:48359146201",
+  "preco": 57.9,
+  "shopee": [
+   1632995122,
+   48359146201
+  ],
+  "cupom": null,
+  "msg": "Psq7nL_Yfzp6MNc-1xwBq53iqHP95g-A7k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Lovito Vestido Feminino Midi Romântico Estampado DRB5BR180*\n\nDe ~R$125~\nPor *R$58* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gCx3JnHoI",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mth1gbs535kw17"
+ },
+ "3244225": {
+  "quando": "2026-11-23T19:01:40.218339",
+  "titulo": "Perfume Árabe Lattafa His Confession Masculino Eau De Parfum 100 Ml",
+  "link": "https://meli.la/19oZ3b5",
+  "publico": "masculino",
+  "produto": "MLB41302004",
+  "preco": 210.0,
+  "cupom": {
+   "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqNbatTWK2vnIU-18EBq53iqHP95g-A7o",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe Lattafa His Confession Masculino Eau de Parfum 100 ml*\n\nPor *R$210* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$180*\n\n👉 *Pegar promoção:* https://meli.la/19oZ3b5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896263-MLA119238489287_102026-P.webp"
  }
 }
