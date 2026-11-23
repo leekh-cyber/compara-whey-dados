@@ -41,23 +41,6 @@
   "cupom": null
  },
  {
-  "id": "3240468",
-  "quando": "2026-11-23T07:58:13.397549",
-  "titulo": "Kit com 10 Cuecas Boxer Lupo Algodão",
-  "texto": "*Kit 10 Cuecas Boxer Lupo Algodão Respirável Box Original*\n\nPor *R$184* 🔥\n\n🎟️ Cupom: *MODA2311*\n💸 Com o cupom: *R$156*\n\n👉 *Pegar promoção:* https://meli.la/2Rje276\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_607636-MLB84764192659_052025-P.webp",
-  "link": "https://meli.la/2Rje276",
-  "produto": "MLB5161539364",
-  "publico": "masculino",
-  "preco": 184.01,
-  "cupom": {
-   "codigo": "MODA2311",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3241874",
   "quando": "2026-11-23T08:00:10.781657",
   "titulo": "Vestido Longo Tule Brilho Com Manga E Fenda Casamento - R$ 125",
@@ -67,18 +50,6 @@
   "produto": "MLB5579548716",
   "publico": "feminino",
   "preco": 125.0,
-  "cupom": null
- },
- {
-  "id": "3241872",
-  "quando": "2026-11-23T08:00:18.085548",
-  "titulo": "Macacão Longo Sofisticado Básico C Bolso Ajustável Pantalona - R$ 75,98",
-  "texto": "*Macacão Longo Sofisticado Básico C Bolso Ajustável Pantalona*\n\nDe ~R$131~\nPor *R$76* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2SKRAkG",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_675422-MLB111869829147_052026-P.webp",
-  "link": "https://meli.la/2SKRAkG",
-  "produto": "MLB5770793464",
-  "publico": "feminino",
-  "preco": 75.98,
   "cupom": null
  },
  {
@@ -151,6 +122,30 @@
   "produto": "MLB4106440643",
   "publico": null,
   "preco": 562.9,
+  "cupom": null
+ },
+ {
+  "id": "3242006",
+  "quando": "2026-11-23T08:35:23.178633",
+  "titulo": "Cronograma Capilar Braé Repair Reparação 3x13ml",
+  "texto": "*Cronograma Capilar Braé Repair Reparação 3x13ml*\n\nPor *R$50* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2UUHjKC\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_740767-MLA99358433366_112025-P.webp",
+  "link": "https://meli.la/2UUHjKC",
+  "produto": "MLB19540098",
+  "publico": null,
+  "preco": 50.31,
+  "cupom": null
+ },
+ {
+  "id": "3241982",
+  "quando": "2026-11-23T08:35:44.007459",
+  "titulo": "Power Bank 10000 Mah Turbo 22.5w Carregador Portátil Display Digital Usb C Universal Iphone Samsung Xiaomi Motorola Audiophile",
+  "texto": "*Power Bank 10000 mah Turbo 22.5w Carregador Portátil Display Digital Usb C Universal iPhone Samsung Xiaomi Motorola Audiophile*\n\nDe ~R$139~\nPor *R$65* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2DarSM7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_851625-MLA111650159287_052026-P.webp",
+  "link": "https://meli.la/2DarSM7",
+  "produto": "MLB69628935",
+  "publico": null,
+  "preco": 64.89,
   "cupom": null
  }
 ]
