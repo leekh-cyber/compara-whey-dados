@@ -121,17 +121,68 @@
   }
  },
  {
-  "id": "3244159",
-  "quando": "2026-11-23T15:35:32.320696",
-  "titulo": "Tênis Ultimashow 2.0 adidas",
-  "texto": "*Tênis Ultimashow 2.0 adidas*\n\nDe ~R$379~\nPor *R$240* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$216*\n\n👉 *Pegar promoção:* https://meli.la/2H7jXgp\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_836742-MLB117547051944_102026-P.webp",
-  "link": "https://meli.la/2H7jXgp",
-  "produto": "MLB3746595233",
-  "publico": "masculino",
-  "preco": 240.0,
+  "id": "3244298",
+  "quando": "2026-11-23T16:10:10.160928",
+  "titulo": "Perfume CK IN2U EDT Feminino 100ml Calvin Klein",
+  "texto": "*Perfume CK IN2U EDT Feminino 100ml Calvin Klein*\n\nPor *R$175* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$157*\n\n👉 *Pegar promoção:* https://meli.la/15o8gDz\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_812604-MLA45825009443_052021-P.webp",
+  "link": "https://meli.la/15o8gDz",
+  "produto": "MLB6093749",
+  "publico": "feminino",
+  "preco": 174.99,
   "cupom": {
    "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3244286",
+  "quando": "2026-11-23T16:10:19.768118",
+  "titulo": "Kit Presente Eudora Diva Esplêndida Feminino Original",
+  "texto": "*Kit Presente Eudora Diva Esplêndida Feminino Original*\n\nDe ~R$139~\nPor *R$132* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$118*\n\n👉 *Pegar promoção:* https://meli.la/2zWQCnd\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_821849-MLB119387476007_102026-P.webp",
+  "link": "https://meli.la/2zWQCnd",
+  "produto": "MLB5889177620",
+  "publico": "feminino",
+  "preco": 132.0,
+  "cupom": {
+   "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3244225",
+  "quando": "2026-11-23T16:10:23.890620",
+  "titulo": "Perfume Árabe Lattafa His Confession Masculino Eau De Parfum 100 Ml",
+  "texto": "*Perfume Árabe Lattafa His Confession Masculino Eau de Parfum 100 ml*\n\nPor *R$210* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$180*\n\n👉 *Pegar promoção:* https://meli.la/19oZ3b5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896263-MLA119238489287_102026-P.webp",
+  "link": "https://meli.la/19oZ3b5",
+  "produto": "MLB41302004",
+  "publico": "masculino",
+  "preco": 210.0,
+  "cupom": {
+   "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3244216",
+  "quando": "2026-11-23T16:10:40.659487",
+  "titulo": "Tênis Lite Racer 4.0 adidas",
+  "texto": "*Tênis Lite Racer 4.0 Cinza adidas*\n\nDe ~R$299~\nPor *R$209* 🔥\n\n🎟️ Cupom: *SITETODO2311*\n💸 Com o cupom: *R$164*\n\n👉 *Pegar promoção:* https://meli.la/2TgdoMT\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_744810-MLB82867459698_032025-P.webp",
+  "link": "https://meli.la/2TgdoMT",
+  "produto": "MLB5321753604",
+  "publico": "masculino",
+  "preco": 208.99,
+  "cupom": {
+   "codigo": "SITETODO2311",
    "id": null,
    "publicado": null,
    "ate": null
