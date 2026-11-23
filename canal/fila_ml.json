@@ -41,18 +41,6 @@
   "cupom": null
  },
  {
-  "id": "3241874",
-  "quando": "2026-11-23T08:00:10.781657",
-  "titulo": "Vestido Longo Tule Brilho Com Manga E Fenda Casamento - R$ 125",
-  "texto": "*Vestido Longo Tule Brilho Com Manga E Fenda Casamento*\n\nDe ~R$289~\nPor *R$125* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1YDatYR",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_795805-MLB89876989249_082025-P.webp",
-  "link": "https://meli.la/1YDatYR",
-  "produto": "MLB5579548716",
-  "publico": "feminino",
-  "preco": 125.0,
-  "cupom": null
- },
- {
   "id": "3241948",
   "quando": "2026-11-23T08:00:31.670830",
   "titulo": "Perfume Eternity 100ml Calvin Klein",
@@ -147,5 +135,22 @@
   "publico": "masculino",
   "preco": 89.9,
   "cupom": null
+ },
+ {
+  "id": "3242369",
+  "quando": "2026-11-23T09:45:04.712838",
+  "titulo": "Tênis Kappa Zenit (4 cores)",
+  "texto": "*Tênis Casual Kappa Zenit Masculino Unissex Conforto*\n\nPor *R$90* 🔥\n\n🎟️ Cupom: *OFICIAIS2311*\n💸 Com o cupom: *R$80*\n\n👉 *Pegar promoção:* https://meli.la/2nVUtBx\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_696772-MLB119102221220_112026-P.webp",
+  "link": "https://meli.la/2nVUtBx",
+  "produto": "MLB5408593708",
+  "publico": "masculino",
+  "preco": 89.99,
+  "cupom": {
+   "codigo": "OFICIAIS2311",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
