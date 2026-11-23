@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-22T14:10-03:00",
+  "atualizado": "2026-11-23T18:27-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -15,16 +15,16 @@
       "publicado": "2026-11-17T10:16-03:00"
     },
     {
-      "codigo": "BLACKDELUXO",
+      "codigo": "OFERTASEMPREML",
       "pct": 10,
       "fixo": null,
-      "minimo": 500.0,
-      "teto": null,
+      "minimo": 149.0,
+      "teto": 200.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": null,
-      "publicado": "2026-11-21T16:59-03:00"
+      "ate": "2026-11-23T23:59:59-03:00",
+      "publicado": "2026-11-23T16:06-03:00"
     }
   ]
 }
