@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T16:00:30.099676",
+  "quando": "2026-11-23T16:30:24.981894",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18064,7 +18064,7 @@
   "msg": "PsrSDV01MOrjM74-18wBq53iqHP95g-A5E",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Cafeteira 2 em 1 Coffee To Go Oster 600ml*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/50arEWZzif",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ba-mv6uj2fv00zq49",
-  "conferido": "2026-11-23T13:03:04.179594"
+  "conferido": "2026-11-23T16:33:45.919548"
  },
  "3242369": {
   "quando": "2026-11-23T10:01:42.547783",
@@ -18378,7 +18378,8 @@
   "cupom": null,
   "msg": "PsoxxHwmG3_lN5A-1xYBq53iqHP95g-A6A",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P*\n\nDe ~R$1907~\nPor *R$1049* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/60TOerH1rL",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821g3-mgmjwryd4pop83"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821g3-mgmjwryd4pop83",
+  "conferido": "2026-11-23T16:33:46.422380"
  },
  "3242006": {
   "quando": "2026-11-23T13:32:47.993236",
@@ -18556,5 +18557,49 @@
   "msg": "Pso28Mtgu.CzHKE-190Bq53iqHP95g-A6w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Ultimashow 2.0 adidas*\n\nDe ~R$379~\nPor *R$240* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$216*\n\n👉 *Pegar promoção:* https://meli.la/2H7jXgp\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_836742-MLB117547051944_102026-P.webp"
+ },
+ "cupom:72465": {
+  "quando": "2026-11-23T16:30:27.343823",
+  "titulo": "Garanta R$ 200 OFF em Samsung TV com cupom Mercado Livre",
+  "id": "72465",
+  "publicado": "2026-11-23T14:14:56-03:00",
+  "ate": "2026-11-30T23:59:59-0300",
+  "msg": "PspwLHM2doM_Dwk-1_kBq53iqHP95g-A60",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*R$200 OFF acima de R$2299*\nem Samsung TV com cupom Mercado Livre\n\n_Desconto aplicado automaticamente nos itens participantes_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3244396": {
+  "quando": "2026-11-23T16:31:32.513131",
+  "titulo": "Kit Até 6 Peças Vestido Infantil (Tam. 1 a 10 anos)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1qdptYQdUV",
+  "publico": "feminino",
+  "produto": "shopee:58259217352",
+  "preco": 56.89,
+  "shopee": [
+   1577914664,
+   58259217352
+  ],
+  "cupom": null,
+  "msg": "Psqg5cO97nGQXo0-15IBq53iqHP95g-A64",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Até 6 Peças Vestido Infantil Menina Estilo Blogueirinha do Tamanho 1 ao 10 Anos Sortidos*\n\nDe ~R$77~\nA partir de *R$57* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdptYQdUV",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mp0x7vp6kf7p60"
+ },
+ "3244216": {
+  "quando": "2026-11-23T16:32:40.908553",
+  "titulo": "Tênis Lite Racer 4.0 adidas",
+  "link": "https://meli.la/2TgdoMT",
+  "publico": "masculino",
+  "produto": "MLB5321753604",
+  "preco": 208.99,
+  "cupom": {
+   "codigo": "SITETODO2311",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsoGf7fJIiCFH0U-1yMBq53iqHP95g-A68",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Lite Racer 4.0 Cinza adidas*\n\nDe ~R$299~\nPor *R$209* 🔥\n\n🎟️ Cupom: *SITETODO2311*\n💸 Com o cupom: *R$164*\n\n👉 *Pegar promoção:* https://meli.la/2TgdoMT\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_744810-MLB82867459698_032025-P.webp"
  }
 }
