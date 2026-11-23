@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T15:00:34.001675",
+  "quando": "2026-11-23T15:30:24.902660",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18298,7 +18298,8 @@
   "cupom": null,
   "msg": "PsoFaOXTqfwZe7o-1.cBq53iqHP95g-A5s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Morango com Shampoo + Condicionador e Creme de Pentear Kids*\n\nDe ~R$73~\nPor *R$59* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/Lp1qFy6QE",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzv8ko2l98j88"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzv8ko2l98j88",
+  "conferido": "2026-11-23T15:32:38.606747"
  },
  "3241585": {
   "quando": "2026-11-23T12:31:49.002806",
@@ -18486,5 +18487,39 @@
   "msg": "PsqfXjCFAGxfv4M-17sBq53iqHP95g-A6g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Controle GameSir P1 Pocket Taco Bluetooth Vertical para Celular Android Retro Branco*\n\nDe ~R$399~\nPor *R$200* 🔥\n\n🎟️ Cupom: *GARIMPEI*\n💸 Com o cupom: *R$140*\n\n👉 *Pegar promoção:* https://meli.la/2CW9nNh\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_835287-MLA114791074638_082026-P.webp"
+ },
+ "3243998": {
+  "quando": "2026-11-23T15:30:29.876209",
+  "titulo": "Perfume Para Cabelos Carolina Herrera Good Girl Blush 30ml Feminino",
+  "link": "https://meli.la/2mxAFDs",
+  "publico": "feminino",
+  "produto": "MLB40303747",
+  "preco": 250.0,
+  "cupom": {
+   "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqDWGzqJy6UT1s-10gBq53iqHP95g-A6k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume para Cabelos Carolina Herrera Good Girl Blush 30ml feminino*\n\nDe ~R$319~\nPor *R$250* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$225*\n\n👉 *Pegar promoção:* https://meli.la/2mxAFDs\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_783234-MLU78976097709_092024-P.webp"
+ },
+ "3243992": {
+  "quando": "2026-11-23T15:31:34.245959",
+  "titulo": "Perfume Natura Essencial Oud EDP 100ml Feminino",
+  "link": "https://meli.la/1htZwV8",
+  "publico": "feminino",
+  "produto": "MLB5015281832",
+  "preco": 178.9,
+  "cupom": {
+   "codigo": "OFERTAPARAVOCE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrUiQ8qYdCwxqk-18MBq53iqHP95g-A6o",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Essencial Oud Feminino Natura Deo Parfum Perfume Original 100ml*\n\nDe ~R$259~\nPor *R$179* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$140*\n\n👉 *Pegar promoção:* https://meli.la/1htZwV8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_838901-MLB93985086277_102025-P.webp"
  }
 }
