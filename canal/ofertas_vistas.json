@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T09:30:33.295688",
+  "quando": "2026-11-23T10:00:30.781231",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18042,5 +18042,39 @@
   "msg": "Psof.JFDLURQLvc-1y8Bq53iqHP95g-A5A",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Vestido Longo Tule Brilho Com Manga E Fenda Casamento*\n\nDe ~R$289~\nPor *R$125* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1YDatYR",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_795805-MLB89876989249_082025-P.webp"
+ },
+ "3242494": {
+  "quando": "2026-11-23T10:00:35.847057",
+  "titulo": "Cafeteira 2 em 1 Coffee To Go Oster 600ml",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50arEWZzif",
+  "publico": null,
+  "produto": "shopee:23398795315",
+  "preco": 49.9,
+  "shopee": [
+   1573223607,
+   23398795315
+  ],
+  "cupom": null,
+  "msg": "PsrSDV01MOrjM74-18wBq53iqHP95g-A5E",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Cafeteira 2 em 1 Coffee To Go Oster 600ml*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/50arEWZzif",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ba-mv6uj2fv00zq49"
+ },
+ "3242369": {
+  "quando": "2026-11-23T10:01:42.547783",
+  "titulo": "Tênis Kappa Zenit (4 cores)",
+  "link": "https://meli.la/2nVUtBx",
+  "publico": "masculino",
+  "produto": "MLB5408593708",
+  "preco": 89.99,
+  "cupom": {
+   "codigo": "OFICIAIS2311",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsoD50eFJ8FAcIc-11MBq53iqHP95g-A5I",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Casual Kappa Zenit Masculino Unissex Conforto*\n\nPor *R$90* 🔥\n\n🎟️ Cupom: *OFICIAIS2311*\n💸 Com o cupom: *R$80*\n\n👉 *Pegar promoção:* https://meli.la/2nVUtBx\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_696772-MLB119102221220_112026-P.webp"
  }
 }
