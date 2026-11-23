@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T09:00:39.374387",
+  "quando": "2026-11-23T09:30:33.295688",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18008,5 +18008,39 @@
   "msg": "PsrgdL_4lXM2kX8-128Bq53iqHP95g-A44",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camisa Polo Masculina Casual Slim Algodão*\n\nDe ~R$49~\nPor *R$36* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1LRMh4Y",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_901835-MLB113629446713_062026-P.webp"
+ },
+ "3241832": {
+  "quando": "2026-11-23T09:30:35.521700",
+  "titulo": "Smartwatch Huawei Watch GT 6 Pro 46mm Bateria Até 21 Dias Esportes Análise ECG Preto",
+  "loja": "shopee"
+ },
+ "3242297": {
+  "quando": "2026-11-23T09:30:36.571513",
+  "titulo": "SotiayTenda Elástica De Praia Barraca Ar Livre 3x3 Com Guarda-Sol Resistente A UV Toldo Familiar À Prova De Vento c",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AKcNYGWXgw",
+  "publico": null,
+  "produto": "shopee:23099461973",
+  "preco": 263.62,
+  "shopee": [
+   1782100590,
+   23099461973
+  ],
+  "cupom": null,
+  "msg": "PsqZWjf4H7cT_Wk-1xABq53iqHP95g-A48",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*SotiayTenda Elástica De Praia, Barraca Ar Livre 3x3 Com Guarda-Sol Resistente A UV , Toldo Familiar À Prova De Vento cam*\n\nPor *R$264* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AKcNYGWXgw",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mu91w1qitgqr26"
+ },
+ "3241874": {
+  "quando": "2026-11-23T09:31:45.182558",
+  "titulo": "Vestido Longo Tule Brilho Com Manga E Fenda Casamento - R$ 125",
+  "link": "https://meli.la/1YDatYR",
+  "publico": "feminino",
+  "produto": "MLB5579548716",
+  "preco": 125.0,
+  "cupom": null,
+  "msg": "Psof.JFDLURQLvc-1y8Bq53iqHP95g-A5A",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Vestido Longo Tule Brilho Com Manga E Fenda Casamento*\n\nDe ~R$289~\nPor *R$125* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1YDatYR",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_795805-MLB89876989249_082025-P.webp"
  }
 }
