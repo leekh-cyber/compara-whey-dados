@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-23T12:30:25.210388",
+  "quando": "2026-11-23T13:00:36.430901",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18063,7 +18063,8 @@
   "cupom": null,
   "msg": "PsrSDV01MOrjM74-18wBq53iqHP95g-A5E",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Cafeteira 2 em 1 Coffee To Go Oster 600ml*\n\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/50arEWZzif",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ba-mv6uj2fv00zq49"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ba-mv6uj2fv00zq49",
+  "conferido": "2026-11-23T13:03:04.179594"
  },
  "3242369": {
   "quando": "2026-11-23T10:01:42.547783",
@@ -18306,5 +18307,34 @@
   "msg": "PsqK4rMB77eTA_k-15YBq53iqHP95g-A5w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 6 Pares Meias Wilson Cano Médio Masculino Adulto 38-43*\n\nDe ~R$60~\nPor *R$30* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2tydqYD\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_846695-MLB83338551319_032025-P.webp"
+ },
+ "3243502": {
+  "quando": "2026-11-23T13:00:42.496157",
+  "titulo": "Pista de Bolinhas de Gude com Blocos de Montar 59126 Peças",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/W8S4clI7g",
+  "publico": null,
+  "produto": "shopee:58218526579",
+  "preco": 27.9,
+  "shopee": [
+   1507074638,
+   58218526579
+  ],
+  "cupom": null,
+  "msg": "PsrhT7eetzln8Zw-1woBq53iqHP95g-A50",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Pista de Bolinhas de Gude com Blocos de Montar 44/59/126 Peças Brinquedo Educativo Infantil*\n\nDe ~R$54~\nA partir de *R$28* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/W8S4clI7g",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mtc1dlwsvdvn4d"
+ },
+ "3241982": {
+  "quando": "2026-11-23T13:01:51.174377",
+  "titulo": "Power Bank 10000 Mah Turbo 22.5w Carregador Portátil Display Digital Usb C Universal Iphone Samsung Xiaomi Motorola Audiophile",
+  "link": "https://meli.la/2DarSM7",
+  "publico": null,
+  "produto": "MLB69628935",
+  "preco": 64.89,
+  "cupom": null,
+  "msg": "PsrAtDDUxaOYmpk-19cBq53iqHP95g-A54",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Power Bank 10000 mah Turbo 22.5w Carregador Portátil Display Digital Usb C Universal iPhone Samsung Xiaomi Motorola Audiophile*\n\nDe ~R$139~\nPor *R$65* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2DarSM7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_851625-MLA111650159287_052026-P.webp"
  }
 }
