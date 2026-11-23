@@ -138,23 +138,6 @@
   }
  },
  {
-  "id": "3244286",
-  "quando": "2026-11-23T16:10:19.768118",
-  "titulo": "Kit Presente Eudora Diva Esplêndida Feminino Original",
-  "texto": "*Kit Presente Eudora Diva Esplêndida Feminino Original*\n\nDe ~R$139~\nPor *R$132* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$118*\n\n👉 *Pegar promoção:* https://meli.la/2zWQCnd\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_821849-MLB119387476007_102026-P.webp",
-  "link": "https://meli.la/2zWQCnd",
-  "produto": "MLB5889177620",
-  "publico": "feminino",
-  "preco": 132.0,
-  "cupom": {
-   "codigo": "OFERTAPARAVOCE",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3244225",
   "quando": "2026-11-23T16:10:23.890620",
   "titulo": "Perfume Árabe Lattafa His Confession Masculino Eau De Parfum 100 Ml",
@@ -181,6 +164,18 @@
   "produto": "MLB7304650832",
   "publico": "masculino",
   "preco": 31.9,
+  "cupom": null
+ },
+ {
+  "id": "3244875",
+  "quando": "2026-11-23T18:30:06.213892",
+  "titulo": "Top Selene Alta Sustentação Sem Costura",
+  "texto": "*Top Selene Alta Sustentação Sem Costura Fitness Academia*\n\nPor *R$29* 🔥\n\n👉 *Pegar promoção:* https://meli.la/12LM67R\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_881375-MLB112332805547_052026-P.webp",
+  "link": "https://meli.la/12LM67R",
+  "produto": "MLB4132087625",
+  "publico": "feminino",
+  "preco": 28.99,
   "cupom": null
  }
 ]
