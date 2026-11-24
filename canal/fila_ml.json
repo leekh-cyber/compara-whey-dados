@@ -94,23 +94,6 @@
   }
  },
  {
-  "id": "3246722",
-  "quando": "2026-11-24T09:45:18.941073",
-  "titulo": "Kit com 10 Cuecas Boxer Mash Algodão",
-  "texto": "*Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico*\n\nDe ~R$189~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$125*\n\n👉 *Pegar promoção:* https://meli.la/2EXy1BP\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp",
-  "link": "https://meli.la/2EXy1BP",
-  "produto": "MLB1920971205",
-  "publico": "masculino",
-  "preco": 142.05,
-  "cupom": {
-   "codigo": "OFICIAIS2411",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3246909",
   "quando": "2026-11-24T09:45:24.562609",
   "titulo": "Lg Ultragear Monitor Gamer 32\"- Va 165hz 1ms (mbr) Qhd 2k (2560x1440) Hdr10 Amd Freesync, Preto - 32gn600",
@@ -137,6 +120,57 @@
   "produto": "MLB6404350374",
   "publico": null,
   "preco": 295.0,
+  "cupom": {
+   "codigo": "DESCONTOSMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3247107",
+  "quando": "2026-11-24T10:20:10.319090",
+  "titulo": "Relógio Life Star Feminino Couro Vinho Prateado Vinho",
+  "texto": "*Relógio Life Star Feminino Couro Vinho Prateado Vinho*\n\nDe ~R$690~\nPor *R$345* 🔥\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$310*\n\n👉 *Pegar promoção:* https://meli.la/2JsHch2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_625886-MLB96883844392_112025-P.webp",
+  "link": "https://meli.la/2JsHch2",
+  "produto": "MLB4289817023",
+  "publico": "feminino",
+  "preco": 345.0,
+  "cupom": {
+   "codigo": "DESCONTOSMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3247141",
+  "quando": "2026-11-24T10:20:18.266581",
+  "titulo": "Perfume Nina Ricci Nina Rouge Eau de Toilette 80 ml Feminino",
+  "texto": "*Perfume Nina Ricci Nina Rouge Eau de Toilette 80 ml Feminino*\n\nDe ~R$659~\nPor *R$422* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$381*\n\n👉 *Pegar promoção:* https://meli.la/1gb9554\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879111-MLA98749201713_112025-P.webp",
+  "link": "https://meli.la/1gb9554",
+  "produto": "MLB18205885",
+  "publico": "feminino",
+  "preco": 421.76,
+  "cupom": {
+   "codigo": "OFICIAIS2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3247082",
+  "quando": "2026-11-24T10:20:23.603588",
+  "titulo": "Kit com 2 Camisetas Aramis Basic",
+  "texto": "*Kit Camisetas Aramis Basic Lisa Cinza Grafite/cinza Cinza S/p Lisa*\n\nPor *R$200* 🔥\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$179*\n\n👉 *Pegar promoção:* https://meli.la/2ZYnqY2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_919057-MLB118501814873_092026-P.webp",
+  "link": "https://meli.la/2ZYnqY2",
+  "produto": "MLB5315101691",
+  "publico": "masculino",
+  "preco": 199.99,
   "cupom": {
    "codigo": "DESCONTOSMELI",
    "id": null,
