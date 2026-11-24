@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T17:00:28.992456",
+  "quando": "2026-11-24T17:30:24.228925",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19183,7 +19183,7 @@
   "msg": "PsqPGYv.1p1afcM-11UBq53iqHP95g-A88",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Ventilador de Mesa Prime Air Maxx Force 6 pás 60W AVTE01*\n\nDe ~R$149~\nPor *R$100* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/BVd8jObyq",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a4-mudirk0nhngna6",
-  "conferido": "2026-11-24T14:02:55.340258"
+  "conferido": "2026-11-24T17:32:42.438816"
  },
  "3247233": {
   "quando": "2026-11-24T11:01:42.000948",
@@ -19496,7 +19496,8 @@
   "cupom": null,
   "msg": "PsqUwci3X.P13Xk-16QBq53iqHP95g-A94",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Suporte Articulado de Mesa para Monitor Compativel Com Telas de Até 32 Polegadas Fitter*\n\nDe ~R$198~\nPor *R$113* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3Vm5LCHzNI",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824it-meebhx726znk63"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-824it-meebhx726znk63",
+  "conferido": "2026-11-24T17:32:42.774142"
  },
  "3248496": {
   "quando": "2026-11-24T14:30:31.333839",
@@ -19694,5 +19695,44 @@
   "msg": "PspkUtKNkZdSUFc-1w0Bq53iqHP95g-A.k",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Nike Air Max Nuaxis Masculino*\n\nDe ~R$599~\nPor *R$323* 🔥 no pix\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$290*\n\n👉 *Pegar promoção:* https://meli.la/2ys1tm7\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_970638-MLB100899098899_122025-P.webp"
+ },
+ "3249274": {
+  "quando": "2026-11-24T17:30:28.949216",
+  "titulo": "Gabinete Gamer Pichau Osiris Mini-Tower Lateral de Vidro Preto PG-OSI-BK",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AUvpsQ7QXV",
+  "publico": null,
+  "produto": "shopee:22799669620",
+  "preco": 276.9,
+  "shopee": [
+   627750190,
+   22799669620
+  ],
+  "cupom": {
+   "codigo": "ESPETACULO50",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsreOBex7Ensc4E-11kBq53iqHP95g-A.o",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Gabinete Gamer Pichau Osiris, Mini-Tower, Lateral de Vidro, Preto, PG-OSI-BK*\n\nDe ~R$576~\nPor *R$277* 🔥\n\n🎟️ Cupom: *ESPETACULO50*\n💸 Com o cupom: *R$216*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AUvpsQ7QXV",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259q-mse9z2nshzwh24"
+ },
+ "3249344": {
+  "quando": "2026-11-24T17:31:37.764839",
+  "titulo": "Tênis Boost Run W Adidas",
+  "link": "https://meli.la/2UwhPvg",
+  "publico": "feminino",
+  "produto": "MLB4546137751",
+  "preco": 289.99,
+  "cupom": {
+   "codigo": "M0D4TUHS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspK5hWhfo8NW_k-10UBq53iqHP95g-A.s",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Boost Run W adidas Preto 37 Br*\n\nDe ~R$499~\nPor *R$290* 🔥\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$254*\n\n👉 *Pegar promoção:* https://meli.la/2UwhPvg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_677484-MLB115303180707_072026-P.webp"
  }
 }
