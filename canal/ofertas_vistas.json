@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T14:30:24.691912",
+  "quando": "2026-11-24T15:00:36.382665",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19258,7 +19258,8 @@
   "cupom": null,
   "msg": "Psq9LBzuT_kSJXs-11wBq53iqHP95g-A9M",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Monitor Gamer NOVANTE 20 Polegadas HD + 1600x900 75Hz HDMI VGA VESA Alto-Falante Integrado*\n\nDe ~R$605~\nPor *R$309* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/20xHO9hlQb",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mvrdypxee22pe3"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mvrdypxee22pe3",
+  "conferido": "2026-11-24T15:02:48.946991"
  },
  "3247677": {
   "quando": "2026-11-24T12:00:43.477534",
@@ -19511,5 +19512,39 @@
   "msg": "PsrVShroT1C7X6U-12YBq53iqHP95g-A98",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 10 Cuecas Masculinas Boxer Microfibra Polo Wear Sortido*\n\nDe ~R$199~\nPor *R$92* 🔥 no pix\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$83*\n\n👉 *Pegar promoção:* https://meli.la/2eP7DpG\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_703205-MLB89664660440_082025-P.webp"
+ },
+ "3248635": {
+  "quando": "2026-11-24T15:00:38.516059",
+  "titulo": "Kit 10 Mini laços de bebê de Cetim",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/gRu03YCIr",
+  "publico": null,
+  "produto": "shopee:21599028458",
+  "preco": 19.99,
+  "shopee": [
+   609744107,
+   21599028458
+  ],
+  "cupom": null,
+  "msg": "PspNuovnZD_0cr0-16EBq53iqHP95g-A.A",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 10 Mini laços de bebê Lacinhos de Bebê Cetim laços de cabelo infantil Faixinha Tiarinha Rn*\n\nDe ~R$28~\nPor *R$20* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRu03YCIr",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-muwaorxoxudcf8"
+ },
+ "3248312": {
+  "quando": "2026-11-24T15:01:44.512069",
+  "titulo": "Kit Presente Meu Primeiro Humor Natura Feminino Original",
+  "link": "https://meli.la/1NfkHhM",
+  "publico": "feminino",
+  "produto": "MLB7862521758",
+  "preco": 130.0,
+  "cupom": {
+   "codigo": "VOCEDEZ",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psq5T09uenrW6uU-14EBq53iqHP95g-A.E",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Presente Meu Primeiro Humor Natura Feminino Original*\n\nDe ~R$238~\nPor *R$130* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$117*\n\n👉 *Pegar promoção:* https://meli.la/1NfkHhM\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_805953-MLB118294092278_102026-P.webp"
  }
 }
