@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T13:00:31.426609",
+  "quando": "2026-11-24T13:30:26.043243",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19132,7 +19132,8 @@
   },
   "msg": "PsrlpsRy8j3_g6w-1zcBq53iqHP95g-A8w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Water Cooler GStorm HX700 ARGB 360mm 320W Intel AMD*\n\nDe ~R$425~\nPor *R$382* 🔥\n\n🎟️ Cupom: *M3LH0R4PP*\n💸 Com o cupom: *R$344*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qlJtowCRC",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-msq6uw6901dub6"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-msq6uw6901dub6",
+  "conferido": "2026-11-24T13:33:44.459329"
  },
  "3247141": {
   "quando": "2026-11-24T10:31:45.444412",
@@ -19375,5 +19376,54 @@
   "msg": "PsrkBhXqype871E-16QBq53iqHP95g-A9g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Fila Spry Masculino Original Academia Confortável Marinho/branco/vermelho 42 Br*\n\nPor *R$190* 🔥\n\n🎟️ Cupom: *TODOSITE2411*\n💸 Com o cupom: *R$159*\n\n👉 *Pegar promoção:* https://meli.la/1zncSSs\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_944241-MLB112322905700_062026-P.webp"
+ },
+ "cupom:CUPONOMOVEIS": {
+  "quando": "2026-11-24T13:30:28.455885",
+  "titulo": "Garanta 15% OFF em Casa e Decoração com cupom Mercado Livre",
+  "id": "72516",
+  "publicado": "2026-11-24T13:06:25-03:00",
+  "ate": "2026-11-25T23:59:59-0300",
+  "msg": "PsotYF.Tp2SuWm0-1.ABq53iqHP95g-A9k",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*15% OFF*\nem Casa e Decoração com cupom Mercado Livre\n\nCódigo: *CUPONOMOVEIS*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3248078": {
+  "quando": "2026-11-24T13:31:33.241803",
+  "titulo": "Ar-condicionado Split 9.000 BTUs Gree Inverter Quente e Frio GWH09ATB-D6DNA1AB Branco 220V",
+  "loja": "shopee"
+ },
+ "3248086": {
+  "quando": "2026-11-24T13:31:34.438897",
+  "titulo": "Perfume Al Wataniah Shagaf Al Ward EDP 100ml Feminino",
+  "link": "https://meli.la/1dBVnaX",
+  "publico": "feminino",
+  "produto": "MLB77246916",
+  "preco": 142.2,
+  "cupom": {
+   "codigo": "VOCEDEZ",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psqw3RmU7C..jAE-1xsBq53iqHP95g-A9o",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Arabe Shagaf Al Ward Feminino Edp 100ml*\n\nDe ~R$194~\nPor *R$142* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$127*\n\n👉 *Pegar promoção:* https://meli.la/1dBVnaX\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_855634-MLA116123349589_082026-P.webp"
+ },
+ "3246906": {
+  "quando": "2026-11-24T13:32:39.590274",
+  "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
+  "link": "https://meli.la/1i8XfWj",
+  "publico": "masculino",
+  "produto": "MLB5857442960",
+  "preco": 121.99,
+  "cupom": {
+   "codigo": "OFICIAIS2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsojzO1FMIlU8DY-12ABq53iqHP95g-A9s",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Kappa Pulse Supra Unissex De Corrida Conforto*\n\nDe ~R$259~\nPor *R$122* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n\n👉 *Pegar promoção:* https://meli.la/1i8XfWj\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp"
  }
 }
