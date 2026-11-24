@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T10:00:30.211262",
+  "quando": "2026-11-24T10:30:27.400221",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19094,5 +19094,54 @@
   "msg": "PsoKx.8mTLFNfN4-18oBq53iqHP95g-A8s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico*\n\nDe ~R$189~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$125*\n\n👉 *Pegar promoção:* https://meli.la/2EXy1BP\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp"
+ },
+ "3247052": {
+  "quando": "2026-11-24T10:30:31.667359",
+  "titulo": "Water Cooler TGT Spartel V2 Rainbow 240mm Preto TGT-SPLV240-BK01",
+  "loja": "shopee"
+ },
+ "3247043": {
+  "quando": "2026-11-24T10:30:36.619757",
+  "titulo": "Lava Roupas Líquido UAU Active 3l",
+  "loja": "shopee"
+ },
+ "3247066": {
+  "quando": "2026-11-24T10:30:38.054550",
+  "titulo": "Water Cooler GStorm HX700 ARGB 360mm 320W Intel AMD",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/qlJtowCRC",
+  "publico": null,
+  "produto": "shopee:58267600044",
+  "preco": 382.5,
+  "shopee": [
+   860712193,
+   58267600044
+  ],
+  "cupom": {
+   "codigo": "M3LH0R4PP",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrlpsRy8j3_g6w-1zcBq53iqHP95g-A8w",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Water Cooler GStorm HX700 ARGB 360mm 320W Intel AMD*\n\nDe ~R$425~\nPor *R$382* 🔥\n\n🎟️ Cupom: *M3LH0R4PP*\n💸 Com o cupom: *R$344*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qlJtowCRC",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-msq6uw6901dub6"
+ },
+ "3247141": {
+  "quando": "2026-11-24T10:31:45.444412",
+  "titulo": "Perfume Nina Ricci Nina Rouge Eau de Toilette 80 ml Feminino",
+  "link": "https://meli.la/1gb9554",
+  "publico": "feminino",
+  "produto": "MLB18205885",
+  "preco": 421.76,
+  "cupom": {
+   "codigo": "OFICIAIS2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsodoQYJoqlJ134-1wABq53iqHP95g-A80",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Nina Ricci Nina Rouge Eau de Toilette 80 ml Feminino*\n\nDe ~R$659~\nPor *R$422* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$381*\n\n👉 *Pegar promoção:* https://meli.la/1gb9554\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_879111-MLA98749201713_112025-P.webp"
  }
 }
