@@ -77,17 +77,68 @@
   "cupom": null
  },
  {
-  "id": "3246241",
-  "quando": "2026-11-24T09:10:10.745364",
-  "titulo": "Estante Armário De Aço 60cm 6 Bandejas Branca Branco",
-  "texto": "*Estante Armário De Aço 60cm 6 Bandejas Branca Branco*\n\nDe ~R$220~\nPor *R$179* 🔥\n\n🎟️ Cupom: *FULL2411*\n💸 Com o cupom: *R$134*\n\n👉 *Pegar promoção:* https://meli.la/1mUjvMt",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_853794-MLB113685800692_072026-P.webp",
-  "link": "https://meli.la/1mUjvMt",
-  "produto": "MLB6670978222",
-  "publico": null,
-  "preco": 179.0,
+  "id": "3246906",
+  "quando": "2026-11-24T09:45:12.204928",
+  "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
+  "texto": "*Tênis Kappa Pulse Supra Unissex De Corrida Conforto*\n\nDe ~R$259~\nPor *R$122* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n\n👉 *Pegar promoção:* https://meli.la/1i8XfWj\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp",
+  "link": "https://meli.la/1i8XfWj",
+  "produto": "MLB5857442960",
+  "publico": "masculino",
+  "preco": 121.99,
   "cupom": {
-   "codigo": "FULL2411",
+   "codigo": "OFICIAIS2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3246722",
+  "quando": "2026-11-24T09:45:18.941073",
+  "titulo": "Kit com 10 Cuecas Boxer Mash Algodão",
+  "texto": "*Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico*\n\nDe ~R$189~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$125*\n\n👉 *Pegar promoção:* https://meli.la/2EXy1BP\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp",
+  "link": "https://meli.la/2EXy1BP",
+  "produto": "MLB1920971205",
+  "publico": "masculino",
+  "preco": 142.05,
+  "cupom": {
+   "codigo": "OFICIAIS2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3246909",
+  "quando": "2026-11-24T09:45:24.562609",
+  "titulo": "Lg Ultragear Monitor Gamer 32\"- Va 165hz 1ms (mbr) Qhd 2k (2560x1440) Hdr10 Amd Freesync, Preto - 32gn600",
+  "texto": "*LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600*\n\nDe ~R$2180~\nPor *R$989* 🔥 no pix\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$890*\n\n👉 *Pegar promoção:* https://meli.la/1hxDPqn\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_638172-MLA119028250988_112026-P.webp",
+  "link": "https://meli.la/1hxDPqn",
+  "produto": "MLB24061510",
+  "publico": null,
+  "preco": 989.1,
+  "cupom": {
+   "codigo": "DESCONTOSMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3246908",
+  "quando": "2026-11-24T09:45:32.149697",
+  "titulo": "Pulseira Life Estrela Em Prata 925",
+  "texto": "*Pulseira Life Estrela Em Prata 925*\n\nDe ~R$590~\nPor *R$295* 🔥\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$252*\n\n👉 *Pegar promoção:* https://meli.la/2f1cvdY\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_974998-MLB107322871166_032026-P.webp",
+  "link": "https://meli.la/2f1cvdY",
+  "produto": "MLB6404350374",
+  "publico": null,
+  "preco": 295.0,
+  "cupom": {
+   "codigo": "DESCONTOSMELI",
    "id": null,
    "publicado": null,
    "ate": null
