@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T09:00:30.939574",
+  "quando": "2026-11-24T09:30:27.516359",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19005,5 +19005,49 @@
   "msg": "PspqlgCIA.lXMYQ-1y0Bq53iqHP95g-A8Y",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Jogo Café da Manhã Porto Brasil 12 Peças Cerâmica Feldspática Branca*\n\nDe ~R$196~\nPor *R$116* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1tGJDpB\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_918767-MLA95679962984_102025-P.webp"
+ },
+ "cupom:QUEROOFFHOJE": {
+  "quando": "2026-11-24T09:30:29.965010",
+  "titulo": "25% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72481",
+  "publicado": "2026-11-24T09:07:16-03:00",
+  "ate": "2026-11-24T23:59:59-0300",
+  "msg": "PspKJJIA1nIeDMg-11EBq53iqHP95g-A8c",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF acima de R$2499*\n\nCódigo: *QUEROOFFHOJE*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3246671": {
+  "quando": "2026-11-24T09:31:34.800423",
+  "titulo": "SHORTS SAIA VAELA FEMININO ESPORTE PADEL TENIS FITNESS ACADEMIA COM DESCRIÇAO E BELEZA FLEXIBILIDADE",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9071Ym0ydg",
+  "publico": "feminino",
+  "produto": "shopee:58269884787",
+  "preco": 169.99,
+  "shopee": [
+   1409759902,
+   58269884787
+  ],
+  "cupom": null,
+  "msg": "PspN3UIF5yyq3qM-1_oBq53iqHP95g-A8g",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*SHORTS SAIA VAELA FEMININO ESPORTE PADEL TENIS FITNESS ACADEMIA COM DESCRIÇAO E BELEZA FLEXIBILIDADE*\n\nDe ~R$298~\nPor *R$170* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9071Ym0ydg",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b7-mtzoyb50ewhz26"
+ },
+ "3246241": {
+  "quando": "2026-11-24T09:32:44.662094",
+  "titulo": "Estante Armário De Aço 60cm 6 Bandejas Branca Branco",
+  "link": "https://meli.la/1mUjvMt",
+  "publico": null,
+  "produto": "MLB6670978222",
+  "preco": 179.0,
+  "cupom": {
+   "codigo": "FULL2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psqk1Y9CYKbVYxY-10oBq53iqHP95g-A8k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Estante Armário De Aço 60cm 6 Bandejas Branca Branco*\n\nDe ~R$220~\nPor *R$179* 🔥\n\n🎟️ Cupom: *FULL2411*\n💸 Com o cupom: *R$134*\n\n👉 *Pegar promoção:* https://meli.la/1mUjvMt",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_853794-MLB113685800692_072026-P.webp"
  }
 }
