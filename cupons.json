@@ -1,30 +1,42 @@
 {
-  "atualizado": "2026-11-23T18:27-03:00",
+  "atualizado": "2026-11-24T17:10-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
-      "codigo": "POUPAAGORA25",
+      "codigo": "QUEROOFFHOJE",
       "pct": 25,
       "fixo": null,
-      "minimo": 1.0,
-      "teto": 500.0,
-      "categoria": "Casa, Saúde e mais",
-      "suplementos": true,
-      "automatico": false,
-      "ate": "2026-12-17T23:59:59-03:00",
-      "publicado": "2026-11-17T10:16-03:00"
-    },
-    {
-      "codigo": "OFERTASEMPREML",
-      "pct": 10,
-      "fixo": null,
-      "minimo": 149.0,
-      "teto": 200.0,
+      "minimo": 2499.0,
+      "teto": null,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-11-23T23:59:59-03:00",
-      "publicado": "2026-11-23T16:06-03:00"
+      "ate": "2026-11-24T23:59:59-03:00",
+      "publicado": "2026-11-24T09:07-03:00"
+    },
+    {
+      "codigo": "BEMESTAR",
+      "pct": 15,
+      "fixo": null,
+      "minimo": 0.0,
+      "teto": 40.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-24T23:59:59-03:00",
+      "publicado": "2026-11-24T09:07-03:00"
+    },
+    {
+      "codigo": "CURTAMELI",
+      "pct": 10,
+      "fixo": null,
+      "minimo": 199.0,
+      "teto": 100.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-24T23:59:59-03:00",
+      "publicado": "2026-11-24T16:06-03:00"
     }
   ]
 }
