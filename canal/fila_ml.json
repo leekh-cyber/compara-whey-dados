@@ -128,23 +128,6 @@
   }
  },
  {
-  "id": "3247655",
-  "quando": "2026-11-24T12:05:04.356451",
-  "titulo": "Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado",
-  "texto": "*Camiseta Gola Polo Masculina Minimalista Tecido Texturizado Azul-marinho Liso G Texturizado*\n\nPor *R$46* 🔥\n\n🎟️ Cupom: *CLIENTEVIP*\n💸 Com o cupom: *R$34*\n\n👉 *Pegar promoção:* https://meli.la/2kqSE4E",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_991980-MLB113313073566_072026-P.webp",
-  "link": "https://meli.la/2kqSE4E",
-  "produto": "MLB4737899185",
-  "publico": "masculino",
-  "preco": 45.9,
-  "cupom": {
-   "codigo": "CLIENTEVIP",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3247715",
   "quando": "2026-11-24T12:05:13.415350",
   "titulo": "Caixa de Som XBOOM XG8T Bluetooth Portátil Preto LG",
@@ -172,5 +155,22 @@
   "publico": null,
   "preco": 111.59,
   "cupom": null
+ },
+ {
+  "id": "3247891",
+  "quando": "2026-11-24T12:40:04.645715",
+  "titulo": "Tênis Fila Spry Masculino Original Academia Confortável",
+  "texto": "*Tênis Fila Spry Masculino Original Academia Confortável Marinho/branco/vermelho 42 Br*\n\nPor *R$190* 🔥\n\n🎟️ Cupom: *TODOSITE2411*\n💸 Com o cupom: *R$159*\n\n👉 *Pegar promoção:* https://meli.la/1zncSSs\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_944241-MLB112322905700_062026-P.webp",
+  "link": "https://meli.la/1zncSSs",
+  "produto": "MLB6993897550",
+  "publico": "masculino",
+  "preco": 189.99,
+  "cupom": {
+   "codigo": "TODOSITE2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
