@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T11:00:32.507993",
+  "quando": "2026-11-24T11:30:27.674015",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18948,7 +18948,8 @@
   },
   "msg": "Psq0hvhSCCIP02w-1.YBq53iqHP95g-A8I",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 2 em 1 Power Bank Portátil   Pack MagSafe + Cabo de iphone Rápido 20W USB-C para Lightning 1m*\n\nDe ~R$110~\nPor *R$53* 🔥\n\n🎟️ Cupom: *TOPTSD562*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6fj6iIQpAH",
-  "imagem": "https://cf.shopee.com.br/file/br-11134211-820lc-mucv7fk5r7k28f"
+  "imagem": "https://cf.shopee.com.br/file/br-11134211-820lc-mucv7fk5r7k28f",
+  "conferido": "2026-11-24T11:32:42.433186"
  },
  "3246444": {
   "quando": "2026-11-24T08:31:41.803907",
@@ -19200,5 +19201,39 @@
   "msg": "PsoUkZ_0nV.J04I-12IBq53iqHP95g-A9A",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Lacoste Masculino Backcourt*\n\nDe ~R$399~\nPor *R$180* 🔥 no pix\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$159*\n\n👉 *Pegar promoção:* https://meli.la/1WH6TRV\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_883601-MLB97119879207_112025-P.webp"
+ },
+ "3247107": {
+  "quando": "2026-11-24T11:30:32.766956",
+  "titulo": "Relógio Life Star Feminino Couro Vinho Prateado Vinho",
+  "link": "https://meli.la/2JsHch2",
+  "publico": "feminino",
+  "produto": "MLB4289817023",
+  "preco": 345.0,
+  "cupom": {
+   "codigo": "DESCONTOSMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspmR4eMp5BSEIQ-14ABq53iqHP95g-A9E",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Life Star Feminino Couro Vinho Prateado Vinho*\n\nDe ~R$690~\nPor *R$345* 🔥\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$310*\n\n👉 *Pegar promoção:* https://meli.la/2JsHch2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_625886-MLB96883844392_112025-P.webp"
+ },
+ "3247564": {
+  "quando": "2026-11-24T11:31:37.718290",
+  "titulo": "Calça Sarja Alfaiataria Bolso Faca",
+  "link": "https://meli.la/2HuKcVN",
+  "publico": "masculino",
+  "produto": "MLB3967639677",
+  "preco": 73.0,
+  "cupom": {
+   "codigo": "SEMPREML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspklxiUlGpVj8s-1_QBq53iqHP95g-A9I",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Calça Masculina Social Bolso Faca Embutido Lycra Sarja Slim*\n\nDe ~R$129~\nPor *R$73* 🔥\n\n🎟️ Cupom: *SEMPREML*\n💸 Com o cupom: *R$54*\n\n👉 *Pegar promoção:* https://meli.la/2HuKcVN\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_648695-MLB86118941158_062025-P.webp"
  }
 }
