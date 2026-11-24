@@ -140,32 +140,37 @@
   "cupom": null
  },
  {
-  "id": "3248857",
-  "quando": "2026-11-24T15:35:25.102062",
-  "titulo": "Tênis Nike Air Max Nuaxis Masculino",
-  "texto": "*Tênis Nike Air Max Nuaxis Masculino*\n\nDe ~R$599~\nPor *R$323* 🔥 no pix\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$290*\n\n👉 *Pegar promoção:* https://meli.la/2ys1tm7\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970638-MLB100899098899_122025-P.webp",
-  "link": "https://meli.la/2ys1tm7",
-  "produto": "MLB3884158173",
-  "publico": "masculino",
-  "preco": 322.99,
+  "id": "3249356",
+  "quando": "2026-11-24T17:20:11.305583",
+  "titulo": "Perfume Rabanne Olympéa Parfum 80ml feminino",
+  "texto": "*Perfume Rabanne Olympéa Parfum 80ml feminino*\n\nDe ~R$990~\nPor *R$550* 🔥\n\n🎟️ Cupom: *VEMPROMP*\n💸 Com o cupom: *R$399*\n\n👉 *Pegar promoção:* https://meli.la/1gahB75\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_721467-MLU76050542709_042024-P.webp",
+  "link": "https://meli.la/1gahB75",
+  "produto": "MLB36240047",
+  "publico": "feminino",
+  "preco": 549.99,
   "cupom": {
-   "codigo": "M0D4TUHS",
+   "codigo": "VEMPROMP",
    "id": null,
    "publicado": null,
    "ate": null
   }
  },
  {
-  "id": "3249135",
-  "quando": "2026-11-24T16:45:11.424922",
-  "titulo": "Perfume Feminino Miss Gabriela Gabriela Sabatini Eau De Toilette 30 Ml",
-  "texto": "*Perfume Feminino Miss Gabriela Gabriela Sabatini Eau de Toilette 30 mL*\n\nPor *R$55* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2HRtKxR\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_804180-MLU75585751580_042024-P.webp",
-  "link": "https://meli.la/2HRtKxR",
-  "produto": "MLB32461428",
+  "id": "3249344",
+  "quando": "2026-11-24T17:20:19.044007",
+  "titulo": "Tênis Boost Run W Adidas",
+  "texto": "*Tênis Boost Run W adidas Preto 37 Br*\n\nDe ~R$499~\nPor *R$290* 🔥\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$254*\n\n👉 *Pegar promoção:* https://meli.la/2UwhPvg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_677484-MLB115303180707_072026-P.webp",
+  "link": "https://meli.la/2UwhPvg",
+  "produto": "MLB4546137751",
   "publico": "feminino",
-  "preco": 54.85,
-  "cupom": null
+  "preco": 289.99,
+  "cupom": {
+   "codigo": "M0D4TUHS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
