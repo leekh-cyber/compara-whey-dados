@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T16:30:24.393501",
+  "quando": "2026-11-24T17:00:28.992456",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -18803,7 +18803,8 @@
   },
   "msg": "PsqNbatTWK2vnIU-18EBq53iqHP95g-A7o",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe Lattafa His Confession Masculino Eau de Parfum 100 ml*\n\nPor *R$210* 🔥\n\n🎟️ Cupom: *OFERTAPARAVOCE*\n💸 Com o cupom: *R$180*\n\n👉 *Pegar promoção:* https://meli.la/19oZ3b5\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896263-MLA119238489287_102026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896263-MLA119238489287_102026-P.webp",
+  "encerrada": "2026-11-24T17:02:55.094770"
  },
  "cupom:72467": {
   "quando": "2026-11-23T19:30:28.681133",
@@ -19103,7 +19104,8 @@
   },
   "msg": "PsoKx.8mTLFNfN4-18oBq53iqHP95g-A8s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico*\n\nDe ~R$189~\nPor *R$142* 🔥 no pix\n\n🎟️ Cupom: *OFICIAIS2411*\n💸 Com o cupom: *R$125*\n\n👉 *Pegar promoção:* https://meli.la/2EXy1BP\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp",
+  "encerrada": "2026-11-24T17:03:02.061759"
  },
  "3247052": {
   "quando": "2026-11-24T10:30:31.667359",
@@ -19136,7 +19138,7 @@
   "msg": "PsrlpsRy8j3_g6w-1zcBq53iqHP95g-A8w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Water Cooler GStorm HX700 ARGB 360mm 320W Intel AMD*\n\nDe ~R$425~\nPor *R$382* 🔥\n\n🎟️ Cupom: *M3LH0R4PP*\n💸 Com o cupom: *R$344*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/qlJtowCRC",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-msq6uw6901dub6",
-  "conferido": "2026-11-24T13:33:44.459329"
+  "conferido": "2026-11-24T17:02:46.940352"
  },
  "3247141": {
   "quando": "2026-11-24T10:31:45.444412",
@@ -19454,7 +19456,8 @@
   "cupom": null,
   "msg": "PsoPW..QOJEJdHc-1zkBq53iqHP95g-A9w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação*\n\nDe ~R$99~\nPor *R$79* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/40iLu40yj5",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mq7oavojblds23"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mq7oavojblds23",
+  "conferido": "2026-11-24T17:02:47.481288"
  },
  "3248321": {
   "quando": "2026-11-24T14:00:38.257916",
@@ -19647,5 +19650,49 @@
   "msg": "Pso10vA48IH3BYY-16cBq53iqHP95g-A.c",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Barbeador e Aparador Elétrico Philips OneBlade para Rosto & Corpo Sem Fio e À Prova D'Água - QP2824/10*\n\nPor *R$180* 🔥\n\n👉 *Pegar promoção:* https://meli.la/291QApB\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_872557-MLA110598029518_052026-P.webp"
+ },
+ "3249234": {
+  "quando": "2026-11-24T17:00:32.486304",
+  "titulo": "Mesa com Regulagem de Altura Elétrica Estrutura Mesa com regulagem eletrônica e memória",
+  "loja": "shopee"
+ },
+ "3249055": {
+  "quando": "2026-11-24T17:00:34.205478",
+  "titulo": "Banheira Bebê 20L Adoleta com Válvula e Porta Sabonete (2 Cores)",
+  "loja": "shopee"
+ },
+ "3248964": {
+  "quando": "2026-11-24T17:00:36.541867",
+  "titulo": "Ar-condicionado Split 9.000 BTUs Gree Inverter Quente e Frio",
+  "loja": "shopee"
+ },
+ "3249135": {
+  "quando": "2026-11-24T17:00:37.897676",
+  "titulo": "Perfume Feminino Miss Gabriela Gabriela Sabatini Eau De Toilette 30 Ml",
+  "link": "https://meli.la/2HRtKxR",
+  "publico": "feminino",
+  "produto": "MLB32461428",
+  "preco": 54.85,
+  "cupom": null,
+  "msg": "PsoyWLZCVAtrwv0-1wABq53iqHP95g-A.g",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Feminino Miss Gabriela Gabriela Sabatini Eau de Toilette 30 mL*\n\nPor *R$55* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2HRtKxR\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_804180-MLU75585751580_042024-P.webp"
+ },
+ "3248857": {
+  "quando": "2026-11-24T17:01:42.277157",
+  "titulo": "Tênis Nike Air Max Nuaxis Masculino",
+  "link": "https://meli.la/2ys1tm7",
+  "publico": "masculino",
+  "produto": "MLB3884158173",
+  "preco": 322.99,
+  "cupom": {
+   "codigo": "M0D4TUHS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspkUtKNkZdSUFc-1w0Bq53iqHP95g-A.k",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Nike Air Max Nuaxis Masculino*\n\nDe ~R$599~\nPor *R$323* 🔥 no pix\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$290*\n\n👉 *Pegar promoção:* https://meli.la/2ys1tm7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970638-MLB100899098899_122025-P.webp"
  }
 }
