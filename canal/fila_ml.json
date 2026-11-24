@@ -128,23 +128,6 @@
   }
  },
  {
-  "id": "3248784",
-  "quando": "2026-11-24T15:35:11.260267",
-  "titulo": "Tênis Carina Feminino Puma Preto 34 Br",
-  "texto": "*Tênis Carina Feminino Puma Preto 34 Br*\n\nDe ~R$229~\nPor *R$208* 🔥\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$162*\n\n👉 *Pegar promoção:* https://meli.la/3183xqm\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_847192-MLB110359542326_052026-P.webp",
-  "link": "https://meli.la/3183xqm",
-  "produto": "MLB4658363635",
-  "publico": "feminino",
-  "preco": 208.0,
-  "cupom": {
-   "codigo": "M0D4TUHS",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3248809",
   "quando": "2026-11-24T15:35:18.888316",
   "titulo": "Camiseta Sim À Igualdade Racial Adulto Id_br Hering",
@@ -172,5 +155,17 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3249020",
+  "quando": "2026-11-24T16:10:10.188142",
+  "titulo": "Barbeador E Aparador Elétrico Philips Oneblade Para Rosto & Corpo Sem Fio E À Prova",
+  "texto": "*Barbeador e Aparador Elétrico Philips OneBlade para Rosto & Corpo Sem Fio e À Prova D'Água - QP2824/10*\n\nPor *R$180* 🔥\n\n👉 *Pegar promoção:* https://meli.la/291QApB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_872557-MLA110598029518_052026-P.webp",
+  "link": "https://meli.la/291QApB",
+  "produto": "MLB26000295",
+  "publico": "masculino",
+  "preco": 179.9,
+  "cupom": null
  }
 ]
