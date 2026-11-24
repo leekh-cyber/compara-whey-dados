@@ -145,18 +145,6 @@
   }
  },
  {
-  "id": "3249017",
-  "quando": "2026-11-24T19:05:06.533506",
-  "titulo": "Perfume Masculino Eau De Toilette Ralph Lauren Polo Blue 125 Ml",
-  "texto": "*Perfume Masculino Eau de Toilette Ralph Lauren Polo Blue 125 ml*\n\nDe ~R$829~\nPor *R$409* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2zjnGuL\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_722811-MLA118846579875_102026-P.webp",
-  "link": "https://meli.la/2zjnGuL",
-  "produto": "MLB6093095",
-  "publico": "masculino",
-  "preco": 408.59,
-  "cupom": null
- },
- {
   "id": "3249820",
   "quando": "2026-11-24T19:05:13.941652",
   "titulo": "Sandalia Papete Moleca Feminina Tiras Strass Macia Original",
@@ -167,5 +155,22 @@
   "publico": "feminino",
   "preco": 48.0,
   "cupom": null
+ },
+ {
+  "id": "3249981",
+  "quando": "2026-11-24T19:40:05.917875",
+  "titulo": "Kit 2 Calças Legging Flare Bailarina Boca De Sino Cós Alto",
+  "texto": "*Kit 2 Calças Legging Flare Bailarina Boca De Sino Cós Alto Preto E Cinza Liso M 38-40*\n\nDe ~R$59~\nPor *R$48* 🔥\n\n🎟️ Cupom: *SEMPREML*\n💸 Com o cupom: *R$36*\n\n👉 *Pegar promoção:* https://meli.la/234iYxs",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_909909-MLB108748691926_032026-P.webp",
+  "link": "https://meli.la/234iYxs",
+  "produto": "MLB6303817418",
+  "publico": "feminino",
+  "preco": 48.0,
+  "cupom": {
+   "codigo": "SEMPREML",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
