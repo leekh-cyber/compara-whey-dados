@@ -77,23 +77,6 @@
   "cupom": null
  },
  {
-  "id": "3246906",
-  "quando": "2026-11-24T09:45:12.204928",
-  "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
-  "texto": "*Tênis Kappa Pulse Supra Unissex De Corrida Conforto*\n\nDe ~R$259~\nPor *R$122* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n\n👉 *Pegar promoção:* https://meli.la/1i8XfWj\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp",
-  "link": "https://meli.la/1i8XfWj",
-  "produto": "MLB5857442960",
-  "publico": "masculino",
-  "preco": 121.99,
-  "cupom": {
-   "codigo": "OFICIAIS2411",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3246909",
   "quando": "2026-11-24T09:45:24.562609",
   "titulo": "Lg Ultragear Monitor Gamer 32\"- Va 165hz 1ms (mbr) Qhd 2k (2560x1440) Hdr10 Amd Freesync, Preto - 32gn600",
@@ -157,15 +140,32 @@
   "cupom": null
  },
  {
-  "id": "3248086",
-  "quando": "2026-11-24T13:15:04.736196",
-  "titulo": "Perfume Al Wataniah Shagaf Al Ward EDP 100ml Feminino",
-  "texto": "*Perfume Arabe Shagaf Al Ward Feminino Edp 100ml*\n\nDe ~R$194~\nPor *R$142* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$127*\n\n👉 *Pegar promoção:* https://meli.la/1dBVnaX\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_855634-MLA116123349589_082026-P.webp",
-  "link": "https://meli.la/1dBVnaX",
-  "produto": "MLB77246916",
+  "id": "3248312",
+  "quando": "2026-11-24T13:50:04.887221",
+  "titulo": "Kit Presente Meu Primeiro Humor Natura Feminino Original",
+  "texto": "*Kit Presente Meu Primeiro Humor Natura Feminino Original*\n\nDe ~R$238~\nPor *R$130* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$117*\n\n👉 *Pegar promoção:* https://meli.la/1NfkHhM\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_805953-MLB118294092278_102026-P.webp",
+  "link": "https://meli.la/1NfkHhM",
+  "produto": "MLB7862521758",
   "publico": "feminino",
-  "preco": 142.2,
+  "preco": 130.0,
+  "cupom": {
+   "codigo": "VOCEDEZ",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3248317",
+  "quando": "2026-11-24T13:50:12.722018",
+  "titulo": "Tênis Nike Downshifter 14 Feminino Rosa 36 Br",
+  "texto": "*Tênis Nike Downshifter 14 Feminino Rosa 36 Br*\n\nDe ~R$449~\nPor *R$316* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$285*\n\n👉 *Pegar promoção:* https://meli.la/14xvJo2\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_726901-MLB120551956479_102026-P.webp",
+  "link": "https://meli.la/14xvJo2",
+  "produto": "MLB7917514534",
+  "publico": "feminino",
+  "preco": 315.78,
   "cupom": {
    "codigo": "VOCEDEZ",
    "id": null,
