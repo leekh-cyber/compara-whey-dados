@@ -1298,9 +1298,9 @@
     },
     "growth-isolado": {
       "oferta": {
-        "valor": 339.9,
+        "valor": 299.9,
         "loja": "Growth (oficial)",
-        "data": "2026-11-20",
+        "data": "2026-11-24",
         "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
         "afiliado": ""
       },
@@ -1358,6 +1358,11 @@
         {
           "data": "2026-11-20",
           "valor": 339.9,
+          "loja": "Growth (oficial)"
+        },
+        {
+          "data": "2026-11-24",
+          "valor": 299.9,
           "loja": "Growth (oficial)"
         }
       ],
@@ -1478,8 +1483,8 @@
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
-          "valor": 339.9,
-          "data": "2026-11-23",
+          "valor": 299.9,
+          "data": "2026-11-24",
           "embalagem": 1000,
           "historico": [
             {
@@ -1561,6 +1566,10 @@
             {
               "data": "2026-11-23",
               "valor": 339.9
+            },
+            {
+              "data": "2026-11-24",
+              "valor": 299.9
             }
           ]
         },
@@ -14574,8 +14583,8 @@
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
-          "valor": 244.9,
-          "data": "2026-11-23",
+          "valor": 239.9,
+          "data": "2026-11-24",
           "embalagem": 1000,
           "historico": [
             {
@@ -14657,6 +14666,10 @@
             {
               "data": "2026-11-23",
               "valor": 244.9
+            },
+            {
+              "data": "2026-11-24",
+              "valor": 239.9
             }
           ]
         }
@@ -14664,9 +14677,9 @@
     },
     "growth-hidrolisado": {
       "oferta": {
-        "valor": 419.9,
+        "valor": 399.9,
         "loja": "Growth (oficial)",
-        "data": "2026-11-07",
+        "data": "2026-11-24",
         "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
         "afiliado": ""
       },
@@ -14685,14 +14698,19 @@
           "data": "2026-11-07",
           "valor": 419.9,
           "loja": "Growth (oficial)"
+        },
+        {
+          "data": "2026-11-24",
+          "valor": 399.9,
+          "loja": "Growth (oficial)"
         }
       ],
       "lojas": [
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
-          "valor": 429.9,
-          "data": "2026-11-23",
+          "valor": 399.9,
+          "data": "2026-11-24",
           "embalagem": 1000,
           "historico": [
             {
@@ -14774,6 +14792,10 @@
             {
               "data": "2026-11-23",
               "valor": 429.9
+            },
+            {
+              "data": "2026-11-24",
+              "valor": 399.9
             }
           ]
         }
@@ -14799,7 +14821,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
           "valor": 259.9,
-          "data": "2026-11-23",
+          "data": "2026-11-24",
           "embalagem": 1000,
           "historico": [
             {
@@ -14880,6 +14902,10 @@
             },
             {
               "data": "2026-11-23",
+              "valor": 259.9
+            },
+            {
+              "data": "2026-11-24",
               "valor": 259.9
             }
           ]
@@ -15088,8 +15114,8 @@
         {
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
-          "valor": 129.9,
-          "data": "2026-11-23",
+          "valor": 119.9,
+          "data": "2026-11-24",
           "embalagem": 1000,
           "historico": [
             {
@@ -15171,6 +15197,10 @@
             {
               "data": "2026-11-23",
               "valor": 129.9
+            },
+            {
+              "data": "2026-11-24",
+              "valor": 119.9
             }
           ]
         },
