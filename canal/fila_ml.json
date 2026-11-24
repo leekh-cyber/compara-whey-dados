@@ -128,44 +128,49 @@
   }
  },
  {
-  "id": "3247719",
-  "quando": "2026-11-24T12:05:29.529924",
-  "titulo": "Guarda Sol Gigante 2,40m Proteção Uv",
-  "texto": "*Guarda-sol Gigante 2,40m Articulado 90° Uv Praia Piscina Azul Lisa*\n\nPor *R$112* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/31NQdMz\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_911776-MLB118115454929_092026-P.webp",
-  "link": "https://meli.la/31NQdMz",
-  "produto": "MLB6167432342",
-  "publico": null,
-  "preco": 111.59,
-  "cupom": null
- },
- {
-  "id": "3248312",
-  "quando": "2026-11-24T13:50:04.887221",
-  "titulo": "Kit Presente Meu Primeiro Humor Natura Feminino Original",
-  "texto": "*Kit Presente Meu Primeiro Humor Natura Feminino Original*\n\nDe ~R$238~\nPor *R$130* 🔥\n\n🎟️ Cupom: *VOCEDEZ*\n💸 Com o cupom: *R$117*\n\n👉 *Pegar promoção:* https://meli.la/1NfkHhM\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_805953-MLB118294092278_102026-P.webp",
-  "link": "https://meli.la/1NfkHhM",
-  "produto": "MLB7862521758",
+  "id": "3248784",
+  "quando": "2026-11-24T15:35:11.260267",
+  "titulo": "Tênis Carina Feminino Puma Preto 34 Br",
+  "texto": "*Tênis Carina Feminino Puma Preto 34 Br*\n\nDe ~R$229~\nPor *R$208* 🔥\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$162*\n\n👉 *Pegar promoção:* https://meli.la/3183xqm\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_847192-MLB110359542326_052026-P.webp",
+  "link": "https://meli.la/3183xqm",
+  "produto": "MLB4658363635",
   "publico": "feminino",
-  "preco": 130.0,
+  "preco": 208.0,
   "cupom": {
-   "codigo": "VOCEDEZ",
+   "codigo": "M0D4TUHS",
    "id": null,
    "publicado": null,
    "ate": null
   }
  },
  {
-  "id": "3248610",
-  "quando": "2026-11-24T15:00:11.319937",
-  "titulo": "Camisa Térmica Masculina Segunda Pele Manga Longa Com Zíper",
-  "texto": "*Camisa Térmica Masculina Segunda Pele Manga Longa Com Zíper Azul-marinho G*\n\nDe ~R$69~\nPor *R$37* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2NVtbD4\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_652746-MLB112258174655_052026-P.webp",
-  "link": "https://meli.la/2NVtbD4",
-  "produto": "MLB4712205041",
+  "id": "3248809",
+  "quando": "2026-11-24T15:35:18.888316",
+  "titulo": "Camiseta Sim À Igualdade Racial Adulto Id_br Hering",
+  "texto": "*Camiseta Sim À Igualdade Racial Adulto Id_br Hering*\n\nDe ~R$69~\nPor *R$31* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1Yo1p2E\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841907-MLB105974013518_022026-P.webp",
+  "link": "https://meli.la/1Yo1p2E",
+  "produto": "MLB2073502667",
   "publico": "masculino",
-  "preco": 36.9,
+  "preco": 31.34,
   "cupom": null
+ },
+ {
+  "id": "3248857",
+  "quando": "2026-11-24T15:35:25.102062",
+  "titulo": "Tênis Nike Air Max Nuaxis Masculino",
+  "texto": "*Tênis Nike Air Max Nuaxis Masculino*\n\nDe ~R$599~\nPor *R$323* 🔥 no pix\n\n🎟️ Cupom: *M0D4TUHS*\n💸 Com o cupom: *R$290*\n\n👉 *Pegar promoção:* https://meli.la/2ys1tm7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970638-MLB100899098899_122025-P.webp",
+  "link": "https://meli.la/2ys1tm7",
+  "produto": "MLB3884158173",
+  "publico": "masculino",
+  "preco": 322.99,
+  "cupom": {
+   "codigo": "M0D4TUHS",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
