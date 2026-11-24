@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-24T18:30:26.088177",
+  "quando": "2026-11-24T19:00:35.105448",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19605,7 +19605,8 @@
   "cupom": null,
   "msg": "Pspi3sCZOSOKMxc-11EBq53iqHP95g-A.Q",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Banheira Bebê Rosa 20L Adoleta com Válvula e Porta Sabonete Presente Chá de Bebê Enxoval*\n\nDe ~R$59~\nPor *R$30* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8KrLCGlKf9",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-muw3b2jwjg1ved"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-muw3b2jwjg1ved",
+  "conferido": "2026-11-24T19:02:48.628003"
  },
  "3248784": {
   "quando": "2026-11-24T16:01:47.667867",
@@ -19798,5 +19799,49 @@
   "msg": "PspFzm_kzo9.9CY-16UBq53iqHP95g-A.8",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camiseta Sim À Igualdade Racial Adulto Id_br Hering*\n\nDe ~R$69~\nPor *R$31* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1Yo1p2E\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_841907-MLB105974013518_022026-P.webp"
+ },
+ "3249769": {
+  "quando": "2026-11-24T19:00:37.023956",
+  "titulo": "Kit 6 Peças Conjunto Infantil Feminino Tam. 1 a 7 anos",
+  "loja": "shopee"
+ },
+ "3249828": {
+  "quando": "2026-11-24T19:00:37.810596",
+  "titulo": "Churrasqueira a Carvão Grande Profissional, Defumador Portátil com Rodas e Termômetro",
+  "loja": "shopee"
+ },
+ "3249286": {
+  "quando": "2026-11-24T19:00:38.515020",
+  "titulo": "Tinta Acrílica Fosco Coral 16L Diversas Cores",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6fj7PZ3Qvc",
+  "publico": null,
+  "produto": "shopee:16492030091",
+  "preco": 307.99,
+  "shopee": [
+   717380864,
+   16492030091
+  ],
+  "cupom": {
+   "codigo": "ESPETACULO50",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqwlAiZdIH9Lu0-128Bq53iqHP95g-A_A",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tinta Acrílica Fosco Rende Muito Coral 16L Diversas Cores*\n\nDe ~R$399~\nA partir de *R$308* 🔥\n\n🎟️ Cupom: *ESPETACULO50*\n💸 Com o cupom: *R$245*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6fj7PZ3Qvc",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcca-m65nrp1irra6e6"
+ },
+ "3249711": {
+  "quando": "2026-11-24T19:01:44.437000",
+  "titulo": "Blusa Feminina Manga Evasê Em Viscose Creponada Hering",
+  "link": "https://meli.la/13kAA5T",
+  "publico": "feminino",
+  "produto": "MLB3660963707",
+  "preco": 80.99,
+  "cupom": null,
+  "msg": "PsryCe5kFaTkpQs-13EBq53iqHP95g-A_E",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Blusa Feminina Manga Evasê Em Viscose Creponada Hering*\n\nDe ~R$179~\nPor *R$81* 🔥\n\n👉 *Pegar promoção:* https://meli.la/13kAA5T\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_661035-MLB113486925043_062026-P.webp"
  }
 }
