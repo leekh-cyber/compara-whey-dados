@@ -77,15 +77,20 @@
   "cupom": null
  },
  {
-  "id": "3246504",
-  "quando": "2026-11-24T08:35:30.863851",
-  "titulo": "Jogo Café Da Manhã Porto Brasil 12 Peças Cerâmica Feldspática Branca",
-  "texto": "*Jogo Café da Manhã Porto Brasil 12 Peças Cerâmica Feldspática Branca*\n\nDe ~R$196~\nPor *R$116* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1tGJDpB\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_918767-MLA95679962984_102025-P.webp",
-  "link": "https://meli.la/1tGJDpB",
-  "produto": "MLB32488092",
+  "id": "3246241",
+  "quando": "2026-11-24T09:10:10.745364",
+  "titulo": "Estante Armário De Aço 60cm 6 Bandejas Branca Branco",
+  "texto": "*Estante Armário De Aço 60cm 6 Bandejas Branca Branco*\n\nDe ~R$220~\nPor *R$179* 🔥\n\n🎟️ Cupom: *FULL2411*\n💸 Com o cupom: *R$134*\n\n👉 *Pegar promoção:* https://meli.la/1mUjvMt",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_853794-MLB113685800692_072026-P.webp",
+  "link": "https://meli.la/1mUjvMt",
+  "produto": "MLB6670978222",
   "publico": null,
-  "preco": 115.63,
-  "cupom": null
+  "preco": 179.0,
+  "cupom": {
+   "codigo": "FULL2411",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
