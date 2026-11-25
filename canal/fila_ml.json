@@ -177,15 +177,20 @@
   }
  },
  {
-  "id": "3253169",
-  "quando": "2026-11-25T14:25:09.220914",
-  "titulo": "Perfume Árabe Ameerati EDP 100ml Feminino",
-  "texto": "*Perfume Al Wataniah Ameerati Edp 100ml Feminino Original*\n\nDe ~R$254~\nPor *R$139* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2yetY3o\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_684166-MLA115893874212_092026-P.webp",
-  "link": "https://meli.la/2yetY3o",
-  "produto": "MLB23310493",
-  "publico": "feminino",
-  "preco": 138.9,
-  "cupom": null
+  "id": "3253388",
+  "quando": "2026-11-25T15:00:16.898993",
+  "titulo": "Kit 3 Camisetas Bordadas Céu Reserva",
+  "texto": "*Kit 3 Camisetas Bordadas Céu Reserva*\n\nPor *R$357* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$278*\n\n👉 *Pegar promoção:* https://meli.la/2h8boUw\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_954769-MLB99752497161_112025-P.webp",
+  "link": "https://meli.la/2h8boUw",
+  "produto": "MLB5980384370",
+  "publico": "masculino",
+  "preco": 357.0,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
