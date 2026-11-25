@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T09:30:26.472754",
+  "quando": "2026-11-25T10:00:28.745490",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20134,5 +20134,64 @@
   "msg": "Psp4EEaC4d6TuSM-11QBq53iqHP95g-A_8",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Condor Masculino Co2117ax/4p Prata Preto*\n\nPor *R$87* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2qxLFfQ\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_845490-MLA113727163469_062026-P.webp"
+ },
+ "3251548": {
+  "quando": "2026-11-25T10:00:39.590820",
+  "titulo": "Liquidificador Britânia 600W 2,1L 3 Velocidades BLQ900A",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2qWPqKNCUP",
+  "publico": null,
+  "produto": "shopee:58263936087",
+  "preco": 69.9,
+  "shopee": [
+   811879342,
+   58263936087
+  ],
+  "cupom": null,
+  "msg": "PsqziVuFGxzcqV8-1zABq53iqHP95g-BAA",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Liquidificador Britânia 600W 2,1L 3 Velocidades BLQ900A*\n\nDe ~R$170~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWPqKNCUP",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-muw5n5hfueit58"
+ },
+ "3251547": {
+  "quando": "2026-11-25T10:00:33.906746",
+  "titulo": "Ventilador Circulador Britânia 30W 3 Velocidades BCA25A",
+  "loja": "shopee"
+ },
+ "3251400": {
+  "quando": "2026-11-25T10:00:34.736806",
+  "titulo": "TV Monitor Digital Portátil 14\" HD USB HDMI RCA AV Controle Remoto Bivolt",
+  "loja": "shopee"
+ },
+ "3251509": {
+  "quando": "2026-11-25T10:00:35.879491",
+  "titulo": "YoPRO Bebida Láctea UHT Chocolate 23g de proteínas 250ml 24 unidades",
+  "loja": "shopee"
+ },
+ "3251408": {
+  "quando": "2026-11-25T10:00:37.117893",
+  "titulo": "Console Nintendo Switch Lite - Turquesa",
+  "loja": "shopee"
+ },
+ "3251416": {
+  "quando": "2026-11-25T10:00:38.318523",
+  "titulo": "Celular Samsung Galaxy A17 128GB 4GB Ram Câmera de 50mp Tela De 6.7 NFC",
+  "loja": "shopee"
+ },
+ "3251655": {
+  "quando": "2026-11-25T10:01:45.399716",
+  "titulo": "Perfume Árabe Feminino Lattafa Fakhar Rose Eau De Parfum 100",
+  "link": "https://meli.la/1LJAMok",
+  "publico": "feminino",
+  "produto": "MLB5762950930",
+  "preco": 223.44,
+  "cupom": {
+   "codigo": "TODOSITE2511",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psry6mWvvSg2XJA-1ykBq53iqHP95g-BAE",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe Feminino Lattafa Fakhar Rose Eau De Parfum 100*\n\nDe ~R$399~\nPor *R$223* 🔥\n\n🎟️ Cupom: *TODOSITE2511*\n💸 Com o cupom: *R$193*\n\n👉 *Pegar promoção:* https://meli.la/1LJAMok",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_904466-MLB91350004662_092025-P.webp"
  }
 }
