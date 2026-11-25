@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T09:00:30.267044",
+  "quando": "2026-11-25T09:30:26.472754",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20080,5 +20080,59 @@
   "msg": "Psrk9RIupLeuJ3c-124Bq53iqHP95g-A_w",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Top Curve Allure® Adaptiv Vermelho Escuro Allure M*\n\nDe ~R$199~\nPor *R$96* 🔥\n\n👉 *Pegar promoção:* https://meli.la/33mkDL5\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_911741-MLB120240748878_112026-P.webp"
+ },
+ "cupom:LIVREHOJE": {
+  "quando": "2026-11-25T09:30:30.014269",
+  "titulo": "25% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72541",
+  "publicado": "2026-11-25T09:07:18-03:00",
+  "ate": "2026-11-25T23:59:59-0300",
+  "msg": "PsojEtB43DQJEx8-13sBq53iqHP95g-A_0",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF acima de R$2499*\n\nCódigo: *LIVREHOJE*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3251465": {
+  "quando": "2026-11-25T09:31:35.234255",
+  "titulo": "Wella Professionals Oil Reflections Light - Óleo Capilar 100ml",
+  "loja": "shopee"
+ },
+ "3251415": {
+  "quando": "2026-11-25T09:31:36.336839",
+  "titulo": "Processador Intel Core Ultra 5 225F 3.3 Ghz (4.9Ghz Turbo) Série 2 10-Cores 10-Threa",
+  "loja": "shopee"
+ },
+ "3251417": {
+  "quando": "2026-11-25T09:31:38.048664",
+  "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
+  "loja": "shopee"
+ },
+ "3251102": {
+  "quando": "2026-11-25T09:31:39.561133",
+  "titulo": "Alcool Isopropílico 99,8% Placas e Telas",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/gRvEM6CWX",
+  "publico": null,
+  "produto": "shopee:42786983286",
+  "preco": 29.57,
+  "shopee": [
+   374548018,
+   42786983286
+  ],
+  "cupom": null,
+  "msg": "PspGfvwqbqJ3aWQ-13sBq53iqHP95g-A_4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Composto Limpador Isopropílico 99,8% P/ Placas e Telas*\n\nDe ~R$57~\nPor *R$30* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/gRvEM6CWX",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-muxqhelrn4755c"
+ },
+ "3251278": {
+  "quando": "2026-11-25T09:32:48.432300",
+  "titulo": "Relógio Condor Masculino Co2117ax4p Prata Preto",
+  "link": "https://meli.la/2qxLFfQ",
+  "publico": "masculino",
+  "produto": "MLB74514975",
+  "preco": 87.45,
+  "cupom": null,
+  "msg": "Psp4EEaC4d6TuSM-11QBq53iqHP95g-A_8",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Condor Masculino Co2117ax/4p Prata Preto*\n\nPor *R$87* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2qxLFfQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_845490-MLA113727163469_062026-P.webp"
  }
 }
