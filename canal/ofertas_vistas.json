@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T14:30:26.642425",
+  "quando": "2026-11-25T15:00:30.565444",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20019,7 +20019,7 @@
   "msg": "Psq6R1mQ_oBECyo-1yUBq53iqHP95g-A_g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*CONJUNTO FEMININO ELEGANTE CHIC CALÇA PANTALONA+COLETE ACINTURADO COM ZÍPER MODELAGEM AJUSTADA SLIM*\n\nDe ~R$135~\nA partir de *R$80* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9AQTHmdKax",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zui-mkvq8u8ayqdf06",
-  "conferido": "2026-11-25T11:32:39.274945"
+  "conferido": "2026-11-25T15:02:47.675853"
  },
  "3250877": {
   "quando": "2026-11-25T08:31:44.170217",
@@ -20332,7 +20332,8 @@
   "cupom": null,
   "msg": "PspE49pmHvEcFIg-15MBq53iqHP95g-BAk",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Redmi Note 17 Pro Max 5G 256GB/512GB 8GB/12GB AMOLED 1.5K 120Hz 50MP OIS 10000mAh 100W*\n\nDe ~R$5999~\nA partir de *R$3120* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6q2YjvYG76",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ae-msyhtz1faio6a6"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ae-msyhtz1faio6a6",
+  "conferido": "2026-11-25T15:02:48.195062"
  },
  "3252317": {
   "quando": "2026-11-25T12:00:41.646413",
@@ -20560,5 +20561,39 @@
   "msg": "Pspc5AuNvJ9hYBY-10YBq53iqHP95g-BBY",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Al Wataniah Ameerati Edp 100ml Feminino Original*\n\nDe ~R$254~\nPor *R$139* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2yetY3o\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_684166-MLA115893874212_092026-P.webp"
+ },
+ "3253229": {
+  "quando": "2026-11-25T15:00:34.765081",
+  "titulo": "Kit Carregador Apple 20W Original",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/50aukuID0k",
+  "publico": null,
+  "produto": "shopee:22994679698",
+  "preco": 163.73,
+  "shopee": [
+   857741670,
+   22994679698
+  ],
+  "cupom": null,
+  "msg": "PsoaP3MUaHgWHis-17QBq53iqHP95g-BBc",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Cabo + Fonte Carregador 100% Original Apple 20W USB-C Turbo Lacrado ID-Apple IPad IPhone Tipo-C*\n\nDe ~R$259~\nA partir de *R$164* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/50aukuID0k",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhhrzyvud81y27"
+ },
+ "3252194": {
+  "quando": "2026-11-25T15:01:42.566823",
+  "titulo": "Calça Alfaiataria Linho Masculina Opus Primaveraverão",
+  "link": "https://meli.la/1RsexmN",
+  "publico": "masculino",
+  "produto": "MLB2051997129",
+  "preco": 233.96,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspBROk4YF_BCZ0-104Bq53iqHP95g-BBg",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Calça Alfaiataria Linho Masculina Opus Primavera/verão*\n\nDe ~R$348~\nPor *R$234* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$211*\n\n👉 *Pegar promoção:* https://meli.la/1RsexmN\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_846366-MLB106515231295_022026-P.webp"
  }
 }
