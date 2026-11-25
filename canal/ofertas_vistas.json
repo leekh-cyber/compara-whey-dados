@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T12:30:26.430623",
+  "quando": "2026-11-25T13:00:32.156134",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20157,7 +20157,8 @@
   "cupom": null,
   "msg": "PsqziVuFGxzcqV8-1zABq53iqHP95g-BAA",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Liquidificador Britânia 600W 2,1L 3 Velocidades BLQ900A*\n\nDe ~R$170~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWPqKNCUP",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-muw5n5hfueit58"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-muw5n5hfueit58",
+  "conferido": "2026-11-25T13:02:54.857707"
  },
  "3251547": {
   "quando": "2026-11-25T10:00:33.906746",
@@ -20405,5 +20406,44 @@
   "msg": "PspnZmiYZqWJC4w-18oBq53iqHP95g-BA0",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Short Bermuda Masculino Linho Mauricinho Casual Cós Elástico*\n\nDe ~R$78~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2dGEZ9k",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_922946-MLB114372814604_082026-P.webp"
+ },
+ "3252759": {
+  "quando": "2026-11-25T13:00:43.961471",
+  "titulo": "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6fj8bjtQG2",
+  "publico": null,
+  "produto": "shopee:20997804398",
+  "preco": 1085.77,
+  "shopee": [
+   882904544,
+   20997804398
+  ],
+  "cupom": null,
+  "msg": "PsqsRkHIyXILoa8-14oBq53iqHP95g-BA4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café*\n\nDe ~R$1872~\nPor *R$1086* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6fj8bjtQG2",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwr-lzul5c390ltgd0"
+ },
+ "3252715": {
+  "quando": "2026-11-25T13:00:39.824061",
+  "titulo": "Ração Quatree Gourmet Gato Adulto Mix de Carnes 10,1 kg",
+  "loja": "shopee"
+ },
+ "3252746": {
+  "quando": "2026-11-25T13:00:42.393545",
+  "titulo": "Celular POCO X8 5G NFC Dual Sim 8GB RAM 256GB 12GB RAM 256GB Versão Global Lançamento 2026",
+  "loja": "shopee"
+ },
+ "3251214": {
+  "quando": "2026-11-25T13:01:50.552458",
+  "titulo": "Legging Allure Adaptiv",
+  "link": "https://meli.la/2wc7AUQ",
+  "publico": "feminino",
+  "produto": "MLB8021196848",
+  "preco": 151.92,
+  "cupom": null,
+  "msg": "Psrq04FA5C.SZmQ-13sBq53iqHP95g-BA8",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Legging Allure® Adaptiv Vermelho Escuro Allure P*\n\nDe ~R$319~\nPor *R$152* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2wc7AUQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_760639-MLB120240454836_112026-P.webp"
  }
 }
