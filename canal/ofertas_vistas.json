@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T19:30:25.580723",
+  "quando": "2026-11-25T20:00:29.545273",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20161,7 +20161,7 @@
   "msg": "PsqziVuFGxzcqV8-1zABq53iqHP95g-BAA",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Liquidificador Britânia 600W 2,1L 3 Velocidades BLQ900A*\n\nDe ~R$170~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWPqKNCUP",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-muw5n5hfueit58",
-  "conferido": "2026-11-25T16:32:39.346365"
+  "conferido": "2026-11-25T20:02:45.560445"
  },
  "3251547": {
   "quando": "2026-11-25T10:00:33.906746",
@@ -20747,7 +20747,8 @@
   "cupom": null,
   "msg": "Psrc9UoysSvj9Qc-1_QBq53iqHP95g-BCE",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Ração Úmida Friskies 85g - Caixa com 15 unidades*\n\nDe ~R$80~\nPor *R$37* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8VAn3ehAPX",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+  "conferido": "2026-11-25T20:02:46.010634"
  },
  "3253909": {
   "quando": "2026-11-25T17:02:47.835154",
@@ -20920,5 +20921,34 @@
   "msg": "PsqC_PFQ6EoSph8-15EBq53iqHP95g-BCw",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Short Saia Academia Feminino Cintura Alta Legging Fitness*\n\nPor *R$30* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2XZae7n\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_649012-MLB114771724993_072026-P.webp"
+ },
+ "3255007": {
+  "quando": "2026-11-25T20:00:34.856820",
+  "titulo": "Monitor Gamer 34\" Curvo Branco 1ms 165Hz UltraWide (QHD) - 3440x1440 AMD FreeSync HD",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/7VIG46TgW8",
+  "publico": null,
+  "produto": "shopee:22294655557",
+  "preco": 1238.04,
+  "shopee": [
+   1388709282,
+   22294655557
+  ],
+  "cupom": null,
+  "msg": "Pspje_Lty9fyaUs-1zEBq53iqHP95g-BC0",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Monitor Gamer 34\" Curvo Branco 1ms, 165Hz, UltraWide (QHD) - 3440x1440 AMD FreeSync, HDMI, DP, HQ Premium HQW34C16*\n\nDe ~R$1528~\nPor *R$1238* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7VIG46TgW8",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mgdqzvoogmx72e"
+ },
+ "3254817": {
+  "quando": "2026-11-25T20:01:40.914390",
+  "titulo": "Camiseta Masculina Manga Curta Com Estampa Hering",
+  "link": "https://meli.la/1Cmn6mM",
+  "publico": "masculino",
+  "produto": "MLB5476065465",
+  "preco": 28.49,
+  "cupom": null,
+  "msg": "Pso3XXt2QwXhXqg-15ABq53iqHP95g-BC4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camiseta Masculina Manga Curta Com Estampa Hering Vermelho G*\n\nPor *R$28* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1Cmn6mM\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_751304-MLB118680176728_102026-P.webp"
  }
 }
