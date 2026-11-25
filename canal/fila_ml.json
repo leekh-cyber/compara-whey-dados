@@ -29,18 +29,6 @@
   "cupom": null
  },
  {
-  "id": "3251214",
-  "quando": "2026-11-25T08:35:11.741615",
-  "titulo": "Legging Allure Adaptiv",
-  "texto": "*Legging Allure® Adaptiv Vermelho Escuro Allure P*\n\nDe ~R$319~\nPor *R$152* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2wc7AUQ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_760639-MLB120240454836_112026-P.webp",
-  "link": "https://meli.la/2wc7AUQ",
-  "produto": "MLB8021196848",
-  "publico": "feminino",
-  "preco": 151.92,
-  "cupom": null
- },
- {
   "id": "3251207",
   "quando": "2026-11-25T08:35:28.648558",
   "titulo": "Jaqueta Masculina Puffer Corta Vento Bobojaco Blusa De Frio",
@@ -155,32 +143,54 @@
   }
  },
  {
-  "id": "3252425",
-  "quando": "2026-11-25T12:05:08.596824",
-  "titulo": "Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto!",
-  "texto": "*Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto*\n\nDe ~R$899~\nPor *R$389* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$346*\n\n👉 *Pegar promoção:* https://meli.la/2apNjas\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_757319-MLA99943817013_112025-P.webp",
-  "link": "https://meli.la/2apNjas",
-  "produto": "MLB17822926",
+  "id": "3252966",
+  "quando": "2026-11-25T13:50:04.388527",
+  "titulo": "Kit 3 Shorts 2 Em 1 Masculino De Compressão Corrida Academia",
+  "texto": "*Kit 3 Shorts 2 Em 1 Masculino De Compressão Corrida Academia*\n\nDe ~R$99~\nPor *R$77* 🔥\n\n🎟️ Cupom: *SEMPREML*\n💸 Com o cupom: *R$58*\n\n👉 *Pegar promoção:* https://meli.la/16UEK6u",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_949957-MLB115601154336_092026-P.webp",
+  "link": "https://meli.la/16UEK6u",
+  "produto": "MLB5877188254",
   "publico": "masculino",
-  "preco": 389.0,
+  "preco": 77.0,
   "cupom": {
-   "codigo": "MELIAGORA",
+   "codigo": "SEMPREML",
    "id": null,
    "publicado": null,
    "ate": null
   }
  },
  {
-  "id": "3252718",
-  "quando": "2026-11-25T12:40:04.825891",
-  "titulo": "Perfume Banderas King Of Seduction Absolute Eau De Toilette 200 Ml Masculino",
-  "texto": "*Perfume Banderas King of Seduction Absolute Eau de Toilette 200 ml Masculino*\n\nDe ~R$299~\nPor *R$147* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2pZM6oT\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_825825-MLU75914762546_042024-P.webp",
-  "link": "https://meli.la/2pZM6oT",
-  "produto": "MLB1036279801",
-  "publico": "masculino",
-  "preco": 147.03,
-  "cupom": null
+  "id": "3252970",
+  "quando": "2026-11-25T13:50:22.553209",
+  "titulo": "L'oréal Paris Elseve Liso Dos Sonhos Kit Shampoo, Condicionador E Sérum, Com Tecnologia Ativada Por Calor Para Um Liso Por 1 Semana, Efeito Antifriz",
+  "texto": "*L'Oréal Paris Elseve Liso dos Sonhos Kit Shampoo, Condicionador e Sérum, com Tecnologia Ativada por Calor para um Liso por 1 Semana, Efeito Antifrizz e Barreira Protetora Contra Umidade*\n\nDe ~R$134~\nPor *R$63* 🔥 no pix\n\n🎟️ Cupom: *ELSEVENOMELI*\n\n👉 *Pegar promoção:* https://meli.la/2PfEXvM\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_664595-MLA99452123854_112025-P.webp",
+  "link": "https://meli.la/2PfEXvM",
+  "produto": "MLB50009780",
+  "publico": null,
+  "preco": 62.9,
+  "cupom": {
+   "codigo": "ELSEVENOMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3252949",
+  "quando": "2026-11-25T13:50:41.406410",
+  "titulo": "Apple iPhone 15 (128 GB) - Preto - Distribuidor Autorizado",
+  "texto": "*Apple iPhone 15 (128 GB) - Preto - Distribuidor Autorizado*\n\nDe ~R$7209~\nPor *R$3419* 🔥 no pix\n\n🎟️ Cupom: *ELETRO2511* (15% OFF acima de R$500)\n\n👉 *Pegar promoção:* https://meli.la/1WtrQFV\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_680991-MLA95497804976_102025-P.webp",
+  "link": "https://meli.la/1WtrQFV",
+  "produto": "MLB1027172677",
+  "publico": null,
+  "preco": 3419.0,
+  "cupom": {
+   "codigo": "ELETRO2511",
+   "id": "72560",
+   "publicado": "2026-11-25T12:04:01-03:00",
+   "ate": null
+  }
  }
 ]
