@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T11:00:30.509886",
+  "quando": "2026-11-25T11:30:25.631827",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20017,7 +20017,8 @@
   "cupom": null,
   "msg": "Psq6R1mQ_oBECyo-1yUBq53iqHP95g-A_g",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*CONJUNTO FEMININO ELEGANTE CHIC CALÇA PANTALONA+COLETE ACINTURADO COM ZÍPER MODELAGEM AJUSTADA SLIM*\n\nDe ~R$135~\nA partir de *R$80* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9AQTHmdKax",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81zui-mkvq8u8ayqdf06"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81zui-mkvq8u8ayqdf06",
+  "conferido": "2026-11-25T11:32:39.274945"
  },
  "3250877": {
   "quando": "2026-11-25T08:31:44.170217",
@@ -20279,5 +20280,34 @@
   "msg": "PsqCzn5CX3GnCyc-15sBq53iqHP95g-BAY",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Top Curve Allure® Adaptiv Verde Allure P*\n\nDe ~R$199~\nPor *R$96* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2Z7NfAd\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_607060-MLB120241186764_112026-P.webp"
+ },
+ "3252209": {
+  "quando": "2026-11-25T11:30:28.504368",
+  "titulo": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5AuKimdutS",
+  "publico": null,
+  "produto": "shopee:22398897653",
+  "preco": 39.99,
+  "shopee": [
+   1177903362,
+   22398897653
+  ],
+  "cupom": null,
+  "msg": "Psrrwsv5OxfXpaY-13UBq53iqHP95g-BAc",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Coala Laundry 3 Amaciantes - Chá Branco 1L*\n\nDe ~R$68~\nPor *R$40* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5AuKimdutS",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69"
+ },
+ "3251773": {
+  "quando": "2026-11-25T11:31:34.719757",
+  "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
+  "link": "https://meli.la/1iNkjf9",
+  "publico": "masculino",
+  "produto": "MLB19821291",
+  "preco": 140.0,
+  "cupom": null,
+  "msg": "PsrFW_78EzUdIYo-138Bq53iqHP95g-BAg",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto*\n\nDe ~R$266~\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1iNkjf9\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_956846-MLA99963696157_112025-P.webp"
  }
 }
