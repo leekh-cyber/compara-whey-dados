@@ -162,15 +162,20 @@
   "cupom": null
  },
  {
-  "id": "3252025",
-  "quando": "2026-11-25T10:55:11.607598",
-  "titulo": "Top Curve Allure Adaptiv Verde Allure P",
-  "texto": "*Top Curve Allure® Adaptiv Verde Allure P*\n\nDe ~R$199~\nPor *R$96* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2Z7NfAd\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_607060-MLB120241186764_112026-P.webp",
-  "link": "https://meli.la/2Z7NfAd",
-  "produto": "MLB8021543082",
-  "publico": "feminino",
-  "preco": 95.92,
-  "cupom": null
+  "id": "3252194",
+  "quando": "2026-11-25T11:30:12.563125",
+  "titulo": "Calça Alfaiataria Linho Masculina Opus Primaveraverão",
+  "texto": "*Calça Alfaiataria Linho Masculina Opus Primavera/verão*\n\nDe ~R$348~\nPor *R$234* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$211*\n\n👉 *Pegar promoção:* https://meli.la/1RsexmN\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_846366-MLB106515231295_022026-P.webp",
+  "link": "https://meli.la/1RsexmN",
+  "produto": "MLB2051997129",
+  "publico": "masculino",
+  "preco": 233.96,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
