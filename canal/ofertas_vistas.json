@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T16:30:25.742727",
+  "quando": "2026-11-25T17:00:36.102616",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20225,7 +20225,7 @@
   "msg": "PsqQ_XPYpAc0jFs-1xkBq53iqHP95g-BAI",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Fones de ouvido Lenovo Thinkplus XT62 TWS, Bluetooth 5.3, com cancelamento de ruído ENC, até 20h de reprodução, design à*\n\nDe ~R$66~\nA partir de *R$49* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWPsNgE2P",
   "imagem": "https://cf.shopee.com.br/file/sg-11134253-822wk-moew4buogutoa9",
-  "conferido": "2026-11-25T13:32:45.970396"
+  "conferido": "2026-11-25T17:03:52.653823"
  },
  "3251807": {
   "quando": "2026-11-25T10:31:39.443644",
@@ -20275,7 +20275,7 @@
   "msg": "PsomVEH0Lrm16Uo-17sBq53iqHP95g-BAU",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Basike Carregador Portátil 10000mAh  Indução para iPhone/Android Samsung Apple Sem fio Bateria Carga*\n\nDe ~R$200~\nA partir de *R$152* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7pv5rhvS2F",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261s-mlenqg0dr56s28",
-  "conferido": "2026-11-25T14:03:51.258898"
+  "conferido": "2026-11-25T17:03:53.524807"
  },
  "3252025": {
   "quando": "2026-11-25T11:02:48.583836",
@@ -20518,7 +20518,8 @@
   "cupom": null,
   "msg": "PspLxOP3FNb6U94-1yIBq53iqHP95g-BBM",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT 2 Bermuda Modeladora para Gestante Maternidade Zee Rucci Lingerie Gravida*\n\nDe ~R$90~\nPor *R$69* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/7KypT9HuWo",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhf-m9jj4cyeroo2cf"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhf-m9jj4cyeroo2cf",
+  "conferido": "2026-11-25T17:03:52.950312"
  },
  "3252966": {
   "quando": "2026-11-25T14:02:46.336118",
@@ -20716,5 +20717,49 @@
   "msg": "Psr6WkGe1IKLjvA-13kBq53iqHP95g-BB8",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Mizuno Cool Ride 3 Corrida Caminhada Academia Original*\n\nDe ~R$399~\nPor *R$230* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$207*\n\n👉 *Pegar promoção:* https://meli.la/1hMFCii",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_786095-MLB83030645643_032025-P.webp"
+ },
+ "cupom:VIVERML": {
+  "quando": "2026-11-25T17:00:37.324245",
+  "titulo": "Cupom Mercado Livre: 15% OFF em produtos selecionados",
+  "id": "72545",
+  "publicado": "2026-11-25T09:07:19-03:00",
+  "ate": "2026-11-25T23:59:59-0300",
+  "msg": "PsoweIrq0XYsKK8-15kBq53iqHP95g-BCA",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*15% OFF, até R$40*\n\nCódigo: *VIVERML*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3254006": {
+  "quando": "2026-11-25T17:01:41.539476",
+  "titulo": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/8VAn3ehAPX",
+  "publico": null,
+  "produto": "shopee:45054396139",
+  "preco": 36.9,
+  "shopee": [
+   293152127,
+   45054396139
+  ],
+  "cupom": null,
+  "msg": "Psrc9UoysSvj9Qc-1_QBq53iqHP95g-BCE",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Ração Úmida Friskies 85g - Caixa com 15 unidades*\n\nDe ~R$80~\nPor *R$37* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/8VAn3ehAPX",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd"
+ },
+ "3253909": {
+  "quando": "2026-11-25T17:02:47.835154",
+  "titulo": "Camisa Gola Polo Tricot Masculina Texturizada Turim Opus!",
+  "link": "https://meli.la/1eGqyU7",
+  "publico": "masculino",
+  "produto": "MLB5935623692",
+  "preco": 179.9,
+  "cupom": {
+   "codigo": "PEGUEIJA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Pspkl.OlPCEaoKs-1xABq53iqHP95g-BCI",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camisa Gola Polo Tricot Masculina Texturizada Turim Opus*\n\nDe ~R$220~\nPor *R$180* 🔥\n\n🎟️ Cupom: *PEGUEIJA*\n💸 Com o cupom: *R$121*\n\n👉 *Pegar promoção:* https://meli.la/1eGqyU7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_758501-MLB98350765853_112025-P.webp"
  }
 }
