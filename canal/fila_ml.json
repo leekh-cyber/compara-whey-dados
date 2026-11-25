@@ -143,23 +143,6 @@
   }
  },
  {
-  "id": "3252966",
-  "quando": "2026-11-25T13:50:04.388527",
-  "titulo": "Kit 3 Shorts 2 Em 1 Masculino De Compressão Corrida Academia",
-  "texto": "*Kit 3 Shorts 2 Em 1 Masculino De Compressão Corrida Academia*\n\nDe ~R$99~\nPor *R$77* 🔥\n\n🎟️ Cupom: *SEMPREML*\n💸 Com o cupom: *R$58*\n\n👉 *Pegar promoção:* https://meli.la/16UEK6u",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_949957-MLB115601154336_092026-P.webp",
-  "link": "https://meli.la/16UEK6u",
-  "produto": "MLB5877188254",
-  "publico": "masculino",
-  "preco": 77.0,
-  "cupom": {
-   "codigo": "SEMPREML",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3252970",
   "quando": "2026-11-25T13:50:22.553209",
   "titulo": "L'oréal Paris Elseve Liso Dos Sonhos Kit Shampoo, Condicionador E Sérum, Com Tecnologia Ativada Por Calor Para Um Liso Por 1 Semana, Efeito Antifriz",
@@ -192,5 +175,17 @@
    "publicado": "2026-11-25T12:04:01-03:00",
    "ate": null
   }
+ },
+ {
+  "id": "3253169",
+  "quando": "2026-11-25T14:25:09.220914",
+  "titulo": "Perfume Árabe Ameerati EDP 100ml Feminino",
+  "texto": "*Perfume Al Wataniah Ameerati Edp 100ml Feminino Original*\n\nDe ~R$254~\nPor *R$139* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2yetY3o\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_684166-MLA115893874212_092026-P.webp",
+  "link": "https://meli.la/2yetY3o",
+  "produto": "MLB23310493",
+  "publico": "feminino",
+  "preco": 138.9,
+  "cupom": null
  }
 ]
