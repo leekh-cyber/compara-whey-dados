@@ -1,34 +1,5 @@
 [
  {
-  "id": "3250369",
-  "quando": "2026-11-24T22:00:11.653361",
-  "titulo": "Jaqueta Pu Facinelli 640474 Preto Gg Lisa",
-  "texto": "*Jaqueta Pu Facinelli 640474 Preto Gg Lisa*\n\nPor *R$117* 🔥 no pix\n\n🎟️ Cupom: *FASHION*\n💸 Com o cupom: *R$88*\n\n👉 *Pegar promoção:* https://meli.la/31emMD5\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_834489-MLB110680800408_052026-P.webp",
-  "link": "https://meli.la/31emMD5",
-  "produto": "MLB4458185891",
-  "publico": "feminino",
-  "preco": 116.99,
-  "cupom": {
-   "codigo": "FASHION",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3250437",
-  "quando": "2026-11-24T22:00:19.571262",
-  "titulo": "Meia Calça Térmica Translúcida Pelinho Forrada Pelúciada Lã Preto 38-42",
-  "texto": "*Meia Calça Térmica Translúcida Pelinho Forrada Pelúciada Lã Preto 38-42*\n\nPor *R$22* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2dV9ahv\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_768191-MLB112161781309_052026-P.webp",
-  "link": "https://meli.la/2dV9ahv",
-  "produto": "MLB7979318176",
-  "publico": "feminino",
-  "preco": 21.66,
-  "cupom": null
- },
- {
   "id": "3251092",
   "quando": "2026-11-25T08:00:42.718594",
   "titulo": "Capa Protetor De Colchão Elástico Queen Impermeável Matelado",
@@ -145,23 +116,6 @@
   }
  },
  {
-  "id": "3251655",
-  "quando": "2026-11-25T09:45:09.867853",
-  "titulo": "Perfume Árabe Feminino Lattafa Fakhar Rose Eau De Parfum 100",
-  "texto": "*Perfume Árabe Feminino Lattafa Fakhar Rose Eau De Parfum 100*\n\nDe ~R$399~\nPor *R$223* 🔥\n\n🎟️ Cupom: *TODOSITE2511*\n💸 Com o cupom: *R$193*\n\n👉 *Pegar promoção:* https://meli.la/1LJAMok",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_904466-MLB91350004662_092025-P.webp",
-  "link": "https://meli.la/1LJAMok",
-  "produto": "MLB5762950930",
-  "publico": "feminino",
-  "preco": 223.44,
-  "cupom": {
-   "codigo": "TODOSITE2511",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3251646",
   "quando": "2026-11-25T09:45:17.361593",
   "titulo": "Whey Protein Concentrado Dux 900g Cookies Biscoitos",
@@ -171,6 +125,52 @@
   "produto": "MLB63859504",
   "publico": null,
   "preco": 212.72,
+  "cupom": {
+   "codigo": "SITETODO2511",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3251702",
+  "quando": "2026-11-25T10:20:13.407758",
+  "titulo": "Tênis Mizuno Cool Ride 3 Corrida Caminhada Academia Original",
+  "texto": "*Tênis Mizuno Cool Ride 3 Corrida Caminhada Academia Original*\n\nDe ~R$399~\nPor *R$230* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$207*\n\n👉 *Pegar promoção:* https://meli.la/1hMFCii",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_786095-MLB83030645643_032025-P.webp",
+  "link": "https://meli.la/1hMFCii",
+  "produto": "MLB4000406803",
+  "publico": "masculino",
+  "preco": 229.9,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3251773",
+  "quando": "2026-11-25T10:20:27.601284",
+  "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
+  "texto": "*Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto*\n\nDe ~R$266~\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1iNkjf9\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_956846-MLA99963696157_112025-P.webp",
+  "link": "https://meli.la/1iNkjf9",
+  "produto": "MLB19821291",
+  "publico": "masculino",
+  "preco": 140.0,
+  "cupom": null
+ },
+ {
+  "id": "3251807",
+  "quando": "2026-11-25T10:20:40.365060",
+  "titulo": "Tênis Adidas Super (37 ao 42)",
+  "texto": "*Tênis Masculino Super adidas Preto Lisa 37 Br*\n\nDe ~R$599~\nPor *R$400* 🔥\n\n🎟️ Cupom: *SITETODO2511*\n💸 Com o cupom: *R$349*\n\n👉 *Pegar promoção:* https://meli.la/1BrW4iQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_619462-MLB121387284183_112026-P.webp",
+  "link": "https://meli.la/1BrW4iQ",
+  "produto": "MLB6722221830",
+  "publico": "masculino",
+  "preco": 399.99,
   "cupom": {
    "codigo": "SITETODO2511",
    "id": null,
