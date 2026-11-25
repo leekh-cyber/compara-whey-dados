@@ -1,5 +1,42 @@
 {
-  "atualizado": "2026-11-25T01:13-03:00",
+  "atualizado": "2026-11-25T16:18-03:00",
   "fonte": "Promobit",
-  "cupons": []
+  "cupons": [
+    {
+      "codigo": "LIVREHOJE",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 2499.0,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-25T23:59:59-03:00",
+      "publicado": "2026-11-25T09:07-03:00"
+    },
+    {
+      "codigo": "VIVERML",
+      "pct": 15,
+      "fixo": null,
+      "minimo": 0.0,
+      "teto": 40.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-25T23:59:59-03:00",
+      "publicado": "2026-11-25T09:07-03:00"
+    },
+    {
+      "codigo": "LIVREOFF",
+      "pct": 10,
+      "fixo": null,
+      "minimo": 199.0,
+      "teto": 200.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-25T23:59:59-03:00",
+      "publicado": "2026-11-25T16:06-03:00"
+    }
+  ]
 }
