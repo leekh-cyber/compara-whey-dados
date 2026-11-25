@@ -1,39 +1,5 @@
 [
  {
-  "id": "3246909",
-  "quando": "2026-11-24T09:45:24.562609",
-  "titulo": "Lg Ultragear Monitor Gamer 32\"- Va 165hz 1ms (mbr) Qhd 2k (2560x1440) Hdr10 Amd Freesync, Preto - 32gn600",
-  "texto": "*LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600*\n\nDe ~R$2180~\nPor *R$989* 🔥 no pix\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$890*\n\n👉 *Pegar promoção:* https://meli.la/1hxDPqn\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_638172-MLA119028250988_112026-P.webp",
-  "link": "https://meli.la/1hxDPqn",
-  "produto": "MLB24061510",
-  "publico": null,
-  "preco": 989.1,
-  "cupom": {
-   "codigo": "DESCONTOSMELI",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3246908",
-  "quando": "2026-11-24T09:45:32.149697",
-  "titulo": "Pulseira Life Estrela Em Prata 925",
-  "texto": "*Pulseira Life Estrela Em Prata 925*\n\nDe ~R$590~\nPor *R$295* 🔥\n\n🎟️ Cupom: *DESCONTOSMELI*\n💸 Com o cupom: *R$252*\n\n👉 *Pegar promoção:* https://meli.la/2f1cvdY\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_974998-MLB107322871166_032026-P.webp",
-  "link": "https://meli.la/2f1cvdY",
-  "produto": "MLB6404350374",
-  "publico": null,
-  "preco": 295.0,
-  "cupom": {
-   "codigo": "DESCONTOSMELI",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3247715",
   "quando": "2026-11-24T12:05:13.415350",
   "titulo": "Caixa de Som XBOOM XG8T Bluetooth Portátil Preto LG",
@@ -192,5 +158,34 @@
    "publicado": "2026-11-21T16:59:47-03:00",
    "ate": null
   }
+ },
+ {
+  "id": "3250369",
+  "quando": "2026-11-24T22:00:11.653361",
+  "titulo": "Jaqueta Pu Facinelli 640474 Preto Gg Lisa",
+  "texto": "*Jaqueta Pu Facinelli 640474 Preto Gg Lisa*\n\nPor *R$117* 🔥 no pix\n\n🎟️ Cupom: *FASHION*\n💸 Com o cupom: *R$88*\n\n👉 *Pegar promoção:* https://meli.la/31emMD5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_834489-MLB110680800408_052026-P.webp",
+  "link": "https://meli.la/31emMD5",
+  "produto": "MLB4458185891",
+  "publico": "feminino",
+  "preco": 116.99,
+  "cupom": {
+   "codigo": "FASHION",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3250437",
+  "quando": "2026-11-24T22:00:19.571262",
+  "titulo": "Meia Calça Térmica Translúcida Pelinho Forrada Pelúciada Lã Preto 38-42",
+  "texto": "*Meia Calça Térmica Translúcida Pelinho Forrada Pelúciada Lã Preto 38-42*\n\nPor *R$22* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2dV9ahv\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_768191-MLB112161781309_052026-P.webp",
+  "link": "https://meli.la/2dV9ahv",
+  "produto": "MLB7979318176",
+  "publico": "feminino",
+  "preco": 21.66,
+  "cupom": null
  }
 ]
