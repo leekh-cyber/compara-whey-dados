@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T16:00:30.142841",
+  "quando": "2026-11-25T16:30:25.742727",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -20160,7 +20160,7 @@
   "msg": "PsqziVuFGxzcqV8-1zABq53iqHP95g-BAA",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Liquidificador Britânia 600W 2,1L 3 Velocidades BLQ900A*\n\nDe ~R$170~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2qWPqKNCUP",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-muw5n5hfueit58",
-  "conferido": "2026-11-25T13:02:54.857707"
+  "conferido": "2026-11-25T16:32:39.346365"
  },
  "3251547": {
   "quando": "2026-11-25T10:00:33.906746",
@@ -20682,5 +20682,39 @@
   "msg": "PsqQGm20h54RrSc-1_wBq53iqHP95g-BB0",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Com 2 Camisas Polo Básicas Masculinas Em Piquet Hering*\n\nDe ~R$219~\nPor *R$130* 🔥\n\n🎟️ Cupom: *MODA*\n💸 Com o cupom: *R$110*\n\n👉 *Pegar promoção:* https://meli.la/2V3JcXi\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_894944-MLB106038505852_022026-P.webp"
+ },
+ "3253772": {
+  "quando": "2026-11-25T16:30:29.798473",
+  "titulo": "Camiseta Calvin Klein Flame Front Logo Azul Marinho",
+  "link": "https://meli.la/22RmDj3",
+  "publico": "masculino",
+  "produto": "MLB4608214240",
+  "preco": 119.79,
+  "cupom": {
+   "codigo": "MODA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqzBWmTYKzMBsg-16IBq53iqHP95g-BB4",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camiseta Calvin Klein Flame Front Logo Azul Marinho*\n\nDe ~R$240~\nPor *R$120* 🔥 no pix\n\n🎟️ Cupom: *MODA*\n💸 Com o cupom: *R$102*\n\n👉 *Pegar promoção:* https://meli.la/22RmDj3\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_950122-MLB84518690602_052025-P.webp"
+ },
+ "3251702": {
+  "quando": "2026-11-25T16:31:34.433500",
+  "titulo": "Tênis Mizuno Cool Ride 3 Corrida Caminhada Academia Original",
+  "link": "https://meli.la/1hMFCii",
+  "publico": "masculino",
+  "produto": "MLB4000406803",
+  "preco": 229.9,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psr6WkGe1IKLjvA-13kBq53iqHP95g-BB8",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Mizuno Cool Ride 3 Corrida Caminhada Academia Original*\n\nDe ~R$399~\nPor *R$230* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$207*\n\n👉 *Pegar promoção:* https://meli.la/1hMFCii",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_786095-MLB83030645643_032025-P.webp"
  }
 }
