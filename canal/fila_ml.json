@@ -53,18 +53,6 @@
   "cupom": null
  },
  {
-  "id": "3251325",
-  "quando": "2026-11-25T09:10:19.156143",
-  "titulo": "Sandália Rasteira Strass Brilho Prata",
-  "texto": "*Sandália Feminina Rasteira Strass Brilho Prata Salto Baixo*\n\nPor *R$27* 🔥\n\n👉 *Pegar promoção:* https://meli.la/31ZZpGZ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_722264-MLB108025728573_032026-P.webp",
-  "link": "https://meli.la/31ZZpGZ",
-  "produto": "MLB3892854162",
-  "publico": "feminino",
-  "preco": 26.97,
-  "cupom": null
- },
- {
   "id": "3251290",
   "quando": "2026-11-25T09:10:59.475031",
   "titulo": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
@@ -150,18 +138,6 @@
   }
  },
  {
-  "id": "3251773",
-  "quando": "2026-11-25T10:20:27.601284",
-  "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
-  "texto": "*Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto*\n\nDe ~R$266~\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1iNkjf9\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_956846-MLA99963696157_112025-P.webp",
-  "link": "https://meli.la/1iNkjf9",
-  "produto": "MLB19821291",
-  "publico": "masculino",
-  "preco": 140.0,
-  "cupom": null
- },
- {
   "id": "3252194",
   "quando": "2026-11-25T11:30:12.563125",
   "titulo": "Calça Alfaiataria Linho Masculina Opus Primaveraverão",
@@ -177,5 +153,34 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3252425",
+  "quando": "2026-11-25T12:05:08.596824",
+  "titulo": "Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto!",
+  "texto": "*Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto*\n\nDe ~R$899~\nPor *R$389* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$346*\n\n👉 *Pegar promoção:* https://meli.la/2apNjas\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_757319-MLA99943817013_112025-P.webp",
+  "link": "https://meli.la/2apNjas",
+  "produto": "MLB17822926",
+  "publico": "masculino",
+  "preco": 389.0,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3252445",
+  "quando": "2026-11-25T12:05:15.738548",
+  "titulo": "Short Mauricinho Linho",
+  "texto": "*Short Bermuda Masculino Linho Mauricinho Casual Cós Elástico*\n\nDe ~R$78~\nPor *R$34* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2dGEZ9k",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_922946-MLB114372814604_082026-P.webp",
+  "link": "https://meli.la/2dGEZ9k",
+  "produto": "MLB3446629053",
+  "publico": "masculino",
+  "preco": 33.9,
+  "cupom": null
  }
 ]
