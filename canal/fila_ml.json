@@ -1,51 +1,5 @@
 [
  {
-  "id": "3247715",
-  "quando": "2026-11-24T12:05:13.415350",
-  "titulo": "Caixa de Som XBOOM XG8T Bluetooth Portátil Preto LG",
-  "texto": "*Caixa de Som XBOOM XG8T Bluetooth Portátil Preto LG*\n\nPor *R$599* 🔥\n\n🎟️ Cupom: *1124MAISME*\n💸 Com o cupom: *R$519*\n\n👉 *Pegar promoção:* https://meli.la/1yUUTKU\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_873489-MLA84552018254_052025-P.webp",
-  "link": "https://meli.la/1yUUTKU",
-  "produto": "MLB34281378",
-  "publico": null,
-  "preco": 599.0,
-  "cupom": {
-   "codigo": "1124MAISME",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3249356",
-  "quando": "2026-11-24T17:20:11.305583",
-  "titulo": "Perfume Rabanne Olympéa Parfum 80ml feminino",
-  "texto": "*Perfume Rabanne Olympéa Parfum 80ml feminino*\n\nDe ~R$990~\nPor *R$550* 🔥\n\n🎟️ Cupom: *VEMPROMP*\n💸 Com o cupom: *R$399*\n\n👉 *Pegar promoção:* https://meli.la/1gahB75\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_721467-MLU76050542709_042024-P.webp",
-  "link": "https://meli.la/1gahB75",
-  "produto": "MLB36240047",
-  "publico": "feminino",
-  "preco": 549.99,
-  "cupom": {
-   "codigo": "VEMPROMP",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3249820",
-  "quando": "2026-11-24T19:05:13.941652",
-  "titulo": "Sandalia Papete Moleca Feminina Tiras Strass Macia Original",
-  "texto": "*Sandalia Papete Moleca Feminina Tiras Strass Macia Original*\n\nDe ~R$78~\nPor *R$48* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2Sqoxzh\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_807427-MLB76103862065_042024-P.webp",
-  "link": "https://meli.la/2Sqoxzh",
-  "produto": "MLB3659510079",
-  "publico": "feminino",
-  "preco": 48.0,
-  "cupom": null
- },
- {
   "id": "3250067",
   "quando": "2026-11-24T20:15:36.677340",
   "titulo": "Perfume Armani My Way GiorgioEDP 90ml Feminino",
@@ -186,6 +140,52 @@
   "produto": "MLB7979318176",
   "publico": "feminino",
   "preco": 21.66,
+  "cupom": null
+ },
+ {
+  "id": "3250877",
+  "quando": "2026-11-25T08:00:24.228118",
+  "titulo": "Dropset Control Trainer adidas",
+  "texto": "*Dropset Control Trainer adidas*\n\nDe ~R$699~\nPor *R$382* 🔥\n\n🎟️ Cupom: *TODOSITE251126*\n💸 Com o cupom: *R$342*\n\n👉 *Pegar promoção:* https://meli.la/1vsGVzn\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896617-MLB114278073908_082026-P.webp",
+  "link": "https://meli.la/1vsGVzn",
+  "produto": "MLB6032297150",
+  "publico": "masculino",
+  "preco": 381.99,
+  "cupom": {
+   "codigo": "TODOSITE251126",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3251092",
+  "quando": "2026-11-25T08:00:42.718594",
+  "titulo": "Capa Protetor De Colchão Elástico Queen Impermeável Matelado",
+  "texto": "*Capa Protetor De Colchão Elástico Queen Impermeável Matelado*\n\nPor *R$30* 🔥\n\n🎟️ Cupom: *CUPONOMOVEIS* (15% OFF)\n\n👉 *Pegar promoção:* https://meli.la/1UmVHsY\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902822-MLB113686572268_072026-P.webp",
+  "link": "https://meli.la/1UmVHsY",
+  "produto": "MLB4039471005",
+  "publico": null,
+  "preco": 29.99,
+  "cupom": {
+   "codigo": "CUPONOMOVEIS",
+   "id": "72516",
+   "publicado": "2026-11-24T13:06:25-03:00",
+   "ate": "2026-11-25T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3251126",
+  "quando": "2026-11-25T08:01:06.784918",
+  "titulo": "Egeo Choc High Desodorante Colônia 90ml",
+  "texto": "*Egeo Choc High Desodorante Colônia 90ml*\n\nDe ~R$164~\nPor *R$82* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1EQBUUC\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_902507-MLA120890017669_112026-P.webp",
+  "link": "https://meli.la/1EQBUUC",
+  "produto": "MLB44882352",
+  "publico": null,
+  "preco": 81.9,
   "cupom": null
  }
 ]
