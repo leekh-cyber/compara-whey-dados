@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-25T17:00:36.102616",
+  "quando": "2026-11-25T17:27:33.024851",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19438,7 +19438,8 @@
   },
   "msg": "PsojzO1FMIlU8DY-12ABq53iqHP95g-A9s",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Kappa Pulse Supra Unissex De Corrida Conforto*\n\nDe ~R$259~\nPor *R$122* 🔥\n\n🎟️ Cupom: *OFICIAIS2411*\n\n👉 *Pegar promoção:* https://meli.la/1i8XfWj\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp",
+  "encerrada": "2026-11-25T17:29:58.928549"
  },
  "3248386": {
   "quando": "2026-11-24T14:00:35.077475",
@@ -20761,5 +20762,44 @@
   "msg": "Pspkl.OlPCEaoKs-1xABq53iqHP95g-BCI",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camisa Gola Polo Tricot Masculina Texturizada Turim Opus*\n\nDe ~R$220~\nPor *R$180* 🔥\n\n🎟️ Cupom: *PEGUEIJA*\n💸 Com o cupom: *R$121*\n\n👉 *Pegar promoção:* https://meli.la/1eGqyU7\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758501-MLB98350765853_112025-P.webp"
+ },
+ "3254086": {
+  "quando": "2026-11-25T17:27:37.860126",
+  "titulo": "Sandália de Laço (27 ao 34 diversas cores)",
+  "loja": "shopee"
+ },
+ "3254041": {
+  "quando": "2026-11-25T17:27:40.264591",
+  "titulo": "Kit 6 Peças Bebê Menino 100% Algodão (3 Body + 3 Calça Mijão Pagão) (Tam. RN ao GG)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70LzIgUVQJ",
+  "publico": null,
+  "produto": "shopee:58208787657",
+  "preco": 69.8,
+  "shopee": [
+   859524128,
+   58208787657
+  ],
+  "cupom": null,
+  "msg": "Psrovktu9xJHuug-11sBq53iqHP95g-BCM",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 6 Peças Bebe Menino 100% Algodão (3 Body + 3 Calça Mijão Pagão) RN ao GG Roupa Nenem Minimalista*\n\nDe ~R$99~\nPor *R$70* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70LzIgUVQJ",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mtjv15lkpvk3d2"
+ },
+ "3254090": {
+  "quando": "2026-11-25T17:28:47.271806",
+  "titulo": "Relógio Casio Masculino G-shock Digital Preto Dw-5600bb-1dr.",
+  "link": "https://meli.la/1hPqoSg",
+  "publico": "masculino",
+  "produto": "MLB38224820",
+  "preco": 310.0,
+  "cupom": {
+   "codigo": "MELIAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspIRdDUb0LMpnw-1wIBq53iqHP95g-BCQ",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio de pulso digital Casio DW-5600UBB-1D com corria de resina*\n\nPor *R$310* 🔥\n\n🎟️ Cupom: *MELIAGORA*\n💸 Com o cupom: *R$253*\n\n👉 *Pegar promoção:* https://meli.la/1hPqoSg\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_674759-MLA99955991925_112025-P.webp"
  }
 }
