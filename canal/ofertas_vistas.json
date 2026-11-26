@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T13:30:27.322499",
+  "quando": "2026-11-26T14:00:31.672924",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21244,7 +21244,8 @@
   "cupom": null,
   "msg": "Psp2.HWnDnT63Rw-1xgBq53iqHP95g-BD4",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Letreiro Placa Decorativa Gamer Geek Jogo Gta San Andreas Grand Theft Auto Setup Gamer Símbolo Logo*\n\nDe ~R$22~\nPor *R$16* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9AQV2yfZhe",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moxg22ug9ziee8"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moxg22ug9ziee8",
+  "conferido": "2026-11-26T14:02:48.276125"
  },
  "3257314": {
   "quando": "2026-11-26T11:01:47.639777",
@@ -21487,5 +21488,44 @@
   "msg": "Psqqobln6nbtZZc-16EBq53iqHP95g-BEs",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Tommy Hilfiger Toc Masculino em Couro Preto 1791819*\n\nDe ~R$990~\nPor *R$495* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$398*\n\n👉 *Pegar promoção:* https://meli.la/2CmaMCD\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_858935-MLU77144326326_062024-P.webp"
+ },
+ "3258733": {
+  "quando": "2026-11-26T14:00:38.422787",
+  "titulo": "Cadeira Musical de Balanço e Descanso Vibratória Musical com Brinquedos Interativos Bebê Móbiles (3 Cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/40iP5qJnei",
+  "publico": null,
+  "produto": "shopee:28844169104",
+  "preco": 159.9,
+  "shopee": [
+   325008325,
+   28844169104
+  ],
+  "cupom": null,
+  "msg": "Psq53kpbiSwIJ8I-1woBq53iqHP95g-BEw",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Cadeira Musical de Balanço e Descanso Vibratória Musical com Brinquedos Interativos Bebê Móbiles*\n\nDe ~R$238~\nPor *R$160* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/40iP5qJnei",
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lw-mqydhlyv08w48a"
+ },
+ "3258717": {
+  "quando": "2026-11-26T14:00:37.527810",
+  "titulo": "Monitor Gamer Curvo AOC Gaming U34G4C 34\" WQHD 180Hz 0,5ms HDMI DisplayPort FreeSync U3",
+  "loja": "shopee"
+ },
+ "3259067": {
+  "quando": "2026-11-26T14:01:44.683267",
+  "titulo": "Perfume Rabanne 1 Million Eau de Toilette 200ml Masculino",
+  "link": "https://meli.la/11DLexk",
+  "publico": "masculino",
+  "produto": "MLB6072140",
+  "preco": 569.0,
+  "cupom": {
+   "codigo": "PROMOAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsoOWBMWdsprfcw-15oBq53iqHP95g-BE0",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Rabanne 1 Million Eau de Toilette 200 ml masculino*\n\nDe ~R$1043~\nPor *R$569* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$404*\n\n👉 *Pegar promoção:* https://meli.la/11DLexk\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_727987-MLA94570272613_102025-P.webp"
  }
 }
