@@ -123,44 +123,54 @@
   "cupom": null
  },
  {
-  "id": "3259196",
-  "quando": "2026-11-26T14:25:25.687205",
-  "titulo": "Kit 4 Travesseiros50x70- Toque De Pluma- Médio- Antialérgico",
-  "texto": "*Kit 4 Travesseiros50x70- Toque De Pluma- Médio- Antialérgico*\n\nDe ~R$175~\nPor *R$85* 🔥\n\n🎟️ Cupom: *DESCONTODOML30*\n💸 Com o cupom: *R$59*\n\n👉 *Pegar promoção:* https://meli.la/2PGCzs1\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_652591-MLA121820152845_112026-P.webp",
-  "link": "https://meli.la/2PGCzs1",
-  "produto": "MLB44160351",
-  "publico": null,
-  "preco": 84.99,
+  "id": "3259777",
+  "quando": "2026-11-26T15:35:56.559347",
+  "titulo": "Tênis Olympikus Beats Esporte Original Academia Treino Run",
+  "texto": "*Tênis Olympikus Beats Esporte Original Academia Treino Run*\n\nDe ~R$416~\nPor *R$205* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$184*\n\n👉 *Pegar promoção:* https://meli.la/2b3pCoF\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774069-MLB119491895926_112026-P.webp",
+  "link": "https://meli.la/2b3pCoF",
+  "produto": "MLB5198297796",
+  "publico": "masculino",
+  "preco": 204.99,
   "cupom": {
-   "codigo": "DESCONTODOML30",
+   "codigo": "PROMOAGORA",
    "id": null,
    "publicado": null,
    "ate": null
   }
  },
  {
-  "id": "3259405",
-  "quando": "2026-11-26T15:00:11.894650",
-  "titulo": "Conjunto Calça Legging E Top Fitness Sem",
-  "texto": "*Conjunto Calça Legging E Top Fitness Sem Transparência*\n\nDe ~R$79~\nPor *R$45* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1R5qwLG",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_916139-MLB118687992717_102026-P.webp",
-  "link": "https://meli.la/1R5qwLG",
-  "produto": "MLB4794920917",
-  "publico": "feminino",
-  "preco": 44.99,
-  "cupom": null
+  "id": "3259769",
+  "quando": "2026-11-26T15:36:06.915049",
+  "titulo": "Kit com 10 Potes Herméticos Vidro 640ml",
+  "texto": "*Kit 10 Potes Herméticos Vidro Alto Borossilicato Tampa 4 Travas Marmita Forno Micro-ondas Airfryer Freezer 640ml Zelvi*\n\nPor *R$80* 🔥 no pix\n\n🎟️ Cupom: *OFERTAVIP* (15% OFF acima de R$79, até R$60)\n💸 Com o cupom: *R$68*\n\n👉 *Pegar promoção:* https://meli.la/2uVmq4y\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_989072-MLA116501133674_092026-P.webp",
+  "link": "https://meli.la/2uVmq4y",
+  "produto": "MLB79472847",
+  "publico": null,
+  "preco": 79.99,
+  "cupom": {
+   "codigo": "OFERTAVIP",
+   "id": "72652",
+   "publicado": "2026-11-26T14:06:38-03:00",
+   "ate": "2026-11-26T23:59:59-0300"
+  }
  },
  {
-  "id": "3259444",
-  "quando": "2026-11-26T15:00:18.592883",
-  "titulo": "Regata Dri-fit Nike Feminina Azul Dri-fit P",
-  "texto": "*Regata Dri-fit Nike Feminina Azul Dri-fit P*\n\nDe ~R$129~\nPor *R$74* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1hSDq7K\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_725774-MLB117427871879_092026-P.webp",
-  "link": "https://meli.la/1hSDq7K",
-  "produto": "MLB7613978014",
-  "publico": "feminino",
-  "preco": 73.68,
-  "cupom": null
+  "id": "3259730",
+  "quando": "2026-11-26T15:36:23.166726",
+  "titulo": "Tapete Splash Sprinkler",
+  "texto": "*Tapete Splash Sprinkler Pad 250cm Infantil, Piscina de Água para Criança, Brinquedo de Verão para Exterior Cokunst Arco‑íris*\n\nDe ~R$129~\nPor *R$76* 🔥\n\n🎟️ Cupom: *VALEAPENANOMELI30*\n💸 Com o cupom: *R$53*\n\n👉 *Pegar promoção:* https://meli.la/23sc5AT",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_936038-MLA115559608558_082026-P.webp",
+  "link": "https://meli.la/23sc5AT",
+  "produto": "MLB78755883",
+  "publico": null,
+  "preco": 75.56,
+  "cupom": {
+   "codigo": "VALEAPENANOMELI30",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
