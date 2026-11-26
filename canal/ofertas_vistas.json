@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T18:30:27.442303",
+  "quando": "2026-11-26T19:00:28.140170",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21662,7 +21662,8 @@
   "cupom": null,
   "msg": "PsqeUxyVlhmfizw-1xgBq53iqHP95g-BFU",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Brinquedo Pelúcia Chocalho Mordedor Bebê Sensorial Educativo Com Alça*\n\nDe ~R$70~\nA partir de *R$54* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4Vefp00nuy",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mtgumia7514x32"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mtgumia7514x32",
+  "conferido": "2026-11-26T19:02:45.334129"
  },
  "3259777": {
   "quando": "2026-11-26T16:01:41.947614",
@@ -21940,5 +21941,44 @@
   "msg": "Psp8CKTHbRCdepM-16cBq53iqHP95g-BGI",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tapete Splash Sprinkler Pad 250cm Infantil, Piscina de Água para Criança, Brinquedo de Verão para Exterior Cokunst Arco‑íris*\n\nDe ~R$129~\nPor *R$76* 🔥\n\n🎟️ Cupom: *VALEAPENANOMELI30*\n💸 Com o cupom: *R$53*\n\n👉 *Pegar promoção:* https://meli.la/23sc5AT",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_936038-MLA115559608558_082026-P.webp"
+ },
+ "3260946": {
+  "quando": "2026-11-26T19:00:31.882224",
+  "titulo": "Smart TV Hisense 55\" UHD 4K QLED 55Q6QV com HDR10+",
+  "loja": "shopee"
+ },
+ "3260918": {
+  "quando": "2026-11-26T19:00:33.309709",
+  "titulo": "Smart TV Hisense 55\" UHD 4K QLED 55Q6QV com HDR10+",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9V3LyY6F6e",
+  "publico": null,
+  "produto": "shopee:56659969879",
+  "preco": 2377.9,
+  "shopee": [
+   1343318906,
+   56659969879
+  ],
+  "cupom": {
+   "codigo": "HDR10",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsoFgLQaVf239Oo-17ABq53iqHP95g-BGM",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Smart TV Hisense 55\" UHD 4K QLED 55Q6QV com HDR10+*\n\nDe ~R$3088~\nPor *R$2378* 🔥\n\n🎟️ Cupom: *HDR10*\n💸 Com o cupom: *R$1884*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V3LyY6F6e",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnvwdadcy32a16"
+ },
+ "3260861": {
+  "quando": "2026-11-26T19:01:40.960199",
+  "titulo": "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
+  "link": "https://meli.la/1JS4ZV7",
+  "publico": "feminino",
+  "produto": "MLB3396120483",
+  "preco": 47.4,
+  "cupom": null,
+  "msg": "Psrlg.1be1IrdLs-1.ABq53iqHP95g-BGQ",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Calça Mom Jeans Feminina Cintura Alta Marmorizada*\n\nDe ~R$99~\nPor *R$47* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JS4ZV7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_799787-MLB85664619217_062025-P.webp"
  }
 }
