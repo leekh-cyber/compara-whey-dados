@@ -99,18 +99,6 @@
   "cupom": null
  },
  {
-  "id": "3256802",
-  "quando": "2026-11-26T08:35:52.481362",
-  "titulo": "Camiseta Core Insider",
-  "texto": "*Camiseta Core Insider*\n\nDe ~R$189~\nPor *R$109* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1aLDo1t\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_860622-MLB85730542242_062025-P.webp",
-  "link": "https://meli.la/1aLDo1t",
-  "produto": "MLB3996373493",
-  "publico": "masculino",
-  "preco": 109.0,
-  "cupom": null
- },
- {
   "id": "3256892",
   "quando": "2026-11-26T08:36:01.553434",
   "titulo": "Fralda Pampers Pants Ajuste Total XXG com 74",
@@ -133,5 +121,46 @@
   "publico": null,
   "preco": 855.26,
   "cupom": null
+ },
+ {
+  "id": "3257035",
+  "quando": "2026-11-26T09:10:11.222978",
+  "titulo": "Body Splash Masculino Barbarius 200ml By Primacial",
+  "texto": "*Body Splash Masculino Barbarius 200ml By Primacial*\n\nDe ~R$69~\nPor *R$28* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1gePfYB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_725948-MLB119914008933_102026-P.webp",
+  "link": "https://meli.la/1gePfYB",
+  "produto": "MLB5517550248",
+  "publico": "masculino",
+  "preco": 28.19,
+  "cupom": null
+ },
+ {
+  "id": "3257038",
+  "quando": "2026-11-26T09:10:36.294363",
+  "titulo": "Barra Fixa De Parede Pull-up Modelo Externo Interno Completa",
+  "texto": "*Barra Fixa De Parede Pull-up Modelo Externo Interno Completa Preto*\n\nPor *R$94* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2cKN1mi\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_878351-MLB105353920277_012026-P.webp",
+  "link": "https://meli.la/2cKN1mi",
+  "produto": "MLB2127256224",
+  "publico": null,
+  "preco": 93.72,
+  "cupom": null
+ },
+ {
+  "id": "3257000",
+  "quando": "2026-11-26T09:10:52.500764",
+  "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360Lh 220V",
+  "texto": "*Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V*\n\nDe ~R$575~\nPor *R$290* 🔥\n\n🎟️ Cupom: *PROJETOGRANDE* (20% OFF, até R$80)\n💸 Com o cupom: *R$232*\n\n👉 *Pegar promoção:* https://meli.la/1sp4vdn\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_969245-MLA99639655414_122025-P.webp",
+  "link": "https://meli.la/1sp4vdn",
+  "produto": "MLB53860589",
+  "publico": null,
+  "preco": 289.54,
+  "cupom": {
+   "codigo": "PROJETOGRANDE",
+   "id": "72631",
+   "publicado": "2026-11-26T08:06:31-03:00",
+   "ate": "2026-11-26T23:59:59-0300"
+  }
  }
 ]
