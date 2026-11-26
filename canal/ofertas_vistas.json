@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T09:00:33.089543",
+  "quando": "2026-11-26T09:30:27.362280",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21088,5 +21088,54 @@
   "msg": "PsqWI9Q_O5ue5sA-1.wBq53iqHP95g-BDY",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Camiseta Core Insider*\n\nDe ~R$189~\nPor *R$109* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1aLDo1t\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_860622-MLB85730542242_062025-P.webp"
+ },
+ "3257061": {
+  "quando": "2026-11-26T09:30:32.017427",
+  "titulo": "Gabinete Gamer Pichau Osiris Mini-Tower Lateral de Vidro Preto PG-OSI-BK",
+  "loja": "shopee"
+ },
+ "3256299": {
+  "quando": "2026-11-26T09:30:33.568102",
+  "titulo": "Jbl Partybox Stage 320 Bluetooth 240W Preta",
+  "loja": "shopee"
+ },
+ "3256327": {
+  "quando": "2026-11-26T09:30:34.868524",
+  "titulo": "Smart Tv Lg 43 Ld Wifi Bluetooth Full 43lr6700psa Hdr10 Pro",
+  "loja": "shopee"
+ },
+ "3256445": {
+  "quando": "2026-11-26T09:30:36.900251",
+  "titulo": "Notebook Gamer Lenovo LOQ 15IRX9, FHD 144Hz, i5, 16GB, 512GB",
+  "loja": "shopee"
+ },
+ "3256424": {
+  "quando": "2026-11-26T09:30:38.152970",
+  "titulo": "Kit 100 Bolas de Natal com Estrela ou Kit 50 Enfeite Árvore Vermelha Dourada Mista Fosca Glitter",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9Kjv96O8Kd",
+  "publico": null,
+  "produto": "shopee:22394461600",
+  "preco": 79.9,
+  "shopee": [
+   1340072116,
+   22394461600
+  ],
+  "cupom": null,
+  "msg": "PsopVfLIixNvp7o-138Bq53iqHP95g-BDc",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 100 Bolas de Natal com Estrela ou Kit 50 Enfeite Árvore Vermelha Dourada Mista Fosca Glitter*\n\nDe ~R$150~\nA partir de *R$80* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9Kjv96O8Kd",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-82584-mu0wlh0ytywz41"
+ },
+ "3257035": {
+  "quando": "2026-11-26T09:31:45.114901",
+  "titulo": "Body Splash Masculino Barbarius 200ml By Primacial",
+  "link": "https://meli.la/1gePfYB",
+  "publico": "masculino",
+  "produto": "MLB5517550248",
+  "preco": 28.19,
+  "cupom": null,
+  "msg": "PsrGpkxvbGkG80M-1xABq53iqHP95g-BDg",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Body Splash Masculino Barbarius 200ml By Primacial*\n\nDe ~R$69~\nPor *R$28* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1gePfYB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_725948-MLB119914008933_102026-P.webp"
  }
 }
