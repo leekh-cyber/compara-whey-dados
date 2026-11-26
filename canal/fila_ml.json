@@ -46,18 +46,6 @@
   }
  },
  {
-  "id": "3256891",
-  "quando": "2026-11-26T08:35:09.725954",
-  "titulo": "Kit com 2 Camisetas Aramis Basic",
-  "texto": "*Kit Camisetas Aramis Basic Lisa Branca/azul Azul-marinho Xxl/ggg Lisa*\n\nPor *R$170* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2esDX7B\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_667658-MLB118501612749_092026-P.webp",
-  "link": "https://meli.la/2esDX7B",
-  "produto": "MLB5315140855",
-  "publico": "masculino",
-  "preco": 169.99,
-  "cupom": null
- },
- {
   "id": "3256892",
   "quando": "2026-11-26T08:36:01.553434",
   "titulo": "Fralda Pampers Pants Ajuste Total XXG com 74",
@@ -135,34 +123,46 @@
   "cupom": null
  },
  {
-  "id": "3257789",
-  "quando": "2026-11-26T10:55:37.062693",
-  "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-  "texto": "*Tênis Flyer Runner Mesh Bdp Puma*\n\nDe ~R$349~\nPor *R$180* 🔥\n\n🎟️ Cupom: *OFICIAIS2511*\n💸 Com o cupom: *R$170*\n\n👉 *Pegar promoção:* https://meli.la/2Soc8Qy\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_931746-MLB121990592509_112026-P.webp",
-  "link": "https://meli.la/2Soc8Qy",
-  "produto": "MLB3806655487",
+  "id": "3258439",
+  "quando": "2026-11-26T12:05:40.861651",
+  "titulo": "Refil Perfume Feminino Eau De Parfum, Fragrância Floral Gourmand Inebriante Com Íris Nobre",
+  "texto": "*Refil Perfume Feminino Eau De Parfum, Fragrância Floral Gourmand Inebriante Com Íris Nobre E Baunilha, Aroma De Felicidade E Feminilidade, La Vie Est Belle Lancôme, Frasco Com 100ml*\n\nPor *R$313* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1XB9Wk1\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_776795-MLA93502240958_102025-P.webp",
+  "link": "https://meli.la/1XB9Wk1",
+  "produto": "MLB34729362",
+  "publico": "feminino",
+  "preco": 312.8,
+  "cupom": null
+ },
+ {
+  "id": "3258430",
+  "quando": "2026-11-26T12:06:20.080773",
+  "titulo": "Kit 6 Cuecas Boxer Mash Microfibra Sem Costura",
+  "texto": "*Kit 6 Cuecas Boxer Mash Microfibra Sem Costura Adulto*\n\nPor *R$72* 🔥 no pix\n\n🎟️ Cupom: *MAISDESCONTODEZ*\n💸 Com o cupom: *R$54*\n\n👉 *Pegar promoção:* https://meli.la/2vQUtoz\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_906997-MLB116181301475_082026-P.webp",
+  "link": "https://meli.la/2vQUtoz",
+  "produto": "MLB5111101050",
   "publico": "masculino",
-  "preco": 179.99,
+  "preco": 71.92,
   "cupom": {
-   "codigo": "OFICIAIS2511",
+   "codigo": "MAISDESCONTODEZ",
    "id": null,
    "publicado": null,
    "ate": null
   }
  },
  {
-  "id": "3258137",
-  "quando": "2026-11-26T11:30:12.267415",
-  "titulo": "Tênis Nike Air Max Alpha Trainer 6 Masculino",
-  "texto": "*Tênis Nike Air Max Alpha Trainer 6 Masculino*\n\nDe ~R$799~\nPor *R$420* 🔥\n\n🎟️ Cupom: *SUPEROFERTA*\n💸 Com o cupom: *R$365*\n\n👉 *Pegar promoção:* https://meli.la/1KXaDJw\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_767770-MLB100876249417_122025-P.webp",
-  "link": "https://meli.la/1KXaDJw",
-  "produto": "MLB4962090958",
+  "id": "3258474",
+  "quando": "2026-11-26T12:06:26.576352",
+  "titulo": "Tênis de Corrida Masculino Questar 3 Adidas",
+  "texto": "*Tênis de Corrida Masculino Questar 3 Adidas*\n\nDe ~R$599~\nPor *R$271* 🔥 no pix\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$202*\n\n👉 *Pegar promoção:* https://meli.la/1yuobS5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_960972-MLA110551030929_042026-P.webp",
+  "link": "https://meli.la/1yuobS5",
+  "produto": "MLB68205227",
   "publico": "masculino",
-  "preco": 419.99,
+  "preco": 271.14,
   "cupom": {
-   "codigo": "SUPEROFERTA",
+   "codigo": "PROMOAGORA",
    "id": null,
    "publicado": null,
    "ate": null
