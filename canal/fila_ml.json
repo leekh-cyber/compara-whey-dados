@@ -1,56 +1,5 @@
 [
  {
-  "id": "3251290",
-  "quando": "2026-11-25T09:10:59.475031",
-  "titulo": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
-  "texto": "*Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex*\n\nPor *R$55* 🔥\n\n🎟️ Cupom: *CUPONOMOVEIS* (15% OFF)\n\n👉 *Pegar promoção:* https://meli.la/1zxAhC8",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_718827-MLA121009065709_112026-P.webp",
-  "link": "https://meli.la/1zxAhC8",
-  "produto": "MLB78457348",
-  "publico": null,
-  "preco": 55.0,
-  "cupom": {
-   "codigo": "CUPONOMOVEIS",
-   "id": "72516",
-   "publicado": "2026-11-24T13:06:25-03:00",
-   "ate": "2026-11-25T23:59:59-0300"
-  }
- },
- {
-  "id": "3251303",
-  "quando": "2026-11-25T09:11:11.280297",
-  "titulo": "Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos Ponte Lar Utilidades",
-  "texto": "*Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos ponte lar utilidades*\n\nDe ~R$59~\nPor *R$29* 🔥\n\n🎟️ Cupom: *CUPONOMOVEIS* (15% OFF)\n\n👉 *Pegar promoção:* https://meli.la/2p9fpMB\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_748154-MLA114700023633_072026-P.webp",
-  "link": "https://meli.la/2p9fpMB",
-  "produto": "MLB27146487",
-  "publico": null,
-  "preco": 28.9,
-  "cupom": {
-   "codigo": "CUPONOMOVEIS",
-   "id": "72516",
-   "publicado": "2026-11-24T13:06:25-03:00",
-   "ate": "2026-11-25T23:59:59-0300"
-  }
- },
- {
-  "id": "3251300",
-  "quando": "2026-11-25T09:11:19.551309",
-  "titulo": "Impressora Hp Smart Tank 210 Com Tanque De Tinta Colorida - Com Wi-fi - Usb 2.0 De Alta Velocidade. Funções Da Impressora: Imprimir. Cor: ‎branc",
-  "texto": "*Impressora HP Smart Tank 210 com Tanque de Tinta Colorida - Com Wi-Fi - USB 2.0 de alta velocidade. Funções da impressora: Imprimir. Cor: ‎Branco (3D4L5A)*\n\nDe ~R$1141~\nPor *R$560* 🔥 no pix\n\n🎟️ Cupom: *MELIYTBF26* (8% OFF, até R$100)\n\n👉 *Pegar promoção:* https://meli.la/1coq76P\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_767232-MLA119752812186_112026-P.webp",
-  "link": "https://meli.la/1coq76P",
-  "produto": "MLB42164745",
-  "publico": null,
-  "preco": 560.15,
-  "cupom": {
-   "codigo": "MELIYTBF26",
-   "id": "72538",
-   "publicado": "2026-11-25T00:06:10-03:00",
-   "ate": "2026-11-25T23:59:59-0300"
-  }
- },
- {
   "id": "3251646",
   "quando": "2026-11-25T09:45:17.361593",
   "titulo": "Whey Protein Concentrado Dux 900g Cookies Biscoitos",
@@ -181,6 +130,47 @@
    "id": null,
    "publicado": null,
    "ate": null
+  }
+ },
+ {
+  "id": "3255315",
+  "quando": "2026-11-25T21:25:07.642251",
+  "titulo": "Polo Aramis Masculina Piquet Lisa Light Icon Preta Original",
+  "texto": "*Polo Aramis Masculina Piquet Lisa Light Icon Preta Original*\n\nDe ~R$269~\nPor *R$142* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1iUvGEC\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_725089-MLB93535938632_102025-P.webp",
+  "link": "https://meli.la/1iUvGEC",
+  "produto": "MLB4232263351",
+  "publico": "masculino",
+  "preco": 142.49,
+  "cupom": null
+ },
+ {
+  "id": "3255356",
+  "quando": "2026-11-25T21:25:16.610672",
+  "titulo": "Calça Jeans Slim Masculina Básica Polo Wear.",
+  "texto": "*Calça Jeans Slim Masculina Básica Polo Wear*\n\nDe ~R$179~\nPor *R$143* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1avFABv\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_991867-MLB117382128006_102026-P.webp",
+  "link": "https://meli.la/1avFABv",
+  "produto": "MLB5353977497",
+  "publico": "masculino",
+  "preco": 143.0,
+  "cupom": null
+ },
+ {
+  "id": "3255300",
+  "quando": "2026-11-25T21:25:32.536150",
+  "titulo": "Creality K1C Impressora 3D preto 220*220*250 mm, Compatível Com CFS",
+  "texto": "*Creality K1C Impressora 3D preto 220*220*250 mm, Compatível Com CFS*\n\nDe ~R$5969~\nPor *R$2506* 🔥 no pix\n\n🎟️ Cupom: *MENOSPRATECH* (30% OFF, até R$300)\n💸 Com o cupom: *R$2206*\n\n👉 *Pegar promoção:* https://meli.la/1Tmp8F1\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_693236-MLA99491743868_112025-P.webp",
+  "link": "https://meli.la/1Tmp8F1",
+  "produto": "MLB34239135",
+  "publico": null,
+  "preco": 2506.0,
+  "cupom": {
+   "codigo": "MENOSPRATECH",
+   "id": "72564",
+   "publicado": "2026-11-25T13:16:16-03:00",
+   "ate": "2026-11-25T23:59:59-0300"
   }
  }
 ]
