@@ -123,40 +123,6 @@
   "cupom": null
  },
  {
-  "id": "3258430",
-  "quando": "2026-11-26T12:06:20.080773",
-  "titulo": "Kit 6 Cuecas Boxer Mash Microfibra Sem Costura",
-  "texto": "*Kit 6 Cuecas Boxer Mash Microfibra Sem Costura Adulto*\n\nPor *R$72* 🔥 no pix\n\n🎟️ Cupom: *MAISDESCONTODEZ*\n💸 Com o cupom: *R$54*\n\n👉 *Pegar promoção:* https://meli.la/2vQUtoz\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_906997-MLB116181301475_082026-P.webp",
-  "link": "https://meli.la/2vQUtoz",
-  "produto": "MLB5111101050",
-  "publico": "masculino",
-  "preco": 71.92,
-  "cupom": {
-   "codigo": "MAISDESCONTODEZ",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3258474",
-  "quando": "2026-11-26T12:06:26.576352",
-  "titulo": "Tênis de Corrida Masculino Questar 3 Adidas",
-  "texto": "*Tênis de Corrida Masculino Questar 3 Adidas*\n\nDe ~R$599~\nPor *R$271* 🔥 no pix\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$202*\n\n👉 *Pegar promoção:* https://meli.la/1yuobS5\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_960972-MLA110551030929_042026-P.webp",
-  "link": "https://meli.la/1yuobS5",
-  "produto": "MLB68205227",
-  "publico": "masculino",
-  "preco": 271.14,
-  "cupom": {
-   "codigo": "PROMOAGORA",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3259196",
   "quando": "2026-11-26T14:25:25.687205",
   "titulo": "Kit 4 Travesseiros50x70- Toque De Pluma- Médio- Antialérgico",
@@ -172,5 +138,29 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3259405",
+  "quando": "2026-11-26T15:00:11.894650",
+  "titulo": "Conjunto Calça Legging E Top Fitness Sem",
+  "texto": "*Conjunto Calça Legging E Top Fitness Sem Transparência*\n\nDe ~R$79~\nPor *R$45* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1R5qwLG",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_916139-MLB118687992717_102026-P.webp",
+  "link": "https://meli.la/1R5qwLG",
+  "produto": "MLB4794920917",
+  "publico": "feminino",
+  "preco": 44.99,
+  "cupom": null
+ },
+ {
+  "id": "3259444",
+  "quando": "2026-11-26T15:00:18.592883",
+  "titulo": "Regata Dri-fit Nike Feminina Azul Dri-fit P",
+  "texto": "*Regata Dri-fit Nike Feminina Azul Dri-fit P*\n\nDe ~R$129~\nPor *R$74* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1hSDq7K\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_725774-MLB117427871879_092026-P.webp",
+  "link": "https://meli.la/1hSDq7K",
+  "produto": "MLB7613978014",
+  "publico": "feminino",
+  "preco": 73.68,
+  "cupom": null
  }
 ]
