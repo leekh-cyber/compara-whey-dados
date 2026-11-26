@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T13:00:32.541576",
+  "quando": "2026-11-26T13:30:27.322499",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21209,7 +21209,8 @@
   "cupom": null,
   "msg": "PsrhTn14znSq2os-11IBq53iqHP95g-BDw",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Azeite De Oliva Extra Virgem Andorinha Vidro 500ml - 2 unidades*\n\nDe ~R$89~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LLFG1wXXG",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6lv63zz2134d"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6lv63zz2134d",
+  "conferido": "2026-11-26T13:33:59.784764"
  },
  "3257580": {
   "quando": "2026-11-26T10:31:42.965644",
@@ -21437,5 +21438,54 @@
   "msg": "Psr1gjv7RwHhjSA-11kBq53iqHP95g-BEg",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Nike Grandstand Ii Masculino*\n\nDe ~R$599~\nPor *R$290* 🔥\n\n🎟️ Cupom: *MAISDESCONTODEZ*\n💸 Com o cupom: *R$234*\n\n👉 *Pegar promoção:* https://meli.la/2F6NgJ7\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_901187-MLB97214125775_112025-P.webp"
+ },
+ "cupom:PROMOTOP": {
+  "quando": "2026-11-26T13:30:30.009877",
+  "titulo": "Mercado Livre: cupom de 25% OFF em produtos selecionados",
+  "id": "72651",
+  "publicado": "2026-11-26T13:16:32-03:00",
+  "ate": "2026-11-26T23:59:59-0300",
+  "msg": "Psoar5dx.BVaZd4-11QBq53iqHP95g-BEk",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF acima de R$2499*\n\nCódigo: *PROMOTOP*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3258511": {
+  "quando": "2026-11-26T13:31:35.073962",
+  "titulo": "KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3Vm8SvsC2q",
+  "publico": null,
+  "produto": "shopee:22299139188",
+  "preco": 49.98,
+  "shopee": [
+   946161700,
+   22299139188
+  ],
+  "cupom": {
+   "codigo": "CH1N3L010OFF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psop._9wPhuKTg4-13ABq53iqHP95g-BEo",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco*\n\nDe ~R$71~\nPor *R$50* 🔥\n\n🎟️ Cupom: *CH1N3L010OFF*\n💸 Com o cupom: *R$40*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3Vm8SvsC2q",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mse3h0oiwemf50"
+ },
+ "3258869": {
+  "quando": "2026-11-26T13:32:55.730050",
+  "titulo": "Relógio Tommy Hilfiger Toc Masculino Em Couro Preto 1791819",
+  "link": "https://meli.la/2CmaMCD",
+  "publico": "masculino",
+  "produto": "MLB25970762",
+  "preco": 495.0,
+  "cupom": {
+   "codigo": "PROMOAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psqqobln6nbtZZc-16EBq53iqHP95g-BEs",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Tommy Hilfiger Toc Masculino em Couro Preto 1791819*\n\nDe ~R$990~\nPor *R$495* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$398*\n\n👉 *Pegar promoção:* https://meli.la/2CmaMCD\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_858935-MLU77144326326_062024-P.webp"
  }
 }
