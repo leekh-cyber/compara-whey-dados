@@ -111,23 +111,6 @@
   }
  },
  {
-  "id": "3257314",
-  "quando": "2026-11-26T09:45:18.993080",
-  "titulo": "Perfume Feminino Armani Beauty Acqua di Gioia Eau de Parfum 100ml",
-  "texto": "*Armani Beauty, Perfume Feminino, Acqua di Gioia, Eau de Parfum, 100ml*\n\nDe ~R$1029~\nPor *R$553* 🔥 no pix\n\n🎟️ Cupom: *BLACKDELUXO* (10% OFF acima de R$500)\n💸 Com o cupom: *R$498*\n\n👉 *Pegar promoção:* https://meli.la/2jyr5KS\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_691153-MLA91217174961_082025-P.webp",
-  "link": "https://meli.la/2jyr5KS",
-  "produto": "MLB3820782",
-  "publico": "feminino",
-  "preco": 552.89,
-  "cupom": {
-   "codigo": "BLACKDELUXO",
-   "id": "72438",
-   "publicado": "2026-11-21T16:59:47-03:00",
-   "ate": null
-  }
- },
- {
   "id": "3257384",
   "quando": "2026-11-26T09:45:36.710937",
   "titulo": "Kit Braé Essential Duo Diário ShampooCondicionador para Cabelos Danificados",
@@ -163,6 +146,23 @@
   "preco": 179.99,
   "cupom": {
    "codigo": "OFICIAIS2511",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3258137",
+  "quando": "2026-11-26T11:30:12.267415",
+  "titulo": "Tênis Nike Air Max Alpha Trainer 6 Masculino",
+  "texto": "*Tênis Nike Air Max Alpha Trainer 6 Masculino*\n\nDe ~R$799~\nPor *R$420* 🔥\n\n🎟️ Cupom: *SUPEROFERTA*\n💸 Com o cupom: *R$365*\n\n👉 *Pegar promoção:* https://meli.la/1KXaDJw\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_767770-MLB100876249417_122025-P.webp",
+  "link": "https://meli.la/1KXaDJw",
+  "produto": "MLB4962090958",
+  "publico": "masculino",
+  "preco": 419.99,
+  "cupom": {
+   "codigo": "SUPEROFERTA",
    "id": null,
    "publicado": null,
    "ate": null
