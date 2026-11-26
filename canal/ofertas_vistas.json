@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T16:00:29.472248",
+  "quando": "2026-11-26T16:30:25.918440",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21180,7 +21180,7 @@
   "msg": "PsqA9zaaosq9CKw-1wYBq53iqHP95g-BDo",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT COMPLETO MOCHILA DE RODINHA- VARIOS PERSONAGEM - VOLTA AS AULAS 2027*\n\nDe ~R$128~\nA partir de *R$68* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3B9HpttTGa",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mtr4qvko6jgi9c",
-  "conferido": "2026-11-26T13:02:48.771119"
+  "conferido": "2026-11-26T16:33:54.739516"
  },
  "3257364": {
   "quando": "2026-11-26T10:02:46.065665",
@@ -21473,7 +21473,8 @@
   },
   "msg": "Psop._9wPhuKTg4-13ABq53iqHP95g-BEo",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco*\n\nDe ~R$71~\nPor *R$50* 🔥\n\n🎟️ Cupom: *CH1N3L010OFF*\n💸 Com o cupom: *R$40*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3Vm8SvsC2q",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mse3h0oiwemf50"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mse3h0oiwemf50",
+  "conferido": "2026-11-26T16:33:55.168850"
  },
  "3258869": {
   "quando": "2026-11-26T13:32:55.730050",
@@ -21676,5 +21677,64 @@
   "msg": "PsqzK7J6CuiIsSw-118Bq53iqHP95g-BFY",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis Olympikus Beats Esporte Original Academia Treino Run*\n\nDe ~R$416~\nPor *R$205* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$184*\n\n👉 *Pegar promoção:* https://meli.la/2b3pCoF\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_774069-MLB119491895926_112026-P.webp"
+ },
+ "cupom:PROMOEXTRA": {
+  "quando": "2026-11-26T16:30:28.733846",
+  "titulo": "30% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72676",
+  "publicado": "2026-11-26T16:06:21-03:00",
+  "ate": "2026-11-26T23:59:59-0300",
+  "msg": "PsrV2BAQMCuJbV8-1xUBq53iqHP95g-BFc",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$2299*\n\nCódigo: *PROMOEXTRA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3260065": {
+  "quando": "2026-11-26T16:31:40.971728",
+  "titulo": "Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível (P ao GG)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/70M0pjLQGB",
+  "publico": "feminino",
+  "produto": "shopee:23899328530",
+  "preco": 78.9,
+  "shopee": [
+   400477897,
+   23899328530
+  ],
+  "cupom": null,
+  "msg": "Psr3QjtAUPsCV9A-19kBq53iqHP95g-BFg",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível Liso Cores Neutras Sortidas*\n\nDe ~R$129~\nA partir de *R$79* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/70M0pjLQGB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mtjmffjesl4w4e"
+ },
+ "3260126": {
+  "quando": "2026-11-26T16:31:36.844385",
+  "titulo": "Monitor Gamer 34\" Curvo Branco 1ms 165Hz UltraWide (QHD) - 3440x1440 AMD FreeSync HD",
+  "loja": "shopee"
+ },
+ "3260150": {
+  "quando": "2026-11-26T16:31:37.735329",
+  "titulo": "Brinquedo Sensorial para Bebê",
+  "loja": "shopee"
+ },
+ "3259568": {
+  "quando": "2026-11-26T16:31:38.840973",
+  "titulo": "Memória RAM 8GB DDR5 5600MHZ ADATASk HynixZiliaSamsung para Desktop PC GAMER (1x8GB",
+  "loja": "shopee"
+ },
+ "3260032": {
+  "quando": "2026-11-26T16:32:50.459614",
+  "titulo": "Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50m",
+  "link": "https://meli.la/1Qo2rb1",
+  "publico": "masculino",
+  "produto": "MLB44436630",
+  "preco": 213.39,
+  "cupom": {
+   "codigo": "MODA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psr.2MN.SVTklOg-1wgBq53iqHP95g-BFk",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50m*\n\nDe ~R$511~\nPor *R$213* 🔥\n\n🎟️ Cupom: *MODA*\n💸 Com o cupom: *R$178*\n\n👉 *Pegar promoção:* https://meli.la/1Qo2rb1\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_950341-MLA99985812753_112025-P.webp"
  }
 }
