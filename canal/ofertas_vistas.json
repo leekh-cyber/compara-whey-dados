@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T10:00:29.956876",
+  "quando": "2026-11-26T10:30:33.048674",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21187,5 +21187,34 @@
   "msg": "PsqEIBgES6LZqBQ-194Bq53iqHP95g-BDs",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe Yara Candy Lattafa Feminino Edp 100 Ml*\n\nDe ~R$239~\nPor *R$191* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2L1e9iQ\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_657826-MLA112883741879_062026-P.webp"
+ },
+ "3257567": {
+  "quando": "2026-11-26T10:30:35.119893",
+  "titulo": "Kit Azeite De Oliva Extra Virgem Andorinha Vidro 500ml 2 unidades",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/4LLFG1wXXG",
+  "publico": null,
+  "produto": "shopee:22394632114",
+  "preco": 49.99,
+  "shopee": [
+   943292360,
+   22394632114
+  ],
+  "cupom": null,
+  "msg": "PsrhTn14znSq2os-11IBq53iqHP95g-BDw",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Azeite De Oliva Extra Virgem Andorinha Vidro 500ml - 2 unidades*\n\nDe ~R$89~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LLFG1wXXG",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6lv63zz2134d"
+ },
+ "3257580": {
+  "quando": "2026-11-26T10:31:42.965644",
+  "titulo": "Relógio Masculino Prateado Anadigi Inhou Alarme Cronômetro",
+  "link": "https://meli.la/1MatErN",
+  "publico": "masculino",
+  "produto": "MLB70228023",
+  "preco": 46.4,
+  "cupom": null,
+  "msg": "PspAqUBswKOx5Ac-12QBq53iqHP95g-BD0",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado*\n\nDe ~R$49~\nPor *R$46* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1MatErN\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-P.webp"
  }
 }
