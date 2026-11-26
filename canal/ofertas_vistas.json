@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T16:30:25.918440",
+  "quando": "2026-11-26T17:00:28.379924",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21210,7 +21210,7 @@
   "msg": "PsrhTn14znSq2os-11IBq53iqHP95g-BDw",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Azeite De Oliva Extra Virgem Andorinha Vidro 500ml - 2 unidades*\n\nDe ~R$89~\nPor *R$50* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4LLFG1wXXG",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6lv63zz2134d",
-  "conferido": "2026-11-26T13:33:59.784764"
+  "conferido": "2026-11-26T17:02:46.935293"
  },
  "3257580": {
   "quando": "2026-11-26T10:31:42.965644",
@@ -21508,7 +21508,8 @@
   "cupom": null,
   "msg": "Psq53kpbiSwIJ8I-1woBq53iqHP95g-BEw",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Cadeira Musical de Balanço e Descanso Vibratória Musical com Brinquedos Interativos Bebê Móbiles*\n\nDe ~R$238~\nPor *R$160* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/40iP5qJnei",
-  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lw-mqydhlyv08w48a"
+  "imagem": "https://cf.shopee.com.br/file/br-11134201-820lw-mqydhlyv08w48a",
+  "conferido": "2026-11-26T17:02:47.337738"
  },
  "3258717": {
   "quando": "2026-11-26T14:00:37.527810",
@@ -21736,5 +21737,39 @@
   "msg": "Psr.2MN.SVTklOg-1wgBq53iqHP95g-BFk",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50m*\n\nDe ~R$511~\nPor *R$213* 🔥\n\n🎟️ Cupom: *MODA*\n💸 Com o cupom: *R$178*\n\n👉 *Pegar promoção:* https://meli.la/1Qo2rb1\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_950341-MLA99985812753_112025-P.webp"
+ },
+ "3260333": {
+  "quando": "2026-11-26T17:00:35.247811",
+  "titulo": "Kit Coala Mega Limpeza Perfumada Chá Branco - 8 itens + Brinde 2 Passa Fácil Zulu Perfumes",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1CGWqpFbg",
+  "publico": null,
+  "produto": "shopee:53009962482",
+  "preco": 79.9,
+  "shopee": [
+   1177903362,
+   53009962482
+  ],
+  "cupom": null,
+  "msg": "PsotaP4VXw2cBhs-178Bq53iqHP95g-BFo",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Kit Coala Mega Limpeza Perfumada Chá Branco - 8 itens + Brinde 2 Passa Fácil Zulu Perfumes*\n\nPor *R$80* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1CGWqpFbg",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnvexpufludea3"
+ },
+ "3260181": {
+  "quando": "2026-11-26T17:01:42.236317",
+  "titulo": "Versace Crystal Noir Eau De Toilette 30ml Feminino",
+  "link": "https://meli.la/2mcNDse",
+  "publico": "feminino",
+  "produto": "MLB709202191",
+  "preco": 262.0,
+  "cupom": {
+   "codigo": "SUPEROFERTA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspVhRRkwhP8bc8-16gBq53iqHP95g-BFs",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Versace Crystal Noir Eau De Toilette 30ml Feminino*\n\nDe ~R$439~\nPor *R$262* 🔥\n\n🎟️ Cupom: *SUPEROFERTA*\n💸 Com o cupom: *R$224*\n\n👉 *Pegar promoção:* https://meli.la/2mcNDse\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_828187-MLB120614965488_112026-P.webp"
  }
 }
