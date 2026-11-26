@@ -157,15 +157,20 @@
   }
  },
  {
-  "id": "3261075",
-  "quando": "2026-11-26T19:05:22.256570",
-  "titulo": "Deo Parfum Masculino Essencial Supreme 100 ml Natura",
-  "texto": "*Deo Parfum Masculino Essencial Supreme 100 ml Natura*\n\nPor *R$170* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1aUBVQA",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_904274-MLA84844047359_052025-P.webp",
-  "link": "https://meli.la/1aUBVQA",
-  "produto": "MLB19146614",
-  "publico": "masculino",
-  "preco": 169.9,
-  "cupom": null
+  "id": "3261270",
+  "quando": "2026-11-26T19:40:11.155127",
+  "titulo": "Perfume Carolina Herrera Good Girl Crystal Class EDP 80ml Feminino",
+  "texto": "*Carolina Herrera Good Girl Crystal Class Edp 80ml Feminino*\n\nDe ~R$969~\nPor *R$736* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$662*\n\n👉 *Pegar promoção:* https://meli.la/2X6boC7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_647460-MLB119883471080_112026-P.webp",
+  "link": "https://meli.la/2X6boC7",
+  "produto": "MLB5563966245",
+  "publico": "feminino",
+  "preco": 736.44,
+  "cupom": {
+   "codigo": "PROMOAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
