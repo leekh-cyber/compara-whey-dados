@@ -1,29 +1,5 @@
 [
  {
-  "id": "3256892",
-  "quando": "2026-11-26T08:36:01.553434",
-  "titulo": "Fralda Pampers Pants Ajuste Total XXG com 74",
-  "texto": "*Fralda Pants Ajuste Total Tamanho XXG 74 Unidades Pampers*\n\nDe ~R$135~\nPor *R$72* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1NwugVT\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_653667-MLA110684733142_052026-P.webp",
-  "link": "https://meli.la/1NwugVT",
-  "produto": "MLB69621080",
-  "publico": null,
-  "preco": 71.9,
-  "cupom": null
- },
- {
-  "id": "3256914",
-  "quando": "2026-11-26T08:36:12.993765",
-  "titulo": "Cooktop De Indução Mueller Mcn4bk 4 Bocas 7200w Painel Touch Preto",
-  "texto": "*Cooktop De Indução Mueller Mcn4bk 4 Bocas 7200w Painel Touch Preto*\n\nDe ~R$1599~\nPor *R$855* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2QPQup9\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_616650-MLA96972166532_112025-P.webp",
-  "link": "https://meli.la/2QPQup9",
-  "produto": "MLB61762688",
-  "publico": null,
-  "preco": 855.26,
-  "cupom": null
- },
- {
   "id": "3257038",
   "quando": "2026-11-26T09:10:36.294363",
   "titulo": "Barra Fixa De Parede Pull-up Modelo Externo Interno Completa",
@@ -166,6 +142,40 @@
   "produto": "MLB8008372288",
   "publico": null,
   "preco": 522.5,
+  "cupom": {
+   "codigo": "PROMOAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3262085",
+  "quando": "2026-11-26T20:50:11.769240",
+  "titulo": "Tênis adidas Corrida Feminino Adizero Drive Rc Performance",
+  "texto": "*Tênis adidas Corrida Feminino Adizero Drive Rc Performance*\n\nDe ~R$899~\nPor *R$519* 🔥 no pix\n\n🎟️ Cupom: *SOHOJE*\n💸 Com o cupom: *R$391*\n\n👉 *Pegar promoção:* https://meli.la/1io1JSr\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_738239-MLB108435633107_032026-P.webp",
+  "link": "https://meli.la/1io1JSr",
+  "produto": "MLB5724907678",
+  "publico": "feminino",
+  "preco": 519.2,
+  "cupom": {
+   "codigo": "SOHOJE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3262069",
+  "quando": "2026-11-26T20:51:52.809297",
+  "titulo": "Perfume Rabanne Invictus Parfum 50 ml Masculino",
+  "texto": "*Perfume Rabanne Invictus Parfum 50 ml Masculino*\n\nDe ~R$708~\nPor *R$330* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$296*\n\n👉 *Pegar promoção:* https://meli.la/2JDJaoU\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_673949-MLA95941366056_102025-P.webp",
+  "link": "https://meli.la/2JDJaoU",
+  "produto": "MLB36506338",
+  "publico": "masculino",
+  "preco": 329.9,
   "cupom": {
    "codigo": "PROMOAGORA",
    "id": null,
