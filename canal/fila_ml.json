@@ -123,18 +123,6 @@
   "cupom": null
  },
  {
-  "id": "3258439",
-  "quando": "2026-11-26T12:05:40.861651",
-  "titulo": "Refil Perfume Feminino Eau De Parfum, Fragrância Floral Gourmand Inebriante Com Íris Nobre",
-  "texto": "*Refil Perfume Feminino Eau De Parfum, Fragrância Floral Gourmand Inebriante Com Íris Nobre E Baunilha, Aroma De Felicidade E Feminilidade, La Vie Est Belle Lancôme, Frasco Com 100ml*\n\nPor *R$313* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1XB9Wk1\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_776795-MLA93502240958_102025-P.webp",
-  "link": "https://meli.la/1XB9Wk1",
-  "produto": "MLB34729362",
-  "publico": "feminino",
-  "preco": 312.8,
-  "cupom": null
- },
- {
   "id": "3258430",
   "quando": "2026-11-26T12:06:20.080773",
   "titulo": "Kit 6 Cuecas Boxer Mash Microfibra Sem Costura",
@@ -163,6 +151,23 @@
   "preco": 271.14,
   "cupom": {
    "codigo": "PROMOAGORA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3258470",
+  "quando": "2026-11-26T12:40:12.179155",
+  "titulo": "Tênis Nike Grandstand II (38 ao 42)",
+  "texto": "*Tênis Nike Grandstand Ii Masculino*\n\nDe ~R$599~\nPor *R$290* 🔥\n\n🎟️ Cupom: *MAISDESCONTODEZ*\n💸 Com o cupom: *R$234*\n\n👉 *Pegar promoção:* https://meli.la/2F6NgJ7\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_901187-MLB97214125775_112025-P.webp",
+  "link": "https://meli.la/2F6NgJ7",
+  "produto": "MLB5135550958",
+  "publico": "masculino",
+  "preco": 289.99,
+  "cupom": {
+   "codigo": "MAISDESCONTODEZ",
    "id": null,
    "publicado": null,
    "ate": null
