@@ -152,15 +152,20 @@
   "cupom": null
  },
  {
-  "id": "3257580",
-  "quando": "2026-11-26T10:20:27.672953",
-  "titulo": "Relógio Masculino Prateado Anadigi Inhou Alarme Cronômetro",
-  "texto": "*Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado*\n\nDe ~R$49~\nPor *R$46* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1MatErN\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-P.webp",
-  "link": "https://meli.la/1MatErN",
-  "produto": "MLB70228023",
+  "id": "3257789",
+  "quando": "2026-11-26T10:55:37.062693",
+  "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+  "texto": "*Tênis Flyer Runner Mesh Bdp Puma*\n\nDe ~R$349~\nPor *R$180* 🔥\n\n🎟️ Cupom: *OFICIAIS2511*\n💸 Com o cupom: *R$170*\n\n👉 *Pegar promoção:* https://meli.la/2Soc8Qy\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_931746-MLB121990592509_112026-P.webp",
+  "link": "https://meli.la/2Soc8Qy",
+  "produto": "MLB3806655487",
   "publico": "masculino",
-  "preco": 46.4,
-  "cupom": null
+  "preco": 179.99,
+  "cupom": {
+   "codigo": "OFICIAIS2511",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
