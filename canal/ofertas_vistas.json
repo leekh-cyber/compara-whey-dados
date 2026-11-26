@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T09:30:27.362280",
+  "quando": "2026-11-26T10:00:29.956876",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -19911,7 +19911,8 @@
   "cupom": null,
   "msg": "PsrbLLEodKDZ2Uk-1_oBq53iqHP95g-A_M",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Masculino Eau de Toilette Ralph Lauren Polo Blue 125 ml*\n\nDe ~R$829~\nPor *R$409* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2zjnGuL\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_722811-MLA118846579875_102026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_722811-MLA118846579875_102026-P.webp",
+  "encerrada": "2026-11-26T10:03:58.331892"
  },
  "3249971": {
   "quando": "2026-11-24T20:00:34.613321",
@@ -21137,5 +21138,54 @@
   "msg": "PsrGpkxvbGkG80M-1xABq53iqHP95g-BDg",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Body Splash Masculino Barbarius 200ml By Primacial*\n\nDe ~R$69~\nPor *R$28* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1gePfYB\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_725948-MLB119914008933_102026-P.webp"
+ },
+ "cupom:PROJETOGRANDE": {
+  "quando": "2026-11-26T10:00:31.984999",
+  "titulo": "20% OFF em Ferramentas e Construção com cupom Mercado Livre",
+  "id": "72631",
+  "publicado": "2026-11-26T08:06:31-03:00",
+  "ate": "2026-11-26T23:59:59-0300",
+  "msg": "Pspv6S7b0UkNjwo-1xABq53iqHP95g-BDk",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*20% OFF, até R$80*\nem Ferramentas e Construção com cupom Mercado Livre\n\nCódigo: *PROJETOGRANDE*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3257495": {
+  "quando": "2026-11-26T10:01:37.384105",
+  "titulo": "Joico Defy Damage Protective - Máscara Capilar 150ml",
+  "loja": "shopee"
+ },
+ "3257476": {
+  "quando": "2026-11-26T10:01:38.401316",
+  "titulo": "Sofá Retrátil Reclinável 2,30m Essence Velusoft Cama inBox",
+  "loja": "shopee"
+ },
+ "3257506": {
+  "quando": "2026-11-26T10:01:40.306591",
+  "titulo": "Kit com mochila de rodinha, estojo e lancheira (Diversas Opções)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3B9HpttTGa",
+  "publico": null,
+  "produto": "shopee:58219541512",
+  "preco": 68.35,
+  "shopee": [
+   687245877,
+   58219541512
+  ],
+  "cupom": null,
+  "msg": "PsqA9zaaosq9CKw-1wYBq53iqHP95g-BDo",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*KIT COMPLETO MOCHILA DE RODINHA- VARIOS PERSONAGEM - VOLTA AS AULAS 2027*\n\nDe ~R$128~\nA partir de *R$68* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3B9HpttTGa",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mtr4qvko6jgi9c"
+ },
+ "3257364": {
+  "quando": "2026-11-26T10:02:46.065665",
+  "titulo": "Yara Candy Lattafa EDP Feminino 100ml",
+  "link": "https://meli.la/2L1e9iQ",
+  "publico": "feminino",
+  "produto": "MLB67777367",
+  "preco": 190.58,
+  "cupom": null,
+  "msg": "PsqEIBgES6LZqBQ-194Bq53iqHP95g-BDs",
+  "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Perfume Árabe Yara Candy Lattafa Feminino Edp 100 Ml*\n\nDe ~R$239~\nPor *R$191* 🔥\n\n👉 *Pegar promoção:* https://meli.la/2L1e9iQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_657826-MLA112883741879_062026-P.webp"
  }
 }
