@@ -80,35 +80,6 @@
   }
  },
  {
-  "id": "3265451",
-  "quando": "2026-11-27T09:10:20.303969",
-  "titulo": "Boné Nike Club Swoosh",
-  "texto": "*Boné Nike Club Swoosh Unissex Cor Preto Tamanho M/g*\n\nPor *R$56* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/27T5Ymy\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_946097-MLA92041335090_092025-P.webp",
-  "link": "https://meli.la/27T5Ymy",
-  "produto": "MLB56159637",
-  "publico": "masculino",
-  "preco": 55.99,
-  "cupom": null
- },
- {
-  "id": "3265485",
-  "quando": "2026-11-27T09:10:25.656732",
-  "titulo": "Relógio Tommy Hilfiger David Masculino Em Borracha Azul 1710 Azul",
-  "texto": "*Relógio Tommy Hilfiger David Masculino Em Borracha Azul 1710 Azul*\n\nPor *R$380* 🔥\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$334*\n\n👉 *Pegar promoção:* https://meli.la/1RiJoZW\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_964471-MLB118916302001_102026-P.webp",
-  "link": "https://meli.la/1RiJoZW",
-  "produto": "MLB7764834560",
-  "publico": "masculino",
-  "preco": 380.0,
-  "cupom": {
-   "codigo": "PROMOAGORA",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3265457",
   "quando": "2026-11-27T09:10:33.477875",
   "titulo": "Kit Colcha Cobre Leito Casal 3 Peças Estampado Dupla Face",
@@ -135,6 +106,69 @@
    "id": "72678",
    "publicado": "2026-11-26T16:46:01-03:00",
    "ate": "2026-12-24T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3265742",
+  "quando": "2026-11-27T09:45:13.403242",
+  "titulo": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
+  "texto": "*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$43* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp",
+  "link": "https://meli.la/1jGbFT8",
+  "produto": "MLB2081604757",
+  "publico": null,
+  "preco": 42.74,
+  "cupom": null
+ },
+ {
+  "id": "3265775",
+  "quando": "2026-11-27T09:45:57.547466",
+  "titulo": "Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto",
+  "texto": "*Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto*\n\nDe ~R$1427~\nPor *R$704* 🔥 no pix\n\n🎟️ Cupom: *MELI1CL*\n💸 Com o cupom: *R$565*\n\n👉 *Pegar promoção:* https://meli.la/1ccuGUh\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_778419-MLA104458943229_012026-P.webp",
+  "link": "https://meli.la/1ccuGUh",
+  "produto": "MLB64162738",
+  "publico": null,
+  "preco": 703.95,
+  "cupom": {
+   "codigo": "MELI1CL",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3265782",
+  "quando": "2026-11-27T09:46:03.194512",
+  "titulo": "Perfume Azzaro The Most Wanted EDP Intense 100ml",
+  "texto": "*Perfume Masculino Eau de Parfum Azzaro The Most Wanted Intense 100 ml*\n\nDe ~R$999~\nPor *R$464* 🔥\n\n🎟️ Cupom: *K4RMELI*\n💸 Com o cupom: *R$404*\n\n👉 *Pegar promoção:* https://meli.la/2CFEed3",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_763110-MLA115947651793_082026-P.webp",
+  "link": "https://meli.la/2CFEed3",
+  "produto": "MLB19612966",
+  "publico": null,
+  "preco": 464.0,
+  "cupom": {
+   "codigo": "K4RMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3265809",
+  "quando": "2026-11-27T09:46:11.089366",
+  "titulo": "Perfume Invictus Paco Rabanne EDT 100ml",
+  "texto": "*Invictus de Rabanne Eau de Toilette 100 ml*\n\nDe ~R$779~\nPor *R$376* 🔥 no pix\n\n🎟️ Cupom: *K4RMELI*\n💸 Com o cupom: *R$321*\n\n👉 *Pegar promoção:* https://meli.la/2ikG3Je\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_756877-MLA83649245114_042025-P.webp",
+  "link": "https://meli.la/2ikG3Je",
+  "produto": "MLB48897709",
+  "publico": null,
+  "preco": 376.28,
+  "cupom": {
+   "codigo": "K4RMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
   }
  }
 ]
