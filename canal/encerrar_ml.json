@@ -1,17 +1,5 @@
 [
  {
-  "id": "3244225",
-  "quando": "2026-11-24T16:45:05.709113",
-  "motivo": "R$210.00 -> R$263.90",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_896263-MLA119238489287_102026-P.webp"
- },
- {
-  "id": "3246722",
-  "quando": "2026-11-24T16:45:08.297509",
-  "motivo": "R$142.05 -> R$161.42",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_862147-MLB83528335751_042025-P.webp"
- },
- {
   "id": "3247719",
   "quando": "2026-11-24T22:00:07.182324",
   "motivo": "R$111.59 -> R$161.99",
@@ -94,5 +82,11 @@
   "quando": "2026-11-27T15:35:10.874835",
   "motivo": "R$935.91 -> R$1079.00",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_651792-MLA119927206701_102026-P.webp"
+ },
+ {
+  "id": "3265167",
+  "quando": "2026-11-27T17:55:11.646667",
+  "motivo": "R$120.51 -> R$133.90",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_947330-MLB109370482257_032026-P.webp"
  }
 ]
