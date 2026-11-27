@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T16:30:24.588956",
+  "quando": "2026-11-27T16:56:07.360878",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22511,7 +22511,7 @@
   "msg": "PspWmw0DDDXq7Rk-18QBq53iqHP95g-BH4",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Bundle Nintendo Switch 2 + Resort Sports Nacional*\n\nDe ~R$9999~\nPor *R$4100* 🔥\n\n🎟️ Cupom: *BF500AF*\n💸 Com o cupom: *R$3311*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6Amv2IPCLA",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mutrut87wjy842",
-  "conferido": "2026-11-27T13:33:51.766806"
+  "conferido": "2026-11-27T17:00:33.848493"
  },
  "3266060": {
   "quando": "2026-11-27T10:31:46.561044",
@@ -23339,5 +23339,66 @@
   "msg": "Psresvx7oeFFgzg-1zYBq53iqHP95g-BKg",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$43* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp"
+ },
+ "cupom:GARAGEMML": {
+  "quando": "2026-11-27T16:56:09.054697",
+  "titulo": "Use o cupom Mercado Livre e ganhe 25% OFF em Automotivo",
+  "id": "72732",
+  "publicado": "2026-11-27T09:07:37-03:00",
+  "ate": "2026-11-27T23:59:59-0300",
+  "msg": "PsqDUpghJwUtvk8-1zUBq53iqHP95g-BKk",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF, até R$80*\nem Automotivo\n\nCódigo: *GARAGEMML*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3269302": {
+  "quando": "2026-11-27T16:57:14.674176",
+  "titulo": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5AuOH0bGQh",
+  "publico": null,
+  "produto": "shopee:47060418366",
+  "preco": 399.0,
+  "shopee": [
+   1343318906,
+   47060418366
+  ],
+  "cupom": {
+   "codigo": "C4RR1NH070",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrxTUEXrrP4pLA-18IBq53iqHP95g-BKo",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black*\n\nDe ~R$676~\nPor *R$399* 🔥\n\n🎟️ Cupom: *C4RR1NH070*\n💸 Com o cupom: *R$271*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5AuOH0bGQh",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mo65ro6coem92c"
+ },
+ "3269212": {
+  "quando": "2026-11-27T16:58:24.121272",
+  "titulo": "Eau de Parfum Rabanne Fame Intense Feminino 30 ml",
+  "link": "https://meli.la/2DPX14P",
+  "publico": "feminino",
+  "produto": "MLB35145821",
+  "preco": 335.35,
+  "cupom": {
+   "codigo": "AGORAVAI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psomg2G.WuTVkAU-15wBq53iqHP95g-BKs",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Eau de Parfum Rabanne Fame Intense Feminino 30 ml*\n\nDe ~R$558~\nPor *R$335* 🔥 no pix\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$278*\n\n👉 *Pegar promoção:* https://meli.la/2DPX14P\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_698919-MLA104154145871_012026-P.webp"
+ },
+ "3269175": {
+  "quando": "2026-11-27T16:59:29.072525",
+  "titulo": "Short Vôlei Masculino Polo Wear",
+  "link": "https://meli.la/1JuudGa",
+  "publico": "masculino",
+  "produto": "MLB6187260170",
+  "preco": 52.05,
+  "cupom": null,
+  "msg": "PsrJCxxGbVm_PDw-1z0Bq53iqHP95g-BKw",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Short Vôlei Masculino Polo Wear Preto M*\n\nDe ~R$99~\nPor *R$52* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JuudGa\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_737591-MLB104880483948_012026-P.webp"
  }
 }
