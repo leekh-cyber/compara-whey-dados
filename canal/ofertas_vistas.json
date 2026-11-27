@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T10:00:31.845976",
+  "quando": "2026-11-27T10:30:29.560196",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22473,5 +22473,61 @@
   "msg": "Psp1Bavhi3r3l.0-1_MBq53iqHP95g-BH0",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Perfume Masculino Eau de Parfum Azzaro The Most Wanted Intense 100 ml*\n\nDe ~R$999~\nPor *R$464* 🔥\n\n🎟️ Cupom: *K4RMELI*\n💸 Com o cupom: *R$404*\n\n👉 *Pegar promoção:* https://meli.la/2CFEed3",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_763110-MLA115947651793_082026-P.webp"
+ },
+ "3266137": {
+  "quando": "2026-11-27T10:30:36.431564",
+  "titulo": "Huawei WiFi Ax2s Roteador Ws7000 V2 Dual Band 4 Antenas 5 GHz Wi-Fi 6",
+  "loja": "shopee"
+ },
+ "3266017": {
+  "quando": "2026-11-27T10:30:38.151907",
+  "titulo": "Bundle Nintendo Switch 2 + Resort Sports Nacional",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6Amv2IPCLA",
+  "publico": null,
+  "produto": "shopee:58271614441",
+  "preco": 4099.9,
+  "shopee": [
+   498370128,
+   58271614441
+  ],
+  "cupom": {
+   "codigo": "BF500AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspWmw0DDDXq7Rk-18QBq53iqHP95g-BH4",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Bundle Nintendo Switch 2 + Resort Sports Nacional*\n\nDe ~R$9999~\nPor *R$4100* 🔥\n\n🎟️ Cupom: *BF500AF*\n💸 Com o cupom: *R$3311*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6Amv2IPCLA",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mutrut87wjy842"
+ },
+ "3266060": {
+  "quando": "2026-11-27T10:31:46.561044",
+  "titulo": "Kit Conjunto Fitness Top Nadador + Legging + Short",
+  "link": "https://meli.la/2ECebp1",
+  "publico": "feminino",
+  "produto": "MLB5312291223",
+  "preco": 73.14,
+  "cupom": null,
+  "msg": "Pso9tmQ_QRxqh1Q-15cBq53iqHP95g-BH8",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit Conjunto Feminino Fitness Top Nadador + Legging + Short Preto M*\n\nDe ~R$144~\nPor *R$73* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2ECebp1\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_913333-MLB116906171910_092026-P.webp"
+ },
+ "3266057": {
+  "quando": "2026-11-27T10:32:50.682245",
+  "titulo": "Calça Legging Leg Zero Transparência Cintura Alta Academia",
+  "link": "https://meli.la/1PUqrsE",
+  "publico": "feminino",
+  "produto": "MLB5039179504",
+  "preco": 29.86,
+  "cupom": {
+   "codigo": "OFERTAJA30",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psp2JZIk2ceqIhY-10YBq53iqHP95g-BIA",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Calça Legging Leg Zero Transparência Cintura Alta Academia*\n\nDe ~R$49~\nPor *R$30* 🔥 no pix\n\n🎟️ Cupom: *OFERTAJA30*\n💸 Com o cupom: *R$21*\n\n👉 *Pegar promoção:* https://meli.la/1PUqrsE\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_939486-MLB90652136179_082025-P.webp"
  }
 }
