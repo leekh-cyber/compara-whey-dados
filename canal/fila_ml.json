@@ -109,23 +109,6 @@
   }
  },
  {
-  "id": "3269508",
-  "quando": "2026-11-27T17:20:12.406252",
-  "titulo": "Conjunto Fitness Academia Top Shorts Meia Coxa Cintura Alta",
-  "texto": "*Conjunto Fitness Academia Top Shorts Meia Coxa Cintura Alta*\n\nDe ~R$55~\nPor *R$38* 🔥 no pix\n\n🎟️ Cupom: *DESCOTOSMELI*\n💸 Com o cupom: *R$27*\n\n👉 *Pegar promoção:* https://meli.la/2uJudJn",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_838950-MLB115443770508_082026-P.webp",
-  "link": "https://meli.la/2uJudJn",
-  "produto": "MLB4329880807",
-  "publico": "feminino",
-  "preco": 37.9,
-  "cupom": {
-   "codigo": "DESCOTOSMELI",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3269485",
   "quando": "2026-11-27T17:20:30.811712",
   "titulo": "Kit 3 Oversized Masculina Stretwear Básica Lisa Premium",
@@ -150,17 +133,51 @@
   "cupom": null
  },
  {
-  "id": "3269391",
-  "quando": "2026-11-27T17:20:52.135337",
-  "titulo": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma Da Mônica Colônia Masculina Kit Presente Original",
-  "texto": "*Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original*\n\nDe ~R$139~\nPor *R$79* 🔥\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$67*\n\n👉 *Pegar promoção:* https://meli.la/1JWiaay\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-P.webp",
-  "link": "https://meli.la/1JWiaay",
-  "produto": "MLB41221309",
-  "publico": "masculino",
-  "preco": 78.9,
+  "id": "3269822",
+  "quando": "2026-11-27T17:55:13.035284",
+  "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
+  "texto": "*Top Puma Original Feminino Alta Sustentação Academia Fitness Preto Lisa M 40-42*\n\nPor *R$33* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1tQuL6p\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_899152-MLB113410235826_072026-P.webp",
+  "link": "https://meli.la/1tQuL6p",
+  "produto": "MLB7894692362",
+  "publico": "feminino",
+  "preco": 32.79,
   "cupom": {
-   "codigo": "AGORAVAI",
+   "codigo": "ECONOMIZE",
+   "id": "72678",
+   "publicado": "2026-11-26T16:46:01-03:00",
+   "ate": "2026-12-24T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3269837",
+  "quando": "2026-11-27T17:55:23.561493",
+  "titulo": "Tamanco Feminino Sandália Salto Taça Juta Confortável Baixo",
+  "texto": "*Tamanco Feminino Sandália Salto Taça Juta Confortável Baixo*\n\nDe ~R$157~\nPor *R$72* 🔥 no pix\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$61*\n\n👉 *Pegar promoção:* https://meli.la/1EhoaA6\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_856613-MLB100161240791_122025-P.webp",
+  "link": "https://meli.la/1EhoaA6",
+  "produto": "MLB5995133266",
+  "publico": "feminino",
+  "preco": 72.0,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3269752",
+  "quando": "2026-11-27T17:55:38.800863",
+  "titulo": "Tênis Kappa Pulse Rx (8 cores)",
+  "texto": "*Tênis Kappa Pulse Rx Unissex Corrida Conforto*\n\nPor *R$112* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$95*\n\n👉 *Pegar promoção:* https://meli.la/1D8ZRKA\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_747746-MLB114087021168_072026-P.webp",
+  "link": "https://meli.la/1D8ZRKA",
+  "produto": "MLB5532075156",
+  "publico": "masculino",
+  "preco": 111.99,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
    "id": null,
    "publicado": null,
    "ate": null
