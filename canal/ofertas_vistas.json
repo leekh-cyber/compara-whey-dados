@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T13:30:24.797193",
+  "quando": "2026-11-27T14:00:34.796384",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22564,7 +22564,8 @@
   "cupom": null,
   "msg": "PsrmVn5Hge6_t2U-1_IBq53iqHP95g-BII",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Qiaodan TG 2.0 GT Maratona Homens Tênis De Corrida Leve Desempenho Max Almofada QDB023264275*\n\nDe ~R$941~\nA partir de *R$386* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gD2tzgjzf",
-  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlghw4wwfszdc"
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlghw4wwfszdc",
+  "conferido": "2026-11-27T14:05:00.052471"
  },
  "3266379": {
   "quando": "2026-11-27T11:02:47.829985",
@@ -22934,5 +22935,61 @@
   "msg": "PsrPFrbS2jEvCDQ-1wgBq53iqHP95g-BJQ",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Relógio Casio Masculino Digital Preto de Resina W-59-1VQ*\n\nPor *R$85* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2Nc6k1a\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-P.webp"
+ },
+ "cupom:VALEAGORA": {
+  "quando": "2026-11-27T14:00:36.506703",
+  "titulo": "Mercado Livre: cupom de 30% OFF em produtos selecionados",
+  "id": "72812",
+  "publicado": "2026-11-27T13:51:52-03:00",
+  "ate": "2026-12-31T23:59:59-0300",
+  "msg": "Pso4.9nkgKgmxqk-1wcBq53iqHP95g-BJU",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$29*\n\nCódigo: *VALEAGORA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3267534": {
+  "quando": "2026-11-27T14:01:41.353344",
+  "titulo": "Controle sem fio PlayStation DualSense PS5 Galactic Purple",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AUvuQkp4cw",
+  "publico": null,
+  "produto": "shopee:44712485682",
+  "preco": 393.9,
+  "shopee": [
+   1343318906,
+   44712485682
+  ],
+  "cupom": {
+   "codigo": "C4RR1NH070",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspyAKBI0arCScY-1xkBq53iqHP95g-BJY",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Controle sem fio PlayStation DualSense™ PS5 – Galactic Purple*\n\nPor *R$394* 🔥\n\n🎟️ Cupom: *C4RR1NH070*\n💸 Com o cupom: *R$307*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AUvuQkp4cw",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mpmr109hr4e8cb"
+ },
+ "3267703": {
+  "quando": "2026-11-27T14:02:50.716780",
+  "titulo": "Kit com 4 Camiseta Dry-fit Sandrini",
+  "link": "https://meli.la/2pae6io",
+  "publico": "masculino",
+  "produto": "MLB4592320910",
+  "preco": 54.05,
+  "cupom": null,
+  "msg": "PsrhWKZsv1MYwZE-1xEBq53iqHP95g-BJc",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada*\n\nPor *R$54* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2pae6io\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774830-MLB122193134687_112026-P.webp"
+ },
+ "3267576": {
+  "quando": "2026-11-27T14:03:55.008697",
+  "titulo": "Boné Lacoste Gabardine Imediato Cor Azul-royal Tamanho Un",
+  "link": "https://meli.la/1XXLQ39",
+  "publico": "masculino",
+  "produto": "MLB60088222",
+  "preco": 139.84,
+  "cupom": null,
+  "msg": "PsrpVR6n6DIRE_M-1zYBq53iqHP95g-BJg",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Boné Lacoste Gabardine Imediato Cor Azul-royal Tamanho Un*\n\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1XXLQ39",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_848568-MLA96183952857_102025-P.webp"
  }
 }
