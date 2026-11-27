@@ -80,32 +80,61 @@
   }
  },
  {
-  "id": "3265742",
-  "quando": "2026-11-27T09:45:13.403242",
-  "titulo": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
-  "texto": "*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$43* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp",
-  "link": "https://meli.la/1jGbFT8",
-  "produto": "MLB2081604757",
-  "publico": null,
-  "preco": 42.74,
-  "cupom": null
- },
- {
-  "id": "3265775",
-  "quando": "2026-11-27T09:45:57.547466",
-  "titulo": "Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto",
-  "texto": "*Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto*\n\nDe ~R$1427~\nPor *R$704* 🔥 no pix\n\n🎟️ Cupom: *MELI1CL*\n💸 Com o cupom: *R$565*\n\n👉 *Pegar promoção:* https://meli.la/1ccuGUh\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_778419-MLA104458943229_012026-P.webp",
-  "link": "https://meli.la/1ccuGUh",
-  "produto": "MLB64162738",
-  "publico": null,
-  "preco": 703.95,
+  "id": "3269212",
+  "quando": "2026-11-27T16:45:11.576511",
+  "titulo": "Eau de Parfum Rabanne Fame Intense Feminino 30 ml",
+  "texto": "*Eau de Parfum Rabanne Fame Intense Feminino 30 ml*\n\nDe ~R$558~\nPor *R$335* 🔥 no pix\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$278*\n\n👉 *Pegar promoção:* https://meli.la/2DPX14P\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_698919-MLA104154145871_012026-P.webp",
+  "link": "https://meli.la/2DPX14P",
+  "produto": "MLB35145821",
+  "publico": "feminino",
+  "preco": 335.35,
   "cupom": {
-   "codigo": "MELI1CL",
+   "codigo": "AGORAVAI",
    "id": null,
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3269180",
+  "quando": "2026-11-27T16:45:21.212424",
+  "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Couro",
+  "texto": "*Tênis Sapatenis Masculino Sandrini Evoke Lite Couro*\n\nDe ~R$187~\nPor *R$86* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1uycwnF\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_603094-MLB108189046365_032026-P.webp",
+  "link": "https://meli.la/1uycwnF",
+  "produto": "MLB5421116792",
+  "publico": "masculino",
+  "preco": 85.93,
+  "cupom": null
+ },
+ {
+  "id": "3269186",
+  "quando": "2026-11-27T16:45:33.769752",
+  "titulo": "Tênis New Balance Fuelcell Rebel V5 Masculino Performance",
+  "texto": "*Tênis New Balance Fuelcell Rebel V5 Masculino Performance*\n\nDe ~R$1099~\nPor *R$595* 🔥\n\n🎟️ Cupom: *WEUYRUE*\n💸 Com o cupom: *R$534*\n\n👉 *Pegar promoção:* https://meli.la/1AfU3Bk\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_981660-MLB112917399148_072026-P.webp",
+  "link": "https://meli.la/1AfU3Bk",
+  "produto": "MLB5613191154",
+  "publico": "masculino",
+  "preco": 594.9,
+  "cupom": {
+   "codigo": "WEUYRUE",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3269175",
+  "quando": "2026-11-27T16:45:41.145389",
+  "titulo": "Short Vôlei Masculino Polo Wear",
+  "texto": "*Short Vôlei Masculino Polo Wear Preto M*\n\nDe ~R$99~\nPor *R$52* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JuudGa\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_737591-MLB104880483948_012026-P.webp",
+  "link": "https://meli.la/1JuudGa",
+  "produto": "MLB6187260170",
+  "publico": "masculino",
+  "preco": 52.05,
+  "cupom": null
  }
 ]
