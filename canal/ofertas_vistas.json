@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T09:30:29.895414",
+  "quando": "2026-11-27T10:00:31.845976",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21556,7 +21556,8 @@
   },
   "msg": "PspI4hBiMZQALc8-18MBq53iqHP95g-BE4",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Tênis de Corrida Masculino Questar 3 Adidas*\n\nDe ~R$599~\nPor *R$271* 🔥 no pix\n\n🎟️ Cupom: *PROMOAGORA*\n💸 Com o cupom: *R$202*\n\n👉 *Pegar promoção:* https://meli.la/1yuobS5\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_960972-MLA110551030929_042026-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_960972-MLA110551030929_042026-P.webp",
+  "encerrada": "2026-11-27T10:04:04.191861"
  },
  "3258430": {
   "quando": "2026-11-26T14:31:33.416626",
@@ -22396,5 +22397,81 @@
   "msg": "Psqie7TV971aR3Q-1_kBq53iqHP95g-BHo",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Boné Nike Club Swoosh Unissex Cor Preto Tamanho M/g*\n\nPor *R$56* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/27T5Ymy\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_946097-MLA92041335090_092025-P.webp"
+ },
+ "3265787": {
+  "quando": "2026-11-27T10:00:36.157470",
+  "titulo": "Placa Mãe Asus TUF Gaming A620AM-PLUS Chipset A620 AMD AM5 mATX DDR5",
+  "loja": "shopee"
+ },
+ "3265800": {
+  "quando": "2026-11-27T10:00:37.443286",
+  "titulo": "Smartphone Motorola Moto G Max 5G 256GB 8GB RAM Câmera Principal 200MP + 8MP Câmera Frontal 32MP 6.8\" 5200mAh Grafite",
+  "loja": "shopee"
+ },
+ "3265829": {
+  "quando": "2026-11-27T10:00:38.580143",
+  "titulo": "Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa, Aumenta o Volume em 61%",
+  "loja": "shopee"
+ },
+ "3265721": {
+  "quando": "2026-11-27T10:00:39.767784",
+  "titulo": "Fralda Pampers Pants Premium Care Jumbo XG com 64",
+  "loja": "shopee"
+ },
+ "3265773": {
+  "quando": "2026-11-27T10:00:40.699582",
+  "titulo": "Monitor Portátil NOVANTE 14\" IPS Full HD 1080P HDR Tela Extensiva USB-C HDMI para Noteb",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/9V3MyMc9uI",
+  "publico": null,
+  "produto": "shopee:55468091655",
+  "preco": 369.0,
+  "shopee": [
+   1611271950,
+   55468091655
+  ],
+  "cupom": {
+   "codigo": "400FFN4SH0",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrW5oVRH6poN2s-16gBq53iqHP95g-BHs",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Monitor Portátil NOVANTE 14\" IPS Full HD 1080P HDR Tela Extensiva USB-C HDMI para Notebook, PC, Celular, Switch, PS4 PS5*\n\nDe ~R$802~\nPor *R$369* 🔥\n\n🎟️ Cupom: *400FFN4SH0*\n💸 Com o cupom: *R$310*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V3MyMc9uI",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mv7gvjdf8veq96"
+ },
+ "3265809": {
+  "quando": "2026-11-27T10:01:48.623674",
+  "titulo": "Perfume Invictus Paco Rabanne EDT 100ml",
+  "link": "https://meli.la/2ikG3Je",
+  "publico": null,
+  "produto": "MLB48897709",
+  "preco": 376.28,
+  "cupom": {
+   "codigo": "K4RMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrvkSFTsIxSgEg-19UBq53iqHP95g-BHw",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Invictus de Rabanne Eau de Toilette 100 ml*\n\nDe ~R$779~\nPor *R$376* 🔥 no pix\n\n🎟️ Cupom: *K4RMELI*\n💸 Com o cupom: *R$321*\n\n👉 *Pegar promoção:* https://meli.la/2ikG3Je\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_756877-MLA83649245114_042025-P.webp"
+ },
+ "3265782": {
+  "quando": "2026-11-27T10:02:52.722253",
+  "titulo": "Perfume Azzaro The Most Wanted EDP Intense 100ml",
+  "link": "https://meli.la/2CFEed3",
+  "publico": null,
+  "produto": "MLB19612966",
+  "preco": 464.0,
+  "cupom": {
+   "codigo": "K4RMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psp1Bavhi3r3l.0-1_MBq53iqHP95g-BH0",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Perfume Masculino Eau de Parfum Azzaro The Most Wanted Intense 100 ml*\n\nDe ~R$999~\nPor *R$464* 🔥\n\n🎟️ Cupom: *K4RMELI*\n💸 Com o cupom: *R$404*\n\n👉 *Pegar promoção:* https://meli.la/2CFEed3",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_763110-MLA115947651793_082026-P.webp"
  }
 }
