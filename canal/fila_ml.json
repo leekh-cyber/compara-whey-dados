@@ -80,23 +80,6 @@
   }
  },
  {
-  "id": "3269212",
-  "quando": "2026-11-27T16:45:11.576511",
-  "titulo": "Eau de Parfum Rabanne Fame Intense Feminino 30 ml",
-  "texto": "*Eau de Parfum Rabanne Fame Intense Feminino 30 ml*\n\nDe ~R$558~\nPor *R$335* 🔥 no pix\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$278*\n\n👉 *Pegar promoção:* https://meli.la/2DPX14P\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_698919-MLA104154145871_012026-P.webp",
-  "link": "https://meli.la/2DPX14P",
-  "produto": "MLB35145821",
-  "publico": "feminino",
-  "preco": 335.35,
-  "cupom": {
-   "codigo": "AGORAVAI",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3269180",
   "quando": "2026-11-27T16:45:21.212424",
   "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Couro",
@@ -126,15 +109,61 @@
   }
  },
  {
-  "id": "3269175",
-  "quando": "2026-11-27T16:45:41.145389",
-  "titulo": "Short Vôlei Masculino Polo Wear",
-  "texto": "*Short Vôlei Masculino Polo Wear Preto M*\n\nDe ~R$99~\nPor *R$52* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1JuudGa\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_737591-MLB104880483948_012026-P.webp",
-  "link": "https://meli.la/1JuudGa",
-  "produto": "MLB6187260170",
+  "id": "3269508",
+  "quando": "2026-11-27T17:20:12.406252",
+  "titulo": "Conjunto Fitness Academia Top Shorts Meia Coxa Cintura Alta",
+  "texto": "*Conjunto Fitness Academia Top Shorts Meia Coxa Cintura Alta*\n\nDe ~R$55~\nPor *R$38* 🔥 no pix\n\n🎟️ Cupom: *DESCOTOSMELI*\n💸 Com o cupom: *R$27*\n\n👉 *Pegar promoção:* https://meli.la/2uJudJn",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_838950-MLB115443770508_082026-P.webp",
+  "link": "https://meli.la/2uJudJn",
+  "produto": "MLB4329880807",
+  "publico": "feminino",
+  "preco": 37.9,
+  "cupom": {
+   "codigo": "DESCOTOSMELI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3269485",
+  "quando": "2026-11-27T17:20:30.811712",
+  "titulo": "Kit 3 Oversized Masculina Stretwear Básica Lisa Premium",
+  "texto": "*Kit 3 Oversized Masculina Stretwear Básica Lisa Premium*\n\nPor *R$47* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1HG8CoZ",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_951727-MLB88466120628_072025-P.webp",
+  "link": "https://meli.la/1HG8CoZ",
+  "produto": "MLB4027416937",
   "publico": "masculino",
-  "preco": 52.05,
+  "preco": 47.49,
   "cupom": null
+ },
+ {
+  "id": "3269434",
+  "quando": "2026-11-27T17:20:43.093590",
+  "titulo": "Kit 6 Pares Meias Lupo Cano Médio Esportivas Academia",
+  "texto": "*Kit 6 Pares Meias Lupo Cano Médio Esportivas Academia*\n\nPor *R$41* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/32jVCuY\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_906724-MLB75371075175_032024-P.webp",
+  "link": "https://meli.la/32jVCuY",
+  "produto": "MLB990629441",
+  "publico": "masculino",
+  "preco": 40.79,
+  "cupom": null
+ },
+ {
+  "id": "3269391",
+  "quando": "2026-11-27T17:20:52.135337",
+  "titulo": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma Da Mônica Colônia Masculina Kit Presente Original",
+  "texto": "*Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original*\n\nDe ~R$139~\nPor *R$79* 🔥\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$67*\n\n👉 *Pegar promoção:* https://meli.la/1JWiaay\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-P.webp",
+  "link": "https://meli.la/1JWiaay",
+  "produto": "MLB41221309",
+  "publico": "masculino",
+  "preco": 78.9,
+  "cupom": {
+   "codigo": "AGORAVAI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
