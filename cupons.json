@@ -1,7 +1,43 @@
 {
-  "atualizado": "2026-11-26T16:02-03:00",
+  "atualizado": "2026-11-27T00:38-03:00",
   "fonte": "Promobit",
   "cupons": [
+    {
+      "codigo": "ECONOMIZE",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 1.0,
+      "teto": 500.0,
+      "categoria": "Esportes, Saúde e mais com cupom Mercado Livre",
+      "suplementos": true,
+      "automatico": false,
+      "ate": "2026-12-24T23:59:59-03:00",
+      "publicado": "2026-11-26T16:46-03:00"
+    },
+    {
+      "codigo": "GANHEBLACK",
+      "pct": 30,
+      "fixo": null,
+      "minimo": 0.0,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-27T23:59:59-03:00",
+      "publicado": "2026-11-27T00:16-03:00"
+    },
+    {
+      "codigo": "CORREBLACK",
+      "pct": 25,
+      "fixo": null,
+      "minimo": 79.0,
+      "teto": 100.0,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": false,
+      "ate": "2026-11-27T23:59:59-03:00",
+      "publicado": "2026-11-27T00:16-03:00"
+    },
     {
       "codigo": "",
       "pct": 25,
@@ -15,30 +51,6 @@
       "publicado": "2026-11-26T14:39-03:00"
     },
     {
-      "codigo": "DESCONTOHOJE",
-      "pct": 25,
-      "fixo": null,
-      "minimo": 79.0,
-      "teto": 40.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-26T23:59:59-03:00",
-      "publicado": "2026-11-26T14:06-03:00"
-    },
-    {
-      "codigo": "PROMOTOP",
-      "pct": 25,
-      "fixo": null,
-      "minimo": 2499.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-26T23:59:59-03:00",
-      "publicado": "2026-11-26T13:16-03:00"
-    },
-    {
       "codigo": "DESCONTO",
       "pct": 25,
       "fixo": null,
@@ -49,30 +61,6 @@
       "automatico": false,
       "ate": "2027-05-31T23:59:59-03:00",
       "publicado": "2026-11-26T09:36-03:00"
-    },
-    {
-      "codigo": "AUTOVIP",
-      "pct": 20,
-      "fixo": null,
-      "minimo": 199.0,
-      "teto": 80.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-26T23:59:59-03:00",
-      "publicado": "2026-11-26T08:06-03:00"
-    },
-    {
-      "codigo": "ENERGIAMELI",
-      "pct": 18,
-      "fixo": null,
-      "minimo": 0.0,
-      "teto": 50.0,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-26T23:59:59-03:00",
-      "publicado": "2026-11-26T08:06-03:00"
     }
   ]
 }
