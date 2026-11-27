@@ -1,22 +1,5 @@
 [
  {
-  "id": "3265069",
-  "quando": "2026-11-27T08:00:27.066659",
-  "titulo": "Hipercalórico Dark Mass 3kg Chocolate Branco C Morango Dark Lab",
-  "texto": "*Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab*\n\nPor *R$75* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1QhNeKQ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_632621-MLA119426096672_112026-P.webp",
-  "link": "https://meli.la/1QhNeKQ",
-  "produto": "MLB19451610",
-  "publico": null,
-  "preco": 74.97,
-  "cupom": {
-   "codigo": "ECONOMIZE",
-   "id": "72678",
-   "publicado": "2026-11-26T16:46:01-03:00",
-   "ate": "2026-12-24T23:59:59-0300"
-  }
- },
- {
   "id": "3265338",
   "quando": "2026-11-27T08:35:27.271997",
   "titulo": "Esteira Elétrica Norvortex 2,5hp 12km Dobrável Compacta",
@@ -133,35 +116,6 @@
   "cupom": null
  },
  {
-  "id": "3270381",
-  "quando": "2026-11-27T19:40:16.194166",
-  "titulo": "Kit 10 Cuecas Boxer Algodão Polo Wear Sortido",
-  "texto": "*Kit 10 Cuecas Algodão Polo Wear Sortido*\n\nDe ~R$299~\nPor *R$121* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$85*\n\n👉 *Pegar promoção:* https://meli.la/1Yew5PJ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-P.webp",
-  "link": "https://meli.la/1Yew5PJ",
-  "produto": "MLB5943120120",
-  "publico": "masculino",
-  "preco": 120.9,
-  "cupom": {
-   "codigo": "MODARELAMPAGO",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3270152",
-  "quando": "2026-11-27T19:40:25.288812",
-  "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
-  "texto": "*Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original*\n\nPor *R$98* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1aXDXnV\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_797944-MLB82978249605_032025-P.webp",
-  "link": "https://meli.la/1aXDXnV",
-  "produto": "MLB2794030545",
-  "publico": "masculino",
-  "preco": 97.5,
-  "cupom": null
- },
- {
   "id": "3270503",
   "quando": "2026-11-27T19:41:06.531544",
   "titulo": "Maison Alhambra Jean Lowe Azure 100ml (perfume Unissex)",
@@ -177,5 +131,51 @@
    "publicado": null,
    "ate": null
   }
+ },
+ {
+  "id": "3270767",
+  "quando": "2026-11-27T20:15:37.750547",
+  "titulo": "Polo Aramis Algodão Piquet Manga Curta Branco",
+  "texto": "*Polo Aramis Algodão Piquet Manga Curta Branco*\n\nDe ~R$129~\nPor *R$86* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$76*\n\n👉 *Pegar promoção:* https://meli.la/1BUrKdV\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_791084-MLB117538797458_102026-P.webp",
+  "link": "https://meli.la/1BUrKdV",
+  "produto": "MLB4211398505",
+  "publico": "masculino",
+  "preco": 85.77,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3270848",
+  "quando": "2026-11-27T20:15:49.997186",
+  "titulo": "Relógio Orient Masculino MBSS1004A Prata Analógico Aço Inoxidável",
+  "texto": "*Relógio Orient Masculino MBSS1004A Prata Analógico Aço Inoxidável*\n\nDe ~R$397~\nPor *R$269* 🔥 no pix\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$252*\n\n👉 *Pegar promoção:* https://meli.la/1mErKKr\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_717779-MLA113357821479_062026-P.webp",
+  "link": "https://meli.la/1mErKKr",
+  "produto": "MLB23096088",
+  "publico": "masculino",
+  "preco": 269.1,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3270845",
+  "quando": "2026-11-27T20:16:09.787477",
+  "titulo": "Cadeira de Escritório Ergonômica Ravena Apoio Lombar e Nuca",
+  "texto": "*Cadeira De Escritório Ergonômica Ravena Apoio Lombar E Nuca Preto Espuma, Mesh Respirável*\n\nPor *R$133* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1t4N3R5\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_893047-MLB118769758542_102026-P.webp",
+  "link": "https://meli.la/1t4N3R5",
+  "produto": "MLB7438728326",
+  "publico": null,
+  "preco": 132.59,
+  "cupom": null
  }
 ]
