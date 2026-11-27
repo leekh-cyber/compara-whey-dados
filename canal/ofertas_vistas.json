@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T10:30:29.560196",
+  "quando": "2026-11-27T11:00:33.737008",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22155,7 +22155,9 @@
   "cupom": null,
   "msg": "Psoo33uIjmQ.4B8-19MBq53iqHP95g-BG0",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Whiskas Sachê 85g – 16 Unid +4 Grátis Leve 20*\n\nPor *R$31* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/1qdvi6TpP2",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911",
+  "conferido": "2026-11-27T11:04:56.696133",
+  "encerrada": "2026-11-27T11:05:04.188673"
  },
  "3262621": {
   "quando": "2026-11-27T08:02:49.044497",
@@ -22529,5 +22531,61 @@
   "msg": "Psp2JZIk2ceqIhY-10YBq53iqHP95g-BIA",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Calça Legging Leg Zero Transparência Cintura Alta Academia*\n\nDe ~R$49~\nPor *R$30* 🔥 no pix\n\n🎟️ Cupom: *OFERTAJA30*\n💸 Com o cupom: *R$21*\n\n👉 *Pegar promoção:* https://meli.la/1PUqrsE\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_939486-MLB90652136179_082025-P.webp"
+ },
+ "cupom:PRECINHOBLACK": {
+  "quando": "2026-11-27T11:00:35.670560",
+  "titulo": "30% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72737",
+  "publicado": "2026-11-27T10:06:38-03:00",
+  "ate": "2026-11-27T23:59:59-0300",
+  "msg": "Pspq5kpji0ZGQaE-14EBq53iqHP95g-BIE",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF*\n\nCódigo: *PRECINHOBLACK*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3266291": {
+  "quando": "2026-11-27T11:01:40.630199",
+  "titulo": "QIAODAN LEILI 2.0 GT masc.",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2gD2tzgjzf",
+  "publico": "masculino",
+  "produto": "shopee:49866024521",
+  "preco": 385.99,
+  "shopee": [
+   1883948371,
+   49866024521
+  ],
+  "cupom": null,
+  "msg": "PsrmVn5Hge6_t2U-1_IBq53iqHP95g-BII",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Qiaodan TG 2.0 GT Maratona Homens Tênis De Corrida Leve Desempenho Max Almofada QDB023264275*\n\nDe ~R$941~\nA partir de *R$386* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/2gD2tzgjzf",
+  "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mvlghw4wwfszdc"
+ },
+ "3266379": {
+  "quando": "2026-11-27T11:02:47.829985",
+  "titulo": "Versace Eau Fraîche EDT 200ml para masculino",
+  "link": "https://www.mercadolivre.com.br/social/ferreiradasilvaalex61?matt_word=ferreiradasilvaalex61&matt_tool=74252382&forceInApp=true&ref=BCnKpCqtK1ujhIAsjnrYOMAirWym3IU29xyhGpS1DOPd9Oa6xZrjrsugQXJ56kZsEY0Mr%2BJDmFpi693j8IXfgh7%2FDy4UKAUjSk0JsKhb6oBAZCnIvDCO2j8XjueIQdWgtTzBGJeLOERWai1e4zhhmfsLQRtjxfjNJYs6ZpKRM7Z4JCFqwTstYxOfVRpehE7TnnDb1LioKLI%2Fym2%2BpSSblbwj1Y5jJUXy%2FoDBrHJHaustjX0bucGM2btKlUEUz7NTuyqN",
+  "publico": "masculino",
+  "produto": "MLB6330579",
+  "preco": 497.52,
+  "cupom": null,
+  "msg": "PspeiPVQQEiYiC0-110Bq53iqHP95g-BIM",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Versace Eau Fraîche EDT 200ml para masculino*\n\nDe ~R$969~\nPor *R$498* 🔥 no pix\n\n👉 *Pegar promoção:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61?matt_word=ferreiradasilvaalex61&matt_tool=74252382&forceInApp=true&ref=BCnKpCqtK1ujhIAsjnrYOMAirWym3IU29xyhGpS1DOPd9Oa6xZrjrsugQXJ56kZsEY0Mr%2BJDmFpi693j8IXfgh7%2FDy4UKAUjSk0JsKhb6oBAZCnIvDCO2j8XjueIQdWgtTzBGJeLOERWai1e4zhhmfsLQRtjxfjNJYs6ZpKRM7Z4JCFqwTstYxOfVRpehE7TnnDb1LioKLI%2Fym2%2BpSSblbwj1Y5jJUXy%2FoDBrHJHaustjX0bucGM2btKlUEUz7NTuyqN\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_908925-MLA48328879607_112021-P.webp"
+ },
+ "3266375": {
+  "quando": "2026-11-27T11:03:52.329626",
+  "titulo": "Kit 5 Peças All Black Dry 3 Camisetas E 2 Bermudas Alpha",
+  "link": "https://meli.la/1D86H7n",
+  "publico": "masculino",
+  "produto": "MLB3994231661",
+  "preco": 119.99,
+  "cupom": {
+   "codigo": "AGORAMODA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsrHY1_3S9c3R50-1yQBq53iqHP95g-BIQ",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 5 Peças All Black Dry 3 Camisetas E 2 Bermudas Alpha*\n\nDe ~R$289~\nPor *R$120* 🔥\n\n🎟️ Cupom: *AGORAMODA*\n💸 Com o cupom: *R$104*\n\n👉 *Pegar promoção:* https://meli.la/1D86H7n\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841638-MLB104907201714_012026-P.webp"
  }
 }
