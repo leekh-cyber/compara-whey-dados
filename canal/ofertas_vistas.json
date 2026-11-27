@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T19:30:27.648088",
+  "quando": "2026-11-27T20:00:28.831283",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22410,7 +22410,8 @@
   "cupom": null,
   "msg": "Psqie7TV971aR3Q-1_kBq53iqHP95g-BHo",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Boné Nike Club Swoosh Unissex Cor Preto Tamanho M/g*\n\nPor *R$56* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/27T5Ymy\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_946097-MLA92041335090_092025-P.webp"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_946097-MLA92041335090_092025-P.webp",
+  "encerrada": "2026-11-27T20:05:05.943268"
  },
  "3265787": {
   "quando": "2026-11-27T10:00:36.157470",
@@ -22515,7 +22516,7 @@
   "msg": "PspWmw0DDDXq7Rk-18QBq53iqHP95g-BH4",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Bundle Nintendo Switch 2 + Resort Sports Nacional*\n\nDe ~R$9999~\nPor *R$4100* 🔥\n\n🎟️ Cupom: *BF500AF*\n💸 Com o cupom: *R$3311*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6Amv2IPCLA",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mutrut87wjy842",
-  "conferido": "2026-11-27T17:00:33.848493"
+  "conferido": "2026-11-27T20:04:58.896928"
  },
  "3266060": {
   "quando": "2026-11-27T10:31:46.561044",
@@ -23382,7 +23383,8 @@
   },
   "msg": "PsrxTUEXrrP4pLA-18IBq53iqHP95g-BKo",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black*\n\nDe ~R$676~\nPor *R$399* 🔥\n\n🎟️ Cupom: *C4RR1NH070*\n💸 Com o cupom: *R$271*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5AuOH0bGQh",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mo65ro6coem92c"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mo65ro6coem92c",
+  "conferido": "2026-11-27T20:04:58.494477"
  },
  "3269212": {
   "quando": "2026-11-27T16:58:24.121272",
@@ -23779,5 +23781,86 @@
   "msg": "PsoQsLzXhRRemzg-14MBq53iqHP95g-BLw",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 3 Camisetas Masculina Dry Alpha Lobo Geométrico*\n\nDe ~R$149~\nPor *R$77* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$65*\n\n👉 *Pegar promoção:* https://meli.la/2RtHkvF\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_619645-MLB103998556775_012026-P.webp"
+ },
+ "cupom:OFERTABLACK": {
+  "quando": "2026-11-27T20:00:30.274322",
+  "titulo": "25% OFF em produtos selecionados com cupom Mercado Livre",
+  "id": "72859",
+  "publicado": "2026-11-27T19:06:19-03:00",
+  "ate": "2026-11-27T23:59:59-0300",
+  "msg": "Pso15bZaZKFKoxU-12EBq53iqHP95g-BL0",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*25% OFF*\n\nCódigo: *OFERTABLACK*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3270513": {
+  "quando": "2026-11-27T20:01:35.796065",
+  "titulo": "Extratora Portátil Kala ELK 1000W para Estofados",
+  "loja": "shopee"
+ },
+ "3270671": {
+  "quando": "2026-11-27T20:01:43.355136",
+  "titulo": "Placa de Vídeo Zotac RTX 5060 Twin Edge OC 8GB GDDR7 DLSS 4",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/AUvupTcdiP",
+  "publico": null,
+  "produto": "shopee:58221711486",
+  "preco": 2975.99,
+  "shopee": [
+   1930141978,
+   58221711486
+  ],
+  "cupom": null,
+  "msg": "PspYxkfwJDMXIXM-1xkBq53iqHP95g-BL4",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Placa de Vídeo Zotac RTX 5060 Twin Edge OC 8GB GDDR7 DLSS 4*\n\nDe ~R$4441~\nPor *R$2976* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/AUvupTcdiP",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258j-muv608n1tqfed2"
+ },
+ "3270668": {
+  "quando": "2026-11-27T20:01:38.260622",
+  "titulo": "Placa de Vídeo Zotac RTX 5060 Twin Edge OC 8GB GDDR7 DLSS 4",
+  "loja": "shopee"
+ },
+ "3270694": {
+  "quando": "2026-11-27T20:01:39.842217",
+  "titulo": "Placa Vídeo Zotac RTX 5060 Twin Edge OC 8GB",
+  "loja": "shopee"
+ },
+ "3270619": {
+  "quando": "2026-11-27T20:01:40.987770",
+  "titulo": "Smart TV 32\" LG HD LCD AI 32LB650BPSA WebOS 26 2026",
+  "loja": "shopee"
+ },
+ "3270511": {
+  "quando": "2026-11-27T20:01:42.137906",
+  "titulo": "Fire TV Stick 4K Select Amazon com Alexa 8Gb WIFI5",
+  "loja": "shopee"
+ },
+ "3270152": {
+  "quando": "2026-11-27T20:02:49.937925",
+  "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
+  "link": "https://meli.la/1aXDXnV",
+  "publico": "masculino",
+  "produto": "MLB2794030545",
+  "preco": 97.5,
+  "cupom": null,
+  "msg": "PspAkd.8pPoV52I-18gBq53iqHP95g-BL8",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original*\n\nPor *R$98* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1aXDXnV\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_797944-MLB82978249605_032025-P.webp"
+ },
+ "3270381": {
+  "quando": "2026-11-27T20:03:54.194863",
+  "titulo": "Kit 10 Cuecas Boxer Algodão Polo Wear Sortido",
+  "link": "https://meli.la/1Yew5PJ",
+  "publico": "masculino",
+  "produto": "MLB5943120120",
+  "preco": 120.9,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Pspy1GTMNz47zAY-124Bq53iqHP95g-BMA",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 10 Cuecas Algodão Polo Wear Sortido*\n\nDe ~R$299~\nPor *R$121* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$85*\n\n👉 *Pegar promoção:* https://meli.la/1Yew5PJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-P.webp"
  }
 }
