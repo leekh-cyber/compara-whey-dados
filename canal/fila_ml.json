@@ -133,35 +133,6 @@
   "cupom": null
  },
  {
-  "id": "3266375",
-  "quando": "2026-11-27T10:55:12.415792",
-  "titulo": "Kit 5 Peças All Black Dry 3 Camisetas E 2 Bermudas Alpha",
-  "texto": "*Kit 5 Peças All Black Dry 3 Camisetas E 2 Bermudas Alpha*\n\nDe ~R$289~\nPor *R$120* 🔥\n\n🎟️ Cupom: *AGORAMODA*\n💸 Com o cupom: *R$104*\n\n👉 *Pegar promoção:* https://meli.la/1D86H7n\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841638-MLB104907201714_012026-P.webp",
-  "link": "https://meli.la/1D86H7n",
-  "produto": "MLB3994231661",
-  "publico": "masculino",
-  "preco": 119.99,
-  "cupom": {
-   "codigo": "AGORAMODA",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
-  "id": "3266379",
-  "quando": "2026-11-27T10:55:30.955637",
-  "titulo": "Versace Eau Fraîche EDT 200ml para masculino",
-  "texto": "*Versace Eau Fraîche EDT 200ml para masculino*\n\nDe ~R$969~\nPor *R$498* 🔥 no pix\n\n👉 *Pegar promoção:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61?matt_word=ferreiradasilvaalex61&matt_tool=74252382&forceInApp=true&ref=BCnKpCqtK1ujhIAsjnrYOMAirWym3IU29xyhGpS1DOPd9Oa6xZrjrsugQXJ56kZsEY0Mr%2BJDmFpi693j8IXfgh7%2FDy4UKAUjSk0JsKhb6oBAZCnIvDCO2j8XjueIQdWgtTzBGJeLOERWai1e4zhhmfsLQRtjxfjNJYs6ZpKRM7Z4JCFqwTstYxOfVRpehE7TnnDb1LioKLI%2Fym2%2BpSSblbwj1Y5jJUXy%2FoDBrHJHaustjX0bucGM2btKlUEUz7NTuyqN\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_908925-MLA48328879607_112021-P.webp",
-  "link": "https://www.mercadolivre.com.br/social/ferreiradasilvaalex61?matt_word=ferreiradasilvaalex61&matt_tool=74252382&forceInApp=true&ref=BCnKpCqtK1ujhIAsjnrYOMAirWym3IU29xyhGpS1DOPd9Oa6xZrjrsugQXJ56kZsEY0Mr%2BJDmFpi693j8IXfgh7%2FDy4UKAUjSk0JsKhb6oBAZCnIvDCO2j8XjueIQdWgtTzBGJeLOERWai1e4zhhmfsLQRtjxfjNJYs6ZpKRM7Z4JCFqwTstYxOfVRpehE7TnnDb1LioKLI%2Fym2%2BpSSblbwj1Y5jJUXy%2FoDBrHJHaustjX0bucGM2btKlUEUz7NTuyqN",
-  "produto": "MLB6330579",
-  "publico": "masculino",
-  "preco": 497.52,
-  "cupom": null
- },
- {
   "id": "3266358",
   "quando": "2026-11-27T10:55:46.449797",
   "titulo": "Ômega 3 Epa Dha 120 Caps - Dark Lab",
@@ -177,5 +148,34 @@
    "publicado": "2026-11-26T16:46:01-03:00",
    "ate": "2026-12-24T23:59:59-0300"
   }
+ },
+ {
+  "id": "3266662",
+  "quando": "2026-11-27T11:30:13.331819",
+  "titulo": "Blusa Perfect Top Feminino Insider",
+  "texto": "*Blusa Perfect Top Feminino Insider*\n\nDe ~R$139~\nPor *R$65* 🔥 no pix\n\n🎟️ Cupom: *AGORAMODA*\n💸 Com o cupom: *R$55*\n\n👉 *Pegar promoção:* https://meli.la/1GZmUCb\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_724431-MLB85731006670_062025-P.webp",
+  "link": "https://meli.la/1GZmUCb",
+  "produto": "MLB2897417048",
+  "publico": "feminino",
+  "preco": 64.86,
+  "cupom": {
+   "codigo": "AGORAMODA",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3266614",
+  "quando": "2026-11-27T11:30:28.998292",
+  "titulo": "Tênis Aramis Masculino Leve Urbano Resistente Antiderrapante",
+  "texto": "*Tênis Aramis Masculino Leve Urbano Resistente Antiderrapante*\n\nDe ~R$299~\nPor *R$208* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1tzS7FR\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_756297-MLB114600397082_082026-P.webp",
+  "link": "https://meli.la/1tzS7FR",
+  "produto": "MLB5356574800",
+  "publico": "masculino",
+  "preco": 207.54,
+  "cupom": null
  }
 ]
