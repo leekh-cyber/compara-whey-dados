@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T14:00:34.796384",
+  "quando": "2026-11-27T14:30:36.078440",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22621,7 +22621,8 @@
   },
   "msg": "PsqokrPRkWpBgh0-1wIBq53iqHP95g-BIU",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Fonte ASRock Pro, 750W, 80 Plus Bronze, ATX 3.1, PCIe 5.1, PFC Ativo, Preto, PRO-750B*\n\nDe ~R$778~\nPor *R$405* 🔥\n\n🎟️ Cupom: *4M3LH0RBLACKSH0P33*\n💸 Com o cupom: *R$328*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qP0K8ALUw",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwg-miku79kkpqtf36"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwg-miku79kkpqtf36",
+  "conferido": "2026-11-27T14:33:55.946018"
  },
  "3266074": {
   "quando": "2026-11-27T11:31:48.635650",
@@ -22991,5 +22992,61 @@
   "msg": "PsrpVR6n6DIRE_M-1zYBq53iqHP95g-BJg",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Boné Lacoste Gabardine Imediato Cor Azul-royal Tamanho Un*\n\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1XXLQ39",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_848568-MLA96183952857_102025-P.webp"
+ },
+ "3267739": {
+  "quando": "2026-11-27T14:30:38.004539",
+  "titulo": "GOKOCO Secador De Cabelo De Alta Velocidade Profissional 1500W 2 Minutos De Secagem Rápida",
+  "loja": "shopee"
+ },
+ "3267389": {
+  "quando": "2026-11-27T14:30:38.867217",
+  "titulo": "Echo Dot Smart speaker com Alexa",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5VXEVYFH9Y",
+  "publico": null,
+  "produto": "shopee:58219769743",
+  "preco": 274.0,
+  "shopee": [
+   1929663743,
+   58219769743
+  ],
+  "cupom": {
+   "codigo": "VEMGASTAR40AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psoa5xb7QCxLc8E-1x4Bq53iqHP95g-BJk",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Echo Dot Smart speaker com Alexa Com Alexa*\n\nDe ~R$668~\nPor *R$274* 🔥\n\n🎟️ Cupom: *VEMGASTAR40AF*\n💸 Com o cupom: *R$222*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VXEVYFH9Y",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259q-muwgeec4en0m52"
+ },
+ "3267920": {
+  "quando": "2026-11-27T14:31:45.789680",
+  "titulo": "Top Sutiã Calvin Klein",
+  "link": "https://meli.la/2yhMzV8",
+  "publico": "feminino",
+  "produto": "MLB6646572546",
+  "preco": 47.49,
+  "cupom": null,
+  "msg": "PsrH0IjpJE43uY0-1.ABq53iqHP95g-BJo",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Top Calvin Klein Regata Fitness Cotton Conforto Original Preto Liso G*\n\nDe ~R$109~\nPor *R$47* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2yhMzV8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841514-MLB113300671208_072026-P.webp"
+ },
+ "3267887": {
+  "quando": "2026-11-27T14:32:50.991125",
+  "titulo": "Kit 2 Camisetas Suspiro Bordado Reserva",
+  "link": "https://meli.la/2QMasMm",
+  "publico": "masculino",
+  "produto": "MLB4278141317",
+  "preco": 111.99,
+  "cupom": {
+   "codigo": "QEQPLAMDPRASD",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspUBo9OFro0nKQ-10ABq53iqHP95g-BJs",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit 2 Camisetas Suspiro Bordado Reserva*\n\nDe ~R$238~\nPor *R$112* 🔥 no pix\n\n🎟️ Cupom: *QEQPLAMDPRASD*\n💸 Com o cupom: *R$89*\n\n👉 *Pegar promoção:* https://meli.la/2QMasMm\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_777947-MLB96590828565_102025-P.webp"
  }
 }
