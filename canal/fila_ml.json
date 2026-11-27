@@ -126,35 +126,6 @@
   }
  },
  {
-  "id": "3266765",
-  "quando": "2026-11-27T12:05:20.940478",
-  "titulo": "Perfume Feminino Giorgio Armani Emporio Power Of You Eau De Parfum 90 Ml",
-  "texto": "*Perfume Feminino Giorgio Armani Emporio Power Of You Eau De Parfum 90 Ml*\n\nDe ~R$989~\nPor *R$534* 🔥\n\n🎟️ Cupom: *BLACKDELUXO* (10% OFF acima de R$500)\n💸 Com o cupom: *R$481*\n\n👉 *Pegar promoção:* https://meli.la/1vMoCua\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841226-MLA109726985683_032026-P.webp",
-  "link": "https://meli.la/1vMoCua",
-  "produto": "MLB67373298",
-  "publico": "feminino",
-  "preco": 534.25,
-  "cupom": {
-   "codigo": "BLACKDELUXO",
-   "id": "72438",
-   "publicado": "2026-11-21T16:59:47-03:00",
-   "ate": null
-  }
- },
- {
-  "id": "3266844",
-  "quando": "2026-11-27T12:05:36.649027",
-  "titulo": "Pijama Feminino Gestante Cirúrgico Babydoll Amamentação",
-  "texto": "*Pijama Feminino Gestante Cirúrgico Babydoll Amamentação*\n\nDe ~R$59~\nPor *R$43* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/13fxCuv",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_677970-MLB105405357596_012026-P.webp",
-  "link": "https://meli.la/13fxCuv",
-  "produto": "MLB5219282682",
-  "publico": "feminino",
-  "preco": 42.65,
-  "cupom": null
- },
- {
   "id": "3266777",
   "quando": "2026-11-27T12:05:45.790734",
   "titulo": "Kit 10 Cuecas Box Lupo Algodão Boxer Masculina Cotton",
@@ -176,6 +147,30 @@
   "produto": "MLB4969918141",
   "publico": "masculino",
   "preco": 55.95,
+  "cupom": null
+ },
+ {
+  "id": "3267155",
+  "quando": "2026-11-27T12:40:11.209214",
+  "titulo": "Chinelo Nike Victori One Masculino",
+  "texto": "*Chinelo Nike Victori One Masculino*\n\nDe ~R$249~\nPor *R$105* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ivJdtA\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_613978-MLB100241797197_122025-P.webp",
+  "link": "https://meli.la/1ivJdtA",
+  "produto": "MLB2143084560",
+  "publico": "masculino",
+  "preco": 105.25,
+  "cupom": null
+ },
+ {
+  "id": "3267046",
+  "quando": "2026-11-27T12:40:18.562395",
+  "titulo": "Camiseta Puma Ess No.1 Logo (3 cores)",
+  "texto": "*Camiseta Ess No. 1 Logo Feminina Puma*\n\nDe ~R$109~\nPor *R$61* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/25nGJuB\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_660049-MLB106099339059_012026-P.webp",
+  "link": "https://meli.la/25nGJuB",
+  "produto": "MLB4449845529",
+  "publico": "masculino",
+  "preco": 61.09,
   "cupom": null
  }
 ]
