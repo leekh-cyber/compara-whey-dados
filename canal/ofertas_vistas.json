@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T13:00:30.304255",
+  "quando": "2026-11-27T13:30:24.797193",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22507,7 +22507,8 @@
   },
   "msg": "PspWmw0DDDXq7Rk-18QBq53iqHP95g-BH4",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Bundle Nintendo Switch 2 + Resort Sports Nacional*\n\nDe ~R$9999~\nPor *R$4100* 🔥\n\n🎟️ Cupom: *BF500AF*\n💸 Com o cupom: *R$3311*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6Amv2IPCLA",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mutrut87wjy842"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mutrut87wjy842",
+  "conferido": "2026-11-27T13:33:51.766806"
  },
  "3266060": {
   "quando": "2026-11-27T10:31:46.561044",
@@ -22882,5 +22883,56 @@
   "msg": "PsobC_xXa0SDCp4-18ABq53iqHP95g-BJE",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Chinelo Nike Victori One Masculino*\n\nDe ~R$249~\nPor *R$105* 🔥\n\n👉 *Pegar promoção:* https://meli.la/1ivJdtA\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_613978-MLB100241797197_122025-P.webp"
+ },
+ "3267413": {
+  "quando": "2026-11-27T13:30:28.362330",
+  "titulo": "Mochila Pichau Vulcan, Preto e Vermelho, PCH-VULC-BL01",
+  "loja": "shopee"
+ },
+ "3267402": {
+  "quando": "2026-11-27T13:30:33.779662",
+  "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Preto,ZNO-ZNNBO210-BK01-V2",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qP0SMb2LY",
+  "publico": null,
+  "produto": "shopee:19998132816",
+  "preco": 154.91,
+  "shopee": [
+   627750190,
+   19998132816
+  ],
+  "cupom": {
+   "codigo": "VEMGASTAR40AF",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "Psqp6YOrCNXuWCk-18gBq53iqHP95g-BJI",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Preto,ZNO-ZNNBO210-BK01-V2*\n\nPor *R$155* 🔥\n\n🎟️ Cupom: *VEMGASTAR40AF*\n💸 Com o cupom: *R$109*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qP0SMb2LY",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikhj1g2xa82e7"
+ },
+ "3267384": {
+  "quando": "2026-11-27T13:31:42.575178",
+  "titulo": "Tênis Kappa Park 2.0 Original Unissex Caminhada Academia",
+  "link": "https://meli.la/1MUt4nj",
+  "publico": "masculino",
+  "produto": "MLB4049279695",
+  "preco": 66.49,
+  "cupom": null,
+  "msg": "Psoz5.EKxeYwkLs-1z4Bq53iqHP95g-BJM",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Tênis Kappa Park 2.0 Original Unissex Caminhada Academia*\n\nPor *R$66* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1MUt4nj\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_636204-MLB92283366432_092025-P.webp"
+ },
+ "3267364": {
+  "quando": "2026-11-27T13:32:46.909043",
+  "titulo": "Relógio Casio Masculino Digital Preto De Resina W-59-1vq",
+  "link": "https://meli.la/2Nc6k1a",
+  "publico": "masculino",
+  "produto": "MLB21693452",
+  "preco": 85.26,
+  "cupom": null,
+  "msg": "PsrPFrbS2jEvCDQ-1wgBq53iqHP95g-BJQ",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Relógio Casio Masculino Digital Preto de Resina W-59-1VQ*\n\nPor *R$85* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2Nc6k1a\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-P.webp"
  }
 }
