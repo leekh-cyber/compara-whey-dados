@@ -1,39 +1,5 @@
 [
  {
-  "id": "3259769",
-  "quando": "2026-11-26T15:36:06.915049",
-  "titulo": "Kit com 10 Potes Herméticos Vidro 640ml",
-  "texto": "*Kit 10 Potes Herméticos Vidro Alto Borossilicato Tampa 4 Travas Marmita Forno Micro-ondas Airfryer Freezer 640ml Zelvi*\n\nPor *R$80* 🔥 no pix\n\n🎟️ Cupom: *OFERTAVIP* (15% OFF acima de R$79, até R$60)\n💸 Com o cupom: *R$68*\n\n👉 *Pegar promoção:* https://meli.la/2uVmq4y\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_989072-MLA116501133674_092026-P.webp",
-  "link": "https://meli.la/2uVmq4y",
-  "produto": "MLB79472847",
-  "publico": null,
-  "preco": 79.99,
-  "cupom": {
-   "codigo": "OFERTAVIP",
-   "id": "72652",
-   "publicado": "2026-11-26T14:06:38-03:00",
-   "ate": "2026-11-26T23:59:59-0300"
-  }
- },
- {
-  "id": "3261024",
-  "quando": "2026-11-26T19:05:17.504363",
-  "titulo": "Tênis De Corrida Masculino Runfalcon 6 Cloudfoam adidas Azul Liso 40 Br",
-  "texto": "*Tênis De Corrida Masculino Runfalcon 6 Cloudfoam adidas Azul Liso 40 Br*\n\nDe ~R$449~\nPor *R$266* 🔥 no pix\n\n🎟️ Cupom: *TDS50BF26*\n💸 Com o cupom: *R$218*\n\n👉 *Pegar promoção:* https://meli.la/2NrM9kJ\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_908525-MLB110045755270_042026-P.webp",
-  "link": "https://meli.la/2NrM9kJ",
-  "produto": "MLB4657589077",
-  "publico": "masculino",
-  "preco": 265.99,
-  "cupom": {
-   "codigo": "TDS50BF26",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3261557",
   "quando": "2026-11-26T20:15:13.397612",
   "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
@@ -187,5 +153,34 @@
   "publico": null,
   "preco": 119.9,
   "cupom": null
+ },
+ {
+  "id": "3265167",
+  "quando": "2026-11-27T08:00:22.039977",
+  "titulo": "Kit com 6 Camisetas Mais Procuradas Alpha",
+  "texto": "*Kit 6 Camisetas Mais Procuradas Alpha*\n\nDe ~R$299~\nPor *R$121* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2LH6JuQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_947330-MLB109370482257_032026-P.webp",
+  "link": "https://meli.la/2LH6JuQ",
+  "produto": "MLB4081012173",
+  "publico": "masculino",
+  "preco": 120.51,
+  "cupom": null
+ },
+ {
+  "id": "3265069",
+  "quando": "2026-11-27T08:00:27.066659",
+  "titulo": "Hipercalórico Dark Mass 3kg Chocolate Branco C Morango Dark Lab",
+  "texto": "*Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab*\n\nPor *R$75* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1QhNeKQ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_632621-MLA119426096672_112026-P.webp",
+  "link": "https://meli.la/1QhNeKQ",
+  "produto": "MLB19451610",
+  "publico": null,
+  "preco": 74.97,
+  "cupom": {
+   "codigo": "ECONOMIZE",
+   "id": "72678",
+   "publicado": "2026-11-26T16:46:01-03:00",
+   "ate": "2026-12-24T23:59:59-0300"
+  }
  }
 ]
