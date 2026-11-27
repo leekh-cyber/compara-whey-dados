@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T16:00:30.320988",
+  "quando": "2026-11-27T16:30:24.588956",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -22449,7 +22449,7 @@
   "msg": "PsrW5oVRH6poN2s-16gBq53iqHP95g-BHs",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Monitor Portátil NOVANTE 14\" IPS Full HD 1080P HDR Tela Extensiva USB-C HDMI para Notebook, PC, Celular, Switch, PS4 PS5*\n\nDe ~R$802~\nPor *R$369* 🔥\n\n🎟️ Cupom: *400FFN4SH0*\n💸 Com o cupom: *R$310*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V3MyMc9uI",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mv7gvjdf8veq96",
-  "conferido": "2026-11-27T13:04:09.255575"
+  "conferido": "2026-11-27T16:33:47.721299"
  },
  "3265809": {
   "quando": "2026-11-27T10:01:48.623674",
@@ -22917,7 +22917,8 @@
   },
   "msg": "Psqp6YOrCNXuWCk-18gBq53iqHP95g-BJI",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Preto,ZNO-ZNNBO210-BK01-V2*\n\nPor *R$155* 🔥\n\n🎟️ Cupom: *VEMGASTAR40AF*\n💸 Com o cupom: *R$109*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qP0SMb2LY",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikhj1g2xa82e7"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikhj1g2xa82e7",
+  "conferido": "2026-11-27T16:33:48.138763"
  },
  "3267384": {
   "quando": "2026-11-27T13:31:42.575178",
@@ -23287,5 +23288,56 @@
   "msg": "PsptWJ2TU9Ey3SQ-1w0Bq53iqHP95g-BKU",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Ômega 3 Epa Dha 120 Caps - Dark Lab*\n\nPor *R$55* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/12F9UQn\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_882777-MLA99444301404_112025-P.webp"
+ },
+ "3268823": {
+  "quando": "2026-11-27T16:30:28.217160",
+  "titulo": "Gabinete Gamer Acegeek Stratus Mesh, Mid-Tower, Lateral de Vidro, Preto, AG-STRATUS-MESH-BK",
+  "loja": "shopee"
+ },
+ "3268742": {
+  "quando": "2026-11-27T16:30:30.519852",
+  "titulo": "Manta Cobertor Saída De Maternidade de Tricô (Diversas cores)",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qP0eieTVB",
+  "publico": null,
+  "produto": "shopee:23298850580",
+  "preco": 18.38,
+  "shopee": [
+   332666441,
+   23298850580
+  ],
+  "cupom": null,
+  "msg": "PspguRfNI79lM8M-11oBq53iqHP95g-BKY",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Manta Cobertor Saída De Maternidade Bebê Infantil Recém Nascido Berçário Tricô Losango*\n\nPor *R$18* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qP0eieTVB",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-ms22as670q9w0a"
+ },
+ "3265775": {
+  "quando": "2026-11-27T16:31:38.562960",
+  "titulo": "Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto",
+  "link": "https://meli.la/1ccuGUh",
+  "publico": null,
+  "produto": "MLB64162738",
+  "preco": 703.95,
+  "cupom": {
+   "codigo": "MELI1CL",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PspmXP7nHqNoNos-1wABq53iqHP95g-BKc",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Monitor Gamer Philips Evnia 27'' 200hz 0,3ms Ips Full Hd Preto*\n\nDe ~R$1427~\nPor *R$704* 🔥 no pix\n\n🎟️ Cupom: *MELI1CL*\n💸 Com o cupom: *R$565*\n\n👉 *Pegar promoção:* https://meli.la/1ccuGUh\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_778419-MLA104458943229_012026-P.webp"
+ },
+ "3265742": {
+  "quando": "2026-11-27T16:32:43.322627",
+  "titulo": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
+  "link": "https://meli.la/1jGbFT8",
+  "publico": null,
+  "produto": "MLB2081604757",
+  "preco": 42.74,
+  "cupom": null,
+  "msg": "Psresvx7oeFFgzg-1zYBq53iqHP95g-BKg",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny*\n\nPor *R$43* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1jGbFT8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_666525-MLB85597283317_062025-P.webp"
  }
 }
