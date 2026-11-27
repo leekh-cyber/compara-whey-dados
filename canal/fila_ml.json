@@ -126,30 +126,6 @@
   }
  },
  {
-  "id": "3266777",
-  "quando": "2026-11-27T12:05:45.790734",
-  "titulo": "Kit 10 Cuecas Box Lupo Algodão Boxer Masculina Cotton",
-  "texto": "*Kit 10 Cuecas Box Lupo Algodão Boxer Masculina Cotton*\n\nDe ~R$381~\nPor *R$160* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1EEvdJ4\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_871197-MLB111396476781_052026-P.webp",
-  "link": "https://meli.la/1EEvdJ4",
-  "produto": "MLB990656402",
-  "publico": "masculino",
-  "preco": 159.51,
-  "cupom": null
- },
- {
-  "id": "3266811",
-  "quando": "2026-11-27T12:05:58.236599",
-  "titulo": "Kit com 9 Pares de Meias Sapatilha Kappa",
-  "texto": "*Kit 9 Pares Meias Kappa Sapatilha Soquete Invisível Original Preto 38-43*\n\nDe ~R$129~\nPor *R$56* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/27bwa39\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_636340-MLB115340439217_072026-P.webp",
-  "link": "https://meli.la/27bwa39",
-  "produto": "MLB4969918141",
-  "publico": "masculino",
-  "preco": 55.95,
-  "cupom": null
- },
- {
   "id": "3268001",
   "quando": "2026-11-27T15:00:20.318642",
   "titulo": "Kit Camisetas Aramis Basic Lisa Brancaazul Azul-marinho Mm Lisa",
@@ -177,5 +153,39 @@
   "publico": "masculino",
   "preco": 144.99,
   "cupom": null
+ },
+ {
+  "id": "3268559",
+  "quando": "2026-11-27T15:35:12.354816",
+  "titulo": "Relógio Tommy Hilfiger David Masculino Em Borracha Preta 171",
+  "texto": "*Relógio Tommy Hilfiger David Masculino Em Borracha Preta 171 Preto*\n\nPor *R$380* 🔥\n\n🎟️ Cupom: *BLACKMELI* (20% OFF acima de R$199, até R$60)\n💸 Com o cupom: *R$320*\n\n👉 *Pegar promoção:* https://meli.la/1E6wZfR\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_985301-MLB117323025178_102026-P.webp",
+  "link": "https://meli.la/1E6wZfR",
+  "produto": "MLB7764833248",
+  "publico": "masculino",
+  "preco": 380.0,
+  "cupom": {
+   "codigo": "BLACKMELI",
+   "id": "72820",
+   "publicado": "2026-11-27T15:06:19-03:00",
+   "ate": "2026-11-27T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3268506",
+  "quando": "2026-11-27T15:35:20.679566",
+  "titulo": "Armani Beauty Perfume Masculino Acqua di Giò Profondo Parfum 200ml!",
+  "texto": "*Armani Beauty, Perfume Masculino, Acqua di Giò Profondo Parfum, 200ml*\n\nDe ~R$1489~\nPor *R$837* 🔥\n\n🎟️ Cupom: *BLACKMELI* (20% OFF acima de R$199, até R$60)\n💸 Com o cupom: *R$777*\n\n👉 *Pegar promoção:* https://meli.la/25NMddb\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_723878-MLA111164078693_052026-P.webp",
+  "link": "https://meli.la/25NMddb",
+  "produto": "MLB38215449",
+  "publico": "masculino",
+  "preco": 837.29,
+  "cupom": {
+   "codigo": "BLACKMELI",
+   "id": "72820",
+   "publicado": "2026-11-27T15:06:19-03:00",
+   "ate": "2026-11-27T23:59:59-0300"
+  }
  }
 ]
