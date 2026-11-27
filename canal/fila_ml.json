@@ -150,27 +150,32 @@
   "cupom": null
  },
  {
-  "id": "3267576",
-  "quando": "2026-11-27T13:50:11.452403",
-  "titulo": "Boné Lacoste Gabardine Imediato Cor Azul-royal Tamanho Un",
-  "texto": "*Boné Lacoste Gabardine Imediato Cor Azul-royal Tamanho Un*\n\nPor *R$140* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1XXLQ39",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_848568-MLA96183952857_102025-P.webp",
-  "link": "https://meli.la/1XXLQ39",
-  "produto": "MLB60088222",
-  "publico": "masculino",
-  "preco": 139.84,
+  "id": "3267920",
+  "quando": "2026-11-27T14:25:12.615391",
+  "titulo": "Top Sutiã Calvin Klein",
+  "texto": "*Top Calvin Klein Regata Fitness Cotton Conforto Original Preto Liso G*\n\nDe ~R$109~\nPor *R$47* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2yhMzV8\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841514-MLB113300671208_072026-P.webp",
+  "link": "https://meli.la/2yhMzV8",
+  "produto": "MLB6646572546",
+  "publico": "feminino",
+  "preco": 47.49,
   "cupom": null
  },
  {
-  "id": "3267703",
-  "quando": "2026-11-27T13:50:18.974166",
-  "titulo": "Kit com 4 Camiseta Dry-fit Sandrini",
-  "texto": "*Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada*\n\nPor *R$54* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2pae6io\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774830-MLB122193134687_112026-P.webp",
-  "link": "https://meli.la/2pae6io",
-  "produto": "MLB4592320910",
+  "id": "3267887",
+  "quando": "2026-11-27T14:25:20.443016",
+  "titulo": "Kit 2 Camisetas Suspiro Bordado Reserva",
+  "texto": "*Kit 2 Camisetas Suspiro Bordado Reserva*\n\nDe ~R$238~\nPor *R$112* 🔥 no pix\n\n🎟️ Cupom: *QEQPLAMDPRASD*\n💸 Com o cupom: *R$89*\n\n👉 *Pegar promoção:* https://meli.la/2QMasMm\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_777947-MLB96590828565_102025-P.webp",
+  "link": "https://meli.la/2QMasMm",
+  "produto": "MLB4278141317",
   "publico": "masculino",
-  "preco": 54.05,
-  "cupom": null
+  "preco": 111.99,
+  "cupom": {
+   "codigo": "QEQPLAMDPRASD",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
  }
 ]
