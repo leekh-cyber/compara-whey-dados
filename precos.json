@@ -1622,7 +1622,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
           "valor": 299.9,
-          "data": "2026-11-26",
+          "data": "2026-11-27",
           "embalagem": 1000,
           "historico": [
             {
@@ -1715,6 +1715,10 @@
             },
             {
               "data": "2026-11-26",
+              "valor": 299.9
+            },
+            {
+              "data": "2026-11-27",
               "valor": 299.9
             }
           ]
@@ -15916,7 +15920,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
           "valor": 239.9,
-          "data": "2026-11-26",
+          "data": "2026-11-27",
           "embalagem": 1000,
           "historico": [
             {
@@ -16010,6 +16014,10 @@
             {
               "data": "2026-11-26",
               "valor": 239.9
+            },
+            {
+              "data": "2026-11-27",
+              "valor": 239.9
             }
           ]
         }
@@ -16050,7 +16058,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-hidrolisado-1kg-sabor-natural-growth-supplements-p985872",
           "valor": 399.9,
-          "data": "2026-11-26",
+          "data": "2026-11-27",
           "embalagem": 1000,
           "historico": [
             {
@@ -16144,6 +16152,10 @@
             {
               "data": "2026-11-26",
               "valor": 399.9
+            },
+            {
+              "data": "2026-11-27",
+              "valor": 399.9
             }
           ]
         }
@@ -16169,7 +16181,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
           "valor": 259.9,
-          "data": "2026-11-26",
+          "data": "2026-11-27",
           "embalagem": 1000,
           "historico": [
             {
@@ -16262,6 +16274,10 @@
             },
             {
               "data": "2026-11-26",
+              "valor": 259.9
+            },
+            {
+              "data": "2026-11-27",
               "valor": 259.9
             }
           ]
@@ -16493,7 +16509,7 @@
           "loja": "Growth (oficial)",
           "url": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
           "valor": 119.9,
-          "data": "2026-11-26",
+          "data": "2026-11-27",
           "embalagem": 1000,
           "historico": [
             {
@@ -16586,6 +16602,10 @@
             },
             {
               "data": "2026-11-26",
+              "valor": 119.9
+            },
+            {
+              "data": "2026-11-27",
               "valor": 119.9
             }
           ]
