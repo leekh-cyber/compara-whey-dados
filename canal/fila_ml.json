@@ -133,40 +133,6 @@
   "cupom": null
  },
  {
-  "id": "3269822",
-  "quando": "2026-11-27T17:55:13.035284",
-  "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
-  "texto": "*Top Puma Original Feminino Alta Sustentação Academia Fitness Preto Lisa M 40-42*\n\nPor *R$33* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1tQuL6p\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_899152-MLB113410235826_072026-P.webp",
-  "link": "https://meli.la/1tQuL6p",
-  "produto": "MLB7894692362",
-  "publico": "feminino",
-  "preco": 32.79,
-  "cupom": {
-   "codigo": "ECONOMIZE",
-   "id": "72678",
-   "publicado": "2026-11-26T16:46:01-03:00",
-   "ate": "2026-12-24T23:59:59-0300"
-  }
- },
- {
-  "id": "3269837",
-  "quando": "2026-11-27T17:55:23.561493",
-  "titulo": "Tamanco Feminino Sandália Salto Taça Juta Confortável Baixo",
-  "texto": "*Tamanco Feminino Sandália Salto Taça Juta Confortável Baixo*\n\nDe ~R$157~\nPor *R$72* 🔥 no pix\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$61*\n\n👉 *Pegar promoção:* https://meli.la/1EhoaA6\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_856613-MLB100161240791_122025-P.webp",
-  "link": "https://meli.la/1EhoaA6",
-  "produto": "MLB5995133266",
-  "publico": "feminino",
-  "preco": 72.0,
-  "cupom": {
-   "codigo": "MODARELAMPAGO",
-   "id": null,
-   "publicado": null,
-   "ate": null
-  }
- },
- {
   "id": "3269752",
   "quando": "2026-11-27T17:55:38.800863",
   "titulo": "Tênis Kappa Pulse Rx (8 cores)",
@@ -176,6 +142,40 @@
   "produto": "MLB5532075156",
   "publico": "masculino",
   "preco": 111.99,
+  "cupom": {
+   "codigo": "MODARELAMPAGO",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3269913",
+  "quando": "2026-11-27T18:30:13.367747",
+  "titulo": "Aparador E Barbeador Elétrico All-in-one Série 3000 8 Em 1 : Visual Completo Para Rosto, Cabelo E Corpo | 60 Min Sem Fio | Lâminas Autoafiaveis De",
+  "texto": "*Aparador e Barbeador Elétrico All-in-One Série 3000 8 em 1 : Visual completo para rosto, cabelo e corpo | 60 min sem fio | Lâminas autoafiaveis de aço | Pontas arredondadas | MG3917/15*\n\nPor *R$100* 🔥\n\n🎟️ Cupom: *AGORAVAI*\n💸 Com o cupom: *R$72*\n\n👉 *Pegar promoção:* https://meli.la/2PdBTLj\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_946682-MLA99987371267_112025-P.webp",
+  "link": "https://meli.la/2PdBTLj",
+  "produto": "MLB59251129",
+  "publico": "masculino",
+  "preco": 99.87,
+  "cupom": {
+   "codigo": "AGORAVAI",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ {
+  "id": "3269916",
+  "quando": "2026-11-27T18:30:22.087483",
+  "titulo": "Relógio Casio G-shock Masculino Digital Dw-5600uhr-1dr",
+  "texto": "*Relógio Casio G-shock Masculino Digital Dw-5600uhr-1dr*\n\nDe ~R$709~\nPor *R$318* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$252*\n\n👉 *Pegar promoção:* https://meli.la/2wwtEBX\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_904874-MLA112812959417_062026-P.webp",
+  "link": "https://meli.la/2wwtEBX",
+  "produto": "MLB37313125",
+  "publico": "masculino",
+  "preco": 318.45,
   "cupom": {
    "codigo": "MODARELAMPAGO",
    "id": null,
