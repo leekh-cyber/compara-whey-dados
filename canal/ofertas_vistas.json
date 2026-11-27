@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-26T22:00:28.603149",
+  "quando": "2026-11-26T22:30:25.721879",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -21664,7 +21664,7 @@
   "msg": "PsqeUxyVlhmfizw-1xgBq53iqHP95g-BFU",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Brinquedo Pelúcia Chocalho Mordedor Bebê Sensorial Educativo Com Alça*\n\nDe ~R$70~\nA partir de *R$54* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/4Vefp00nuy",
   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mtgumia7514x32",
-  "conferido": "2026-11-26T19:02:45.334129"
+  "conferido": "2026-11-26T22:31:30.901181"
  },
  "3259777": {
   "quando": "2026-11-26T16:01:41.947614",
@@ -21973,7 +21973,8 @@
   },
   "msg": "PsoFgLQaVf239Oo-17ABq53iqHP95g-BGM",
   "texto": "🔥 *ESQUENTA BLACK FRIDAY*\n\n*Smart TV Hisense 55\" UHD 4K QLED 55Q6QV com HDR10+*\n\nDe ~R$3088~\nPor *R$2378* 🔥\n\n🎟️ Cupom: *HDR10*\n💸 Com o cupom: *R$1884*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/9V3LyY6F6e",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnvwdadcy32a16"
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnvwdadcy32a16",
+  "conferido": "2026-11-26T22:31:30.447145"
  },
  "3260861": {
   "quando": "2026-11-26T19:01:40.960199",
@@ -22088,6 +22089,16 @@
   "ate": "2026-11-26T23:59:59-0300",
   "msg": "Psr6xlWibR5anGo-14oBq53iqHP95g-BGo",
   "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$2299*\n\nCódigo: *CORREHOJEAGORA*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "cupom:VALEHOJE": {
+  "quando": "2026-11-26T22:30:27.443343",
+  "titulo": "Mercado Livre: cupom de 30% OFF em produtos selecionados",
+  "id": "72704",
+  "publicado": "2026-11-26T22:07:07-03:00",
+  "ate": "2026-11-26T23:59:59-0300",
+  "msg": "PspGy9iCUBMZFUE-1wcBq53iqHP95g-BGs",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*30% OFF acima de R$2299*\n\nCódigo: *VALEHOJE*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
   "imagem": null
  }
 }
