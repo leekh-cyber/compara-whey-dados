@@ -1023,7 +1023,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-27T20:30:27.916967",
+  "quando": "2026-11-27T21:00:30.728265",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -23035,7 +23035,7 @@
   "msg": "Psoa5xb7QCxLc8E-1x4Bq53iqHP95g-BJk",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Echo Dot Smart speaker com Alexa Com Alexa*\n\nDe ~R$668~\nPor *R$274* 🔥\n\n🎟️ Cupom: *VEMGASTAR40AF*\n💸 Com o cupom: *R$222*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VXEVYFH9Y",
   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259q-muwgeec4en0m52",
-  "conferido": "2026-11-27T17:34:04.235452"
+  "conferido": "2026-11-27T21:02:52.376288"
  },
  "3267920": {
   "quando": "2026-11-27T14:31:45.789680",
@@ -23513,7 +23513,8 @@
   "cupom": null,
   "msg": "PspwEjK1DMGJ8lM-170Bq53iqHP95g-BLA",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Fonte Cougar Atlas, 650W, 80 Plus Bronze, ATX 3.1, PFC Ativo, Preto - 31AA065001P01*\n\nDe ~R$477~\nPor *R$301* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/50ay93qRBX",
-  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb"
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb",
+  "conferido": "2026-11-27T21:02:52.614376"
  },
  "3269483": {
   "quando": "2026-11-27T18:00:36.007443",
@@ -23935,5 +23936,54 @@
   "msg": "PspsVkuIPXtA29I-15EBq53iqHP95g-BMM",
   "texto": "🖤 *BLACK FRIDAY*\n\n*Polo Aramis Algodão Piquet Manga Curta Branco*\n\nDe ~R$129~\nPor *R$86* 🔥\n\n🎟️ Cupom: *MODARELAMPAGO*\n💸 Com o cupom: *R$76*\n\n👉 *Pegar promoção:* https://meli.la/1BUrKdV\n\nLoja oficial no MELI!",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_791084-MLB117538797458_102026-P.webp"
+ },
+ "3270960": {
+  "quando": "2026-11-27T21:00:35.126903",
+  "titulo": "Cacheador Britânia 25mm Revestimento Cerâmico BECE01",
+  "loja": "shopee"
+ },
+ "3271129": {
+  "quando": "2026-11-27T21:00:36.509691",
+  "titulo": "Kit Ventoinhas Pichau Ventus NX, ARGB, 5x120mm, Preto, PCH-VTNX5-BK01",
+  "loja": "shopee"
+ },
+ "3271160": {
+  "quando": "2026-11-27T21:00:38.431384",
+  "titulo": "Bicicleta Aro 29 Aluminio Gtsprom5 Intense Freio a Disco 24 Marchas",
+  "loja": "shopee"
+ },
+ "3270922": {
+  "quando": "2026-11-27T21:00:40.224661",
+  "titulo": "Monitor Gamer Aoc Agon G50 24\" 144Hz 0,5Ms Ips Hdr10 G-Sync 24G50f",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5fqf8dzee3",
+  "publico": null,
+  "produto": "shopee:40826099262",
+  "preco": 519.0,
+  "shopee": [
+   564780452,
+   40826099262
+  ],
+  "cupom": {
+   "codigo": "BFT41RN",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  },
+  "msg": "PsqrcaZQ9mq1EuE-1_wBq53iqHP95g-BMQ",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F*\n\nDe ~R$1059~\nPor *R$519* 🔥\n\n🎟️ Cupom: *BFT41RN*\n💸 Com o cupom: *R$398*\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5fqf8dzee3",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fj-mgmb5t82svf026"
+ },
+ "3270303": {
+  "quando": "2026-11-27T21:01:48.103393",
+  "titulo": "Camisa Polo Masculina Tecido Tech Confortavel Casual",
+  "link": "https://meli.la/2P9mmkA",
+  "publico": "masculino",
+  "produto": "MLB5663299774",
+  "preco": 37.99,
+  "cupom": null,
+  "msg": "PsrKMf35Fz5vrFw-18gBq53iqHP95g-BMU",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Camisa Polo Masculina Tecido Tech Confortavel Casual*\n\nPor *R$38* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2P9mmkA\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_884241-MLB110127689291_042026-P.webp"
  }
 }
