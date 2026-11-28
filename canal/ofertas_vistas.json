@@ -994,7 +994,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-28T09:30:25.361182",
+  "quando": "2026-11-28T10:00:39.618408",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -24238,5 +24238,46 @@
   "quando": "2026-11-28T09:33:48.245442",
   "titulo": "Kit de Talheres mesa Inox aço Premium com Garfo, Faca e Colher 36 unidades",
   "loja": "shopee"
+ },
+ "3269093": {
+  "quando": "2026-11-28T10:00:41.461900",
+  "titulo": "Bundle Nintendo Switch 2 + Resort Sports Nacional",
+  "loja": "shopee"
+ },
+ "3271743": {
+  "quando": "2026-11-28T10:00:43.255463",
+  "titulo": "Controle PS5 Dualsense Midnight Black - Sem Fio",
+  "loja": "shopee"
+ },
+ "3263110": {
+  "quando": "2026-11-28T10:00:44.993848",
+  "titulo": "Ar Condicionado TCL Split Hi Wall Elite Inverter 12.000 Btus Tac-12csgv-inv Frio 220v",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/5VXFnuIMSO",
+  "publico": null,
+  "produto": "shopee:22194359615",
+  "preco": 1951.09,
+  "shopee": [
+   1009975506,
+   22194359615
+  ],
+  "cupom": null,
+  "msg": "PsqtBtUqeXKO_Rc-1yMBq53iqHP95g-BNU",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Ar Condicionado TCL Split Hi Wall Elite Inverter 12.000 Btus Tac-12csgv-inv Frio 220v*\n\nDe ~R$3146~\nPor *R$1951* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/5VXFnuIMSO",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meiqxdj3jimb7c"
+ },
+ "3272745": {
+  "quando": "2026-11-28T10:01:52.882097",
+  "titulo": "Kit 50 Cabide Infantil Veludo Slim Antideslizante Ultra Fino",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/1W172dIIjr",
+  "publico": null,
+  "produto": "shopee:58266045511",
+  "preco": 69.95,
+  "shopee": [
+   1669660259,
+   58266045511
+  ],
+  "cupom": null
  }
 }
