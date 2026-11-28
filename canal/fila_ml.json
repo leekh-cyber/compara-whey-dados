@@ -1,34 +1,5 @@
 [
  {
-  "id": "3265457",
-  "quando": "2026-11-27T09:10:33.477875",
-  "titulo": "Kit Colcha Cobre Leito Casal 3 Peças Estampado Dupla Face",
-  "texto": "*Kit Colcha Cobre Leito Casal 3 Peças Estampado Dupla Face Geometrica_63 Tecido Estampado*\n\nPor *R$66* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/1uBvu7v",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_944259-MLB115046238816_082026-P.webp",
-  "link": "https://meli.la/1uBvu7v",
-  "produto": "MLB7290526704",
-  "publico": null,
-  "preco": 66.23,
-  "cupom": null
- },
- {
-  "id": "3265444",
-  "quando": "2026-11-27T09:10:41.687539",
-  "titulo": "Multivitamínico 60 Cáps. Growth Supplements",
-  "texto": "*Multivitamínico 60 Cáps. Growth Supplements - Sem Sabor Sem Sabor*\n\nDe ~R$49~\nPor *R$23* 🔥 no pix\n\n🎟️ Cupom: *ECONOMIZE* (30% OFF, até R$500)\n\n👉 *Pegar promoção:* https://meli.la/1wurFzT\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_732271-MLB107471121156_032026-P.webp",
-  "link": "https://meli.la/1wurFzT",
-  "produto": "MLB6416191082",
-  "publico": null,
-  "preco": 22.7,
-  "cupom": {
-   "codigo": "ECONOMIZE",
-   "id": "72678",
-   "publicado": "2026-11-26T16:46:01-03:00",
-   "ate": "2026-12-24T23:59:59-0300"
-  }
- },
- {
   "id": "3269180",
   "quando": "2026-11-27T16:45:21.212424",
   "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Couro",
@@ -67,18 +38,6 @@
   "produto": "MLB4027416937",
   "publico": "masculino",
   "preco": 47.49,
-  "cupom": null
- },
- {
-  "id": "3270303",
-  "quando": "2026-11-27T19:05:38.949448",
-  "titulo": "Camisa Polo Masculina Tecido Tech Confortavel Casual",
-  "texto": "*Camisa Polo Masculina Tecido Tech Confortavel Casual*\n\nPor *R$38* 🔥 no pix\n\n👉 *Pegar promoção:* https://meli.la/2P9mmkA\n\nLoja oficial no MELI!",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_884241-MLB110127689291_042026-P.webp",
-  "link": "https://meli.la/2P9mmkA",
-  "produto": "MLB5663299774",
-  "publico": "masculino",
-  "preco": 37.99,
   "cupom": null
  },
  {
@@ -167,5 +126,56 @@
   "publico": null,
   "preco": 27.55,
   "cupom": null
+ },
+ {
+  "id": "3271225",
+  "quando": "2026-11-27T21:25:21.077283",
+  "titulo": "smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc Recursos Ai Android E",
+  "texto": "*Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc Recursos Ai Android E Segurança Snapdragon - Preto*\n\nDe ~R$2538~\nPor *R$1401* 🔥 no pix\n\n🎟️ Cupom: *MELINABLACK* (30% OFF)\n💸 Com o cupom: *R$981*\n\n👉 *Pegar promoção:* https://meli.la/15gUXix\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_944288-MLA116511342948_092026-P.webp",
+  "link": "https://meli.la/15gUXix",
+  "produto": "MLB65952157",
+  "publico": null,
+  "preco": 1401.0,
+  "cupom": {
+   "codigo": "MELINABLACK",
+   "id": "72860",
+   "publicado": "2026-11-27T20:06:25-03:00",
+   "ate": "2026-11-27T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3271232",
+  "quando": "2026-11-27T21:25:37.065932",
+  "titulo": "Galaxy-A57 Azul Claro 256gb",
+  "texto": "*Galaxy-A57 Azul Claro 256gb*\n\nDe ~R$4299~\nPor *R$2198* 🔥 no pix\n\n🎟️ Cupom: *BLACKHOJE* (15% OFF acima de R$1999, até R$350)\n💸 Com o cupom: *R$1868*\n\n👉 *Pegar promoção:* https://meli.la/1Q6bDQV\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_809902-MLA117053417862_102026-P.webp",
+  "link": "https://meli.la/1Q6bDQV",
+  "produto": "MLB66149470",
+  "publico": null,
+  "preco": 2198.0,
+  "cupom": {
+   "codigo": "BLACKHOJE",
+   "id": "72862",
+   "publicado": "2026-11-27T21:06:10-03:00",
+   "ate": "2026-11-27T23:59:59-0300"
+  }
+ },
+ {
+  "id": "3271216",
+  "quando": "2026-11-27T21:25:53.294481",
+  "titulo": "Smart Tv TCL 65\" Q7D Pro SQD-Mini Led 4k 144Hz",
+  "texto": "*Smart Tv Tcl 65  Sqd-mini Led 4k Q7d Pro Bluetooth 65q7dpro*\n\nDe ~R$9999~\nPor *R$5499* 🔥\n\n🎟️ Cupom: *BLACKHOJE* (15% OFF acima de R$1999, até R$350)\n💸 Com o cupom: *R$5149*\n\n👉 *Pegar promoção:* https://meli.la/1eAsRnJ\n\nLoja oficial no MELI!",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_724545-MLB118794645700_102026-P.webp",
+  "link": "https://meli.la/1eAsRnJ",
+  "produto": "MLB5486757253",
+  "publico": null,
+  "preco": 5499.0,
+  "cupom": {
+   "codigo": "BLACKHOJE",
+   "id": "72862",
+   "publicado": "2026-11-27T21:06:10-03:00",
+   "ate": "2026-11-27T23:59:59-0300"
+  }
  }
 ]
