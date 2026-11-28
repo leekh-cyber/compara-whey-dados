@@ -994,7 +994,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-28T10:30:26.170959",
+  "quando": "2026-11-28T11:00:27.443823",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -24289,5 +24289,15 @@
   "quando": "2026-11-28T10:30:36.289855",
   "titulo": "Kit 50 Cabide Infantil Veludo Slim Antideslizante Ultra Fino",
   "loja": "shopee"
+ },
+ "cupom:72666": {
+  "quando": "2026-11-28T11:00:29.616287",
+  "titulo": "15% OFF em Pampers com cupom Mercado Livre",
+  "id": "72666",
+  "publicado": "2026-11-26T14:39:51-03:00",
+  "ate": "2026-12-31T23:59:59-0300",
+  "msg": "PsrnbYodU9L5_Xw-13wBq53iqHP95g-BNc",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*15% OFF acima de R$199*\nem Pampers com cupom Mercado Livre\n\n_Desconto aplicado automaticamente nos itens participantes_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
  }
 }
