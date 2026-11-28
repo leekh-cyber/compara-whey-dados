@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-27T15:59-03:00",
+  "atualizado": "2026-11-28T00:19-03:00",
   "fonte": "Promobit",
   "cupons": [
     {
@@ -27,52 +27,40 @@
       "publicado": "2026-11-27T13:51-03:00"
     },
     {
-      "codigo": "PRECINHOBLACK",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 0.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-27T23:59:59-03:00",
-      "publicado": "2026-11-27T10:06-03:00"
-    },
-    {
-      "codigo": "GANHEBLACK",
-      "pct": 30,
-      "fixo": null,
-      "minimo": 0.0,
-      "teto": null,
-      "categoria": "Selecionados",
-      "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-27T23:59:59-03:00",
-      "publicado": "2026-11-27T00:16-03:00"
-    },
-    {
-      "codigo": "SUPEROFF",
+      "codigo": "",
       "pct": 25,
       "fixo": null,
-      "minimo": 0.0,
+      "minimo": 99.9,
       "teto": null,
       "categoria": "Selecionados",
       "suplementos": false,
-      "automatico": false,
-      "ate": "2026-11-27T23:59:59-03:00",
-      "publicado": "2026-11-27T14:06-03:00"
+      "automatico": true,
+      "ate": "2026-11-30T23:59:59-03:00",
+      "publicado": "2026-11-26T14:39-03:00"
     },
     {
-      "codigo": "BLACKVIPMELI",
+      "codigo": "DESCONTO",
       "pct": 25,
       "fixo": null,
-      "minimo": 79.0,
-      "teto": 60.0,
+      "minimo": 1.0,
+      "teto": 500.0,
       "categoria": "Selecionados",
       "suplementos": false,
       "automatico": false,
-      "ate": "2026-11-27T23:59:59-03:00",
-      "publicado": "2026-11-27T12:16-03:00"
+      "ate": "2027-05-31T23:59:59-03:00",
+      "publicado": "2026-11-26T09:36-03:00"
+    },
+    {
+      "codigo": "",
+      "pct": 10,
+      "fixo": null,
+      "minimo": 500.0,
+      "teto": null,
+      "categoria": "Selecionados",
+      "suplementos": false,
+      "automatico": true,
+      "ate": "2026-11-30T23:59:59-03:00",
+      "publicado": "2026-11-27T13:50-03:00"
     }
   ]
 }
