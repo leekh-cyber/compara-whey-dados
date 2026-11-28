@@ -994,7 +994,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-28T09:00:29.868039",
+  "quando": "2026-11-28T09:30:25.361182",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -24155,5 +24155,88 @@
    23197970562
   ],
   "cupom": null
+ },
+ "cupom:CASA50": {
+  "quando": "2026-11-28T09:30:27.265199",
+  "titulo": "R$ 50 OFF em Casa e Decoração com cupom Mercado Livre",
+  "id": "72693",
+  "publicado": "2026-11-26T19:46:40-03:00",
+  "ate": "2026-11-30T23:59:59-0300",
+  "msg": "Psqr5Cf20Z0xtSg-15oBq53iqHP95g-BNE",
+  "texto": "🎟️ *CUPOM MERCADO LIVRE*\n\n*R$50 OFF acima de R$350*\nem Casa e Decoração com cupom Mercado Livre\n\nCódigo: *CASA50*\n_Aplique no carrinho antes de pagar_\n\n⚠️ Válido enquanto durar o limite de usos\n\n👉 *Ver achados:* https://www.mercadolivre.com.br/social/ferreiradasilvaalex61",
+  "imagem": null
+ },
+ "3272557": {
+  "quando": "2026-11-28T09:31:32.350437",
+  "titulo": "Monitor Gamer 34\" Curvo 1ms 165Hz UltraWide (QHD) - 3440x1440 AMD FreeSync HDMI DP,",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/3qP1mpzvqp",
+  "publico": null,
+  "produto": "shopee:23298915759",
+  "preco": 1304.21,
+  "shopee": [
+   1388709282,
+   23298915759
+  ],
+  "cupom": null,
+  "msg": "PsqA1rvWhCwHvSg-17wBq53iqHP95g-BNI",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Monitor Gamer 34\" Curvo 1ms, 165Hz, UltraWide (QHD) - 3440x1440 AMD FreeSync, HDMI, DP, HQ Premium HQ34C16*\n\nDe ~R$1863~\nPor *R$1304* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/3qP1mpzvqp",
+  "imagem": "https://cf.shopee.com.br/file/sg-11134201-8226q-mhi4rsliaupu11"
+ },
+ "3272276": {
+  "quando": "2026-11-28T09:32:39.616122",
+  "titulo": "Cadeira Ergonômica Dr.Office Giratória Mesh",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/2qWUb51eMc",
+  "publico": null,
+  "produto": "shopee:22098973774",
+  "preco": 749.99,
+  "shopee": [
+   1552226494,
+   22098973774
+  ],
+  "cupom": {
+   "codigo": "BFT41RN",
+   "id": null,
+   "publicado": null,
+   "ate": null
+  }
+ },
+ "3271955": {
+  "quando": "2026-11-28T09:33:49.493731",
+  "titulo": "Cortina Blackout Corta Luz Blackout 2,20m X 1,30m Decoração Sala e Quarto Blecaute Várias Cores",
+  "loja": "shopee",
+  "link": "https://s.shopee.com.br/6VPmxtYXbd",
+  "publico": null,
+  "produto": "shopee:20548162073",
+  "preco": 30.9,
+  "shopee": [
+   311485828,
+   20548162073
+  ],
+  "cupom": null,
+  "msg": "PspwErv4snlTczk-140Bq53iqHP95g-BNM",
+  "texto": "🖤 *BLACK FRIDAY*\n\n*Cortina Blackout Corta Luz Blackout 2,20m X 1,30m Decoração Sala e Quarto Blecaute Várias Cores*\n\nDe ~R$49~\nA partir de *R$31* 🔥\n\n👉 *Pegar promoção:* https://s.shopee.com.br/6VPmxtYXbd",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mspjdyc2m1olcf"
+ },
+ "3271879": {
+  "quando": "2026-11-28T09:33:44.737331",
+  "titulo": "Lixeira de Cozinha Escritório Banheiro 5L com Tampa",
+  "loja": "shopee"
+ },
+ "3272043": {
+  "quando": "2026-11-28T09:33:45.649872",
+  "titulo": "Conjunto Assadeira Marinex Opaline Oval 0,61,01,4L 3 Peças",
+  "loja": "shopee"
+ },
+ "3271583": {
+  "quando": "2026-11-28T09:33:46.898388",
+  "titulo": "Fonte ASRock Pro 750W 80 Plus Bronze ATX 3.1 PCIe 5.1 PFC Ativo Preto PRO-750B",
+  "loja": "shopee"
+ },
+ "3271076": {
+  "quando": "2026-11-28T09:33:48.245442",
+  "titulo": "Kit de Talheres mesa Inox aço Premium com Garfo, Faca e Colher 36 unidades",
+  "loja": "shopee"
  }
 }
