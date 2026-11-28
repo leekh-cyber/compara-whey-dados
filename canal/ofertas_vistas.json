@@ -994,7 +994,7 @@
   "produto": "MLB3964737911"
  },
  "rodada:nuvem": {
-  "quando": "2026-11-28T10:00:39.618408",
+  "quando": "2026-11-28T10:30:26.170959",
   "titulo": "ultima rodada da nuvem"
  },
  "3185690": {
@@ -24279,5 +24279,15 @@
    58266045511
   ],
   "cupom": null
+ },
+ "3272808": {
+  "quando": "2026-11-28T10:30:32.780724",
+  "titulo": "Fonte Cougar Atlas 650W 80 Plus Bronze ATX 3.1 PFC Ativo Preto - 31AA065001P01",
+  "loja": "shopee"
+ },
+ "3272784": {
+  "quando": "2026-11-28T10:30:36.289855",
+  "titulo": "Kit 50 Cabide Infantil Veludo Slim Antideslizante Ultra Fino",
+  "loja": "shopee"
  }
 }
